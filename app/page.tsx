@@ -98,14 +98,14 @@ export default function Home() {
       <link
         rel="preload"
         as="image"
-        href="/images/site/chennai-home-hero-safety-nets.png"
+        href="/images/site/hero-v3-open-balcony-grill-mobile.webp"
         media="(max-width: 767px)"
         fetchPriority="high"
       />
       <link
         rel="preload"
         as="image"
-        href="/images/site/chennai-home-hero-safety-nets.png"
+        href="/images/site/hero-v3-open-balcony-grill-desktop.webp"
         media="(min-width: 768px)"
         fetchPriority="high"
       />
@@ -133,12 +133,12 @@ export default function Home() {
             <p className="mt-4 text-sm leading-7 text-slate-600">
               DK Safety Solutions connects Chennai customers to safety net,
               invisible grill, bird control, sports net, and utility installation
-              pages with clear service choices before the area-specific visit.
+              pages with enough detail to choose the right service before booking a visit.
             </p>
             <div className="mt-5 flex flex-wrap gap-2">
               {[
                 "Chennai service pages",
-                "Area-specific planning",
+                "Area planning",
                 "Phone and WhatsApp actions",
                 "Clean installation focus",
               ].map((point) => (
@@ -196,7 +196,7 @@ export default function Home() {
 
         <section className="mx-auto mt-10 bg-[#E5E5E5] px-4 py-12 sm:px-6 lg:px-8">
           <h2 className="mb-4 text-2xl font-semibold text-sky-900">
-            Audiences We Are Preparing For
+            Homes and Properties We Serve
           </h2>
           <Clients />
         </section>

@@ -50,15 +50,15 @@ const serviceDetailsWithOriginalImages = {
     cardImage: "/cards/invisible-grill.webp",
     category: "Invisible Grills",
     shortBenefit: "Open-view stainless steel cable protection for modern apartment faces.",
-    bestFor: ["Premium apartments", "Open views", "Large windows", "Balcony fronts"],
+    bestFor: ["View-focused apartments", "Open views", "Large windows", "Balcony fronts"],
     checks: ["Cable spacing", "Frame strength", "View line", "Association rules"],
   },
   "balcony-invisible-grills": {
     image: "/images/invisible-grill-for-balcony.webp",
     cardImage: "/cards/Balcony-Invisible-Grills-1.webp",
     category: "Balcony Grills",
-    shortBenefit: "Premium balcony safety where airflow, view, and exterior finish all matter.",
-    bestFor: ["High-rise balconies", "Premium homes", "View-facing flats", "Pet safety"],
+    shortBenefit: "View-friendly balcony safety where airflow, view, and exterior finish all matter.",
+    bestFor: ["High-rise balconies", "View-focused homes", "View-facing flats", "Pet safety"],
     checks: ["Cable tension", "Edge finish", "Facade line", "Fixing surface"],
   },
   "window-safety-nets": {
@@ -70,8 +70,8 @@ const serviceDetailsWithOriginalImages = {
     checks: ["Window swing", "Frame type", "Cleaning access", "Ventilation path"],
   },
   "duct-area-safety-nets": {
-    image: "/images/site/chennai-article-anchor-detail.png",
-    cardImage: "/images/site/chennai-article-anchor-detail.png",
+    image: "/images/site/chennai-article-anchor-detail.webp",
+    cardImage: "/images/site/chennai-article-anchor-detail.webp",
     category: "Duct Safety",
     shortBenefit: "Coverage for service shafts, ducts, open voids, and utility cut-outs.",
     bestFor: ["Duct openings", "Service shafts", "Utility voids", "Apartment blocks"],
@@ -152,7 +152,7 @@ export const serviceDetailsBySlug = Object.fromEntries(
       {
         ...detail,
         image: visuals.hero,
-        cardImage: visuals.context,
+        cardImage: visuals.areaCard,
       },
     ];
   })

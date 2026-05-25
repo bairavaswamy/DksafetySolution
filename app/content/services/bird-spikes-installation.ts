@@ -86,7 +86,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Adyar installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Adyar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Adyar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -183,8 +183,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Adyar?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Adyar?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Adyar?",
@@ -206,12 +206,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Adyar service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Adyar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Adyar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -303,7 +303,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Alandur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Alandur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Alandur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -400,8 +400,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Alandur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Alandur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Alandur?",
@@ -423,12 +423,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Alandur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Alandur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Alandur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -520,7 +520,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ambattur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ambattur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ambattur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -617,8 +617,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Ambattur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Ambattur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ambattur?",
@@ -640,12 +640,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ambattur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ambattur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ambattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -737,7 +737,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Aminjikarai installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Aminjikarai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Aminjikarai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -834,8 +834,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Aminjikarai?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Aminjikarai?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Aminjikarai?",
@@ -857,12 +857,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Aminjikarai service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Aminjikarai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Aminjikarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -917,7 +917,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "heading": "Why Anna Nagar sites need a clear bird spikes installation plan",
       "paragraphs": [
         "Bird Spikes Installation in Anna Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Anna Nagar service pages should emphasize premium finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
+        "Anna Nagar service pages should emphasize neat finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
         "Before quoting in Anna Nagar, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -954,7 +954,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Anna Nagar installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Anna Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Anna Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1051,8 +1051,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Anna Nagar?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Anna Nagar?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Anna Nagar?",
@@ -1074,12 +1074,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Anna Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Anna Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Anna Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -1170,7 +1170,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Arumbakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Arumbakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Arumbakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1267,8 +1267,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Arumbakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Arumbakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Arumbakkam?",
@@ -1290,12 +1290,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Arumbakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Arumbakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Arumbakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -1387,7 +1387,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ashok Nagar installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ashok Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ashok Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1484,8 +1484,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Ashok Nagar?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Ashok Nagar?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ashok Nagar?",
@@ -1507,12 +1507,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ashok Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ashok Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ashok Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -1603,7 +1603,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Avadi installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Avadi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Avadi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1700,8 +1700,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Avadi?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Avadi?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Avadi?",
@@ -1723,12 +1723,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Avadi service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Avadi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Avadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -1820,7 +1820,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Besant Nagar installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Besant Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Besant Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1917,8 +1917,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Besant Nagar?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Besant Nagar?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Besant Nagar?",
@@ -1940,12 +1940,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Besant Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Besant Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Besant Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -2036,7 +2036,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Chetpet installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chetpet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chetpet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2133,8 +2133,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Chetpet?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Chetpet?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Chetpet?",
@@ -2156,12 +2156,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Chetpet service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chetpet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chetpet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -2253,7 +2253,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Choolaimedu installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Choolaimedu, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Choolaimedu, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2350,8 +2350,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Choolaimedu?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Choolaimedu?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Choolaimedu?",
@@ -2373,12 +2373,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Choolaimedu service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Choolaimedu page is written around full area scope instead of a short swapped-name paragraph.",
         "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Choolaimedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -2470,7 +2470,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Chromepet installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chromepet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chromepet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2567,8 +2567,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Chromepet?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Chromepet?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Chromepet?",
@@ -2590,12 +2590,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Chromepet service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chromepet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chromepet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -2687,7 +2687,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Egmore installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Egmore, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Egmore, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2784,8 +2784,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Egmore?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Egmore?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Egmore?",
@@ -2807,12 +2807,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Egmore service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Egmore page is written around full area scope instead of a short swapped-name paragraph.",
         "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Egmore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -2866,7 +2866,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "intro": {
       "heading": "Why Guindy bird spikes should be installed only after perch mapping",
       "paragraphs": [
-        "Bird spikes work best when pigeons are perching on a ledge, parapet, signboard, AC unit, pipe, or narrow building edge. They are not the right answer for every bird problem. If birds are entering an open balcony or nesting inside a shaft, anti bird nets may be better. Guindy has both types of issues because it mixes apartments, offices, shops, traffic-facing buildings, and older structures.",
+        "Bird spikes work right when pigeons are perching on a ledge, parapet, signboard, AC unit, pipe, or narrow building edge. They are not the right answer for every bird problem. If birds are entering an open balcony or nesting inside a shaft, anti bird nets may be better. Guindy has both types of issues because it mixes apartments, offices, shops, traffic-facing buildings, and older structures.",
         "A good bird spike installation starts by identifying where the bird sits before the mess appears. Droppings below a ledge, feathers near a sign, stains under an AC unit, or repeated nesting material can reveal the perch. Installing spikes on the wrong surface wastes money and leaves the bird route active.",
         "This Guindy guide explains bird spikes for ledges, parapets, AC units, signage, commercial fronts, apartment edges, humane deterrence, cleaning, and quote comparison. It is a detailed area guide, not a thin bird-control page."
       ]
@@ -2938,7 +2938,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Scope",
         "heading": "Bird spike quotes should identify each ledge and surface",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Bird spike cost depends on ledge length, height, access, surface type, spike material, cleaning requirement, and whether the work is residential or commercial. A clear quote should list the ledges included instead of giving one vague number.",
           "Send photos of droppings, ledges, AC units, signage, parapets, and access points. The installer should explain whether spikes alone are enough or whether nets are needed for entry points. That honesty prevents repeat work."
@@ -3123,9 +3123,9 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Stop Guindy pigeons from settling on the ledge.",
       "paragraphs": [
-        "Bird spikes work best when the perch is identified correctly, the surface is cleaned, and the installation line is neat.",
+        "Bird spikes work right when the perch is identified correctly, the surface is cleaned, and the installation line is neat.",
         "For Guindy homes and commercial buildings, the right solution may be spikes, nets, or a combination depending on bird behavior.",
-        "Start with photos of the mess and ledge. The best bird-control quote explains the route before it explains only the rate.",
+        "Start with photos of the mess and ledge. The right bird-control quote explains the route before it explains only the rate.",
         "When the perch line is understood, spike installation becomes cleaner, more humane, and easier to maintain.",
         "For Guindy buildings, that careful line can save repeated cleaning near entrances, windows, and service equipment."
       ],
@@ -3217,7 +3217,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Injambakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Injambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Injambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3314,8 +3314,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Injambakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Injambakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Injambakkam?",
@@ -3337,12 +3337,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Injambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Injambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Injambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -3434,7 +3434,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the K K Nagar installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In K K Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In K K Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3531,8 +3531,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in K K Nagar?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in K K Nagar?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in K K Nagar?",
@@ -3554,12 +3554,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the K K Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the K K Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger K K Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -3649,7 +3649,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kandanchavadi installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kandanchavadi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kandanchavadi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3746,8 +3746,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Kandanchavadi?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Kandanchavadi?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kandanchavadi?",
@@ -3769,12 +3769,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kandanchavadi service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kandanchavadi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kandanchavadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -3866,7 +3866,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Karapakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Karapakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Karapakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3963,8 +3963,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Karapakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Karapakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Karapakkam?",
@@ -3986,12 +3986,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Karapakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Karapakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Karapakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -4083,7 +4083,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kelambakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kelambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kelambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4180,8 +4180,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Kelambakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Kelambakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kelambakkam?",
@@ -4203,12 +4203,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kelambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kelambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kelambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -4300,7 +4300,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kilpauk installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kilpauk, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kilpauk, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4397,8 +4397,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Kilpauk?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Kilpauk?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kilpauk?",
@@ -4420,12 +4420,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kilpauk service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kilpauk page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kilpauk sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -4517,7 +4517,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kodambakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kodambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kodambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4614,8 +4614,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Kodambakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Kodambakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kodambakkam?",
@@ -4637,12 +4637,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kodambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kodambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kodambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -4734,7 +4734,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kolathur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kolathur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kolathur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4831,8 +4831,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Kolathur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Kolathur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kolathur?",
@@ -4854,12 +4854,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kolathur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kolathur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kolathur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -4951,7 +4951,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Korattur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Korattur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Korattur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5048,8 +5048,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Korattur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Korattur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Korattur?",
@@ -5071,12 +5071,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Korattur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Korattur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Korattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -5168,7 +5168,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kottivakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kottivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kottivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5265,8 +5265,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Kottivakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Kottivakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kottivakkam?",
@@ -5288,12 +5288,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kottivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kottivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kottivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -5385,7 +5385,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Koyambedu installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Koyambedu, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Koyambedu, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5482,8 +5482,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Koyambedu?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Koyambedu?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Koyambedu?",
@@ -5505,12 +5505,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Koyambedu service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Koyambedu page is written around full area scope instead of a short swapped-name paragraph.",
         "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Koyambedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -5602,7 +5602,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Madipakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madipakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madipakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5699,8 +5699,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Madipakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Madipakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Madipakkam?",
@@ -5722,12 +5722,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Madipakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madipakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -5819,7 +5819,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Madhavaram installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madhavaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madhavaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5916,8 +5916,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Madhavaram?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Madhavaram?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Madhavaram?",
@@ -5939,12 +5939,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Madhavaram service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madhavaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madhavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -6036,7 +6036,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Medavakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Medavakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Medavakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6133,8 +6133,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Medavakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Medavakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Medavakkam?",
@@ -6156,12 +6156,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Medavakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Medavakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Medavakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -6253,7 +6253,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mogappair installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mogappair, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mogappair, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6350,8 +6350,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Mogappair?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Mogappair?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mogappair?",
@@ -6373,12 +6373,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mogappair service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mogappair page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mogappair sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -6470,7 +6470,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mugalivakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mugalivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mugalivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6567,8 +6567,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Mugalivakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Mugalivakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mugalivakkam?",
@@ -6590,12 +6590,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mugalivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mugalivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mugalivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -6687,7 +6687,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mylapore installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mylapore, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mylapore, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6784,8 +6784,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Mylapore?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Mylapore?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mylapore?",
@@ -6807,12 +6807,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mylapore service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mylapore page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mylapore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -6904,7 +6904,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Nanganallur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nanganallur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nanganallur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7001,8 +7001,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Nanganallur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Nanganallur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Nanganallur?",
@@ -7024,12 +7024,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Nanganallur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nanganallur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nanganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -7121,7 +7121,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Navalur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Navalur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Navalur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7218,8 +7218,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Navalur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Navalur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Navalur?",
@@ -7241,12 +7241,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Navalur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Navalur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Navalur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -7338,7 +7338,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Neelankarai installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Neelankarai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Neelankarai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7435,8 +7435,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Neelankarai?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Neelankarai?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Neelankarai?",
@@ -7458,12 +7458,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Neelankarai service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Neelankarai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Neelankarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -7518,7 +7518,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "heading": "Why Nungambakkam sites need a clear bird spikes installation plan",
       "paragraphs": [
         "Bird Spikes Installation in Nungambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Nungambakkam service entries should emphasize discreet hardware, straight alignment, premium finish, and clean installation that respects high-value interiors. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
+        "Nungambakkam service entries should emphasize discreet hardware, straight alignment, neat finish, and clean installation that respects high-value interiors. Bird spikes should be placed only on true perch lines so birds cannot settle while the building still looks neat.",
         "Before quoting in Nungambakkam, DK Safety Solutions should check perch width, surface type, ledge access, AC unit position, facade finish, cleaning needs, and bird pressure so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -7555,7 +7555,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Nungambakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nungambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nungambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7652,8 +7652,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Nungambakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Nungambakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Nungambakkam?",
@@ -7675,12 +7675,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Nungambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nungambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nungambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -7772,7 +7772,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Pallavaram installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallavaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallavaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7869,8 +7869,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Pallavaram?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Pallavaram?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Pallavaram?",
@@ -7892,12 +7892,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Pallavaram service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallavaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -7989,7 +7989,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Pallikaranai installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallikaranai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallikaranai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8086,8 +8086,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Pallikaranai?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Pallikaranai?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Pallikaranai?",
@@ -8109,12 +8109,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Pallikaranai service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallikaranai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallikaranai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -8206,7 +8206,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Perambur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perambur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perambur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8303,8 +8303,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Perambur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Perambur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Perambur?",
@@ -8326,12 +8326,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Perambur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perambur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perambur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -8423,7 +8423,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Perungudi installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perungudi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perungudi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8520,8 +8520,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Perungudi?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Perungudi?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Perungudi?",
@@ -8543,12 +8543,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Perungudi service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perungudi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perungudi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -8640,7 +8640,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Poonamallee installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Poonamallee, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Poonamallee, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8737,8 +8737,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Poonamallee?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Poonamallee?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Poonamallee?",
@@ -8760,12 +8760,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Poonamallee service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Poonamallee page is written around full area scope instead of a short swapped-name paragraph.",
         "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Poonamallee sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -8857,7 +8857,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Porur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Porur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Porur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8954,8 +8954,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Porur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Porur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Porur?",
@@ -8977,12 +8977,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Porur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Porur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Porur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -9074,7 +9074,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Purasawalkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Purasawalkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Purasawalkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9171,8 +9171,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Purasawalkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Purasawalkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Purasawalkam?",
@@ -9194,12 +9194,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Purasawalkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Purasawalkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Purasawalkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -9291,7 +9291,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ramapuram installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ramapuram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ramapuram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9388,8 +9388,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Ramapuram?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Ramapuram?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ramapuram?",
@@ -9411,12 +9411,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ramapuram service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ramapuram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ramapuram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -9508,7 +9508,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Royapettah installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Royapettah, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Royapettah, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9605,8 +9605,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Royapettah?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Royapettah?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Royapettah?",
@@ -9628,12 +9628,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Royapettah service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Royapettah page is written around full area scope instead of a short swapped-name paragraph.",
         "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Royapettah sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -9725,7 +9725,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Saidapet installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Saidapet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Saidapet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9822,8 +9822,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Saidapet?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Saidapet?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Saidapet?",
@@ -9845,12 +9845,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Saidapet service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Saidapet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Saidapet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -9942,7 +9942,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Selaiyur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Selaiyur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Selaiyur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10039,8 +10039,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Selaiyur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Selaiyur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Selaiyur?",
@@ -10062,12 +10062,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Selaiyur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Selaiyur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Selaiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -10159,7 +10159,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Sholinganallur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Sholinganallur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Sholinganallur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10256,8 +10256,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Sholinganallur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Sholinganallur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Sholinganallur?",
@@ -10279,12 +10279,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Sholinganallur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Sholinganallur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Sholinganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -10376,7 +10376,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Siruseri installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Siruseri, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Siruseri, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10473,8 +10473,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Siruseri?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Siruseri?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Siruseri?",
@@ -10496,12 +10496,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Siruseri service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Siruseri page is written around full area scope instead of a short swapped-name paragraph.",
         "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Siruseri sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -10593,7 +10593,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Tambaram installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Tambaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Tambaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10690,8 +10690,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Tambaram?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Tambaram?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Tambaram?",
@@ -10713,12 +10713,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Tambaram service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Tambaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Tambaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -10810,7 +10810,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the T Nagar installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In T Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In T Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10907,8 +10907,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in T Nagar?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in T Nagar?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in T Nagar?",
@@ -10930,12 +10930,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the T Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the T Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger T Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -11026,7 +11026,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Teynampet installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Teynampet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Teynampet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11123,8 +11123,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Teynampet?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Teynampet?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Teynampet?",
@@ -11146,12 +11146,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Teynampet service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Teynampet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Teynampet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -11243,7 +11243,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Thiruvanmiyur installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thiruvanmiyur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thiruvanmiyur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11340,8 +11340,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Thiruvanmiyur?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Thiruvanmiyur?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Thiruvanmiyur?",
@@ -11363,12 +11363,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Thiruvanmiyur service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thiruvanmiyur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thiruvanmiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -11460,7 +11460,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Thoraipakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thoraipakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thoraipakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11557,8 +11557,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Thoraipakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Thoraipakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Thoraipakkam?",
@@ -11580,12 +11580,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Thoraipakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thoraipakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thoraipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -11677,7 +11677,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Triplicane installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Triplicane, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Triplicane, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11774,8 +11774,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Triplicane?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Triplicane?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Triplicane?",
@@ -11797,12 +11797,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Triplicane service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Triplicane page is written around full area scope instead of a short swapped-name paragraph.",
         "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Triplicane sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -11894,7 +11894,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Vadapalani installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Vadapalani, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Vadapalani, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11991,8 +11991,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Vadapalani?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Vadapalani?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Vadapalani?",
@@ -12014,12 +12014,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Vadapalani service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Vadapalani page is written around full area scope instead of a short swapped-name paragraph.",
         "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Vadapalani sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -12111,7 +12111,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Valasaravakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Valasaravakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Valasaravakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12208,8 +12208,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Valasaravakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Valasaravakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Valasaravakkam?",
@@ -12231,12 +12231,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Valasaravakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Valasaravakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Valasaravakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -12328,7 +12328,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Velachery installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Velachery, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Velachery, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12425,8 +12425,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Velachery?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Velachery?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Velachery?",
@@ -12448,12 +12448,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Velachery service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Velachery page is written around full area scope instead of a short swapped-name paragraph.",
         "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Velachery sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -12545,7 +12545,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Villivakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Villivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Villivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12642,8 +12642,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Villivakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Villivakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Villivakkam?",
@@ -12665,12 +12665,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Villivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Villivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Villivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -12762,7 +12762,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Virugambakkam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Virugambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Virugambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12859,8 +12859,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in Virugambakkam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in Virugambakkam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Virugambakkam?",
@@ -12882,12 +12882,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Virugambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Virugambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Virugambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -12979,7 +12979,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the West Mambalam installation dependable",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In West Mambalam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In West Mambalam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "low-profile perch control that discourages birds while keeping ledges, signs, and facade lines tidy. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -13076,8 +13076,8 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "The goal is to solve bird perching, droppings, nesting starts, smell, stain marks, blocked drains, and repeated facade cleaning while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for bird spikes installation in West Mambalam?",
-        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for bird spikes installation in West Mambalam?",
+        "answer": "The material should match UV-stable bird spikes, adhesive or screw fixing where suitable, clean surface preparation, and measured spike spacing. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in West Mambalam?",
@@ -13099,12 +13099,12 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the West Mambalam service with a site-specific plan.",
       "paragraphs": [
-        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Bird Spikes Installation should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide aligned spike rows, strong adhesive or fixing, discreet appearance, and lasting perch control, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the West Mambalam page is written around full area scope instead of a short swapped-name paragraph.",
         "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger West Mambalam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -13210,7 +13210,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Adambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13241,7 +13241,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13287,7 +13287,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Adambakkam conditions?",
+        "question": "Which material is right for Adambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13420,7 +13420,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ayanavaram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13451,7 +13451,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13497,7 +13497,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ayanavaram conditions?",
+        "question": "Which material is right for Ayanavaram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13630,7 +13630,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ekkattuthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13661,7 +13661,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13707,7 +13707,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ekkattuthangal conditions?",
+        "question": "Which material is right for Ekkattuthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13840,7 +13840,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Iyyappanthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13871,7 +13871,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13917,7 +13917,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Iyyappanthangal conditions?",
+        "question": "Which material is right for Iyyappanthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14050,7 +14050,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Manapakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14081,7 +14081,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14127,7 +14127,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Manapakkam conditions?",
+        "question": "Which material is right for Manapakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14182,7 +14182,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Mandaveli Chennai bird spikes installation",
       "title": "Bird Spikes Installation in Mandaveli planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Mandaveli customers often need bird spikes installation for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, and the work has to solve bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup without making routine use harder. A good Mandaveli plan studies older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "lead": "Mandaveli customers often need bird spikes installation for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve parapet tops, narrow ledges, AC units, pipes, sign boards, balcony lips, and facade bands, and the work has to solve bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup without making routine use harder. A good Mandaveli plan studies older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/bird-spikes-installation.webp",
       "primaryCta": "Call for Bird Spike Visit in Mandaveli",
       "secondaryCta": "WhatsApp Bird Spike Details"
@@ -14191,7 +14191,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       {
         "stat": "Mandaveli",
         "label": "Area Site Focus",
-        "description": "Written for Mandaveli conditions, including older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
       },
       {
         "stat": "2500",
@@ -14208,7 +14208,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "heading": "Why Mandaveli sites need a clear bird spikes installation plan",
       "paragraphs": [
         "Bird Spikes Installation in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Bird Spikes Installation should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Mandaveli, DK Safety Solutions should check perch width, surface type, access height, cleaning need, ledge length, bird pressure, weather exposure so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14260,7 +14260,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Mandaveli, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14291,7 +14291,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14337,7 +14337,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Mandaveli conditions?",
+        "question": "Which material is right for Mandaveli conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14470,7 +14470,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Palavakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14501,7 +14501,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14547,7 +14547,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Palavakkam conditions?",
+        "question": "Which material is right for Palavakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14680,7 +14680,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Periyar Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14711,7 +14711,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14757,7 +14757,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Periyar Nagar conditions?",
+        "question": "Which material is right for Periyar Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14889,7 +14889,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Royapuram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14920,7 +14920,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14966,7 +14966,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Royapuram conditions?",
+        "question": "Which material is right for Royapuram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15099,7 +15099,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Semmancheri, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15130,7 +15130,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15176,7 +15176,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Semmancheri conditions?",
+        "question": "Which material is right for Semmancheri conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15309,7 +15309,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Tondiarpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15340,7 +15340,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15386,7 +15386,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Tondiarpet conditions?",
+        "question": "Which material is right for Tondiarpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15519,7 +15519,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/bird-spikes-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Washermanpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15550,7 +15550,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: bird perching, repeated droppings, ledge staining, nesting attempts, and hard-to-clean edge buildup. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15596,7 +15596,7 @@ export const birdSpikesInstallationPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Washermanpet conditions?",
+        "question": "Which material is right for Washermanpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {

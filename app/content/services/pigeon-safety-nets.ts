@@ -49,7 +49,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Adyar sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Adyar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Adyar work often needs calm finishing around established apartments, tree-facing balconies, older wall surfaces, and homes where children, elders, plants, and bird control needs overlap. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Adyar work often needs calm finishing around established apartments, tree-facing balconies, older wall surfaces, and homes where children, elders, plants, and bird control needs overlap. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Adyar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -86,7 +86,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Adyar installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Adyar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Adyar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -183,8 +183,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Adyar?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Adyar?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Adyar?",
@@ -206,12 +206,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Adyar service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Adyar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Adyar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Adyar, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -267,7 +267,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Alandur sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Alandur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Alandur projects need practical scheduling, dust-aware materials, careful drilling in compact flats, and neat work that does not disturb busy family routines. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Alandur projects need practical scheduling, dust-aware materials, careful drilling in compact flats, and neat work that does not disturb busy family routines. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Alandur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -304,7 +304,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Alandur installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Alandur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Alandur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -401,8 +401,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Alandur?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Alandur?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Alandur?",
@@ -424,12 +424,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Alandur service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Alandur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Alandur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Alandur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -485,7 +485,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Ambattur sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Ambattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Ambattur installations should stay durable and budget-aware while handling mixed home types, dust, birds, children, pets, and everyday balcony utility use. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Ambattur installations should stay durable and budget-aware while handling mixed home types, dust, birds, children, pets, and everyday balcony utility use. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Ambattur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -522,7 +522,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ambattur installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ambattur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ambattur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -619,8 +619,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Ambattur?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Ambattur?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ambattur?",
@@ -642,12 +642,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ambattur service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ambattur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ambattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Ambattur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -703,7 +703,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Aminjikarai sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Aminjikarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Aminjikarai homes often need careful access planning, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Aminjikarai homes often need careful access planning, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Aminjikarai, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -740,7 +740,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Aminjikarai installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Aminjikarai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Aminjikarai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -837,8 +837,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Aminjikarai?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Aminjikarai?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Aminjikarai?",
@@ -860,12 +860,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Aminjikarai service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Aminjikarai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Aminjikarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Aminjikarai, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -921,7 +921,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Anna Nagar sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Anna Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Anna Nagar service pages should emphasize premium finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Anna Nagar service pages should emphasize neat finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Anna Nagar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -958,7 +958,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Anna Nagar installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Anna Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Anna Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1055,8 +1055,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Anna Nagar?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Anna Nagar?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Anna Nagar?",
@@ -1078,12 +1078,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Anna Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Anna Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Anna Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -1137,7 +1137,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Arumbakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Arumbakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Arumbakkam jobs benefit from quick measurement, minimal disruption, strong anchors, and low-maintenance finishes for homes close to active roads and commercial pockets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Arumbakkam jobs benefit from quick measurement, minimal disruption, strong anchors, and low-maintenance finishes for homes close to active roads and commercial pockets. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Arumbakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -1174,7 +1174,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Arumbakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Arumbakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Arumbakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1271,8 +1271,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Arumbakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Arumbakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Arumbakkam?",
@@ -1294,12 +1294,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Arumbakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Arumbakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Arumbakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -1354,7 +1354,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Ashok Nagar sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Ashok Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Ashok Nagar work should protect children and pets while keeping front-facing balconies neat from the hall, the street, and neighboring homes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Ashok Nagar work should protect children and pets while keeping front-facing balconies neat from the hall, the street, and neighboring homes. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Ashok Nagar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -1391,7 +1391,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ashok Nagar installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ashok Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ashok Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1488,8 +1488,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Ashok Nagar?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Ashok Nagar?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ashok Nagar?",
@@ -1511,12 +1511,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ashok Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ashok Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ashok Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -1570,7 +1570,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Avadi sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Avadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Avadi projects often need strong material selection, practical pricing, and coverage for apartments, terraces, windows, and homes with more exposed outdoor edges. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Avadi projects often need strong material selection, practical pricing, and coverage for apartments, terraces, windows, and homes with more exposed outdoor edges. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Avadi, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -1607,7 +1607,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Avadi installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Avadi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Avadi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1704,8 +1704,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Avadi?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Avadi?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Avadi?",
@@ -1727,12 +1727,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Avadi service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Avadi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Avadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Avadi, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -1788,7 +1788,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Besant Nagar sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Besant Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety planning for balconies that face breeze, sand, and humidity. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety planning for balconies that face breeze, sand, and humidity. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Besant Nagar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -1825,7 +1825,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Besant Nagar installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Besant Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Besant Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1922,8 +1922,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Besant Nagar?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Besant Nagar?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Besant Nagar?",
@@ -1945,12 +1945,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Besant Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Besant Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Besant Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -2004,7 +2004,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Chetpet sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Chetpet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Chetpet jobs should balance refined appearance with careful anchoring, because many homes expect quiet finishes, low disturbance, and trustworthy installation behavior. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Chetpet jobs should balance refined appearance with careful anchoring, because many homes expect quiet finishes, low disturbance, and trustworthy installation behavior. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Chetpet, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -2041,7 +2041,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Chetpet installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chetpet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chetpet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2138,8 +2138,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Chetpet?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Chetpet?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Chetpet?",
@@ -2161,12 +2161,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Chetpet service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chetpet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chetpet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Chetpet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -2222,7 +2222,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Choolaimedu sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Choolaimedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Choolaimedu pages should focus on practical installation, renter-friendly planning, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Choolaimedu pages should focus on practical installation, renter-friendly planning, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Choolaimedu, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -2259,7 +2259,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Choolaimedu installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Choolaimedu, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Choolaimedu, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2356,8 +2356,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Choolaimedu?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Choolaimedu?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Choolaimedu?",
@@ -2379,12 +2379,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Choolaimedu service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Choolaimedu page is written around full area scope instead of a short swapped-name paragraph.",
         "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Choolaimedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Choolaimedu, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -2440,7 +2440,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Chromepet sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Chromepet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Chromepet work needs budget clarity, strong material choices, neat drilling, and dust-aware finishing for families comparing quality against low short-term quotes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Chromepet work needs budget clarity, strong material choices, neat drilling, and dust-aware finishing for families comparing quality against low short-term quotes. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Chromepet, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -2477,7 +2477,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Chromepet installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chromepet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chromepet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2574,8 +2574,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Chromepet?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Chromepet?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Chromepet?",
@@ -2597,12 +2597,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Chromepet service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chromepet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chromepet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Chromepet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -2658,7 +2658,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Egmore sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Egmore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Egmore service calls should consider careful access, older surfaces, clean finishing, and safety solutions that look composed in established central-Chennai buildings. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Egmore service calls should consider careful access, older surfaces, clean finishing, and safety solutions that look composed in established central-Chennai buildings. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Egmore, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -2695,7 +2695,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Egmore installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Egmore, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Egmore, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2792,8 +2792,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Egmore?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Egmore?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Egmore?",
@@ -2815,12 +2815,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Egmore service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Egmore page is written around full area scope instead of a short swapped-name paragraph.",
         "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Egmore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Egmore, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -2876,7 +2876,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Guindy sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Guindy should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Guindy jobs need fast coordination for working families, dust-aware protection, compact-site access, and clean installation in residential-commercial surroundings. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Guindy jobs need fast coordination for working families, dust-aware protection, compact-site access, and clean installation in residential-commercial surroundings. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Guindy, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -2913,7 +2913,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Guindy installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Guindy, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Guindy, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3010,8 +3010,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Guindy?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Guindy?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Guindy?",
@@ -3033,12 +3033,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Guindy service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Guindy page is written around full area scope instead of a short swapped-name paragraph.",
         "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Guindy sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Guindy, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -3094,7 +3094,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Injambakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Injambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Injambakkam installations should account for coastal wind, larger home layouts, terraces, pets, and material durability in more exposed seaside residential pockets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Injambakkam installations should account for coastal wind, larger home layouts, terraces, pets, and material durability in more exposed seaside residential pockets. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Injambakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -3131,7 +3131,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Injambakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Injambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Injambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3228,8 +3228,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Injambakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Injambakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Injambakkam?",
@@ -3251,12 +3251,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Injambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Injambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Injambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Injambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -3312,7 +3312,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why K K Nagar sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in K K Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "K K Nagar work should feel careful and respectful, with attention to older railings, visiting grandchildren, low visual clutter, and easy maintenance. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "K K Nagar work should feel careful and respectful, with attention to older railings, visiting grandchildren, low visual clutter, and easy maintenance. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in K K Nagar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -3349,7 +3349,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the K K Nagar installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In K K Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In K K Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3446,8 +3446,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in K K Nagar?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in K K Nagar?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in K K Nagar?",
@@ -3469,12 +3469,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the K K Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the K K Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger K K Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -3527,7 +3527,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Kandanchavadi sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Kandanchavadi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Kandanchavadi service pages should address high-rise access, quick scheduling, association expectations, wind exposure, and practical safety for working families. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Kandanchavadi service pages should address high-rise access, quick scheduling, association expectations, wind exposure, and practical safety for working families. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Kandanchavadi, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -3564,7 +3564,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kandanchavadi installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kandanchavadi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kandanchavadi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3661,8 +3661,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Kandanchavadi?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Kandanchavadi?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kandanchavadi?",
@@ -3684,12 +3684,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kandanchavadi service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kandanchavadi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kandanchavadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kandanchavadi, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -3745,7 +3745,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Karapakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Karapakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in planning, and durable finishes for newer residential towers. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in planning, and durable finishes for newer residential towers. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Karapakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -3782,7 +3782,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Karapakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Karapakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Karapakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3879,8 +3879,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Karapakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Karapakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Karapakkam?",
@@ -3902,12 +3902,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Karapakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Karapakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Karapakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Karapakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -3963,7 +3963,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Kelambakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Kelambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout planning and durable exposed materials. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout planning and durable exposed materials. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Kelambakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -4000,7 +4000,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kelambakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kelambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kelambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4097,8 +4097,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Kelambakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Kelambakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kelambakkam?",
@@ -4120,12 +4120,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kelambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kelambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kelambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kelambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -4181,7 +4181,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Kilpauk sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Kilpauk should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Kilpauk, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -4218,7 +4218,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kilpauk installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kilpauk, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kilpauk, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4315,8 +4315,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Kilpauk?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Kilpauk?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kilpauk?",
@@ -4338,12 +4338,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kilpauk service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kilpauk page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kilpauk sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kilpauk, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -4399,7 +4399,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Kodambakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Kodambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Kodambakkam installations need attention to aged surfaces, compact access, bird control, dust, and minimal-damage fixing for homes with changed layouts. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Kodambakkam installations need attention to aged surfaces, compact access, bird control, dust, and minimal-damage fixing for homes with changed layouts. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Kodambakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -4436,7 +4436,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kodambakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kodambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kodambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4533,8 +4533,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Kodambakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Kodambakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kodambakkam?",
@@ -4556,12 +4556,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kodambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kodambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kodambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kodambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -4617,7 +4617,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Kolathur sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Kolathur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Kolathur projects should be practical, clear on price, and strong on material quality for homes that need daily-use balcony, window, terrace, and bird-control protection. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Kolathur projects should be practical, clear on price, and strong on material quality for homes that need daily-use balcony, window, terrace, and bird-control protection. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Kolathur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -4654,7 +4654,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kolathur installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kolathur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kolathur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4751,8 +4751,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Kolathur?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Kolathur?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kolathur?",
@@ -4774,12 +4774,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kolathur service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kolathur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kolathur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kolathur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -4835,7 +4835,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Korattur sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Korattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Korattur work benefits from weather-aware planning, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Korattur work benefits from weather-aware planning, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Korattur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -4872,7 +4872,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Korattur installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Korattur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Korattur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4969,8 +4969,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Korattur?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Korattur?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Korattur?",
@@ -4992,12 +4992,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Korattur service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Korattur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Korattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -5052,7 +5052,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Kottivakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Kottivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Kottivakkam service entries should balance open-view expectations with coastal durability, corrosion-aware fittings, pet safety, and clean visible lines. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Kottivakkam service entries should balance open-view expectations with coastal durability, corrosion-aware fittings, pet safety, and clean visible lines. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Kottivakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -5089,7 +5089,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kottivakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kottivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kottivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5186,8 +5186,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Kottivakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Kottivakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kottivakkam?",
@@ -5209,12 +5209,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kottivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kottivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kottivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kottivakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -5270,7 +5270,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Koyambedu sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Koyambedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Koyambedu jobs need practical timing, compact access planning, dust control, and strong low-maintenance materials for homes near active road and market movement. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Koyambedu jobs need practical timing, compact access planning, dust control, and strong low-maintenance materials for homes near active road and market movement. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Koyambedu, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -5307,7 +5307,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Koyambedu installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Koyambedu, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Koyambedu, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5404,8 +5404,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Koyambedu?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Koyambedu?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Koyambedu?",
@@ -5427,12 +5427,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Koyambedu service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Koyambedu page is written around full area scope instead of a short swapped-name paragraph.",
         "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Koyambedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Koyambedu, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -5488,7 +5488,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Madipakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Madipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Madipakkam installations should focus on daily balcony use, rain and dust maintenance, child and pet safety, and clear quotes for family apartments. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Madipakkam installations should focus on daily balcony use, rain and dust maintenance, child and pet safety, and clear quotes for family apartments. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Madipakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -5525,7 +5525,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Madipakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madipakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madipakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5622,8 +5622,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Madipakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Madipakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Madipakkam?",
@@ -5645,12 +5645,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Madipakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madipakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Madipakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -5706,7 +5706,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Madhavaram sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Madhavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Madhavaram projects should keep installation durable, practical, and easy to maintain for homes that often need balcony, terrace, window, and bird-control coverage together. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Madhavaram projects should keep installation durable, practical, and easy to maintain for homes that often need balcony, terrace, window, and bird-control coverage together. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Madhavaram, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -5743,7 +5743,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Madhavaram installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madhavaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madhavaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5840,8 +5840,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Madhavaram?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Madhavaram?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Madhavaram?",
@@ -5863,12 +5863,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Madhavaram service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madhavaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madhavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Madhavaram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -5924,7 +5924,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Medavakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Medavakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Medavakkam pages should explain reliable materials, transparent pricing, child safety, and site measurement for newer apartments and everyday family homes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Medavakkam pages should explain reliable materials, transparent pricing, child safety, and site measurement for newer apartments and everyday family homes. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Medavakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -5961,7 +5961,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Medavakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Medavakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Medavakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6058,8 +6058,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Medavakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Medavakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Medavakkam?",
@@ -6081,12 +6081,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Medavakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Medavakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Medavakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Medavakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -6142,7 +6142,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mogappair sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Mogappair should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Mogappair installations should emphasize family safety, neat exterior finish, association approval, and dependable service for apartments with children and elders. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Mogappair installations should emphasize family safety, neat exterior finish, association approval, and dependable service for apartments with children and elders. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Mogappair, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -6179,7 +6179,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mogappair installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mogappair, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mogappair, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6276,8 +6276,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Mogappair?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Mogappair?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mogappair?",
@@ -6299,12 +6299,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mogappair service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mogappair page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mogappair sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Mogappair, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -6360,7 +6360,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mugalivakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Mugalivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Mugalivakkam jobs need flexible planning for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Mugalivakkam jobs need flexible planning for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Mugalivakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -6397,7 +6397,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mugalivakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mugalivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mugalivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6494,8 +6494,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Mugalivakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Mugalivakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mugalivakkam?",
@@ -6517,12 +6517,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mugalivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mugalivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mugalivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Mugalivakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -6578,7 +6578,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mylapore sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Mylapore should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Mylapore service pages should sound calm and careful, with attention to older wall conditions, low-visual-noise safety, and respectful installation in established homes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Mylapore service pages should sound calm and careful, with attention to older wall conditions, low-visual-noise safety, and respectful installation in established homes. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Mylapore, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -6615,7 +6615,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mylapore installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mylapore, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mylapore, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6712,8 +6712,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Mylapore?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Mylapore?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mylapore?",
@@ -6735,12 +6735,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mylapore service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mylapore page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mylapore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Mylapore, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -6796,7 +6796,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Nanganallur sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Nanganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Nanganallur installations should focus on trust, careful inspection, elder and child safety, and finishes that keep familiar homes looking composed. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Nanganallur installations should focus on trust, careful inspection, elder and child safety, and finishes that keep familiar homes looking composed. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Nanganallur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -6833,7 +6833,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Nanganallur installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nanganallur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nanganallur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6930,8 +6930,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Nanganallur?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Nanganallur?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Nanganallur?",
@@ -6953,12 +6953,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Nanganallur service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nanganallur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nanganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Nanganallur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -7014,7 +7014,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Navalur sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Navalur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Navalur work should account for association-approved exterior lines, high-rise wind, pet-safe and child-safe openings, and newer apartment setup needs. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Navalur work should account for association-approved exterior lines, high-rise wind, pet-safe and child-safe openings, and newer apartment setup needs. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Navalur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -7051,7 +7051,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Navalur installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Navalur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Navalur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7148,8 +7148,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Navalur?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Navalur?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Navalur?",
@@ -7171,12 +7171,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Navalur service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Navalur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Navalur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Navalur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -7232,7 +7232,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Neelankarai sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Neelankarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Neelankarai, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -7269,7 +7269,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Neelankarai installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Neelankarai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Neelankarai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7366,8 +7366,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Neelankarai?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Neelankarai?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Neelankarai?",
@@ -7389,12 +7389,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Neelankarai service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Neelankarai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Neelankarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Neelankarai, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -7450,7 +7450,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Nungambakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Nungambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Nungambakkam service entries should emphasize discreet hardware, straight alignment, premium finish, and clean installation that respects high-value interiors. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Nungambakkam service entries should emphasize discreet hardware, straight alignment, neat finish, and clean installation that respects high-value interiors. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Nungambakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -7487,7 +7487,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Nungambakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nungambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nungambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7584,8 +7584,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Nungambakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Nungambakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Nungambakkam?",
@@ -7607,12 +7607,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Nungambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nungambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nungambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Nungambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -7668,7 +7668,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Pallavaram sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Pallavaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Pallavaram work should cover wind, dust, child safety, utility use, and strong fixing for families living around active roads and changing residential pockets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Pallavaram work should cover wind, dust, child safety, utility use, and strong fixing for families living around active roads and changing residential pockets. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Pallavaram, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -7705,7 +7705,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Pallavaram installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallavaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallavaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7802,8 +7802,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Pallavaram?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Pallavaram?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Pallavaram?",
@@ -7825,12 +7825,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Pallavaram service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallavaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Pallavaram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -7886,7 +7886,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Pallikaranai sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Pallikaranai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Pallikaranai installations should be weather-aware and practical, with attention to rain, cleaning, bird entry routes, and child-safe daily-use balconies. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Pallikaranai installations should be weather-aware and practical, with attention to rain, cleaning, bird entry routes, and child-safe daily-use balconies. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Pallikaranai, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -7923,7 +7923,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Pallikaranai installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallikaranai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallikaranai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8020,8 +8020,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Pallikaranai?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Pallikaranai?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Pallikaranai?",
@@ -8043,12 +8043,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Pallikaranai service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallikaranai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallikaranai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Pallikaranai, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -8104,7 +8104,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Perambur sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Perambur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware planning for homes with compact balcony and window openings. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware planning for homes with compact balcony and window openings. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Perambur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -8141,7 +8141,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Perambur installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perambur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perambur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8238,8 +8238,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Perambur?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Perambur?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Perambur?",
@@ -8261,12 +8261,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Perambur service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perambur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perambur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Perambur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -8322,7 +8322,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Perungudi sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Perungudi should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Perungudi service pages should address high-rise wind, working-family scheduling, clean border lines, association rules, child safety, pets, and pigeons. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Perungudi service pages should address high-rise wind, working-family scheduling, clean border lines, association rules, child safety, pets, and pigeons. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Perungudi, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -8359,7 +8359,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Perungudi installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perungudi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perungudi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8456,8 +8456,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Perungudi?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Perungudi?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Perungudi?",
@@ -8479,12 +8479,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Perungudi service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perungudi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perungudi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Perungudi, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -8540,7 +8540,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Poonamallee sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Poonamallee should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Poonamallee installations should be budget-aware but quality-led, covering children, pets, elders, terraces, balconies, and durable fixing for varied home types. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Poonamallee installations should be budget-aware but quality-led, covering children, pets, elders, terraces, balconies, and durable fixing for varied home types. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Poonamallee, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -8577,7 +8577,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Poonamallee installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Poonamallee, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Poonamallee, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8674,8 +8674,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Poonamallee?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Poonamallee?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Poonamallee?",
@@ -8697,12 +8697,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Poonamallee service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Poonamallee page is written around full area scope instead of a short swapped-name paragraph.",
         "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Poonamallee sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Poonamallee, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -8758,7 +8758,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Porur sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Porur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Porur pages should explain site visits, reliable installation after move-in, child and pet safety, balcony utility use, and long-term support for newer homes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Porur pages should explain site visits, reliable installation after move-in, child and pet safety, balcony utility use, and long-term support for newer homes. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Porur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -8795,7 +8795,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Porur installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Porur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Porur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8892,8 +8892,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Porur?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Porur?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Porur?",
@@ -8915,12 +8915,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Porur service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Porur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Porur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Porur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -8976,7 +8976,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Purasawalkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Purasawalkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control planning around busy central streets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control planning around busy central streets. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Purasawalkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -9013,7 +9013,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Purasawalkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Purasawalkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Purasawalkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9110,8 +9110,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Purasawalkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Purasawalkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Purasawalkam?",
@@ -9133,12 +9133,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Purasawalkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Purasawalkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Purasawalkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Purasawalkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -9194,7 +9194,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Ramapuram sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Ramapuram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Ramapuram service pages should connect balcony, window, staircase, and terrace safety for varied home layouts near busy work and residential zones. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Ramapuram service pages should connect balcony, window, staircase, and terrace safety for varied home layouts near busy work and residential zones. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Ramapuram, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -9231,7 +9231,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ramapuram installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ramapuram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ramapuram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9328,8 +9328,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Ramapuram?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Ramapuram?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ramapuram?",
@@ -9351,12 +9351,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ramapuram service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ramapuram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ramapuram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Ramapuram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -9412,7 +9412,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Royapettah sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Royapettah should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Royapettah projects should focus on low-disruption installation, careful drilling, visible neatness, and practical safety for older and mixed-use surroundings. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Royapettah projects should focus on low-disruption installation, careful drilling, visible neatness, and practical safety for older and mixed-use surroundings. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Royapettah, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -9449,7 +9449,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Royapettah installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Royapettah, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Royapettah, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9546,8 +9546,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Royapettah?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Royapettah?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Royapettah?",
@@ -9569,12 +9569,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Royapettah service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Royapettah page is written around full area scope instead of a short swapped-name paragraph.",
         "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Royapettah sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Royapettah, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -9630,7 +9630,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Saidapet sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Saidapet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Saidapet work should address quick access, dust-aware maintenance, compact balcony use, child safety, and clear quotes for apartments close to major roads. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Saidapet work should address quick access, dust-aware maintenance, compact balcony use, child safety, and clear quotes for apartments close to major roads. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Saidapet, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -9667,7 +9667,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Saidapet installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Saidapet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Saidapet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9764,8 +9764,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Saidapet?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Saidapet?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Saidapet?",
@@ -9787,12 +9787,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Saidapet service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Saidapet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Saidapet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Saidapet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -9848,7 +9848,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Selaiyur sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Selaiyur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Selaiyur service entries should be practical for growing families, with clear material choices, terrace and balcony coverage, pet safety, and reliable site measurement. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Selaiyur service entries should be practical for growing families, with clear material choices, terrace and balcony coverage, pet safety, and reliable site measurement. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Selaiyur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -9885,7 +9885,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Selaiyur installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Selaiyur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Selaiyur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9982,8 +9982,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Selaiyur?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Selaiyur?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Selaiyur?",
@@ -10005,12 +10005,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Selaiyur service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Selaiyur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Selaiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Selaiyur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -10066,7 +10066,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Sholinganallur sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Sholinganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety planning for children, pets, pigeons, and open utility edges. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety planning for children, pets, pigeons, and open utility edges. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Sholinganallur, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -10103,7 +10103,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Sholinganallur installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Sholinganallur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Sholinganallur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10200,8 +10200,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Sholinganallur?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Sholinganallur?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Sholinganallur?",
@@ -10223,12 +10223,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Sholinganallur service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Sholinganallur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Sholinganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Sholinganallur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -10284,7 +10284,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Siruseri sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Siruseri should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Siruseri pages should focus on move-in readiness, high-rise wind, bundled balcony-window safety, and durable installation for newly occupied flats. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Siruseri pages should focus on move-in readiness, high-rise wind, bundled balcony-window safety, and durable installation for newly occupied flats. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Siruseri, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -10321,7 +10321,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Siruseri installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Siruseri, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Siruseri, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10418,8 +10418,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Siruseri?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Siruseri?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Siruseri?",
@@ -10441,12 +10441,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Siruseri service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Siruseri page is written around full area scope instead of a short swapped-name paragraph.",
         "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Siruseri sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Siruseri, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -10502,7 +10502,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Tambaram sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Tambaram should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Tambaram installations should speak to owners and renters, compare material choices clearly, and cover children, pets, elders, balconies, windows, and terraces. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Tambaram installations should speak to owners and renters, compare material choices clearly, and cover children, pets, elders, balconies, windows, and terraces. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Tambaram, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -10539,7 +10539,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Tambaram installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Tambaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Tambaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10636,8 +10636,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Tambaram?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Tambaram?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Tambaram?",
@@ -10659,12 +10659,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Tambaram service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Tambaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Tambaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Tambaram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -10720,7 +10720,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why T Nagar sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in T Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "T Nagar work needs careful drilling, low-disruption access, dust-aware bird control, and neat visible finishes for homes close to active commercial streets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "T Nagar work needs careful drilling, low-disruption access, dust-aware bird control, and neat visible finishes for homes close to active commercial streets. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in T Nagar, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -10757,7 +10757,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the T Nagar installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In T Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In T Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10854,8 +10854,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in T Nagar?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in T Nagar?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in T Nagar?",
@@ -10877,12 +10877,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the T Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the T Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger T Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -10936,7 +10936,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Teynampet sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Teynampet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Teynampet, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -10973,7 +10973,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Teynampet installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Teynampet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Teynampet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11070,8 +11070,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Teynampet?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Teynampet?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Teynampet?",
@@ -11093,12 +11093,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Teynampet service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Teynampet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Teynampet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Teynampet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -11171,7 +11171,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Balcony Hygiene",
-        "heading": "The best pigeon net restores the balcony as a usable room edge",
+        "heading": "The right pigeon net restores the balcony as a usable room edge",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "Pigeon droppings can make a balcony feel unusable even when the apartment itself is clean. Families may stop drying clothes there, avoid opening the door, or remove plants because the mess returns every morning. In a humid coastal area, smell and stains can become more irritating. Pigeon safety nets should help the home reclaim that daily space.",
@@ -11219,14 +11219,14 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Old mess should be cleared so new activity is easy to spot",
         "image": "/birdnet/cards/anti-bird-net.webp",
         "paragraphs": [
-          "A pigeon net works best when the balcony is cleaned after installation. Old droppings can hide whether birds are still entering. Once the floor and ledges are clean, the family can see if any fresh mess appears near a missed corner or service gap. This makes follow-up much easier.",
+          "A pigeon net works right when the balcony is cleaned after installation. Old droppings can hide whether birds are still entering. Once the floor and ledges are clean, the family can see if any fresh mess appears near a missed corner or service gap. This makes follow-up much easier.",
           "During cleaning, the net should not be pulled, cut, or used to hang items. If a corner loosens, call for adjustment. Pigeon safety nets depend on steady tension. Treating the net as a protection system helps it last longer and perform better."
         ]
       },
       {
         "eyebrow": "Quote Scope",
         "heading": "A reliable pigeon net quote names every included route",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "When comparing pigeon safety net installers in Thiruvanmiyur, ask whether the quote includes side gaps, top gaps, AC ledges, beam pockets, and service openings. A price that covers only the front face may look attractive but fail if pigeons are entering through another route. The written scope should match the actual problem.",
           "The quote should also mention material, fixing method, access difficulty, estimated installation time, and after-service support. A good installer will not be offended by these questions. Clear scope protects both the customer and the team doing the work."
@@ -11393,7 +11393,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Thoraipakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Thoraipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Thoraipakkam entries should explain quick but careful installation, rental-friendly planning, association-approved finish, pigeon control, and children safety. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Thoraipakkam entries should explain quick but careful installation, rental-friendly planning, association-approved finish, pigeon control, and children safety. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Thoraipakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -11430,7 +11430,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Thoraipakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thoraipakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thoraipakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11527,8 +11527,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Thoraipakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Thoraipakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Thoraipakkam?",
@@ -11550,12 +11550,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Thoraipakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thoraipakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thoraipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Thoraipakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -11611,7 +11611,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Triplicane sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Triplicane should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Triplicane projects need patient access planning, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Triplicane projects need patient access planning, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Triplicane, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -11648,7 +11648,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Triplicane installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Triplicane, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Triplicane, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11745,8 +11745,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Triplicane?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Triplicane?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Triplicane?",
@@ -11768,12 +11768,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Triplicane service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Triplicane page is written around full area scope instead of a short swapped-name paragraph.",
         "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Triplicane sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -11828,7 +11828,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Vadapalani sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Vadapalani should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Vadapalani service pages should focus on dust, traffic-facing openings, quick measurement, renter-friendly work, and clean finish for practical family flats. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Vadapalani service pages should focus on dust, traffic-facing openings, quick measurement, renter-friendly work, and clean finish for practical family flats. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Vadapalani, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -11865,7 +11865,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Vadapalani installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Vadapalani, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Vadapalani, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11962,8 +11962,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Vadapalani?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Vadapalani?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Vadapalani?",
@@ -11985,12 +11985,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Vadapalani service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Vadapalani page is written around full area scope instead of a short swapped-name paragraph.",
         "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Vadapalani sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Vadapalani, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -12046,7 +12046,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Valasaravakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Valasaravakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Valasaravakkam installations should connect balcony, staircase, window, and terrace safety needs across varied family homes and apartment blocks. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Valasaravakkam installations should connect balcony, staircase, window, and terrace safety needs across varied family homes and apartment blocks. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Valasaravakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -12083,7 +12083,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Valasaravakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Valasaravakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Valasaravakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12180,8 +12180,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Valasaravakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Valasaravakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Valasaravakkam?",
@@ -12203,12 +12203,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Valasaravakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Valasaravakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Valasaravakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Valasaravakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -12264,7 +12264,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Velachery sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Velachery should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Velachery service entries should stay practical around compact balcony use, rain and humidity, quote clarity, child safety, pet safety, and daily maintenance. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Velachery service entries should stay practical around compact balcony use, rain and humidity, quote clarity, child safety, pet safety, and daily maintenance. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Velachery, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -12301,7 +12301,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Velachery installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Velachery, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Velachery, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12398,8 +12398,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Velachery?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Velachery?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Velachery?",
@@ -12421,12 +12421,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Velachery service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Velachery page is written around full area scope instead of a short swapped-name paragraph.",
         "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Velachery sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Velachery, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -12482,7 +12482,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Villivakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Villivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Villivakkam projects need durable materials, careful drilling, clear pricing, and simple maintenance for homes that use balconies and windows every day. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Villivakkam projects need durable materials, careful drilling, clear pricing, and simple maintenance for homes that use balconies and windows every day. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Villivakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -12519,7 +12519,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Villivakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Villivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Villivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12616,8 +12616,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Villivakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Villivakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Villivakkam?",
@@ -12639,12 +12639,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Villivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Villivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Villivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Villivakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -12700,7 +12700,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Virugambakkam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Virugambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Virugambakkam work should be neat, practical, and low-disruption, with attention to children, pets, birds, dust, and compact access. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "Virugambakkam work should be neat, practical, and low-disruption, with attention to children, pets, birds, dust, and compact access. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in Virugambakkam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -12737,7 +12737,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Virugambakkam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Virugambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Virugambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12834,8 +12834,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in Virugambakkam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in Virugambakkam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Virugambakkam?",
@@ -12857,12 +12857,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Virugambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Virugambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Virugambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Virugambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -12918,7 +12918,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why West Mambalam sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in West Mambalam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "West Mambalam service pages should emphasize careful fixing, calm appearance, family trust, and safety work that respects older homes and daily routines. Pigeon safety nets work best when the exact perching and nesting pattern is identified before fixing the mesh.",
+        "West Mambalam service pages should emphasize careful fixing, calm appearance, family trust, and safety work that respects older homes and daily routines. Pigeon safety nets work right when the exact perching and nesting pattern is identified before fixing the mesh.",
         "Before quoting in West Mambalam, DK Safety Solutions should check perching spots, nesting residue, AC ledges, side returns, pipe gaps, cleaning access, and mesh tension so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -12955,7 +12955,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the West Mambalam installation dependable",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In West Mambalam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In West Mambalam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "tight mesh lines that stop pigeon entry while keeping the balcony usable for air, plants, drying, and cleaning. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -13052,8 +13052,8 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve pigeon entry, nesting, droppings, mites, smell, drain blockage, and repeated cleaning stress while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for pigeon safety nets in West Mambalam?",
-        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for pigeon safety nets in West Mambalam?",
+        "answer": "The material should match UV-stable bird net mesh, firm border rope, stainless fixing points, and careful side-gap closure. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in West Mambalam?",
@@ -13075,12 +13075,12 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the West Mambalam service with a site-specific plan.",
       "paragraphs": [
-        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Pigeon Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide clean pigeon blocking, washable edges, firm fixing, and a balcony that stays easier to maintain, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the West Mambalam page is written around full area scope instead of a short swapped-name paragraph.",
         "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger West Mambalam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -13186,7 +13186,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Adambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13217,7 +13217,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13263,7 +13263,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Adambakkam conditions?",
+        "question": "Which material is right for Adambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13396,7 +13396,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ayanavaram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13427,7 +13427,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13473,7 +13473,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ayanavaram conditions?",
+        "question": "Which material is right for Ayanavaram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13606,7 +13606,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ekkattuthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13637,7 +13637,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13683,7 +13683,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ekkattuthangal conditions?",
+        "question": "Which material is right for Ekkattuthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13816,7 +13816,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Iyyappanthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13847,7 +13847,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13893,7 +13893,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Iyyappanthangal conditions?",
+        "question": "Which material is right for Iyyappanthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14026,7 +14026,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Manapakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14057,7 +14057,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14103,7 +14103,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Manapakkam conditions?",
+        "question": "Which material is right for Manapakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14158,7 +14158,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Mandaveli Chennai pigeon safety nets",
       "title": "Pigeon Safety Nets in Mandaveli planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Mandaveli customers often need pigeon safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, and the work has to solve pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense without making routine use harder. A good Mandaveli plan studies older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "lead": "Mandaveli customers often need pigeon safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve pigeon-prone ledges, balcony corners, AC shelves, duct mouths, and service-side openings, and the work has to solve pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense without making routine use harder. A good Mandaveli plan studies older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/pigeon-safety-invisible-grills.webp",
       "primaryCta": "Call for Pigeon Net Visit in Mandaveli",
       "secondaryCta": "WhatsApp Pigeon Control Details"
@@ -14167,7 +14167,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Mandaveli",
         "label": "Area Site Focus",
-        "description": "Written for Mandaveli conditions, including older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
       },
       {
         "stat": "2500",
@@ -14184,7 +14184,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mandaveli sites need a clear pigeon safety nets plan",
       "paragraphs": [
         "Pigeon Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Pigeon Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Mandaveli, DK Safety Solutions should check nesting spot, entry direction, ledge width, waste buildup, AC access, cleaning interval, side return so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14236,7 +14236,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Mandaveli, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14267,7 +14267,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14313,7 +14313,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Mandaveli conditions?",
+        "question": "Which material is right for Mandaveli conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14446,7 +14446,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Palavakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14477,7 +14477,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14523,7 +14523,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Palavakkam conditions?",
+        "question": "Which material is right for Palavakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14656,7 +14656,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Periyar Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14687,7 +14687,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14733,7 +14733,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Periyar Nagar conditions?",
+        "question": "Which material is right for Periyar Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14865,7 +14865,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Royapuram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14896,7 +14896,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14942,7 +14942,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Royapuram conditions?",
+        "question": "Which material is right for Royapuram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15075,7 +15075,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Semmancheri, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15106,7 +15106,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15152,7 +15152,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Semmancheri conditions?",
+        "question": "Which material is right for Semmancheri conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15285,7 +15285,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Tondiarpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15316,7 +15316,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15362,7 +15362,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Tondiarpet conditions?",
+        "question": "Which material is right for Tondiarpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15495,7 +15495,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/pigeon-safety-invisible-grills.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Washermanpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15526,7 +15526,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: pigeon nesting, feather buildup, droppings, odor, blocked corners, and repeated cleaning expense. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15572,7 +15572,7 @@ export const pigeonSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Washermanpet conditions?",
+        "question": "Which material is right for Washermanpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {

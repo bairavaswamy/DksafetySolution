@@ -56,7 +56,20 @@ export default function ManualEntryServicePage({
     <main className="bg-white text-slate-950">
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">
-          <Image src={visuals.hero} alt={`${service.name} in ${area.name}`} fill priority className="object-cover" />
+          <Image
+            src={visuals.mobileHero}
+            alt={`${service.name} in ${area.name}`}
+            fill
+            priority
+            className="object-cover md:hidden"
+          />
+          <Image
+            src={visuals.hero}
+            alt={`${service.name} in ${area.name}`}
+            fill
+            priority
+            className="hidden object-cover md:block"
+          />
           <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/80 to-slate-900/35" />
         </div>
 
@@ -98,8 +111,8 @@ export default function ManualEntryServicePage({
             </p>
             <h2 className="mt-3 text-2xl font-black">Area service planning</h2>
             <p className="mt-3 text-sm leading-7 text-slate-100">
-              {service.name} pages connect the service choice with area-specific
-              contact actions, nearby links, and practical site planning.
+              {service.name} pages connect the service choice with local access notes,
+              nearby links, and quick contact actions.
             </p>
             <div className="mt-6 rounded-lg bg-white/12 p-4 text-sm leading-7 text-slate-100">
               Share photos, floor access, opening size, and the main safety issue so
@@ -172,7 +185,7 @@ export default function ManualEntryServicePage({
           <div className="mt-12 grid gap-6 md:grid-cols-2">
             <section className="rounded-lg border border-slate-200 bg-slate-50 p-6">
               <p className="text-sm font-bold uppercase tracking-[0.18em] text-indigo-700">
-                Best For
+                Good For
               </p>
               <h2 className="mt-3 text-2xl font-black text-slate-950">
                 Common {area.name} use cases

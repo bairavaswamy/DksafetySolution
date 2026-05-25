@@ -23,7 +23,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Adyar Chennai invisible grills",
       "title": "Invisible Grills in Adyar planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Adyar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Adyar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Adyar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Adyar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Adyar",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -60,7 +60,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Adyar sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during morning cleaning, school rush, evening use, weekend maintenance, and quick phone-based coordination, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -86,7 +86,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Adyar installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Adyar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Adyar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -145,7 +145,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -183,8 +183,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Adyar?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Adyar?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Adyar?",
@@ -206,12 +206,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Adyar service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Adyar page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Adyar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Adyar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Adyar, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -241,7 +241,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Alandur Chennai invisible grills",
       "title": "Invisible Grills in Alandur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Alandur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Alandur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Alandur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Alandur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Alandur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -278,7 +278,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Alandur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during drying clothes, supervising children, managing pets, keeping airflow, and using compact utility space, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -304,7 +304,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Alandur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Alandur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Alandur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -363,7 +363,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -401,8 +401,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Alandur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Alandur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Alandur?",
@@ -424,12 +424,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Alandur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Alandur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Alandur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Alandur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Alandur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -459,7 +459,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Ambattur Chennai invisible grills",
       "title": "Invisible Grills in Ambattur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Ambattur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Ambattur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Ambattur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Ambattur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Ambattur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -496,7 +496,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Ambattur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during owner approvals, association work hours, lift access, parking access, and keeping the home usable during installation, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -522,7 +522,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ambattur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ambattur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ambattur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -581,7 +581,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -619,8 +619,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Ambattur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Ambattur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ambattur?",
@@ -642,12 +642,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ambattur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ambattur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ambattur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ambattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Ambattur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -677,7 +677,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Aminjikarai Chennai invisible grills",
       "title": "Invisible Grills in Aminjikarai planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Aminjikarai customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Aminjikarai plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Aminjikarai customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Aminjikarai plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Aminjikarai",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -714,7 +714,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Aminjikarai sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during rented-home decisions, visible facade lines, cleaning access, and future maintenance without repeated disturbance, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -740,7 +740,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Aminjikarai installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Aminjikarai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Aminjikarai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -799,7 +799,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -837,8 +837,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Aminjikarai?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Aminjikarai?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Aminjikarai?",
@@ -860,12 +860,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Aminjikarai service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Aminjikarai page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Aminjikarai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Aminjikarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Aminjikarai, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -895,7 +895,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Anna Nagar Chennai invisible grills",
       "title": "Invisible Grills in Anna Nagar planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Anna Nagar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Anna Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Anna Nagar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Anna Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Anna Nagar",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -921,7 +921,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "heading": "Why Anna Nagar sites need a clear invisible grills plan",
       "paragraphs": [
         "Invisible Grills in Anna Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Anna Nagar service pages should emphasize premium finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Invisible grills should preserve the open-view feel while adding predictable stainless-steel cable protection for family safety.",
+        "Anna Nagar service pages should emphasize neat finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Invisible grills should preserve the open-view feel while adding predictable stainless-steel cable protection for family safety.",
         "Before quoting in Anna Nagar, DK Safety Solutions should check frame strength, cable spacing, anchor line, wall finish, association rules, view direction, and child or pet safety needs so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -932,7 +932,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Anna Nagar sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during family movement, elder use, service staff access, children watching from windows, and daily ventilation habits, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -958,7 +958,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Anna Nagar installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Anna Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Anna Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1017,7 +1017,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -1055,8 +1055,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Anna Nagar?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Anna Nagar?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Anna Nagar?",
@@ -1078,12 +1078,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Anna Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Anna Nagar page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Anna Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Anna Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -1112,7 +1112,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Arumbakkam Chennai invisible grills",
       "title": "Invisible Grills in Arumbakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Arumbakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Arumbakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Arumbakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Arumbakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Arumbakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -1149,7 +1149,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Arumbakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during busy streets, dust, monsoon rain, summer heat, and balcony or terrace routines that change by season, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -1175,7 +1175,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Arumbakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Arumbakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Arumbakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1234,7 +1234,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -1272,8 +1272,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Arumbakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Arumbakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Arumbakkam?",
@@ -1295,12 +1295,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Arumbakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Arumbakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Arumbakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Arumbakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Arumbakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -1330,7 +1330,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Ashok Nagar Chennai invisible grills",
       "title": "Invisible Grills in Ashok Nagar planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Ashok Nagar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Ashok Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Ashok Nagar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Ashok Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Ashok Nagar",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -1367,7 +1367,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Ashok Nagar sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during morning cleaning, school rush, evening use, weekend maintenance, and quick phone-based coordination, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -1393,7 +1393,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ashok Nagar installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ashok Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ashok Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1452,7 +1452,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -1490,8 +1490,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Ashok Nagar?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Ashok Nagar?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ashok Nagar?",
@@ -1513,12 +1513,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ashok Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ashok Nagar page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ashok Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ashok Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -1547,7 +1547,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Avadi Chennai invisible grills",
       "title": "Invisible Grills in Avadi planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Avadi customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Avadi plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Avadi customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Avadi plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Avadi",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -1584,7 +1584,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Avadi sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during drying clothes, supervising children, managing pets, keeping airflow, and using compact utility space, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -1610,7 +1610,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Avadi installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Avadi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Avadi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1669,7 +1669,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -1707,8 +1707,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Avadi?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Avadi?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Avadi?",
@@ -1730,12 +1730,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Avadi service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Avadi page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Avadi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Avadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Avadi, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -1765,7 +1765,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Besant Nagar Chennai invisible grills",
       "title": "Invisible Grills in Besant Nagar planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Besant Nagar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Besant Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Besant Nagar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Besant Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Besant Nagar",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -1802,7 +1802,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Besant Nagar sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during owner approvals, association work hours, lift access, parking access, and keeping the home usable during installation, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -1828,7 +1828,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Besant Nagar installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Besant Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Besant Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1887,7 +1887,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -1925,8 +1925,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Besant Nagar?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Besant Nagar?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Besant Nagar?",
@@ -1948,12 +1948,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Besant Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Besant Nagar page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Besant Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Besant Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -1982,7 +1982,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Chetpet Chennai invisible grills",
       "title": "Invisible Grills in Chetpet planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Chetpet customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Chetpet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Chetpet customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Chetpet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Chetpet",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -2019,7 +2019,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Chetpet sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during rented-home decisions, visible facade lines, cleaning access, and future maintenance without repeated disturbance, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -2045,7 +2045,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Chetpet installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chetpet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chetpet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2104,7 +2104,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -2142,8 +2142,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Chetpet?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Chetpet?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Chetpet?",
@@ -2165,12 +2165,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Chetpet service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chetpet page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chetpet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chetpet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Chetpet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -2200,7 +2200,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Choolaimedu Chennai invisible grills",
       "title": "Invisible Grills in Choolaimedu planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Choolaimedu customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Choolaimedu plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Choolaimedu customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Choolaimedu plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Choolaimedu",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -2237,7 +2237,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Choolaimedu sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during family movement, elder use, service staff access, children watching from windows, and daily ventilation habits, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -2263,7 +2263,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Choolaimedu installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Choolaimedu, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Choolaimedu, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2322,7 +2322,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -2360,8 +2360,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Choolaimedu?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Choolaimedu?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Choolaimedu?",
@@ -2383,12 +2383,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Choolaimedu service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Choolaimedu page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Choolaimedu page is written around full area scope instead of a short swapped-name paragraph.",
         "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Choolaimedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Choolaimedu, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -2418,7 +2418,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Chromepet Chennai invisible grills",
       "title": "Invisible Grills in Chromepet planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Chromepet customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Chromepet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Chromepet customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Chromepet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Chromepet",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -2455,7 +2455,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Chromepet sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during busy streets, dust, monsoon rain, summer heat, and balcony or terrace routines that change by season, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -2481,7 +2481,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Chromepet installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chromepet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chromepet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2540,7 +2540,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -2578,8 +2578,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Chromepet?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Chromepet?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Chromepet?",
@@ -2601,12 +2601,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Chromepet service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chromepet page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chromepet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chromepet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Chromepet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -2636,7 +2636,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Egmore Chennai invisible grills",
       "title": "Invisible Grills in Egmore planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Egmore customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Egmore plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Egmore customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Egmore plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Egmore",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -2673,7 +2673,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Egmore sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during morning cleaning, school rush, evening use, weekend maintenance, and quick phone-based coordination, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -2699,7 +2699,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Egmore installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Egmore, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Egmore, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2758,7 +2758,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -2796,8 +2796,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Egmore?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Egmore?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Egmore?",
@@ -2819,12 +2819,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Egmore service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Egmore page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Egmore page is written around full area scope instead of a short swapped-name paragraph.",
         "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Egmore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Egmore, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -2854,7 +2854,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Guindy Chennai invisible grills",
       "title": "Invisible Grills in Guindy planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Guindy customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Guindy plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Guindy customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Guindy plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Guindy",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -2891,7 +2891,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Guindy sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during drying clothes, supervising children, managing pets, keeping airflow, and using compact utility space, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -2917,7 +2917,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Guindy installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Guindy, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Guindy, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2976,7 +2976,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -3014,8 +3014,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Guindy?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Guindy?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Guindy?",
@@ -3037,12 +3037,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Guindy service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Guindy page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Guindy page is written around full area scope instead of a short swapped-name paragraph.",
         "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Guindy sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Guindy, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -3072,7 +3072,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Injambakkam Chennai invisible grills",
       "title": "Invisible Grills in Injambakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Injambakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Injambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Injambakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Injambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Injambakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -3109,7 +3109,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Injambakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during owner approvals, association work hours, lift access, parking access, and keeping the home usable during installation, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -3135,7 +3135,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Injambakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Injambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Injambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3194,7 +3194,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -3232,8 +3232,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Injambakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Injambakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Injambakkam?",
@@ -3255,12 +3255,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Injambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Injambakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Injambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Injambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Injambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -3290,7 +3290,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "K K Nagar Chennai invisible grills",
       "title": "Invisible Grills in K K Nagar planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "K K Nagar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good K K Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "K K Nagar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good K K Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in K K Nagar",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -3327,7 +3327,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "K K Nagar sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during rented-home decisions, visible facade lines, cleaning access, and future maintenance without repeated disturbance, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -3353,7 +3353,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the K K Nagar installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In K K Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In K K Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3412,7 +3412,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -3450,8 +3450,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in K K Nagar?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in K K Nagar?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in K K Nagar?",
@@ -3473,12 +3473,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the K K Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the K K Nagar page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the K K Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger K K Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -3506,7 +3506,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Kandanchavadi Chennai invisible grills",
       "title": "Invisible Grills in Kandanchavadi planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Kandanchavadi customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kandanchavadi plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Kandanchavadi customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kandanchavadi plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Kandanchavadi",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -3543,7 +3543,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Kandanchavadi sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during family movement, elder use, service staff access, children watching from windows, and daily ventilation habits, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -3569,7 +3569,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kandanchavadi installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kandanchavadi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kandanchavadi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3628,7 +3628,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -3666,8 +3666,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Kandanchavadi?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Kandanchavadi?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kandanchavadi?",
@@ -3689,12 +3689,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kandanchavadi service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kandanchavadi page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kandanchavadi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kandanchavadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kandanchavadi, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -3724,7 +3724,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Karapakkam Chennai invisible grills",
       "title": "Invisible Grills in Karapakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Karapakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Karapakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Karapakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Karapakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Karapakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -3761,7 +3761,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Karapakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during busy streets, dust, monsoon rain, summer heat, and balcony or terrace routines that change by season, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -3787,7 +3787,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Karapakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Karapakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Karapakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3846,7 +3846,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -3884,8 +3884,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Karapakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Karapakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Karapakkam?",
@@ -3907,12 +3907,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Karapakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Karapakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Karapakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Karapakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Karapakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -3942,7 +3942,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Kelambakkam Chennai invisible grills",
       "title": "Invisible Grills in Kelambakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Kelambakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kelambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Kelambakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kelambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Kelambakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -3979,7 +3979,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Kelambakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during morning cleaning, school rush, evening use, weekend maintenance, and quick phone-based coordination, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -4005,7 +4005,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kelambakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kelambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kelambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4064,7 +4064,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -4102,8 +4102,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Kelambakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Kelambakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kelambakkam?",
@@ -4125,12 +4125,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kelambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kelambakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kelambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kelambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kelambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -4160,7 +4160,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Kilpauk Chennai invisible grills",
       "title": "Invisible Grills in Kilpauk planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Kilpauk customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kilpauk plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Kilpauk customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kilpauk plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Kilpauk",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -4197,7 +4197,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Kilpauk sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during drying clothes, supervising children, managing pets, keeping airflow, and using compact utility space, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -4223,7 +4223,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kilpauk installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kilpauk, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kilpauk, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4282,7 +4282,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -4320,8 +4320,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Kilpauk?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Kilpauk?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kilpauk?",
@@ -4343,12 +4343,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kilpauk service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kilpauk page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kilpauk page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kilpauk sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kilpauk, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -4378,7 +4378,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Kodambakkam Chennai invisible grills",
       "title": "Invisible Grills in Kodambakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Kodambakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kodambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Kodambakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kodambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Kodambakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -4415,7 +4415,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Kodambakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during owner approvals, association work hours, lift access, parking access, and keeping the home usable during installation, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -4441,7 +4441,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kodambakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kodambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kodambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4500,7 +4500,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -4538,8 +4538,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Kodambakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Kodambakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kodambakkam?",
@@ -4561,12 +4561,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kodambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kodambakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kodambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kodambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kodambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -4596,7 +4596,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Kolathur Chennai invisible grills",
       "title": "Invisible Grills in Kolathur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Kolathur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kolathur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Kolathur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kolathur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Kolathur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -4633,7 +4633,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Kolathur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during rented-home decisions, visible facade lines, cleaning access, and future maintenance without repeated disturbance, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -4659,7 +4659,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kolathur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kolathur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kolathur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4718,7 +4718,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -4756,8 +4756,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Kolathur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Kolathur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kolathur?",
@@ -4779,12 +4779,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kolathur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kolathur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kolathur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kolathur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kolathur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -4814,7 +4814,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Korattur Chennai invisible grills",
       "title": "Invisible Grills in Korattur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Korattur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Korattur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Korattur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Korattur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Korattur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -4851,7 +4851,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Korattur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during family movement, elder use, service staff access, children watching from windows, and daily ventilation habits, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -4877,7 +4877,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Korattur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Korattur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Korattur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4936,7 +4936,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -4974,8 +4974,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Korattur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Korattur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Korattur?",
@@ -4997,12 +4997,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Korattur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Korattur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Korattur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Korattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Korattur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -5032,7 +5032,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Kottivakkam Chennai invisible grills",
       "title": "Invisible Grills in Kottivakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Kottivakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kottivakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Kottivakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Kottivakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Kottivakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -5069,7 +5069,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Kottivakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during busy streets, dust, monsoon rain, summer heat, and balcony or terrace routines that change by season, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -5095,7 +5095,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kottivakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kottivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kottivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5154,7 +5154,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -5192,8 +5192,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Kottivakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Kottivakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kottivakkam?",
@@ -5215,12 +5215,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kottivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kottivakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kottivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kottivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Kottivakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -5250,7 +5250,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Koyambedu Chennai invisible grills",
       "title": "Invisible Grills in Koyambedu planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Koyambedu customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Koyambedu plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Koyambedu customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Koyambedu plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Koyambedu",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -5287,7 +5287,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Koyambedu sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during morning cleaning, school rush, evening use, weekend maintenance, and quick phone-based coordination, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -5313,7 +5313,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Koyambedu installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Koyambedu, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Koyambedu, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5372,7 +5372,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -5410,8 +5410,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Koyambedu?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Koyambedu?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Koyambedu?",
@@ -5433,12 +5433,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Koyambedu service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Koyambedu page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Koyambedu page is written around full area scope instead of a short swapped-name paragraph.",
         "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Koyambedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Koyambedu, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -5468,7 +5468,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Madipakkam Chennai invisible grills",
       "title": "Invisible Grills in Madipakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Madipakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Madipakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Madipakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Madipakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Madipakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -5505,7 +5505,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Madipakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during drying clothes, supervising children, managing pets, keeping airflow, and using compact utility space, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -5531,7 +5531,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Madipakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madipakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madipakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5590,7 +5590,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -5628,8 +5628,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Madipakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Madipakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Madipakkam?",
@@ -5651,12 +5651,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Madipakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madipakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madipakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Madipakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -5686,7 +5686,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Madhavaram Chennai invisible grills",
       "title": "Invisible Grills in Madhavaram planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Madhavaram customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Madhavaram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Madhavaram customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Madhavaram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Madhavaram",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -5723,7 +5723,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Madhavaram sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during owner approvals, association work hours, lift access, parking access, and keeping the home usable during installation, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -5749,7 +5749,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Madhavaram installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madhavaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madhavaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5808,7 +5808,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -5846,8 +5846,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Madhavaram?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Madhavaram?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Madhavaram?",
@@ -5869,12 +5869,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Madhavaram service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madhavaram page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madhavaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madhavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Madhavaram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -5904,7 +5904,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Medavakkam Chennai invisible grills",
       "title": "Invisible Grills in Medavakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Medavakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Medavakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Medavakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Medavakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Medavakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -5941,7 +5941,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Medavakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during rented-home decisions, visible facade lines, cleaning access, and future maintenance without repeated disturbance, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -5967,7 +5967,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Medavakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Medavakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Medavakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6026,7 +6026,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -6064,8 +6064,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Medavakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Medavakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Medavakkam?",
@@ -6087,12 +6087,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Medavakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Medavakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Medavakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Medavakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Medavakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -6122,7 +6122,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Mogappair Chennai invisible grills",
       "title": "Invisible Grills in Mogappair planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Mogappair customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Mogappair plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Mogappair customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Mogappair plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Mogappair",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -6159,7 +6159,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Mogappair sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during family movement, elder use, service staff access, children watching from windows, and daily ventilation habits, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -6185,7 +6185,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mogappair installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mogappair, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mogappair, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6244,7 +6244,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -6282,8 +6282,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Mogappair?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Mogappair?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mogappair?",
@@ -6305,12 +6305,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mogappair service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mogappair page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mogappair page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mogappair sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Mogappair, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -6340,7 +6340,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Mugalivakkam Chennai invisible grills",
       "title": "Invisible Grills in Mugalivakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Mugalivakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Mugalivakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Mugalivakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Mugalivakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Mugalivakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -6377,7 +6377,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Mugalivakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during busy streets, dust, monsoon rain, summer heat, and balcony or terrace routines that change by season, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -6403,7 +6403,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mugalivakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mugalivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mugalivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6462,7 +6462,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -6500,8 +6500,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Mugalivakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Mugalivakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mugalivakkam?",
@@ -6523,12 +6523,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mugalivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mugalivakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mugalivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mugalivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Mugalivakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -6558,7 +6558,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Mylapore Chennai invisible grills",
       "title": "Invisible Grills in Mylapore planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Mylapore customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Mylapore plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Mylapore customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Mylapore plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Mylapore",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -6595,7 +6595,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Mylapore sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during morning cleaning, school rush, evening use, weekend maintenance, and quick phone-based coordination, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -6621,7 +6621,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mylapore installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mylapore, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mylapore, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6680,7 +6680,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -6718,8 +6718,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Mylapore?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Mylapore?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mylapore?",
@@ -6741,12 +6741,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mylapore service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mylapore page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mylapore page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mylapore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Mylapore, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -6776,7 +6776,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Nanganallur Chennai invisible grills",
       "title": "Invisible Grills in Nanganallur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Nanganallur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Nanganallur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Nanganallur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Nanganallur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Nanganallur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -6813,7 +6813,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Nanganallur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during drying clothes, supervising children, managing pets, keeping airflow, and using compact utility space, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -6839,7 +6839,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Nanganallur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nanganallur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nanganallur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6898,7 +6898,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -6936,8 +6936,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Nanganallur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Nanganallur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Nanganallur?",
@@ -6959,12 +6959,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Nanganallur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nanganallur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nanganallur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nanganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Nanganallur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -6994,7 +6994,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Navalur Chennai invisible grills",
       "title": "Invisible Grills in Navalur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Navalur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Navalur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Navalur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Navalur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Navalur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -7031,7 +7031,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Navalur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during owner approvals, association work hours, lift access, parking access, and keeping the home usable during installation, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -7057,7 +7057,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Navalur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Navalur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Navalur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7116,7 +7116,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -7154,8 +7154,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Navalur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Navalur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Navalur?",
@@ -7177,12 +7177,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Navalur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Navalur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Navalur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Navalur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Navalur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -7212,7 +7212,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Neelankarai Chennai invisible grills",
       "title": "Invisible Grills in Neelankarai planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Neelankarai customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Neelankarai plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Neelankarai customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Neelankarai plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Neelankarai",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -7249,7 +7249,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Neelankarai sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during rented-home decisions, visible facade lines, cleaning access, and future maintenance without repeated disturbance, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -7275,7 +7275,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Neelankarai installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Neelankarai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Neelankarai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7334,7 +7334,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -7372,8 +7372,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Neelankarai?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Neelankarai?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Neelankarai?",
@@ -7395,12 +7395,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Neelankarai service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Neelankarai page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Neelankarai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Neelankarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Neelankarai, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -7414,7 +7414,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Nungambakkam Chennai | DK Safety Solutions",
-      "description": "Unique detailed guide for invisible grills in Nungambakkam, Chennai, covering premium apartments, open views, child safety, facade rules, stainless cable planning, and installation finish.",
+      "description": "Unique detailed guide for invisible grills in Nungambakkam, Chennai, covering refined apartments, open views, child safety, facade rules, stainless cable planning, and installation finish.",
       "keywords": [
         "invisible grills in Nungambakkam",
         "invisible grills Chennai",
@@ -7423,21 +7423,21 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Invisible Grills in Nungambakkam Chennai",
-      "openGraphDescription": "A premium Nungambakkam guide to invisible grills for balconies, windows, open-view safety, and clean apartment finishes.",
+      "openGraphDescription": "A refined Nungambakkam guide to invisible grills for balconies, windows, open-view safety, and clean apartment finishes.",
       "twitterTitle": "Invisible Grills in Nungambakkam Chennai",
       "twitterDescription": "Manual area article for invisible grill planning in Nungambakkam apartments and family homes."
     },
     "hero": {
       "eyebrow": "Nungambakkam Chennai invisible grills",
       "title": "Invisible Grills in Nungambakkam for open views, child safety, and polished apartment protection.",
-      "lead": "Nungambakkam homes often need safety without visual heaviness. Families want balcony and window protection, but they also care about views, interior finish, building appearance, and the premium feel of the apartment. Invisible grills should answer both needs: reliable protection and a clean, barely-there line.",
+      "lead": "Nungambakkam homes often need safety without visual heaviness. Families want balcony and window protection, but they also care about views, interior finish, building appearance, and the refined feel of the apartment. Invisible grills should answer both needs: reliable protection and a clean, barely-there line.",
       "image": "/images/invisible-grills-for-apartment.webp",
       "primaryCta": "Call for Nungambakkam Grill Visit",
       "secondaryCta": "WhatsApp Invisible Grill Details"
     },
     "proof": [
       {
-        "stat": "Premium",
+        "stat": "Refined",
         "label": "Finish Focus",
         "description": "Written for Nungambakkam apartments where open views, facade discipline, and neat cable alignment matter."
       },
@@ -7453,12 +7453,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
       }
     ],
     "intro": {
-      "heading": "Why Nungambakkam invisible grills need premium safety planning",
+      "heading": "Why Nungambakkam invisible grills need refined safety planning",
       "paragraphs": [
         "Invisible grills are chosen when a family does not want the heavy look of traditional bars but still needs real safety. In Nungambakkam, that requirement is common. Apartments may have balcony views, well-finished living rooms, visible building fronts, and windows that need protection for children or pets. The installation must protect the opening while keeping the home visually light.",
         "A proper invisible grill is not only a set of cables. It is a measured safety system. Cable spacing, frame alignment, anchor strength, wall condition, corner treatment, tension, and exterior appearance all affect the result. If these details are rushed, the grill may look uneven or fail to deliver the confidence the customer expected.",
-        "Searches for invisible grills in Nungambakkam often combine design and safety intent. A customer may want balcony protection for a child, a window solution for a high floor, a pet-safe cable gap, an association-friendly facade, or a premium alternative to bulky bars. The page must answer those intents together because the purchase is both practical and aesthetic.",
-        "This guide explains invisible grills in Nungambakkam for balconies, windows, high-rise apartments, child safety, pet safety, association approval, and maintenance. It is written as a area service page, so the recommendations reflect premium Chennai apartments rather than generic sales copy."
+        "Searches for invisible grills in Nungambakkam often combine design and safety intent. A customer may want balcony protection for a child, a window solution for a high floor, a pet-safe cable gap, an association-friendly facade, or a refined alternative to bulky bars. The page must answer those intents together because the purchase is both practical and aesthetic.",
+        "This guide explains invisible grills in Nungambakkam for balconies, windows, high-rise apartments, child safety, pet safety, association approval, and maintenance. It is written as a area service page, so the recommendations reflect refined Chennai apartments rather than generic sales copy."
       ]
     },
     "sections": [
@@ -7467,8 +7467,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Invisible grills should protect without visually closing the room",
         "image": "/cards/invisible-grills-for-apartment.webp",
         "paragraphs": [
-          "The biggest reason Nungambakkam residents ask for invisible grills is the view. Traditional grills can make a balcony or window feel smaller. Stainless cable systems create a lighter barrier, allowing the eye to move through the opening. That benefit is meaningful in homes where the living room, bedroom, or balcony is part of the apartment's premium feel.",
-          "The installer should plan cable direction, spacing, and frame placement so the final work looks deliberate. Crooked lines are immediately visible in an open-view system. A premium invisible grill should almost disappear during normal use while still giving parents, pet owners, and elders more confidence near the edge."
+          "The biggest reason Nungambakkam residents ask for invisible grills is the view. Traditional grills can make a balcony or window feel smaller. Stainless cable systems create a lighter barrier, allowing the eye to move through the opening. That benefit is meaningful in homes where the living room, bedroom, or balcony is part of the apartment's refined feel.",
+          "The installer should plan cable direction, spacing, and frame placement so the final work looks deliberate. Crooked lines are immediately visible in an open-view system. A refined invisible grill should almost disappear during normal use while still giving parents, pet owners, and elders more confidence near the edge."
         ]
       },
       {
@@ -7495,7 +7495,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/images/window-anti-bird-invisible-grills.webp",
         "paragraphs": [
           "Window invisible grills are often requested for children's bedrooms, hall windows, and high-floor openings. The frame size, shutter movement, curtain line, and cleaning access all matter. A window grill that blocks normal use will quickly irritate the family, even if it looks good on installation day.",
-          "Nungambakkam homes may have premium window systems or older frames depending on the building. The installer should choose a fixing method that respects the frame and still creates reliable protection. The finished cable line should look straight from inside the room, because windows are viewed closely every day."
+          "Nungambakkam homes may have refined window systems or older frames depending on the building. The installer should choose a fixing method that respects the frame and still creates reliable protection. The finished cable line should look straight from inside the room, because windows are viewed closely every day."
         ]
       },
       {
@@ -7518,17 +7518,17 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Maintenance",
-        "heading": "Tension and cleaning decide how premium the system feels later",
+        "heading": "Tension and cleaning decide how refined the system feels later",
         "image": "/images/invisible-grill-2.webp",
         "paragraphs": [
-          "Invisible grills should remain straight and tight. If cables loosen or collect dirt unevenly, the premium feel reduces quickly. Families should clean gently, avoid hanging weight from cables, and call for adjustment if tension changes. The system should be treated as safety equipment, not as a drying line or storage support.",
+          "Invisible grills should remain straight and tight. If cables loosen or collect dirt unevenly, the refined feel reduces quickly. Families should clean gently, avoid hanging weight from cables, and call for adjustment if tension changes. The system should be treated as safety equipment, not as a drying line or storage support.",
           "Chennai dust and humidity make regular light cleaning useful. The installer should explain what cleaning method is safe for the cable and coating. Good after-service support matters because small alignment or tension corrections can keep the grill looking sharp for years."
         ]
       },
       {
         "eyebrow": "Quote Quality",
         "heading": "Invisible grill pricing should include cable, frame, finish, and risk",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Invisible grill quotes should be compared carefully. One quote may include better cable quality, stronger anchors, cleaner frames, and careful finishing, while another may only give a low rate. For Nungambakkam homes, the visible finish is part of the value. A rough installation can spoil the very reason the customer chose invisible grills.",
           "Ask about cable grade, spacing, coating, frame material, fixing points, warranty support, installation time, and whether balcony and window openings are priced differently. A transparent quote helps the family decide with confidence instead of choosing only the cheapest number."
@@ -7540,7 +7540,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "Nungambakkam apartments are often renovated before a family thinks about safety. Fresh paint, new curtains, polished balcony tiles, and upgraded windows make rough drilling feel risky. The site visit should explain exactly where holes will be made, how dust will be managed, and how the frame or cable anchors will sit against finished surfaces.",
-          "This is especially important when invisible grills are added after interiors are complete. The installer should protect nearby surfaces, avoid unnecessary marks, and keep cable lines aligned with the room's visual order. Premium work is not only strong; it is careful around what the customer has already invested in. The final line should feel like it belonged to the apartment from the beginning, not like a hurried safety add-on made after complaints or fear at home later by surprise during daily living there afterward again safely installed."
+          "This is especially important when invisible grills are added after interiors are complete. The installer should protect nearby surfaces, avoid unnecessary marks, and keep cable lines aligned with the room's visual order. Refined work is not only strong; it is careful around what the customer has already invested in. The final line should feel like it belonged to the apartment from the beginning, not like a hurried safety add-on made after complaints or fear at home later by surprise during daily living there afterward again safely installed."
         ]
       },
       {
@@ -7610,11 +7610,11 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "question": "What affects invisible grill cost?",
-        "answer": "Cost depends on opening size, cable quality, frame material, height, access, spacing, and fixing complexity. A premium installation may cost more because alignment and finish require careful work. Compare the full specification, not only the rate."
+        "answer": "Cost depends on opening size, cable quality, frame material, height, access, spacing, and fixing complexity. A refined installation may cost more because alignment and finish require careful work. Compare the full specification, not only the rate."
       },
       {
         "question": "Are invisible grills better than safety nets?",
-        "answer": "They serve different preferences. Invisible grills are stronger visually for premium open-view protection, while safety nets can be practical for bird control or certain balcony needs. The right choice depends on safety requirement, view expectations, budget, and building rules."
+        "answer": "They serve different preferences. Invisible grills are stronger visually for refined open-view protection, while safety nets can be practical for bird control or certain balcony needs. The right choice depends on safety requirement, view expectations, budget, and building rules."
       },
       {
         "question": "Can invisible grills be installed after interior work is finished?",
@@ -7630,7 +7630,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "question": "How soon can invisible grills be installed after site measurement?",
-        "answer": "Timing depends on material availability, opening count, customization, and apartment work rules. Simple windows may be quicker, while multiple balconies or premium frame requirements need better scheduling. Confirm measurement, quotation, approval, and work timing in writing before installation day."
+        "answer": "Timing depends on material availability, opening count, customization, and apartment work rules. Simple windows may be quicker, while multiple balconies or refined frame requirements need better scheduling. Confirm measurement, quotation, approval, and work timing in writing before installation day."
       },
       {
         "question": "What should I photograph before requesting an invisible grill quote?",
@@ -7642,15 +7642,15 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "question": "Can invisible grills be matched with existing balcony design?",
-        "answer": "Often yes, if frame placement, cable direction, and hardware finish are discussed during measurement. The aim is to protect the opening without fighting the balcony design. Premium apartments need the safety system to look intentional, not like a late addition."
+        "answer": "Often yes, if frame placement, cable direction, and hardware finish are discussed during measurement. The aim is to protect the opening without fighting the balcony design. View-focused apartments need the safety system to look intentional, not like a late addition."
       }
     ],
     "closing": {
       "heading": "Choose invisible grills that look quiet and work seriously.",
       "paragraphs": [
         "A Nungambakkam invisible grill should protect children, pets, windows, and balcony edges while keeping the apartment open and polished. The details matter: spacing, cable quality, alignment, anchors, and after-service.",
-        "If you are comparing options, ask for a site visit that explains the safety plan and the visual finish together. Premium protection should be both reliable and graceful.",
-        "The best installation is the one you stop noticing in daily life, because the view stays open and the safety concern has quietly been handled."
+        "If you are comparing options, ask for a site visit that explains the safety plan and the visual finish together. Refined protection should be both reliable and graceful.",
+        "The right installation is the one you stop noticing in daily life, because the view stays open and the safety concern has quietly been handled."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -7677,7 +7677,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Pallavaram Chennai invisible grills",
       "title": "Invisible Grills in Pallavaram planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Pallavaram customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Pallavaram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Pallavaram customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Pallavaram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Pallavaram",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -7714,7 +7714,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Pallavaram sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during busy streets, dust, monsoon rain, summer heat, and balcony or terrace routines that change by season, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -7740,7 +7740,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Pallavaram installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallavaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallavaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7799,7 +7799,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -7837,8 +7837,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Pallavaram?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Pallavaram?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Pallavaram?",
@@ -7860,12 +7860,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Pallavaram service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallavaram page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallavaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Pallavaram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -7895,7 +7895,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Pallikaranai Chennai invisible grills",
       "title": "Invisible Grills in Pallikaranai planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Pallikaranai customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Pallikaranai plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Pallikaranai customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Pallikaranai plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Pallikaranai",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -7932,7 +7932,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Pallikaranai sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during morning cleaning, school rush, evening use, weekend maintenance, and quick phone-based coordination, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -7958,7 +7958,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Pallikaranai installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallikaranai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallikaranai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8017,7 +8017,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -8055,8 +8055,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Pallikaranai?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Pallikaranai?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Pallikaranai?",
@@ -8078,12 +8078,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Pallikaranai service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallikaranai page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallikaranai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallikaranai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Pallikaranai, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -8113,7 +8113,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Perambur Chennai invisible grills",
       "title": "Invisible Grills in Perambur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Perambur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Perambur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Perambur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Perambur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Perambur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -8150,7 +8150,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Perambur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during drying clothes, supervising children, managing pets, keeping airflow, and using compact utility space, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -8176,7 +8176,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Perambur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perambur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perambur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8235,7 +8235,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -8273,8 +8273,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Perambur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Perambur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Perambur?",
@@ -8296,12 +8296,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Perambur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perambur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perambur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perambur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Perambur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -8331,7 +8331,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Perungudi Chennai invisible grills",
       "title": "Invisible Grills in Perungudi planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Perungudi customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Perungudi plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Perungudi customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Perungudi plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Perungudi",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -8368,7 +8368,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Perungudi sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during owner approvals, association work hours, lift access, parking access, and keeping the home usable during installation, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -8394,7 +8394,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Perungudi installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perungudi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perungudi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8453,7 +8453,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -8491,8 +8491,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Perungudi?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Perungudi?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Perungudi?",
@@ -8514,12 +8514,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Perungudi service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perungudi page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perungudi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perungudi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Perungudi, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -8549,7 +8549,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Poonamallee Chennai invisible grills",
       "title": "Invisible Grills in Poonamallee planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Poonamallee customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Poonamallee plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Poonamallee customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Poonamallee plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Poonamallee",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -8586,7 +8586,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Poonamallee sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during rented-home decisions, visible facade lines, cleaning access, and future maintenance without repeated disturbance, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -8612,7 +8612,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Poonamallee installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Poonamallee, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Poonamallee, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8671,7 +8671,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -8709,8 +8709,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Poonamallee?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Poonamallee?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Poonamallee?",
@@ -8732,12 +8732,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Poonamallee service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Poonamallee page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Poonamallee page is written around full area scope instead of a short swapped-name paragraph.",
         "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Poonamallee sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Poonamallee, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -8767,7 +8767,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Porur Chennai invisible grills",
       "title": "Invisible Grills in Porur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Porur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Porur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Porur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Porur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Porur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -8804,7 +8804,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Porur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during family movement, elder use, service staff access, children watching from windows, and daily ventilation habits, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -8830,7 +8830,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Porur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Porur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Porur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8889,7 +8889,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -8927,8 +8927,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Porur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Porur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Porur?",
@@ -8950,12 +8950,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Porur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Porur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Porur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Porur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Porur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Porur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -8985,7 +8985,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Purasawalkam Chennai invisible grills",
       "title": "Invisible Grills in Purasawalkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Purasawalkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Purasawalkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Purasawalkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Purasawalkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Purasawalkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -9022,7 +9022,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Purasawalkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during busy streets, dust, monsoon rain, summer heat, and balcony or terrace routines that change by season, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -9048,7 +9048,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Purasawalkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Purasawalkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Purasawalkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9107,7 +9107,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -9145,8 +9145,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Purasawalkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Purasawalkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Purasawalkam?",
@@ -9168,12 +9168,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Purasawalkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Purasawalkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Purasawalkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Purasawalkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Purasawalkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -9203,7 +9203,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Ramapuram Chennai invisible grills",
       "title": "Invisible Grills in Ramapuram planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Ramapuram customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Ramapuram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Ramapuram customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Ramapuram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Ramapuram",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -9240,7 +9240,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Ramapuram sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during morning cleaning, school rush, evening use, weekend maintenance, and quick phone-based coordination, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -9266,7 +9266,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ramapuram installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ramapuram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ramapuram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9325,7 +9325,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -9363,8 +9363,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Ramapuram?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Ramapuram?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ramapuram?",
@@ -9386,12 +9386,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ramapuram service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ramapuram page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ramapuram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ramapuram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Ramapuram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -9421,7 +9421,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Royapettah Chennai invisible grills",
       "title": "Invisible Grills in Royapettah planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Royapettah customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Royapettah plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Royapettah customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Royapettah plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Royapettah",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -9458,7 +9458,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Royapettah sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during drying clothes, supervising children, managing pets, keeping airflow, and using compact utility space, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -9484,7 +9484,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Royapettah installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Royapettah, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Royapettah, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9543,7 +9543,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -9581,8 +9581,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Royapettah?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Royapettah?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Royapettah?",
@@ -9604,12 +9604,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Royapettah service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Royapettah page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Royapettah page is written around full area scope instead of a short swapped-name paragraph.",
         "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Royapettah sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Royapettah, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -9639,7 +9639,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Saidapet Chennai invisible grills",
       "title": "Invisible Grills in Saidapet planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Saidapet customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Saidapet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Saidapet customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Saidapet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Saidapet",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -9676,7 +9676,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Saidapet sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during owner approvals, association work hours, lift access, parking access, and keeping the home usable during installation, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -9702,7 +9702,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Saidapet installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Saidapet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Saidapet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9761,7 +9761,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -9799,8 +9799,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Saidapet?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Saidapet?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Saidapet?",
@@ -9822,12 +9822,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Saidapet service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Saidapet page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Saidapet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Saidapet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Saidapet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -9857,7 +9857,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Selaiyur Chennai invisible grills",
       "title": "Invisible Grills in Selaiyur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Selaiyur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Selaiyur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Selaiyur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Selaiyur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Selaiyur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -9894,7 +9894,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Selaiyur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during rented-home decisions, visible facade lines, cleaning access, and future maintenance without repeated disturbance, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -9920,7 +9920,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Selaiyur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Selaiyur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Selaiyur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9979,7 +9979,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -10017,8 +10017,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Selaiyur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Selaiyur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Selaiyur?",
@@ -10040,12 +10040,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Selaiyur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Selaiyur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Selaiyur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Selaiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Selaiyur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -10075,7 +10075,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Sholinganallur Chennai invisible grills",
       "title": "Invisible Grills in Sholinganallur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Sholinganallur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Sholinganallur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Sholinganallur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Sholinganallur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Sholinganallur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -10112,7 +10112,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Sholinganallur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during family movement, elder use, service staff access, children watching from windows, and daily ventilation habits, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -10138,7 +10138,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Sholinganallur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Sholinganallur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Sholinganallur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10197,7 +10197,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -10235,8 +10235,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Sholinganallur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Sholinganallur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Sholinganallur?",
@@ -10258,12 +10258,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Sholinganallur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Sholinganallur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Sholinganallur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Sholinganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Sholinganallur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -10293,7 +10293,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Siruseri Chennai invisible grills",
       "title": "Invisible Grills in Siruseri planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Siruseri customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Siruseri plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Siruseri customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Siruseri plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Siruseri",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -10330,7 +10330,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Siruseri sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during busy streets, dust, monsoon rain, summer heat, and balcony or terrace routines that change by season, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -10356,7 +10356,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Siruseri installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Siruseri, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Siruseri, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10415,7 +10415,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -10453,8 +10453,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Siruseri?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Siruseri?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Siruseri?",
@@ -10476,12 +10476,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Siruseri service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Siruseri page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Siruseri page is written around full area scope instead of a short swapped-name paragraph.",
         "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Siruseri sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Siruseri, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -10511,7 +10511,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Tambaram Chennai invisible grills",
       "title": "Invisible Grills in Tambaram planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Tambaram customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Tambaram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Tambaram customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Tambaram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Tambaram",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -10548,7 +10548,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Tambaram sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during morning cleaning, school rush, evening use, weekend maintenance, and quick phone-based coordination, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -10574,7 +10574,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Tambaram installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Tambaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Tambaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10633,7 +10633,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -10671,8 +10671,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Tambaram?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Tambaram?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Tambaram?",
@@ -10694,12 +10694,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Tambaram service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Tambaram page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Tambaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Tambaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Tambaram, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -10729,7 +10729,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "T Nagar Chennai invisible grills",
       "title": "Invisible Grills in T Nagar planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "T Nagar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good T Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "T Nagar customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good T Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in T Nagar",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -10766,7 +10766,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "T Nagar sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during drying clothes, supervising children, managing pets, keeping airflow, and using compact utility space, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -10792,7 +10792,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the T Nagar installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In T Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In T Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10851,7 +10851,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -10889,8 +10889,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in T Nagar?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in T Nagar?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in T Nagar?",
@@ -10912,12 +10912,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the T Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the T Nagar page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the T Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger T Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -10946,7 +10946,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Teynampet Chennai invisible grills",
       "title": "Invisible Grills in Teynampet planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Teynampet customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Teynampet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Teynampet customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Teynampet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Teynampet",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -10983,7 +10983,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Teynampet sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during owner approvals, association work hours, lift access, parking access, and keeping the home usable during installation, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -11009,7 +11009,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Teynampet installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Teynampet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Teynampet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11068,7 +11068,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -11106,8 +11106,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Teynampet?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Teynampet?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Teynampet?",
@@ -11129,12 +11129,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Teynampet service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Teynampet page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Teynampet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Teynampet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Teynampet, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -11164,7 +11164,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Thiruvanmiyur Chennai invisible grills",
       "title": "Invisible Grills in Thiruvanmiyur planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Thiruvanmiyur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Thiruvanmiyur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Thiruvanmiyur customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Thiruvanmiyur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Thiruvanmiyur",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -11201,7 +11201,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Thiruvanmiyur sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during rented-home decisions, visible facade lines, cleaning access, and future maintenance without repeated disturbance, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -11227,7 +11227,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Thiruvanmiyur installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thiruvanmiyur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thiruvanmiyur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11286,7 +11286,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -11324,8 +11324,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Thiruvanmiyur?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Thiruvanmiyur?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Thiruvanmiyur?",
@@ -11347,12 +11347,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Thiruvanmiyur service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thiruvanmiyur page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thiruvanmiyur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thiruvanmiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Thiruvanmiyur, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -11382,7 +11382,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Thoraipakkam Chennai invisible grills",
       "title": "Invisible Grills in Thoraipakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Thoraipakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Thoraipakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Thoraipakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Thoraipakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Thoraipakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -11419,7 +11419,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Thoraipakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during family movement, elder use, service staff access, children watching from windows, and daily ventilation habits, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -11445,7 +11445,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Thoraipakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thoraipakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thoraipakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11504,7 +11504,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -11542,8 +11542,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Thoraipakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Thoraipakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Thoraipakkam?",
@@ -11565,12 +11565,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Thoraipakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thoraipakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thoraipakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thoraipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Thoraipakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -11600,7 +11600,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Triplicane Chennai invisible grills",
       "title": "Invisible Grills in Triplicane planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Triplicane customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Triplicane plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Triplicane customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Triplicane plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Triplicane",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -11637,7 +11637,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Triplicane sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during busy streets, dust, monsoon rain, summer heat, and balcony or terrace routines that change by season, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -11663,7 +11663,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Triplicane installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Triplicane, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Triplicane, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11722,7 +11722,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -11760,8 +11760,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Triplicane?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Triplicane?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Triplicane?",
@@ -11783,12 +11783,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Triplicane service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Triplicane page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Triplicane page is written around full area scope instead of a short swapped-name paragraph.",
         "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Triplicane sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Triplicane, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -11818,7 +11818,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Vadapalani Chennai invisible grills",
       "title": "Invisible Grills in Vadapalani planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Vadapalani customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Vadapalani plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Vadapalani customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Vadapalani plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Vadapalani",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -11855,7 +11855,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Vadapalani sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during morning cleaning, school rush, evening use, weekend maintenance, and quick phone-based coordination, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -11881,7 +11881,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Vadapalani installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Vadapalani, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Vadapalani, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11940,7 +11940,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -11978,8 +11978,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Vadapalani?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Vadapalani?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Vadapalani?",
@@ -12001,12 +12001,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Vadapalani service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Vadapalani page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Vadapalani page is written around full area scope instead of a short swapped-name paragraph.",
         "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Vadapalani sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Vadapalani, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -12036,7 +12036,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Valasaravakkam Chennai invisible grills",
       "title": "Invisible Grills in Valasaravakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Valasaravakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Valasaravakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Valasaravakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Valasaravakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Valasaravakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -12073,7 +12073,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Valasaravakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during drying clothes, supervising children, managing pets, keeping airflow, and using compact utility space, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -12099,7 +12099,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Valasaravakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Valasaravakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Valasaravakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12158,7 +12158,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -12196,8 +12196,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Valasaravakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Valasaravakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Valasaravakkam?",
@@ -12219,12 +12219,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Valasaravakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Valasaravakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Valasaravakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Valasaravakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Valasaravakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -12254,7 +12254,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Velachery Chennai invisible grills",
       "title": "Invisible Grills in Velachery planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Velachery customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Velachery plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Velachery customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Velachery plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Velachery",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -12291,7 +12291,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Velachery sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during owner approvals, association work hours, lift access, parking access, and keeping the home usable during installation, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -12317,7 +12317,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Velachery installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Velachery, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Velachery, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12376,7 +12376,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -12414,8 +12414,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Velachery?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Velachery?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Velachery?",
@@ -12437,12 +12437,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Velachery service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Velachery page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Velachery page is written around full area scope instead of a short swapped-name paragraph.",
         "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Velachery sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Velachery, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -12472,7 +12472,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Villivakkam Chennai invisible grills",
       "title": "Invisible Grills in Villivakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Villivakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Villivakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Villivakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Villivakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Villivakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -12509,7 +12509,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Villivakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during rented-home decisions, visible facade lines, cleaning access, and future maintenance without repeated disturbance, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -12535,7 +12535,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Villivakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Villivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Villivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12594,7 +12594,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -12632,8 +12632,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Villivakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Villivakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Villivakkam?",
@@ -12655,12 +12655,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Villivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Villivakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Villivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Villivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Villivakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -12690,7 +12690,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Virugambakkam Chennai invisible grills",
       "title": "Invisible Grills in Virugambakkam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "Virugambakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Virugambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "Virugambakkam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good Virugambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Virugambakkam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -12727,7 +12727,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "Virugambakkam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during family movement, elder use, service staff access, children watching from windows, and daily ventilation habits, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -12753,7 +12753,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Virugambakkam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Virugambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Virugambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12812,7 +12812,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -12850,8 +12850,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in Virugambakkam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in Virugambakkam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Virugambakkam?",
@@ -12873,12 +12873,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Virugambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Virugambakkam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Virugambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Virugambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities.",
         "For Virugambakkam, this final note is important because customers often discover related gaps only after one section is improved. Naming those nearby points early keeps later work cleaner, faster, and easier to approve."
@@ -12908,7 +12908,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "West Mambalam Chennai invisible grills",
       "title": "Invisible Grills in West Mambalam planned for cleaner use, safer edges, and dependable area installation.",
-      "lead": "West Mambalam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good West Mambalam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
+      "lead": "West Mambalam customers often need invisible grills for a practical reason, not for a decorative upgrade. The site may involve balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations, and the work has to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges without making daily use harder. A good West Mambalam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in West Mambalam",
       "secondaryCta": "WhatsApp Cable Safety Details"
@@ -12945,7 +12945,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "image": "/cards/invisible-grill.webp",
         "paragraphs": [
           "West Mambalam sites can look similar from the outside while needing very different installation choices. One flat may have a simple balcony opening, another may have side gaps and utility ledges, and a community space may need wider coverage for repeated use. The installer should ask how the space is used during busy streets, dust, monsoon rain, summer heat, and balcony or terrace routines that change by season, because those routines reveal the real scope.",
-          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
+          "A rushed estimate can miss the exact point where the problem enters or where safety depends on extra support. The better method is to walk the site, identify the practical route, and decide whether balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations should be handled together or split into phases. This makes the final quote easier to trust."
         ]
       },
       {
@@ -12971,7 +12971,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the West Mambalam installation dependable",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In West Mambalam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In West Mambalam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "straight cable lines that look light from inside while giving dependable edge protection for daily family use. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -13030,7 +13030,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         },
         {
           "title": "Check every edge and route",
-          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and premium apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
+          "description": "Include balcony faces, window openings, high-rise edges, view-facing rooms, and refined apartment elevations so the final scope does not leave a nearby gap or pressure point untreated."
         },
         {
           "title": "Ask why the material fits",
@@ -13068,8 +13068,8 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "The goal is to solve falls, wide railing gaps, pet movement, child reach, low sill height, and unsafe open-view edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for invisible grills in West Mambalam?",
-        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for invisible grills in West Mambalam?",
+        "answer": "The material should match marine-grade stainless steel cables, protective coating, measured cable spacing, and strong frame anchoring. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in West Mambalam?",
@@ -13091,12 +13091,12 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the West Mambalam service with a site-specific plan.",
       "paragraphs": [
-        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
-        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and premium open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the West Mambalam page is written around full area scope instead of a short swapped-name paragraph.",
+        "Invisible Grills should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "The finished work should provide straight cable lines, discreet hardware, corrosion-aware fittings, and refined open-view protection, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the West Mambalam page is written around full area scope instead of a short swapped-name paragraph.",
         "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger West Mambalam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -13109,7 +13109,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Adambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Adambakkam, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Adambakkam, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Adambakkam",
         "invisible grills Adambakkam Chennai",
@@ -13203,7 +13203,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Adambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13234,7 +13234,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13280,7 +13280,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Adambakkam conditions?",
+        "question": "Which material is right for Adambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13319,7 +13319,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Ayanavaram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Ayanavaram, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Ayanavaram, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Ayanavaram",
         "invisible grills Ayanavaram Chennai",
@@ -13413,7 +13413,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ayanavaram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13444,7 +13444,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13490,7 +13490,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ayanavaram conditions?",
+        "question": "Which material is right for Ayanavaram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13530,7 +13530,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Ekkattuthangal Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Ekkattuthangal, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Ekkattuthangal, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Ekkattuthangal",
         "invisible grills Ekkattuthangal Chennai",
@@ -13624,7 +13624,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ekkattuthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13655,7 +13655,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13701,7 +13701,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ekkattuthangal conditions?",
+        "question": "Which material is right for Ekkattuthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13741,7 +13741,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Iyyappanthangal Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Iyyappanthangal, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Iyyappanthangal, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Iyyappanthangal",
         "invisible grills Iyyappanthangal Chennai",
@@ -13835,7 +13835,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Iyyappanthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13866,7 +13866,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13912,7 +13912,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Iyyappanthangal conditions?",
+        "question": "Which material is right for Iyyappanthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13952,7 +13952,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Manapakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Manapakkam, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Manapakkam, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Manapakkam",
         "invisible grills Manapakkam Chennai",
@@ -14046,7 +14046,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Manapakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14077,7 +14077,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14123,7 +14123,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Manapakkam conditions?",
+        "question": "Which material is right for Manapakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14163,7 +14163,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Mandaveli Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Mandaveli, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Mandaveli, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Mandaveli",
         "invisible grills Mandaveli Chennai",
@@ -14179,7 +14179,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Mandaveli Chennai invisible grills",
       "title": "Invisible Grills in Mandaveli planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Mandaveli customers often need invisible grills for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, and the work has to solve open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns without making routine use harder. A good Mandaveli plan studies older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "lead": "Mandaveli customers often need invisible grills for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, and the work has to solve open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns without making routine use harder. A good Mandaveli plan studies older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/invisible-grill.webp",
       "primaryCta": "Call for Invisible Grill Visit in Mandaveli",
       "secondaryCta": "WhatsApp Grill Details"
@@ -14188,7 +14188,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       {
         "stat": "Mandaveli",
         "label": "Area Site Focus",
-        "description": "Written for Mandaveli conditions, including older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
       },
       {
         "stat": "2500",
@@ -14205,7 +14205,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "heading": "Why Mandaveli sites need a clear invisible grills plan",
       "paragraphs": [
         "Invisible Grills in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Invisible Grills should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Invisible Grills should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Mandaveli, DK Safety Solutions should check cable spacing, frame strength, view line, association rules, surface level, corner return, floor height so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14257,7 +14257,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Mandaveli, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14288,7 +14288,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14334,7 +14334,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Mandaveli conditions?",
+        "question": "Which material is right for Mandaveli conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14374,7 +14374,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Palavakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Palavakkam, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Palavakkam, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Palavakkam",
         "invisible grills Palavakkam Chennai",
@@ -14468,7 +14468,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Palavakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14499,7 +14499,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14545,7 +14545,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Palavakkam conditions?",
+        "question": "Which material is right for Palavakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14585,7 +14585,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Periyar Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Periyar Nagar, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Periyar Nagar, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Periyar Nagar",
         "invisible grills Periyar Nagar Chennai",
@@ -14679,7 +14679,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Periyar Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14710,7 +14710,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14756,7 +14756,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Periyar Nagar conditions?",
+        "question": "Which material is right for Periyar Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14795,7 +14795,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Royapuram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Royapuram, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Royapuram, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Royapuram",
         "invisible grills Royapuram Chennai",
@@ -14889,7 +14889,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Royapuram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14920,7 +14920,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14966,7 +14966,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Royapuram conditions?",
+        "question": "Which material is right for Royapuram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15006,7 +15006,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Semmancheri Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Semmancheri, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Semmancheri, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Semmancheri",
         "invisible grills Semmancheri Chennai",
@@ -15100,7 +15100,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Semmancheri, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15131,7 +15131,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15177,7 +15177,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Semmancheri conditions?",
+        "question": "Which material is right for Semmancheri conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15217,7 +15217,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Tondiarpet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Tondiarpet, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Tondiarpet, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Tondiarpet",
         "invisible grills Tondiarpet Chennai",
@@ -15311,7 +15311,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Tondiarpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15342,7 +15342,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15388,7 +15388,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Tondiarpet conditions?",
+        "question": "Which material is right for Tondiarpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15428,7 +15428,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
     "serviceSlug": "invisible-grills",
     "metadata": {
       "title": "Invisible Grills in Washermanpet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for invisible grills in Washermanpet, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and premium apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai guide for invisible grills in Washermanpet, Chennai, covering balcony faces, wide window bays, view-facing openings, and high-rise apartment edges, open-view stainless steel cable protection for balconies, large windows, and refined apartment fronts, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
       "keywords": [
         "invisible grills in Washermanpet",
         "invisible grills Washermanpet Chennai",
@@ -15522,7 +15522,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Washermanpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15553,7 +15553,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge safety, view loss from bulky grills, association finish rules, and cable tension concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15599,7 +15599,7 @@ export const invisibleGrillPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Washermanpet conditions?",
+        "question": "Which material is right for Washermanpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {

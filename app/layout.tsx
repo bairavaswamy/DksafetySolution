@@ -21,11 +21,6 @@ const NavBar = dynamic(() => import("./components/NavBar"), {
     ssr: true,
   });
 
-  const ContactDetailsBar = dynamic(() => import("./components/ContactDetailsBar"), {
-    ssr: true,
-    loading: () => null,
-  });
-
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: `${siteConfig.name} | Home Safety Solutions`,
@@ -62,7 +57,6 @@ export default function RootLayout({
         <SiteStructuredData />
        <div>
         <NavBar />
-        <ContactDetailsBar />
         {children}
         <FloatingContact />
         <Footer />

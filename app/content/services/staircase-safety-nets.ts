@@ -86,7 +86,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Adyar installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Adyar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Adyar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -183,8 +183,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Adyar?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Adyar?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Adyar?",
@@ -206,12 +206,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Adyar service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Adyar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Adyar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Adyar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -303,7 +303,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Alandur installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Alandur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Alandur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -400,8 +400,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Alandur?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Alandur?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Alandur?",
@@ -423,12 +423,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Alandur service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Alandur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Alandur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Alandur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -520,7 +520,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ambattur installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ambattur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ambattur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -617,8 +617,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Ambattur?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Ambattur?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ambattur?",
@@ -640,12 +640,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ambattur service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ambattur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ambattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ambattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -737,7 +737,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Aminjikarai installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Aminjikarai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Aminjikarai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -834,8 +834,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Aminjikarai?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Aminjikarai?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Aminjikarai?",
@@ -857,12 +857,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Aminjikarai service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Aminjikarai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Aminjikarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Aminjikarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -917,7 +917,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Anna Nagar sites need a clear staircase safety nets plan",
       "paragraphs": [
         "Staircase Safety Nets in Anna Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Anna Nagar service pages should emphasize premium finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Staircase safety nets need clean vertical coverage that protects open voids without making stairs dark, cramped, or hard to clean.",
+        "Anna Nagar service pages should emphasize neat finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Staircase safety nets need clean vertical coverage that protects open voids without making stairs dark, cramped, or hard to clean.",
         "Before quoting in Anna Nagar, DK Safety Solutions should check void height, railing gap, stair angle, landing width, anchor side, visibility, and cleaning access so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -954,7 +954,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Anna Nagar installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Anna Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Anna Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1051,8 +1051,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Anna Nagar?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Anna Nagar?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Anna Nagar?",
@@ -1074,12 +1074,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Anna Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Anna Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Anna Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Anna Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -1170,7 +1170,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Arumbakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Arumbakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Arumbakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1267,8 +1267,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Arumbakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Arumbakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Arumbakkam?",
@@ -1290,12 +1290,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Arumbakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Arumbakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Arumbakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Arumbakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -1387,7 +1387,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ashok Nagar installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ashok Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ashok Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1484,8 +1484,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Ashok Nagar?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Ashok Nagar?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ashok Nagar?",
@@ -1507,12 +1507,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ashok Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ashok Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ashok Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ashok Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -1603,7 +1603,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Avadi installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Avadi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Avadi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1700,8 +1700,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Avadi?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Avadi?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Avadi?",
@@ -1723,12 +1723,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Avadi service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Avadi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Avadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Avadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -1820,7 +1820,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Besant Nagar installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Besant Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Besant Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -1917,8 +1917,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Besant Nagar?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Besant Nagar?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Besant Nagar?",
@@ -1940,12 +1940,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Besant Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Besant Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For Besant Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Besant Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -2035,7 +2035,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Chetpet installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chetpet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chetpet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2132,8 +2132,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Chetpet?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Chetpet?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Chetpet?",
@@ -2155,12 +2155,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Chetpet service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chetpet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Chetpet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chetpet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -2252,7 +2252,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Choolaimedu installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Choolaimedu, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Choolaimedu, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2349,8 +2349,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Choolaimedu?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Choolaimedu?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Choolaimedu?",
@@ -2372,12 +2372,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Choolaimedu service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Choolaimedu page is written around full area scope instead of a short swapped-name paragraph.",
         "For Choolaimedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Choolaimedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -2469,7 +2469,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Chromepet installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chromepet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Chromepet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2566,8 +2566,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Chromepet?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Chromepet?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Chromepet?",
@@ -2589,12 +2589,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Chromepet service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Chromepet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Chromepet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Chromepet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -2686,7 +2686,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Egmore installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Egmore, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Egmore, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -2783,8 +2783,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Egmore?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Egmore?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Egmore?",
@@ -2806,12 +2806,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Egmore service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Egmore page is written around full area scope instead of a short swapped-name paragraph.",
         "For Egmore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Egmore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -2903,7 +2903,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Guindy installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Guindy, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Guindy, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3000,8 +3000,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Guindy?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Guindy?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Guindy?",
@@ -3023,12 +3023,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Guindy service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Guindy page is written around full area scope instead of a short swapped-name paragraph.",
         "For Guindy, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Guindy sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -3120,7 +3120,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Injambakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Injambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Injambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3217,8 +3217,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Injambakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Injambakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Injambakkam?",
@@ -3240,12 +3240,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Injambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Injambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Injambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Injambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -3337,7 +3337,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the K K Nagar installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In K K Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In K K Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3434,8 +3434,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in K K Nagar?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in K K Nagar?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in K K Nagar?",
@@ -3457,7 +3457,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the K K Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the K K Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For K K Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
@@ -3551,7 +3551,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kandanchavadi installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kandanchavadi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kandanchavadi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3648,8 +3648,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Kandanchavadi?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Kandanchavadi?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kandanchavadi?",
@@ -3671,12 +3671,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kandanchavadi service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kandanchavadi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kandanchavadi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kandanchavadi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -3768,7 +3768,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Karapakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Karapakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Karapakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -3865,8 +3865,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Karapakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Karapakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Karapakkam?",
@@ -3888,12 +3888,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Karapakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Karapakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Karapakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Karapakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -3985,7 +3985,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kelambakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kelambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kelambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4082,8 +4082,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Kelambakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Kelambakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kelambakkam?",
@@ -4105,12 +4105,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kelambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kelambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kelambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kelambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -4202,7 +4202,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kilpauk installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kilpauk, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kilpauk, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4299,8 +4299,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Kilpauk?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Kilpauk?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kilpauk?",
@@ -4322,12 +4322,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kilpauk service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kilpauk page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kilpauk, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kilpauk sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -4419,7 +4419,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kodambakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kodambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kodambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4516,8 +4516,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Kodambakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Kodambakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kodambakkam?",
@@ -4539,12 +4539,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kodambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kodambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kodambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kodambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -4636,7 +4636,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kolathur installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kolathur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kolathur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4733,8 +4733,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Kolathur?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Kolathur?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kolathur?",
@@ -4756,12 +4756,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kolathur service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kolathur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kolathur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kolathur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -4853,7 +4853,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Korattur installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Korattur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Korattur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -4950,8 +4950,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Korattur?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Korattur?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Korattur?",
@@ -4973,12 +4973,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Korattur service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Korattur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Korattur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Korattur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -5070,7 +5070,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Kottivakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kottivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Kottivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5167,8 +5167,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Kottivakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Kottivakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Kottivakkam?",
@@ -5190,12 +5190,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Kottivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Kottivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Kottivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Kottivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -5287,7 +5287,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Koyambedu installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Koyambedu, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Koyambedu, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5384,8 +5384,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Koyambedu?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Koyambedu?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Koyambedu?",
@@ -5407,12 +5407,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Koyambedu service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Koyambedu page is written around full area scope instead of a short swapped-name paragraph.",
         "For Koyambedu, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Koyambedu sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -5504,7 +5504,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Madipakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madipakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madipakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5601,8 +5601,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Madipakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Madipakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Madipakkam?",
@@ -5624,12 +5624,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Madipakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madipakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Madipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -5721,7 +5721,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Madhavaram installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madhavaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Madhavaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -5818,8 +5818,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Madhavaram?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Madhavaram?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Madhavaram?",
@@ -5841,12 +5841,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Madhavaram service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Madhavaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Madhavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Madhavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -5938,7 +5938,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Medavakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Medavakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Medavakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6035,8 +6035,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Medavakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Medavakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Medavakkam?",
@@ -6058,12 +6058,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Medavakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Medavakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Medavakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Medavakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -6155,7 +6155,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mogappair installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mogappair, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mogappair, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6252,8 +6252,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Mogappair?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Mogappair?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mogappair?",
@@ -6275,12 +6275,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mogappair service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mogappair page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mogappair, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mogappair sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -6372,7 +6372,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mugalivakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mugalivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mugalivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6469,8 +6469,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Mugalivakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Mugalivakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mugalivakkam?",
@@ -6492,12 +6492,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mugalivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mugalivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mugalivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mugalivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -6589,7 +6589,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Mylapore installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mylapore, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Mylapore, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6686,8 +6686,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Mylapore?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Mylapore?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Mylapore?",
@@ -6709,12 +6709,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Mylapore service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Mylapore page is written around full area scope instead of a short swapped-name paragraph.",
         "For Mylapore, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Mylapore sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -6806,7 +6806,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Nanganallur installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nanganallur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nanganallur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -6903,8 +6903,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Nanganallur?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Nanganallur?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Nanganallur?",
@@ -6926,12 +6926,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Nanganallur service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nanganallur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Nanganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nanganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -7023,7 +7023,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Navalur installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Navalur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Navalur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7120,8 +7120,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Navalur?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Navalur?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Navalur?",
@@ -7143,12 +7143,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Navalur service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Navalur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Navalur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Navalur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -7240,7 +7240,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Neelankarai installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Neelankarai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Neelankarai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7337,8 +7337,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Neelankarai?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Neelankarai?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Neelankarai?",
@@ -7360,12 +7360,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Neelankarai service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Neelankarai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Neelankarai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Neelankarai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -7420,7 +7420,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Nungambakkam sites need a clear staircase safety nets plan",
       "paragraphs": [
         "Staircase Safety Nets in Nungambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Nungambakkam service entries should emphasize discreet hardware, straight alignment, premium finish, and clean installation that respects high-value interiors. Staircase safety nets need clean vertical coverage that protects open voids without making stairs dark, cramped, or hard to clean.",
+        "Nungambakkam service entries should emphasize discreet hardware, straight alignment, neat finish, and clean installation that respects high-value interiors. Staircase safety nets need clean vertical coverage that protects open voids without making stairs dark, cramped, or hard to clean.",
         "Before quoting in Nungambakkam, DK Safety Solutions should check void height, railing gap, stair angle, landing width, anchor side, visibility, and cleaning access so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -7457,7 +7457,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Nungambakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nungambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Nungambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7554,8 +7554,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Nungambakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Nungambakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Nungambakkam?",
@@ -7577,12 +7577,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Nungambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Nungambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Nungambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Nungambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -7674,7 +7674,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Pallavaram installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallavaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallavaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7771,8 +7771,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Pallavaram?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Pallavaram?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Pallavaram?",
@@ -7794,12 +7794,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Pallavaram service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallavaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Pallavaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallavaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -7891,7 +7891,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Pallikaranai installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallikaranai, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Pallikaranai, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -7988,8 +7988,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Pallikaranai?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Pallikaranai?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Pallikaranai?",
@@ -8011,12 +8011,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Pallikaranai service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Pallikaranai page is written around full area scope instead of a short swapped-name paragraph.",
         "For Pallikaranai, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Pallikaranai sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -8108,7 +8108,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Perambur installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perambur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perambur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8205,8 +8205,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Perambur?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Perambur?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Perambur?",
@@ -8228,12 +8228,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Perambur service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perambur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Perambur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perambur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -8325,7 +8325,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Perungudi installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perungudi, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Perungudi, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8422,8 +8422,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Perungudi?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Perungudi?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Perungudi?",
@@ -8445,12 +8445,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Perungudi service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Perungudi page is written around full area scope instead of a short swapped-name paragraph.",
         "For Perungudi, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Perungudi sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -8542,7 +8542,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Poonamallee installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Poonamallee, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Poonamallee, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -8639,8 +8639,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Poonamallee?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Poonamallee?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Poonamallee?",
@@ -8662,12 +8662,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Poonamallee service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Poonamallee page is written around full area scope instead of a short swapped-name paragraph.",
         "For Poonamallee, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Poonamallee sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -8697,7 +8697,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "eyebrow": "Porur Chennai staircase safety nets",
       "title": "Staircase Safety Nets in Porur for duplex voids, child-safe interiors, and calmer family movement.",
       "lead": "Porur homes include apartments, duplex flats, independent houses, and new family layouts where staircases, railings, internal balconies, and double-height voids can create real fall risks. Staircase safety nets should protect those vertical openings without making the home feel patched or awkward.",
-      "image": "/images/site/chennai-article-anchor-detail.png",
+      "image": "/images/site/chennai-article-anchor-detail.webp",
       "primaryCta": "Call for Porur Staircase Visit",
       "secondaryCta": "WhatsApp Staircase Photos"
     },
@@ -8770,13 +8770,13 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
           "Unlike many balcony nets, staircase safety nets are part of the interior view. Porur homeowners may have painted walls, polished railings, woodwork, or decorative lighting near the staircase. The installation should avoid messy knots, sagging mesh, and random drilling that make the area look temporary.",
-          "Before work starts, discuss border line, color, fixing points, and how the net will appear from the hall. A safe staircase can still look calm. The best work blends into the home rather than announcing itself every time someone walks in."
+          "Before work starts, discuss border line, color, fixing points, and how the net will appear from the hall. A safe staircase can still look calm. The right work blends into the home rather than announcing itself every time someone walks in."
         ]
       },
       {
         "eyebrow": "Rental And New Homes",
         "heading": "New residents should solve stair risk before furniture settles",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Porur has many families moving into new apartments and duplex homes. Stair safety is easier to plan before large furniture, storage units, and decor are placed around the void. Early installation can prevent children from adapting risky play habits around an open railing.",
           "In rented homes, approval matters. The tenant should ask where drilling will happen and what marks may remain. A clean written scope helps owners understand that the work is a safety measure, not a careless modification."
@@ -8794,7 +8794,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Scope",
         "heading": "Staircase quotes should include each landing and void separately",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A staircase safety quote should identify the railing gaps, landing openings, internal balcony edges, and double-height voids included. If the scope is vague, the customer may discover that one risky edge was not covered. Room-by-room clarity matters inside a home.",
           "Send photos from both floors, including close-ups of railings and wide shots of the void. The quote should discuss material, fixing points, finish, installation time, and whether children or pets are part of the safety requirement."
@@ -8821,7 +8821,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Phased Interior Work",
         "heading": "Stair safety should be timed with painting and railing repairs",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "If the staircase is about to be painted, polished, or repaired, install the safety net after that work or plan a fixing method that can be adjusted. Otherwise, painters or railing workers may loosen the mesh and leave the family with a weak edge afterward.",
           "Porur homeowners setting up a new duplex should think through sequence: railing repair, painting, lighting, then safety netting. A little timing discipline keeps the final finish cleaner and avoids paying twice for adjustments.",
@@ -8880,8 +8880,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "Tenants can install them with owner approval. Ask the installer to explain drilling points, possible marks, and removal options. A written scope helps the owner understand the safety purpose."
       },
       {
-        "question": "What material is best for staircase safety nets?",
-        "answer": "The best material depends on opening size, visibility, children, pets, and interior finish. It should stay tight, resist daily contact, and look clean inside the home. The installer should explain the tradeoff between strength and appearance."
+        "question": "What material is right for staircase safety nets?",
+        "answer": "The right material depends on opening size, visibility, children, pets, and interior finish. It should stay tight, resist daily contact, and look clean inside the home. The installer should explain the tradeoff between strength and appearance."
       },
       {
         "question": "How much do staircase safety nets cost in Porur?",
@@ -8942,7 +8942,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "Staircase safety nets should protect vertical openings, railings, landings, pets, and children while keeping the home visually calm.",
         "A proper visit studies movement, railing gaps, voids, interior finish, and the family's daily habits before deciding the net line.",
         "For duplex homes and family apartments, that careful planning can turn a constant worry into a quiet safety layer.",
-        "The best staircase net is noticed for a few days, then simply becomes part of a safer home routine."
+        "The right staircase net is noticed for a few days, then simply becomes part of a safer home routine."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -9032,7 +9032,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Purasawalkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Purasawalkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Purasawalkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9129,8 +9129,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Purasawalkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Purasawalkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Purasawalkam?",
@@ -9152,12 +9152,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Purasawalkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Purasawalkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Purasawalkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Purasawalkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -9249,7 +9249,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Ramapuram installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ramapuram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Ramapuram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9346,8 +9346,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Ramapuram?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Ramapuram?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Ramapuram?",
@@ -9369,12 +9369,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Ramapuram service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Ramapuram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Ramapuram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Ramapuram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -9466,7 +9466,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Royapettah installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Royapettah, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Royapettah, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9563,8 +9563,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Royapettah?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Royapettah?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Royapettah?",
@@ -9586,12 +9586,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Royapettah service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Royapettah page is written around full area scope instead of a short swapped-name paragraph.",
         "For Royapettah, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Royapettah sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -9683,7 +9683,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Saidapet installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Saidapet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Saidapet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9780,8 +9780,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Saidapet?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Saidapet?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Saidapet?",
@@ -9803,12 +9803,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Saidapet service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Saidapet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Saidapet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Saidapet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -9900,7 +9900,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Selaiyur installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Selaiyur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Selaiyur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -9997,8 +9997,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Selaiyur?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Selaiyur?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Selaiyur?",
@@ -10020,12 +10020,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Selaiyur service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Selaiyur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Selaiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Selaiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -10117,7 +10117,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Sholinganallur installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Sholinganallur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Sholinganallur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10214,8 +10214,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Sholinganallur?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Sholinganallur?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Sholinganallur?",
@@ -10237,12 +10237,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Sholinganallur service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Sholinganallur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Sholinganallur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Sholinganallur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -10334,7 +10334,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Siruseri installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Siruseri, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Siruseri, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10431,8 +10431,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Siruseri?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Siruseri?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Siruseri?",
@@ -10454,12 +10454,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Siruseri service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Siruseri page is written around full area scope instead of a short swapped-name paragraph.",
         "For Siruseri, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Siruseri sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -10551,7 +10551,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Tambaram installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Tambaram, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Tambaram, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10648,8 +10648,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Tambaram?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Tambaram?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Tambaram?",
@@ -10671,12 +10671,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Tambaram service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Tambaram page is written around full area scope instead of a short swapped-name paragraph.",
         "For Tambaram, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Tambaram sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -10768,7 +10768,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the T Nagar installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In T Nagar, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In T Nagar, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -10865,8 +10865,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in T Nagar?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in T Nagar?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in T Nagar?",
@@ -10888,12 +10888,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the T Nagar service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the T Nagar page is written around full area scope instead of a short swapped-name paragraph.",
         "For T Nagar, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger T Nagar sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover."
       ],
       "cta": "Call DK Safety Solutions"
@@ -10984,7 +10984,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Teynampet installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Teynampet, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Teynampet, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11081,8 +11081,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Teynampet?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Teynampet?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Teynampet?",
@@ -11104,12 +11104,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Teynampet service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Teynampet page is written around full area scope instead of a short swapped-name paragraph.",
         "For Teynampet, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Teynampet sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -11201,7 +11201,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Thiruvanmiyur installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thiruvanmiyur, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thiruvanmiyur, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11298,8 +11298,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Thiruvanmiyur?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Thiruvanmiyur?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Thiruvanmiyur?",
@@ -11321,12 +11321,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Thiruvanmiyur service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thiruvanmiyur page is written around full area scope instead of a short swapped-name paragraph.",
         "For Thiruvanmiyur, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thiruvanmiyur sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -11418,7 +11418,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Thoraipakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thoraipakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Thoraipakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11515,8 +11515,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Thoraipakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Thoraipakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Thoraipakkam?",
@@ -11538,12 +11538,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Thoraipakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Thoraipakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Thoraipakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Thoraipakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -11635,7 +11635,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Triplicane installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Triplicane, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Triplicane, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11732,8 +11732,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Triplicane?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Triplicane?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Triplicane?",
@@ -11755,12 +11755,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Triplicane service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Triplicane page is written around full area scope instead of a short swapped-name paragraph.",
         "For Triplicane, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Triplicane sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -11852,7 +11852,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Vadapalani installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Vadapalani, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Vadapalani, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -11949,8 +11949,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Vadapalani?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Vadapalani?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Vadapalani?",
@@ -11972,12 +11972,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Vadapalani service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Vadapalani page is written around full area scope instead of a short swapped-name paragraph.",
         "For Vadapalani, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Vadapalani sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -12069,7 +12069,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Valasaravakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Valasaravakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Valasaravakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12166,8 +12166,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Valasaravakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Valasaravakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Valasaravakkam?",
@@ -12189,12 +12189,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Valasaravakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Valasaravakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Valasaravakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Valasaravakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -12286,7 +12286,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Velachery installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Velachery, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Velachery, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12383,8 +12383,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Velachery?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Velachery?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Velachery?",
@@ -12406,12 +12406,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Velachery service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Velachery page is written around full area scope instead of a short swapped-name paragraph.",
         "For Velachery, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Velachery sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -12503,7 +12503,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Villivakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Villivakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Villivakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12600,8 +12600,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Villivakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Villivakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Villivakkam?",
@@ -12623,12 +12623,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Villivakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Villivakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Villivakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Villivakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -12720,7 +12720,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the Virugambakkam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Virugambakkam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In Virugambakkam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -12817,8 +12817,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in Virugambakkam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in Virugambakkam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in Virugambakkam?",
@@ -12840,12 +12840,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the Virugambakkam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the Virugambakkam page is written around full area scope instead of a short swapped-name paragraph.",
         "For Virugambakkam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger Virugambakkam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use.",
         "DK Safety Solutions should also explain what normal wear looks like, when to call for adjustment, and what habits to avoid. This makes the service more dependable than a one-time fitting with no handover.",
         "If nearby spaces have similar risk, they should be noted during the same visit. That does not mean every area must be completed immediately, but the customer gets a full picture before deciding priorities."
       ],
@@ -12937,7 +12937,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "heading": "Strong fixing makes the West Mambalam installation dependable",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
-          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In West Mambalam, older buildings, renovated balconies, compact utility areas, and premium facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
+          "The fixing method should respect wall strength, frame condition, railing surfaces, ceiling type, floor level, and access limits. In West Mambalam, older buildings, renovated balconies, compact utility areas, and finished facades may all need different fixing decisions. The team should explain where each anchor or support point will sit.",
           "secure stairwell coverage that feels tidy inside the home and does not block daily walking routes. That outcome depends on even spacing, tight borders, clean corner treatment, and a clear decision about future maintenance access. Temporary tying or skipped support points may look acceptable for a few days but often create callbacks, sagging, or unfinished edges later."
         ]
       },
@@ -13034,8 +13034,8 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "The goal is to solve children leaning through railings, pets slipping through gaps, objects falling into voids, and unsafe open stair edges while keeping normal use practical. Airflow, cleaning, walking clearance, maintenance routes, and visibility should be discussed before final approval."
       },
       {
-        "question": "What material is best for staircase safety nets in West Mambalam?",
-        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The best choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
+        "question": "What material is right for staircase safety nets in West Mambalam?",
+        "answer": "The material should match strong vertical safety mesh, tight border rope, dependable anchor points, and neat fixing along railing or wall sides. The right choice depends on exposure, pressure, appearance expectations, and whether the site is residential, commercial, sports, utility, or amenity-focused."
       },
       {
         "question": "What should I clear before the installation team arrives in West Mambalam?",
@@ -13057,12 +13057,12 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Finish the West Mambalam service with a site-specific plan.",
       "paragraphs": [
-        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The best result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
+        "Staircase Safety Nets should feel like a practical improvement to the site, not a rushed add-on. The right result comes from checking the problem, choosing the right material, fixing it cleanly, and leaving the customer with a clear idea of how to use and maintain it.",
         "The finished work should provide firm vertical tension, tidy edge ropes, clear stair movement, and safer duplex or apartment interiors, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the West Mambalam page is written around full area scope instead of a short swapped-name paragraph.",
         "For West Mambalam, a proper visit turns the service from a rough product request into a clear installation plan. Once the site is measured and the pressure points are understood, DK Safety Solutions can recommend a cleaner scope, a fairer quote, and a finish that keeps working after installation day.",
         "A final walkthrough should happen after the installation is complete. The customer should look at the main line, side corners, support points, and any access route that will be used later. That small review prevents confusion when cleaning, maintenance, or heavy use begins.",
         "For larger West Mambalam sites, it can help to mark urgent work and future work separately. Some customers finish one problem area first, while others complete all matching openings in one schedule. A written scope keeps those decisions organized.",
-        "The best installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
+        "The right installation is the one the customer understands. When every fixing point and material choice has a reason, the finished service is easier to trust and easier to maintain through Chennai weather and daily use."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -13167,7 +13167,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Adambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13198,7 +13198,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13244,7 +13244,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Adambakkam conditions?",
+        "question": "Which material is right for Adambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13377,7 +13377,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ayanavaram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13408,7 +13408,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13454,7 +13454,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ayanavaram conditions?",
+        "question": "Which material is right for Ayanavaram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13587,7 +13587,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ekkattuthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13618,7 +13618,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13664,7 +13664,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ekkattuthangal conditions?",
+        "question": "Which material is right for Ekkattuthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13797,7 +13797,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Iyyappanthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13828,7 +13828,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13874,7 +13874,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Iyyappanthangal conditions?",
+        "question": "Which material is right for Iyyappanthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14007,7 +14007,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Manapakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14038,7 +14038,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14084,7 +14084,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Manapakkam conditions?",
+        "question": "Which material is right for Manapakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14139,7 +14139,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Mandaveli Chennai staircase safety nets",
       "title": "Staircase Safety Nets in Mandaveli planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Mandaveli customers often need staircase safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve staircase wells, duplex double-height voids, open railings, landing gaps, and child-accessible internal edges, and the work has to solve vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids without making routine use harder. A good Mandaveli plan studies older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "lead": "Mandaveli customers often need staircase safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve staircase wells, duplex double-height voids, open railings, landing gaps, and child-accessible internal edges, and the work has to solve vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids without making routine use harder. A good Mandaveli plan studies older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Staircase Net Visit in Mandaveli",
       "secondaryCta": "WhatsApp Staircase Net Details"
@@ -14148,7 +14148,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Mandaveli",
         "label": "Area Site Focus",
-        "description": "Written for Mandaveli conditions, including older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
       },
       {
         "stat": "2500",
@@ -14165,7 +14165,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mandaveli sites need a clear staircase safety nets plan",
       "paragraphs": [
         "Staircase Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Staircase Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Staircase Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Mandaveli, DK Safety Solutions should check void height, railing gap, fixing side, visibility, landing access, child movement, cleaning route so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14217,7 +14217,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Mandaveli, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14248,7 +14248,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14294,7 +14294,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Mandaveli conditions?",
+        "question": "Which material is right for Mandaveli conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14427,7 +14427,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Palavakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14458,7 +14458,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14504,7 +14504,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Palavakkam conditions?",
+        "question": "Which material is right for Palavakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14637,7 +14637,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Periyar Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14668,7 +14668,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14714,7 +14714,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Periyar Nagar conditions?",
+        "question": "Which material is right for Periyar Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14846,7 +14846,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Royapuram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14877,7 +14877,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14923,7 +14923,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Royapuram conditions?",
+        "question": "Which material is right for Royapuram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15056,7 +15056,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Semmancheri, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15087,7 +15087,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15133,7 +15133,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Semmancheri conditions?",
+        "question": "Which material is right for Semmancheri conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15266,7 +15266,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Tondiarpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15297,7 +15297,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15343,7 +15343,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Tondiarpet conditions?",
+        "question": "Which material is right for Tondiarpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15476,7 +15476,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Washermanpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15507,7 +15507,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: vertical fall risk, railing gaps, playful leaning, object drops, and hard-to-reach inner voids. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15553,7 +15553,7 @@ export const staircaseSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Washermanpet conditions?",
+        "question": "Which material is right for Washermanpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {

@@ -1,12 +1,12 @@
 export const siteConfig = {
   name: "DK Safety Solutions",
-  shortName: "DK Safety",
+  shortName: "DK Safety Solutions",
   domain: "dksafetysolutions.com",
   url: "https://dksafetysolutions.com",
   tagline: "Modern safety systems for homes, balconies, windows, and open spaces.",
   description:
     "DK Safety Solutions provides balcony protection, window safety, bird control, sports netting, and utility safety services across Chennai.",
-  defaultImage: "/images/site/chennai-home-hero-safety-nets.png",
+  defaultImage: "/images/site/chennai-home-hero-safety-nets.webp",
   logo: "/brand/dk-safety-logo-mobile.svg",
   logos: {
     desktop: "/brand/dk-safety-logo-desktop.svg",
@@ -26,9 +26,13 @@ export const siteConfig = {
     whatsappHref: "https://wa.me/919573838331",
     email: "info@dksafetysolutions.com",
     emailHref: "mailto:info@dksafetysolutions.com",
-    hours: "Mon - Sun, 9:00 AM to 8:00 PM",
+    hours: "Open 24 hours, Monday to Sunday. Holiday hours may vary.",
     location: "Chennai, Tamil Nadu",
-    addressLines: ["Chennai, Tamil Nadu", "India"],
+    addressLines: [
+      "L139-150, 1st Avenue, 18th St",
+      "Anna Nagar East, Chennai, Tamil Nadu 600102",
+      "India",
+    ],
   },
   business: {
     schemaTypes: ["LocalBusiness", "HomeAndConstructionBusiness"],
@@ -38,15 +42,15 @@ export const siteConfig = {
     paymentAccepted: "Cash, UPI, Bank Transfer",
     contactType: "customer service",
     address: {
-      streetAddress: "",
+      streetAddress: "L139-150, 1st Avenue, 18th St, Anna Nagar East",
       addressLocality: "Chennai",
       addressRegion: "Tamil Nadu",
-      postalCode: "",
+      postalCode: "600102",
       addressCountry: "IN",
     },
     geo: {
-      latitude: "",
-      longitude: "",
+      latitude: "13.0876",
+      longitude: "80.2161",
     },
     openingHours: [
       {
@@ -59,8 +63,8 @@ export const siteConfig = {
           "Saturday",
           "Sunday",
         ],
-        opens: "07:00",
-        closes: "22:00",
+        opens: "00:00",
+        closes: "23:59",
       },
     ],
     areaServed: {
@@ -71,7 +75,6 @@ export const siteConfig = {
   },
   navLinks: [
     { label: "Home", href: "/" },
-    { label: "Services", href: "/services" },
     { label: "About", href: "/about" },
     { label: "Gallery", href: "/gallery" },
     { label: "Contact", href: "/contact-us" },
@@ -81,64 +84,64 @@ export const siteConfig = {
       title: "Balcony Protection",
       description:
         "Clean, modern safety finishes for apartments, villas, and high-rise homes.",
-      image: "/images/site/chennai-home-hero-safety-nets.png",
+      image: "/images/services/balcony-safety-nets/balcony-safety-nets-area-card.webp",
       href: "/chennai/balcony-safety-nets",
     },
     {
       title: "Window Safety",
       description:
         "Slim protective systems that keep airflow and natural light feeling open.",
-      image: "/images/site/chennai-article-anchor-detail.png",
+      image: "/images/services/window-safety-nets/window-safety-nets-area-card.webp",
       href: "/chennai/window-safety-nets",
     },
     {
       title: "Bird Control",
       description:
         "Neat balcony and utility-area protection planned for low maintenance living.",
-      image: "/images/site/chennai-service-directory-montage.png",
+      image: "/images/services/anti-bird-nets/anti-bird-nets-area-card.webp",
       href: "/chennai/anti-bird-nets",
     },
     {
       title: "Outdoor Utility",
       description:
         "Practical safety and utility setups for terraces, play zones, and service areas.",
-      image: "/images/site/chennai-area-balcony-safety-view.png",
+      image: "/images/services/terrace-safety-nets/terrace-safety-nets-area-card.webp",
       href: "/chennai/terrace-safety-nets",
     },
   ],
   galleryImages: [
     {
-      src: "/images/site/chennai-home-hero-safety-nets.png",
+      src: "/images/site/chennai-home-hero-safety-nets.webp",
       title: "Chennai Balcony Safety Finish",
       alt: "Chennai apartment balcony with neat safety net and open view",
       category: "Balcony",
     },
     {
-      src: "/images/site/chennai-about-installation-team.png",
+      src: "/images/site/chennai-about-installation-team.webp",
       title: "Measurement and Anchor Planning",
       alt: "Installation team checking anchor points for a Chennai safety net project",
       category: "Site Visit",
     },
     {
-      src: "/images/site/chennai-article-anchor-detail.png",
+      src: "/images/site/chennai-article-anchor-detail.webp",
       title: "Clean Anchor Detail",
       alt: "Close view of reinforced safety net anchor and rope border",
       category: "Detail",
     },
     {
-      src: "/images/site/chennai-service-directory-montage.png",
+      src: "/images/site/chennai-service-directory-montage.webp",
       title: "Connected Service Set",
       alt: "Chennai safety services including balcony nets, bird control, invisible grills, and sports netting",
       category: "Services",
     },
     {
-      src: "/images/site/chennai-area-balcony-safety-view.png",
+      src: "/images/site/chennai-area-balcony-safety-view.webp",
       title: "Area Service View",
       alt: "Chennai apartment service area view with finished balcony safety net",
       category: "Area Pages",
     },
     {
-      src: "/images/site/chennai-contact-site-visit.png",
+      src: "/images/site/chennai-contact-site-visit.webp",
       title: "Contact and Site Visit",
       alt: "Safety net quote planning with measurement notes and mesh sample",
       category: "Contact",
@@ -154,7 +157,7 @@ export const siteConfig = {
     { value: "Proven", label: "Bird Control", detail: "Protects balconies, terraces, and utility areas from pest birds." },
     { value: "Reliable", label: "Net Installation", detail: "Strong, low-profile nets installed with clean, safe finishes." },
     { value: "Safe", label: "Home Protection", detail: "Keeps families safe while preserving airflow and views." },
-    { value: "Fast", label: "Site Survey", detail: "Quick site visits and tailored bird-control solutions for your home." },
+    { value: "Fast", label: "Site Survey", detail: "Quick site visits and site-matched bird-control solutions for your home." },
   ],
   testimonials: [
     {
@@ -191,6 +194,28 @@ export const siteConfig = {
     },
   ],
   clients: ["Residential Homes", "Apartments", "Villas", "Commercial Spaces", "Communities"],
+  clientCards: [
+    {
+      name: "Residential Homes",
+      image: "/images/site/chennai-home-hero-safety-nets.webp",
+    },
+    {
+      name: "Apartments",
+      image: "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
+    },
+    {
+      name: "Villas",
+      image: "/images/invisible-grill.webp",
+    },
+    {
+      name: "Commercial Spaces",
+      image: "/images/site/chennai-about-installation-team.webp",
+    },
+    {
+      name: "Communities",
+      image: "/images/sports-nets-installation-for-cricket-and-football-practice.webp",
+    },
+  ],
   socialProfiles: [
     {
       name: "Instagram",

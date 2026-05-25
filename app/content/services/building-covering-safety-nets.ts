@@ -101,7 +101,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Adambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -132,7 +132,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -178,7 +178,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Adambakkam conditions?",
+        "question": "Which material is right for Adambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -310,7 +310,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Adyar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -341,7 +341,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -387,7 +387,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Adyar conditions?",
+        "question": "Which material is right for Adyar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -519,7 +519,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Alandur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -550,7 +550,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -596,7 +596,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Alandur conditions?",
+        "question": "Which material is right for Alandur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -728,7 +728,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ambattur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -759,7 +759,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -805,7 +805,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ambattur conditions?",
+        "question": "Which material is right for Ambattur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -937,7 +937,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Aminjikarai, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -968,7 +968,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -1014,7 +1014,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Aminjikarai conditions?",
+        "question": "Which material is right for Aminjikarai conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -1146,7 +1146,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Anna Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -1177,7 +1177,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -1223,7 +1223,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Anna Nagar conditions?",
+        "question": "Which material is right for Anna Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -1354,7 +1354,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Arumbakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -1385,7 +1385,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -1431,7 +1431,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Arumbakkam conditions?",
+        "question": "Which material is right for Arumbakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -1563,7 +1563,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ashok Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -1594,7 +1594,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -1640,7 +1640,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ashok Nagar conditions?",
+        "question": "Which material is right for Ashok Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -1771,7 +1771,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Avadi, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -1802,7 +1802,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -1848,7 +1848,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Avadi conditions?",
+        "question": "Which material is right for Avadi conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -1980,7 +1980,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ayanavaram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -2011,7 +2011,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -2057,7 +2057,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ayanavaram conditions?",
+        "question": "Which material is right for Ayanavaram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -2189,7 +2189,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Besant Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -2220,7 +2220,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -2266,7 +2266,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Besant Nagar conditions?",
+        "question": "Which material is right for Besant Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -2397,7 +2397,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Chetpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -2428,7 +2428,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -2474,7 +2474,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Chetpet conditions?",
+        "question": "Which material is right for Chetpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -2606,7 +2606,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Choolaimedu, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -2637,7 +2637,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -2683,7 +2683,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Choolaimedu conditions?",
+        "question": "Which material is right for Choolaimedu conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -2815,7 +2815,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Chromepet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -2846,7 +2846,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -2892,7 +2892,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Chromepet conditions?",
+        "question": "Which material is right for Chromepet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -3024,7 +3024,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Egmore, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -3055,7 +3055,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -3101,7 +3101,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Egmore conditions?",
+        "question": "Which material is right for Egmore conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -3233,7 +3233,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ekkattuthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -3264,7 +3264,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -3310,7 +3310,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ekkattuthangal conditions?",
+        "question": "Which material is right for Ekkattuthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -3442,7 +3442,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Guindy, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -3473,7 +3473,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -3519,7 +3519,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Guindy conditions?",
+        "question": "Which material is right for Guindy conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -3651,7 +3651,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Injambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -3682,7 +3682,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -3728,7 +3728,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Injambakkam conditions?",
+        "question": "Which material is right for Injambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -3860,7 +3860,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Iyyappanthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -3891,7 +3891,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -3937,7 +3937,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Iyyappanthangal conditions?",
+        "question": "Which material is right for Iyyappanthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -4069,7 +4069,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In K K Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -4100,7 +4100,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -4146,7 +4146,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for K K Nagar conditions?",
+        "question": "Which material is right for K K Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -4276,7 +4276,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Kandanchavadi, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -4307,7 +4307,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -4353,7 +4353,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Kandanchavadi conditions?",
+        "question": "Which material is right for Kandanchavadi conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -4485,7 +4485,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Karapakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -4516,7 +4516,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -4562,7 +4562,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Karapakkam conditions?",
+        "question": "Which material is right for Karapakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -4694,7 +4694,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Kelambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -4725,7 +4725,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -4771,7 +4771,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Kelambakkam conditions?",
+        "question": "Which material is right for Kelambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -4903,7 +4903,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Kilpauk, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -4934,7 +4934,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -4980,7 +4980,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Kilpauk conditions?",
+        "question": "Which material is right for Kilpauk conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -5112,7 +5112,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Kodambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -5143,7 +5143,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -5189,7 +5189,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Kodambakkam conditions?",
+        "question": "Which material is right for Kodambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -5321,7 +5321,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Kolathur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -5352,7 +5352,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -5398,7 +5398,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Kolathur conditions?",
+        "question": "Which material is right for Kolathur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -5530,7 +5530,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Korattur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -5561,7 +5561,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -5607,7 +5607,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Korattur conditions?",
+        "question": "Which material is right for Korattur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -5739,7 +5739,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Kottivakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -5770,7 +5770,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -5816,7 +5816,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Kottivakkam conditions?",
+        "question": "Which material is right for Kottivakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -5948,7 +5948,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Koyambedu, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -5979,7 +5979,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -6025,7 +6025,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Koyambedu conditions?",
+        "question": "Which material is right for Koyambedu conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -6157,7 +6157,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Madipakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -6188,7 +6188,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -6234,7 +6234,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Madipakkam conditions?",
+        "question": "Which material is right for Madipakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -6366,7 +6366,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Madhavaram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -6397,7 +6397,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -6443,7 +6443,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Madhavaram conditions?",
+        "question": "Which material is right for Madhavaram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -6575,7 +6575,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Manapakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -6606,7 +6606,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -6652,7 +6652,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Manapakkam conditions?",
+        "question": "Which material is right for Manapakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -6706,7 +6706,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Mandaveli Chennai building covering safety nets",
       "title": "Building Covering Safety Nets in Mandaveli planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Mandaveli building covering work often involves wider spans than a balcony net, so the team has to think about height, wind, scaffold or rope access, and maintenance movement before fixing starts. The site may involve building facades, open shafts, service sides, atrium edges, temporary construction sides, and renovation elevations, and the work has to solve falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges without making routine use harder. A good Mandaveli plan studies older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "lead": "Mandaveli building covering work often involves wider spans than a balcony net, so the team has to think about height, wind, scaffold or rope access, and maintenance movement before fixing starts. The site may involve building facades, open shafts, service sides, atrium edges, temporary construction sides, and renovation elevations, and the work has to solve falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges without making routine use harder. A good Mandaveli plan studies older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
       "primaryCta": "Call for Building Covering Visit in Mandaveli",
       "secondaryCta": "WhatsApp Building Net Details"
@@ -6715,7 +6715,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Mandaveli",
         "label": "Area Site Focus",
-        "description": "Written for Mandaveli conditions, including older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
       },
       {
         "stat": "2500",
@@ -6732,7 +6732,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mandaveli sites need a clear building covering safety nets plan",
       "paragraphs": [
         "Building Covering Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Building Covering Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Building Covering Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Mandaveli, DK Safety Solutions should check coverage span, anchor strength, wind exposure, floor count, maintenance route, facade surface, shaft depth so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -6784,7 +6784,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Mandaveli, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -6815,7 +6815,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -6861,7 +6861,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Mandaveli conditions?",
+        "question": "Which material is right for Mandaveli conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -6993,7 +6993,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Medavakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -7024,7 +7024,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -7070,7 +7070,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Medavakkam conditions?",
+        "question": "Which material is right for Medavakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -7202,7 +7202,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Mogappair, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -7233,7 +7233,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -7279,7 +7279,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Mogappair conditions?",
+        "question": "Which material is right for Mogappair conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -7411,7 +7411,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Mugalivakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -7442,7 +7442,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -7488,7 +7488,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Mugalivakkam conditions?",
+        "question": "Which material is right for Mugalivakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -7620,7 +7620,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Mylapore, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -7651,7 +7651,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -7697,7 +7697,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Mylapore conditions?",
+        "question": "Which material is right for Mylapore conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -7829,7 +7829,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Nanganallur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -7860,7 +7860,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -7906,7 +7906,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Nanganallur conditions?",
+        "question": "Which material is right for Nanganallur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -8038,7 +8038,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Navalur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -8069,7 +8069,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -8115,7 +8115,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Navalur conditions?",
+        "question": "Which material is right for Navalur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -8247,7 +8247,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Neelankarai, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -8278,7 +8278,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -8324,7 +8324,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Neelankarai conditions?",
+        "question": "Which material is right for Neelankarai conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -8456,7 +8456,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Nungambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -8487,7 +8487,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -8533,7 +8533,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Nungambakkam conditions?",
+        "question": "Which material is right for Nungambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -8665,7 +8665,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Palavakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -8696,7 +8696,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -8742,7 +8742,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Palavakkam conditions?",
+        "question": "Which material is right for Palavakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -8874,7 +8874,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Pallavaram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -8905,7 +8905,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -8951,7 +8951,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Pallavaram conditions?",
+        "question": "Which material is right for Pallavaram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -9083,7 +9083,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Pallikaranai, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -9114,7 +9114,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -9160,7 +9160,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Pallikaranai conditions?",
+        "question": "Which material is right for Pallikaranai conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -9292,7 +9292,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Perambur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -9323,7 +9323,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -9369,7 +9369,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Perambur conditions?",
+        "question": "Which material is right for Perambur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -9501,7 +9501,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Periyar Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -9532,7 +9532,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -9578,7 +9578,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Periyar Nagar conditions?",
+        "question": "Which material is right for Periyar Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -9709,7 +9709,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Perungudi, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -9740,7 +9740,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -9786,7 +9786,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Perungudi conditions?",
+        "question": "Which material is right for Perungudi conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -9918,7 +9918,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Poonamallee, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -9949,7 +9949,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -9995,7 +9995,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Poonamallee conditions?",
+        "question": "Which material is right for Poonamallee conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -10127,7 +10127,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Porur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -10158,7 +10158,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -10204,7 +10204,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Porur conditions?",
+        "question": "Which material is right for Porur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -10336,7 +10336,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Purasawalkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -10367,7 +10367,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -10413,7 +10413,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Purasawalkam conditions?",
+        "question": "Which material is right for Purasawalkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -10545,7 +10545,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ramapuram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -10576,7 +10576,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -10622,7 +10622,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ramapuram conditions?",
+        "question": "Which material is right for Ramapuram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -10754,7 +10754,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Royapettah, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -10785,7 +10785,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -10831,7 +10831,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Royapettah conditions?",
+        "question": "Which material is right for Royapettah conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -10963,7 +10963,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Royapuram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -10994,7 +10994,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -11040,7 +11040,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Royapuram conditions?",
+        "question": "Which material is right for Royapuram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -11172,7 +11172,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Saidapet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -11203,7 +11203,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -11249,7 +11249,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Saidapet conditions?",
+        "question": "Which material is right for Saidapet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -11381,7 +11381,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Selaiyur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -11412,7 +11412,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -11458,7 +11458,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Selaiyur conditions?",
+        "question": "Which material is right for Selaiyur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -11590,7 +11590,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Semmancheri, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -11621,7 +11621,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -11667,7 +11667,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Semmancheri conditions?",
+        "question": "Which material is right for Semmancheri conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -11799,7 +11799,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Sholinganallur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -11830,7 +11830,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -11876,7 +11876,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Sholinganallur conditions?",
+        "question": "Which material is right for Sholinganallur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -12008,7 +12008,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Siruseri, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -12039,7 +12039,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -12085,7 +12085,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Siruseri conditions?",
+        "question": "Which material is right for Siruseri conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -12217,7 +12217,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Tambaram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -12248,7 +12248,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -12294,7 +12294,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Tambaram conditions?",
+        "question": "Which material is right for Tambaram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -12426,7 +12426,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In T Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -12457,7 +12457,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -12503,7 +12503,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for T Nagar conditions?",
+        "question": "Which material is right for T Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -12634,7 +12634,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Teynampet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -12665,7 +12665,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -12711,7 +12711,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Teynampet conditions?",
+        "question": "Which material is right for Teynampet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -12843,7 +12843,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Thiruvanmiyur, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -12874,7 +12874,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -12920,7 +12920,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Thiruvanmiyur conditions?",
+        "question": "Which material is right for Thiruvanmiyur conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13052,7 +13052,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Thoraipakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13083,7 +13083,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13129,7 +13129,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Thoraipakkam conditions?",
+        "question": "Which material is right for Thoraipakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13261,7 +13261,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Tondiarpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13292,7 +13292,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13338,7 +13338,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Tondiarpet conditions?",
+        "question": "Which material is right for Tondiarpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13470,7 +13470,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Triplicane, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13501,7 +13501,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13547,7 +13547,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Triplicane conditions?",
+        "question": "Which material is right for Triplicane conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13679,7 +13679,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Vadapalani, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13710,7 +13710,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13756,7 +13756,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Vadapalani conditions?",
+        "question": "Which material is right for Vadapalani conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13888,7 +13888,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Valasaravakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13919,7 +13919,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13965,7 +13965,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Valasaravakkam conditions?",
+        "question": "Which material is right for Valasaravakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14097,7 +14097,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Velachery, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14128,7 +14128,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14174,7 +14174,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Velachery conditions?",
+        "question": "Which material is right for Velachery conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14306,7 +14306,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Villivakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14337,7 +14337,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14383,7 +14383,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Villivakkam conditions?",
+        "question": "Which material is right for Villivakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14515,7 +14515,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Virugambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14546,7 +14546,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14592,7 +14592,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Virugambakkam conditions?",
+        "question": "Which material is right for Virugambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14724,7 +14724,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Washermanpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14755,7 +14755,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14801,7 +14801,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Washermanpet conditions?",
+        "question": "Which material is right for Washermanpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14933,7 +14933,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In West Mambalam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14964,7 +14964,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: falling objects, open facade exposure, shaft drops, bird entry, maintenance hazards, and wind-stressed edges. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15010,7 +15010,7 @@ export const buildingCoveringSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for West Mambalam conditions?",
+        "question": "Which material is right for West Mambalam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {

@@ -1,40 +1,76 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, type TouchEvent } from "react";
 import { siteConfig } from "../config/site.config";
 
 const heroImages = [
   {
-    src: "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
-    mobileSrc: "/images/site/chennai-home-hero-safety-nets.png",
-    alt: "Chennai balcony safety net installation",
-    dec: "Balcony, window, bird-control, sports, and utility services connected across Chennai.",
+    src: "/images/site/hero-v3-open-balcony-grill-desktop.webp",
+    mobileSrc: "/images/site/hero-v3-open-balcony-grill-mobile.webp",
+    alt: "High-rise balcony with invisible grill safety cables and open city view",
+    dec: "Open-view balcony protection with clean lines, safer edges, and steady airflow.",
   },
   {
-    src: "/images/site/chennai-service-directory-montage.png",
-    alt: "Chennai safety service directory",
-    dec: "Choose a Chennai area and open the exact service page with contact actions ready.",
+    src: "/images/site/hero-v3-balcony-evening-desktop.webp",
+    mobileSrc: "/images/site/hero-v3-balcony-evening-mobile.webp",
+    alt: "Balcony invisible grill installation on a high-rise apartment railing",
+    dec: "Invisible grill finishes for balconies that need airflow, views, and dependable safety.",
   },
   {
-    src: "/images/site/chennai-about-installation-team.png",
-    alt: "Safety net measurement and installation planning",
-    dec: "Hand-written guides stay active while the full area-service catalog covers every route.",
+    src: "/images/site/hero-v3-safety-net-view-desktop.webp",
+    mobileSrc: "/images/site/hero-v3-safety-net-view-mobile.webp",
+    alt: "Transparent balcony safety net covering a high-rise apartment opening",
+    dec: "Transparent safety netting for balconies, open sides, and high-rise family spaces.",
   },
   {
-    src: "/images/site/chennai-service-directory-montage.png",
-    alt: "Chennai safety service directory",
-    dec: "Choose a Chennai area and open the exact service page with contact actions ready.",
+    src: "/images/site/hero-v3-sports-court-desktop.webp",
+    mobileSrc: "/images/site/hero-v3-sports-court-mobile.webp",
+    alt: "Cricket and football sports net enclosure with night lighting",
+    dec: "Sports net installations for cricket and community play areas with clean containment.",
   },
   {
-    src: "/images/site/chennai-about-installation-team.png",
-    alt: "Safety net measurement and installation planning",
-    dec: "Hand-written guides stay active while the full area-service catalog covers every route.",
+    src: "/images/site/hero-v3-cloth-hanger-balcony-desktop.webp",
+    mobileSrc: "/images/site/hero-v3-cloth-hanger-balcony-mobile.webp",
+    alt: "Balcony ceiling cloth hanger installation beside an open view",
+    dec: "Ceiling and balcony hanger systems planned neatly around daily utility space.",
   },
 ];
 
 export default function Carousel() {
   const [index, setIndex] = useState(0);
   const intervalRef = useRef<number | null>(null);
+  const touchStartX = useRef<number | null>(null);
+  const touchStartY = useRef<number | null>(null);
+
+  const goToSlide = (nextIndex: number) => {
+    setIndex((nextIndex + heroImages.length) % heroImages.length);
+  };
+
+  const handleTouchStart = (event: TouchEvent<HTMLDivElement>) => {
+    const touch = event.touches[0];
+
+    touchStartX.current = touch.clientX;
+    touchStartY.current = touch.clientY;
+  };
+
+  const handleTouchEnd = (event: TouchEvent<HTMLDivElement>) => {
+    if (touchStartX.current === null || touchStartY.current === null) {
+      return;
+    }
+
+    const touch = event.changedTouches[0];
+    const deltaX = touch.clientX - touchStartX.current;
+    const deltaY = touch.clientY - touchStartY.current;
+
+    touchStartX.current = null;
+    touchStartY.current = null;
+
+    if (Math.abs(deltaX) < 48 || Math.abs(deltaX) < Math.abs(deltaY) * 1.2) {
+      return;
+    }
+
+    goToSlide(index + (deltaX < 0 ? 1 : -1));
+  };
 
   useEffect(() => {
     const advance = () => setIndex((i) => (i + 1) % heroImages.length);
@@ -51,25 +87,34 @@ export default function Carousel() {
   }, []);
 
   return (
-    <section className="-mx-4 md:-mx-6 lg:-mx-8">
-      <div className="relative h-[380px] w-full overflow-hidden sm:h-[390px] md:h-[440px] lg:h-[460px]">
+    <section className="-mx-4 md:-mx-6 lg:-mx-8" aria-label="Featured safety service photos">
+      <div
+        className="relative h-[70vh] w-full touch-pan-y overflow-hidden"
+        onTouchStart={handleTouchStart}
+        onTouchEnd={handleTouchEnd}
+      >
         <div
           className="flex h-full w-full transition-transform duration-700"
           style={{ transform: `translateX(-${index * 100}%)` }}
         >
           {heroImages.map((item, i) => (
             <div key={item.src} className="relative h-full w-full flex-shrink-0">
-              <picture className="absolute inset-0 block">
-                {item.mobileSrc ? <source media="(max-width: 767px)" srcSet={item.mobileSrc} /> : null}
-                <img
-                  src={item.src}
-                  alt={item.alt}
-                  className="h-full w-full object-cover"
-                  loading={i === 0 ? "eager" : "lazy"}
-                  decoding={i === 0 ? "sync" : "async"}
-                  fetchPriority={i === 0 ? "high" : "auto"}
-                />
-              </picture>
+              <img
+                src={item.mobileSrc}
+                alt={item.alt}
+                className="absolute inset-0 h-full w-full object-cover md:hidden"
+                loading={i === 0 ? "eager" : "lazy"}
+                decoding={i === 0 ? "sync" : "async"}
+                fetchPriority={i === 0 ? "high" : "auto"}
+              />
+              <img
+                src={item.src}
+                alt={item.alt}
+                className="absolute inset-0 hidden h-full w-full object-cover md:block"
+                loading={i === 0 ? "eager" : "lazy"}
+                decoding={i === 0 ? "sync" : "async"}
+                fetchPriority={i === 0 ? "high" : "auto"}
+              />
 
               <div className="absolute inset-0 flex items-center justify-start bg-black/25 text-left md:justify-center md:text-center">
                 <div
@@ -89,11 +134,11 @@ export default function Carousel() {
                   </p>
 
                   <a
-                  href={siteConfig.contact.phoneHref}
-                  className="mt-5 bg-[#C9A227]  inline-flex items-center justify-center rounded-full border border-[#C9A227] px-6 py-2 font-semibold text-[#C9A227] shadow-sm transition duration-300 hover:scale-105 text-black md:px-8 md:py-3"
-                >
-                  Call Now
-                </a>
+                    href={siteConfig.contact.phoneHref}
+                    className="mt-5 inline-flex items-center justify-center rounded-full border border-[#C9A227] bg-[#C9A227] px-6 py-2 font-semibold text-black shadow-sm transition duration-300 hover:scale-105 md:px-8 md:py-3"
+                  >
+                    Call Now
+                  </a>
                 </div>
               </div>
             </div>
@@ -104,9 +149,10 @@ export default function Carousel() {
           {heroImages.map((item, i) => (
             <button
               key={item.src}
-              onClick={() => setIndex(i)}
+              onClick={() => goToSlide(i)}
               className={`h-4 w-4 rounded-full ${i === index ? "bg-white" : "bg-white/50"}`}
               aria-label={`Go to slide ${i + 1}`}
+              aria-current={i === index ? "true" : undefined}
             />
           ))}
         </div>

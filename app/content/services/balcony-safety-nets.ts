@@ -48,8 +48,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "intro": {
       "heading": "Why balcony safety nets in Adyar need area planning",
       "paragraphs": [
-        "Adyar is not a single type of residential market. It has older independent homes, established apartment blocks, newer gated layouts, compact rental flats, premium river-side and tree-lined streets, and homes that sit close to busy roads. A balcony safety net that works well in one of these buildings may feel awkward in another if the installer ignores the opening shape, railing condition, floor height, and how the family actually uses the balcony. The correct work starts with observation before measurement.",
-        "For many Adyar families, the balcony is both useful and emotional. It is where children watch the street, elders get fresh air, pets follow movement outside, clothes dry during humid weeks, and plants receive their best light. The safety net has to protect that opening without turning the space into a cage. It should be tight, balanced, clean at the corners, and aligned so the final finish feels deliberate from inside the room.",
+        "Adyar is not a single type of residential market. It has older independent homes, established apartment blocks, newer gated layouts, compact rental flats, refined river-side and tree-lined streets, and homes that sit close to busy roads. A balcony safety net that works well in one of these buildings may feel awkward in another if the installer ignores the opening shape, railing condition, floor height, and how the family actually uses the balcony. The correct work starts with observation before measurement.",
+        "For many Adyar families, the balcony is both useful and emotional. It is where children watch the street, elders get fresh air, pets follow movement outside, clothes dry during humid weeks, and plants receive their right light. The safety net has to protect that opening without turning the space into a cage. It should be tight, balanced, clean at the corners, and aligned so the final finish feels deliberate from inside the room.",
         "Searches for balcony safety nets in Adyar often carry more than one intent. One family may be trying to stop a toddler from leaning through a railing. Another may be tired of pigeon droppings near a washing machine. A renter may want a neat solution that does not damage the flat, while an owner may want a stronger long-term installation that suits the building elevation. A useful service page must speak to all of those real situations instead of forcing every visitor into the same generic paragraph.",
         "This page is written as a complete planning guide for balcony safety nets in Adyar. It explains how to think about child safety, bird control, apartment association expectations, material selection, installation access, maintenance, and quote comparison. It is not a doorway page made by replacing a city name. It is the first detailed service page in the Chennai content system, and every future area-service page should be written with the same level of area care."
       ]
@@ -70,7 +70,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/cards/anti-bird-invisible-grills.webp",
         "paragraphs": [
           "Many balcony safety net enquiries in Adyar are not only about children. Pigeons and other birds can turn a balcony into a daily cleaning problem, especially when the opening has AC ledges, side gaps, grills, beams, shade projections, or quiet corners where birds feel protected. If the net is planned only for fall safety and ignores bird route behavior, the balcony may still collect droppings, feathers, nesting material, and smell.",
-          "The net layout should close the actual entry paths. That can include the front opening, side slit, top beam gap, parapet edge, or the area behind an outdoor unit. A clean install avoids loose pockets where birds can push in or where dust collects. In apartments close to trees or older streets, this difference matters. The best result is a balcony that feels safer for the family and easier to keep clean through Chennai weather."
+          "The net layout should close the actual entry paths. That can include the front opening, side slit, top beam gap, parapet edge, or the area behind an outdoor unit. A clean install avoids loose pockets where birds can push in or where dust collects. In apartments close to trees or older streets, this difference matters. The right result is a balcony that feels safer for the family and easier to keep clean through Chennai weather."
         ]
       },
       {
@@ -87,14 +87,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "heading": "The final look matters in established Adyar homes",
         "image": "/cards/stainless-steel-invisible-grill.webp",
         "paragraphs": [
-          "Adyar residents often care about how the work looks from the living room, not just whether the net is installed. A rough safety net can make a good apartment feel unfinished. Crooked lines, hanging knots, messy corners, visible extra material, and uneven tension all become irritating because the balcony is seen every day. A premium finish is quieter. It sits in the background and lets the balcony remain usable.",
+          "Adyar residents often care about how the work looks from the living room, not just whether the net is installed. A rough safety net can make a good apartment feel unfinished. Crooked lines, hanging knots, messy corners, visible extra material, and uneven tension all become irritating because the balcony is seen every day. A neat finish is quieter. It sits in the background and lets the balcony remain usable.",
           "Before installation, the team should decide how the border will run, how the corners will be handled, and what visual line the family will see when curtains are open. Association rules may also matter in some buildings, especially where exterior appearance is controlled. The safest and cleanest work respects the building elevation while still protecting the household. That balance is especially important in high-value residential pockets around Adyar."
         ]
       },
       {
         "eyebrow": "Site Visit",
         "heading": "A site visit prevents the wrong quote and the wrong solution",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Phone quotes are useful for rough budgeting, but they cannot read balcony behavior. A proper Adyar site visit checks the width, height, railing, wall condition, ceiling edge, anchor points, AC unit position, building access, and the family requirement. It also helps decide whether a simple safety net is enough or whether side closures, bird route blocking, or a different protection style should be considered.",
           "The site visit also protects the customer from underquoting. A low quote can become frustrating if the team later adds charges for difficult access, extra hooks, side gaps, material changes, or height work. A clear quote should describe what is included, what is not included, how long the installation will take, and what preparation the family should complete before the team arrives. That clarity is part of a professional safety service."
@@ -106,7 +106,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Someone searching for balcony safety nets in Adyar may not be ready to book immediately. They may be checking whether nets are allowed in their apartment, whether the work will look clean from the hall, whether pets can still enjoy the balcony, whether the net will stop pigeons, or whether a weekend installation is possible without disturbing the building. Good area content should make those decisions easier before a call happens. It should help the customer recognize the correct scope for their home.",
-          "This is why DK Safety Solutions should treat each Chennai area page as a small area consultation. Adyar needs details about older walls, tree-facing balconies, river-side humidity, busy-road dust, premium apartment finishes, and family homes where grandparents and children share the same balcony. Another area will need a different angle. When the writing is specific, the page can answer service, price, safety, pigeon control, pet safety, association approval, and customer search intent without feeling like a thin service page."
+          "This is why DK Safety Solutions should treat each Chennai area page as a small area consultation. Adyar needs details about older walls, tree-facing balconies, river-side humidity, busy-road dust, refined apartment finishes, and family homes where grandparents and children share the same balcony. Another area will need a different angle. When the writing is specific, the page can answer service, price, safety, pigeon control, pet safety, association approval, and customer search intent without feeling like a thin service page."
         ]
       },
       {
@@ -114,7 +114,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "heading": "A good safety net should remain easy to live with",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "Balcony safety nets in Adyar should be planned with cleaning and maintenance in mind. Families still need to sweep, water plants, dry clothes, clean railings, and sometimes access AC units. If the net blocks all practical movement or creates dust-catching pockets, it may slowly become a daily inconvenience. The best layout protects the opening while keeping the balcony easy to use.",
+          "Balcony safety nets in Adyar should be planned with cleaning and maintenance in mind. Families still need to sweep, water plants, dry clothes, clean railings, and sometimes access AC units. If the net blocks all practical movement or creates dust-catching pockets, it may slowly become a daily inconvenience. The right layout protects the opening while keeping the balcony easy to use.",
           "Maintenance is often simple when the net is tight, the corners are clean, and the fixing points are stable. Families should check for looseness after heavy weather, avoid hanging heavy items from the net, and call for adjustment if a corner starts to sag. The net is a safety system, not a storage support. Treating it that way helps it last longer and keeps the balcony looking neat."
         ]
       }
@@ -146,8 +146,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     },
     "faq": [
       {
-        "question": "What is the best balcony safety net for Adyar apartments?",
-        "answer": "The best balcony safety net depends on the balcony opening, floor height, family use, bird activity, and building finish expectations. For many Adyar apartments, a strong UV-stable net with clean border tension and well-planned corner fixing gives the right balance of child safety, bird control, airflow, and appearance. The exact choice should be made after checking the site, because balcony shapes and railing conditions vary widely."
+        "question": "What is the right balcony safety net for Adyar apartments?",
+        "answer": "The right balcony safety net depends on the balcony opening, floor height, family use, bird activity, and building finish expectations. For many Adyar apartments, a strong UV-stable net with clean border tension and well-planned corner fixing gives the right balance of child safety, bird control, airflow, and appearance. The exact choice should be made after checking the site, because balcony shapes and railing conditions vary widely."
       },
       {
         "question": "Can balcony safety nets stop pigeons in Adyar?",
@@ -175,7 +175,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How do I maintain a balcony safety net after installation?",
-        "answer": "Keep the net free from heavy hanging loads, avoid cutting or pulling the mesh, and check corners after heavy rain or strong wind. Normal balcony cleaning can continue if the layout has been planned properly. If a fixing point loosens or a corner sags, call for adjustment rather than tying temporary knots. A safety net works best when it stays evenly tensioned."
+        "answer": "Keep the net free from heavy hanging loads, avoid cutting or pulling the mesh, and check corners after heavy rain or strong wind. Normal balcony cleaning can continue if the layout has been planned properly. If a fixing point loosens or a corner sags, call for adjustment rather than tying temporary knots. A safety net works right when it stays evenly tensioned."
       }
     ],
     "closing": {
@@ -289,7 +289,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Alandur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Alandur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -307,7 +307,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Alandur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Alandur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -328,14 +328,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Alandur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Alandur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Alandur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Alandur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Alandur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Alandur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Alandur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Alandur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Alandur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Alandur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -411,9 +404,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Alandur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Alandur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Alandur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Alandur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -520,7 +514,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Ambattur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Ambattur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -538,7 +532,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Ambattur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Ambattur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -559,15 +553,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Ambattur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Ambattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ambattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ambattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ambattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ambattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ambattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ambattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ambattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Ambattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Ambattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -643,9 +629,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Ambattur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Ambattur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Ambattur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Ambattur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -752,7 +739,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Aminjikarai should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Aminjikarai, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -770,7 +757,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Aminjikarai balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Aminjikarai residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -791,14 +778,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Aminjikarai customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Aminjikarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Aminjikarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Aminjikarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Aminjikarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Aminjikarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Aminjikarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Aminjikarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Aminjikarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Aminjikarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -874,9 +854,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Aminjikarai balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Aminjikarai, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Aminjikarai, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Aminjikarai, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -887,7 +868,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
       "title": "Balcony Safety Nets in Anna Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed area guide for balcony safety nets in Anna Nagar, Chennai, covering wide balconies, premium fronts, family routines, child safety, pet safety, bird control, installation planning, and maintenance.",
+      "description": "Detailed area guide for balcony safety nets in Anna Nagar, Chennai, covering wide balconies, refined fronts, family routines, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Anna Nagar",
         "balcony safety nets Anna Nagar Chennai",
@@ -903,7 +884,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Anna Nagar Chennai balcony safety nets",
       "title": "Balcony Safety Nets in Anna Nagar for safer family balconies and cleaner daily use.",
-      "lead": "Anna Nagar balconies need planning around wide balconies, premium fronts, family routines. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
+      "lead": "Anna Nagar balconies need planning around wide balconies, refined fronts, family routines. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
       "image": "/images/balcony-invisible-safety-installation.webp",
       "primaryCta": "Call for Anna Nagar Site Visit",
       "secondaryCta": "WhatsApp Balcony Photos"
@@ -912,7 +893,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Area",
         "label": "Anna Nagar Balcony Use",
-        "description": "Anna Nagar homes often have larger front-facing balconies and families who care about neat elevation lines, so the article should focus on premium finish and daily usability."
+        "description": "Anna Nagar homes often have larger front-facing balconies and families who care about neat elevation lines, so the article should focus on neat finish and daily usability."
       },
       {
         "stat": "2500",
@@ -928,8 +909,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "intro": {
       "heading": "Why balcony safety nets in Anna Nagar need site-specific planning",
       "paragraphs": [
-        "Balcony safety nets in Anna Nagar should be planned around the way the balcony is actually used. The area conditions include wide balconies, premium fronts, family routines, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
-        "Anna Nagar homes often have larger front-facing balconies and families who care about neat elevation lines, so the article should focus on premium finish and daily usability. This is why the page cannot stop at a small service description. Balcony netting has to think about railing gaps, floor height, side openings, children, pets, birds, cleaning access, and how the finished line looks from inside the home.",
+        "Balcony safety nets in Anna Nagar should be planned around the way the balcony is actually used. The area conditions include wide balconies, refined fronts, family routines, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
+        "Anna Nagar homes often have larger front-facing balconies and families who care about neat elevation lines, so the article should focus on neat finish and daily usability. This is why the page cannot stop at a small service description. Balcony netting has to think about railing gaps, floor height, side openings, children, pets, birds, cleaning access, and how the finished line looks from inside the home.",
         "The risk is not always the obvious open face. Children can climb through reachable gaps, pets can push toward side corners, and pigeons can enter from ledges or beam pockets. A good site visit studies the unsafe route before quoting. If the installer measures only the front rectangle, the result may miss the way the household actually uses the balcony.",
         "This service page is written for Anna Nagar residents who want the balcony to stay usable after safety work. It explains family safety, pet movement, bird control, fixing choices, association rules, maintenance, and quote comparison. This guide keeps the advice focused on real site conditions, daily use, safety priorities, and a cleaner visit plan for Anna Nagar."
       ]
@@ -976,14 +957,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "heading": "Anna Nagar weather and usage affect safety net material",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
-          "Balcony nets face sun, rain, dust, and daily handling. In Anna Nagar, the material should suit wide balconies, premium fronts, family routines. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
+          "Balcony nets face sun, rain, dust, and daily handling. In Anna Nagar, the material should suit wide balconies, refined fronts, family routines. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
           "Residents should ask about outdoor durability, visibility, expected life, and maintenance. The cheapest option may not be the safest if it loses tension quickly. A better material keeps the balcony safer and easier to clean over time."
         ]
       },
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Anna Nagar should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Anna Nagar, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -1001,7 +982,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Anna Nagar balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Anna Nagar residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -1022,14 +1003,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Anna Nagar customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Anna Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Anna Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Anna Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Anna Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Anna Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Anna Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Anna Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Anna Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Anna Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -1105,9 +1079,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Anna Nagar balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Anna Nagar, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Anna Nagar, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Anna Nagar, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -1214,7 +1189,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Arumbakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Arumbakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -1232,7 +1207,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Arumbakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Arumbakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -1253,14 +1228,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Arumbakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Arumbakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Arumbakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Arumbakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Arumbakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Arumbakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Arumbakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Arumbakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Arumbakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Arumbakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -1336,9 +1304,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Arumbakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Arumbakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Arumbakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Arumbakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -1445,7 +1414,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Ashok Nagar should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Ashok Nagar, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -1463,7 +1432,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Ashok Nagar balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Ashok Nagar residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -1484,14 +1453,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Ashok Nagar customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Ashok Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ashok Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ashok Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ashok Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ashok Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ashok Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ashok Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Ashok Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Ashok Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -1567,9 +1529,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Ashok Nagar balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Ashok Nagar, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Ashok Nagar, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Ashok Nagar, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -1676,7 +1639,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Avadi should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Avadi, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -1694,7 +1657,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Avadi balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Avadi residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -1715,14 +1678,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Avadi customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Avadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Avadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Avadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Avadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Avadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Avadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Avadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Avadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Avadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -1798,9 +1754,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Avadi balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Avadi, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Avadi, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Avadi, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -1907,7 +1864,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Besant Nagar should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Besant Nagar, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -1925,7 +1882,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Besant Nagar balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Besant Nagar residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -1946,14 +1903,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Besant Nagar customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Besant Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Besant Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Besant Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Besant Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Besant Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Besant Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Besant Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Besant Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Besant Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -2029,9 +1979,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Besant Nagar balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Besant Nagar, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Besant Nagar, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Besant Nagar, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -2042,7 +1993,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
       "title": "Balcony Safety Nets in Chetpet Chennai | DK Safety Solutions",
-      "description": "Detailed area guide for balcony safety nets in Chetpet, Chennai, covering premium flats, quiet finish, older surfaces, child safety, pet safety, bird control, installation planning, and maintenance.",
+      "description": "Detailed area guide for balcony safety nets in Chetpet, Chennai, covering refined flats, quiet finish, older surfaces, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Chetpet",
         "balcony safety nets Chetpet Chennai",
@@ -2058,7 +2009,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Chetpet Chennai balcony safety nets",
       "title": "Balcony Safety Nets in Chetpet for safer family balconies and cleaner daily use.",
-      "lead": "Chetpet balconies need planning around premium flats, quiet finish, older surfaces. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
+      "lead": "Chetpet balconies need planning around refined flats, quiet finish, older surfaces. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
       "image": "/images/balcony-invisible-safety-installation.webp",
       "primaryCta": "Call for Chetpet Site Visit",
       "secondaryCta": "WhatsApp Balcony Photos"
@@ -2083,7 +2034,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "intro": {
       "heading": "Why balcony safety nets in Chetpet need site-specific planning",
       "paragraphs": [
-        "Balcony safety nets in Chetpet should be planned around the way the balcony is actually used. The area conditions include premium flats, quiet finish, older surfaces, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
+        "Balcony safety nets in Chetpet should be planned around the way the balcony is actually used. The area conditions include refined flats, quiet finish, older surfaces, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
         "Chetpet jobs should balance refined appearance with careful anchoring, because many homes expect quiet finishes, low disturbance, and trustworthy installation behavior. Balcony safety nets must keep the opening protected without blocking airflow, daily drying use, plant access, or the view from the main room. This is why the page cannot stop at a small service description. Balcony netting has to think about railing gaps, floor height, side openings, children, pets, birds, cleaning access, and how the finished line looks from inside the home.",
         "The risk is not always the obvious open face. Children can climb through reachable gaps, pets can push toward side corners, and pigeons can enter from ledges or beam pockets. A good site visit studies the unsafe route before quoting. If the installer measures only the front rectangle, the result may miss the way the household actually uses the balcony.",
         "This service page is written for Chetpet residents who want the balcony to stay usable after safety work. It explains family safety, pet movement, bird control, fixing choices, association rules, maintenance, and quote comparison. This guide keeps the advice focused on real site conditions, daily use, safety priorities, and a cleaner visit plan for Chetpet."
@@ -2131,14 +2082,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "heading": "Chetpet weather and usage affect safety net material",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
-          "Balcony nets face sun, rain, dust, and daily handling. In Chetpet, the material should suit premium flats, quiet finish, older surfaces. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
+          "Balcony nets face sun, rain, dust, and daily handling. In Chetpet, the material should suit refined flats, quiet finish, older surfaces. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
           "Residents should ask about outdoor durability, visibility, expected life, and maintenance. The cheapest option may not be the safest if it loses tension quickly. A better material keeps the balcony safer and easier to clean over time."
         ]
       },
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Chetpet should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Chetpet, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -2156,7 +2107,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Chetpet balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Chetpet residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -2177,14 +2128,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Chetpet customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Chetpet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chetpet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chetpet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chetpet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chetpet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chetpet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chetpet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Chetpet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Chetpet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -2260,9 +2204,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Chetpet balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Chetpet, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Chetpet, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Chetpet, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -2369,7 +2314,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Choolaimedu should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Choolaimedu, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -2387,7 +2332,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Choolaimedu balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Choolaimedu residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -2408,14 +2353,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Choolaimedu customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Choolaimedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Choolaimedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Choolaimedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Choolaimedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Choolaimedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Choolaimedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Choolaimedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Choolaimedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Choolaimedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -2491,9 +2429,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Choolaimedu balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Choolaimedu, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Choolaimedu, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Choolaimedu, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -2600,7 +2539,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Chromepet should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Chromepet, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -2618,7 +2557,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Chromepet balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Chromepet residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -2639,15 +2578,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Chromepet customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Chromepet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chromepet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chromepet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chromepet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chromepet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chromepet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chromepet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Chromepet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Chromepet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Chromepet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -2723,9 +2654,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Chromepet balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Chromepet, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Chromepet, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Chromepet, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -2832,7 +2764,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Egmore should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Egmore, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -2850,7 +2782,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Egmore balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Egmore residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -2871,14 +2803,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Egmore customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Egmore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Egmore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Egmore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Egmore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Egmore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Egmore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Egmore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Egmore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Egmore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -2954,9 +2879,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Egmore balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Egmore, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Egmore, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Egmore, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -3063,7 +2989,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Guindy should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Guindy, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -3081,7 +3007,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Guindy balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Guindy residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -3102,15 +3028,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Guindy customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Guindy, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Guindy, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Guindy, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Guindy, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Guindy, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Guindy, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Guindy, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Guindy, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Guindy, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Guindy, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -3186,9 +3104,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Guindy balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Guindy, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Guindy, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Guindy, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -3295,7 +3214,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Injambakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Injambakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -3313,7 +3232,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Injambakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Injambakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -3334,15 +3253,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Injambakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Injambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Injambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Injambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Injambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Injambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Injambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Injambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Injambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Injambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Injambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -3418,9 +3329,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Injambakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Injambakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Injambakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Injambakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -3527,7 +3439,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in K K Nagar should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In K K Nagar, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -3545,7 +3457,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "K K Nagar balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. K K Nagar residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -3566,13 +3478,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. K K Nagar customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For K K Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For K K Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For K K Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For K K Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For K K Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For K K Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For K K Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For K K Nagar, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -3648,9 +3554,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the K K Nagar balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For K K Nagar, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For K K Nagar, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For K K Nagar, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -3757,7 +3664,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Kandanchavadi should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Kandanchavadi, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -3775,7 +3682,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Kandanchavadi balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Kandanchavadi residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -3796,15 +3703,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Kandanchavadi customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Kandanchavadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kandanchavadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kandanchavadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kandanchavadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kandanchavadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kandanchavadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kandanchavadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kandanchavadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Kandanchavadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Kandanchavadi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -3880,9 +3779,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Kandanchavadi balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Kandanchavadi, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Kandanchavadi, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Kandanchavadi, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -3989,7 +3889,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Karapakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Karapakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -4007,7 +3907,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Karapakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Karapakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -4028,15 +3928,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Karapakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Karapakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Karapakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Karapakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Karapakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Karapakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Karapakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Karapakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Karapakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Karapakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Karapakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -4112,9 +4004,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Karapakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Karapakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Karapakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Karapakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -4221,7 +4114,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Kelambakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Kelambakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -4239,7 +4132,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Kelambakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Kelambakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -4260,15 +4153,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Kelambakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Kelambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kelambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kelambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kelambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kelambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kelambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kelambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kelambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Kelambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Kelambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -4344,9 +4229,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Kelambakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Kelambakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Kelambakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Kelambakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -4357,7 +4243,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
       "title": "Balcony Safety Nets in Kilpauk Chennai | DK Safety Solutions",
-      "description": "Detailed area guide for balcony safety nets in Kilpauk, Chennai, covering premium central flats, older walls, discreet finish, child safety, pet safety, bird control, installation planning, and maintenance.",
+      "description": "Detailed area guide for balcony safety nets in Kilpauk, Chennai, covering refined central flats, older walls, discreet finish, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Kilpauk",
         "balcony safety nets Kilpauk Chennai",
@@ -4373,7 +4259,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Kilpauk Chennai balcony safety nets",
       "title": "Balcony Safety Nets in Kilpauk for safer family balconies and cleaner daily use.",
-      "lead": "Kilpauk balconies need planning around premium central flats, older walls, discreet finish. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
+      "lead": "Kilpauk balconies need planning around refined central flats, older walls, discreet finish. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
       "image": "/images/balcony-invisible-safety-installation.webp",
       "primaryCta": "Call for Kilpauk Site Visit",
       "secondaryCta": "WhatsApp Balcony Photos"
@@ -4398,7 +4284,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "intro": {
       "heading": "Why balcony safety nets in Kilpauk need site-specific planning",
       "paragraphs": [
-        "Balcony safety nets in Kilpauk should be planned around the way the balcony is actually used. The area conditions include premium central flats, older walls, discreet finish, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
+        "Balcony safety nets in Kilpauk should be planned around the way the balcony is actually used. The area conditions include refined central flats, older walls, discreet finish, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
         "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Balcony safety nets must keep the opening protected without blocking airflow, daily drying use, plant access, or the view from the main room. This is why the page cannot stop at a small service description. Balcony netting has to think about railing gaps, floor height, side openings, children, pets, birds, cleaning access, and how the finished line looks from inside the home.",
         "The risk is not always the obvious open face. Children can climb through reachable gaps, pets can push toward side corners, and pigeons can enter from ledges or beam pockets. A good site visit studies the unsafe route before quoting. If the installer measures only the front rectangle, the result may miss the way the household actually uses the balcony.",
         "This service page is written for Kilpauk residents who want the balcony to stay usable after safety work. It explains family safety, pet movement, bird control, fixing choices, association rules, maintenance, and quote comparison. This guide keeps the advice focused on real site conditions, daily use, safety priorities, and a cleaner visit plan for Kilpauk."
@@ -4446,14 +4332,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "heading": "Kilpauk weather and usage affect safety net material",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
-          "Balcony nets face sun, rain, dust, and daily handling. In Kilpauk, the material should suit premium central flats, older walls, discreet finish. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
+          "Balcony nets face sun, rain, dust, and daily handling. In Kilpauk, the material should suit refined central flats, older walls, discreet finish. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
           "Residents should ask about outdoor durability, visibility, expected life, and maintenance. The cheapest option may not be the safest if it loses tension quickly. A better material keeps the balcony safer and easier to clean over time."
         ]
       },
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Kilpauk should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Kilpauk, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -4471,7 +4357,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Kilpauk balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Kilpauk residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -4492,14 +4378,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Kilpauk customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Kilpauk, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kilpauk, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kilpauk, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kilpauk, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kilpauk, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kilpauk, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kilpauk, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Kilpauk, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Kilpauk, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -4575,9 +4454,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Kilpauk balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Kilpauk, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Kilpauk, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Kilpauk, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -4684,7 +4564,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Kodambakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Kodambakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -4702,7 +4582,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Kodambakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Kodambakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -4723,15 +4603,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Kodambakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Kodambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kodambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kodambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kodambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kodambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kodambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kodambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kodambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Kodambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Kodambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -4807,9 +4679,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Kodambakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Kodambakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Kodambakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Kodambakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -4916,7 +4789,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Kolathur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Kolathur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -4934,7 +4807,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Kolathur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Kolathur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -4955,14 +4828,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Kolathur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Kolathur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kolathur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kolathur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kolathur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kolathur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kolathur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kolathur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Kolathur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Kolathur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -5038,9 +4904,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Kolathur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Kolathur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Kolathur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Kolathur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -5147,7 +5014,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Korattur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Korattur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -5165,7 +5032,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Korattur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Korattur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -5186,14 +5053,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Korattur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Korattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Korattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Korattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Korattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Korattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Korattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Korattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Korattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Korattur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -5269,9 +5129,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Korattur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Korattur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Korattur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Korattur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -5378,7 +5239,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Kottivakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Kottivakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -5396,7 +5257,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Kottivakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Kottivakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -5417,15 +5278,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Kottivakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Kottivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kottivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kottivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kottivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kottivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kottivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kottivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Kottivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Kottivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Kottivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -5501,9 +5354,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Kottivakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Kottivakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Kottivakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Kottivakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -5610,7 +5464,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Koyambedu should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Koyambedu, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -5628,7 +5482,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Koyambedu balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Koyambedu residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -5649,14 +5503,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Koyambedu customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Koyambedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Koyambedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Koyambedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Koyambedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Koyambedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Koyambedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Koyambedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Koyambedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Koyambedu, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -5732,9 +5579,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Koyambedu balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Koyambedu, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Koyambedu, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Koyambedu, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -5841,7 +5689,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Madipakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Madipakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -5859,7 +5707,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Madipakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Madipakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -5880,16 +5728,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Madipakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Madipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -5965,9 +5804,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Madipakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Madipakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Madipakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Madipakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -6074,7 +5914,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Madhavaram should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Madhavaram, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -6092,7 +5932,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Madhavaram balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Madhavaram residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -6113,14 +5953,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Madhavaram customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Madhavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madhavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madhavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madhavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madhavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madhavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Madhavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Madhavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Madhavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -6196,9 +6029,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Madhavaram balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Madhavaram, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Madhavaram, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Madhavaram, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -6305,7 +6139,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Medavakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Medavakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -6323,7 +6157,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Medavakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Medavakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -6344,15 +6178,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Medavakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Medavakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Medavakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Medavakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Medavakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Medavakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Medavakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Medavakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Medavakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Medavakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Medavakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -6428,9 +6254,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Medavakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Medavakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Medavakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Medavakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -6537,7 +6364,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Mogappair should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Mogappair, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -6555,7 +6382,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Mogappair balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Mogappair residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -6576,15 +6403,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Mogappair customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Mogappair, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mogappair, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mogappair, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mogappair, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mogappair, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mogappair, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mogappair, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mogappair, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Mogappair, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Mogappair, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -6660,9 +6479,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Mogappair balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Mogappair, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Mogappair, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Mogappair, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -6769,7 +6589,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Mugalivakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Mugalivakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -6787,7 +6607,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Mugalivakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Mugalivakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -6808,14 +6628,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Mugalivakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Mugalivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mugalivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mugalivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mugalivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mugalivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mugalivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mugalivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Mugalivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Mugalivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -6891,9 +6704,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Mugalivakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Mugalivakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Mugalivakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Mugalivakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -7000,7 +6814,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Mylapore should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Mylapore, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -7018,7 +6832,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Mylapore balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Mylapore residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -7039,16 +6853,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Mylapore customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Mylapore, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -7124,9 +6929,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Mylapore balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Mylapore, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Mylapore, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Mylapore, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -7233,7 +7039,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Nanganallur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Nanganallur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -7251,7 +7057,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Nanganallur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Nanganallur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -7272,15 +7078,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Nanganallur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Nanganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nanganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nanganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nanganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nanganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nanganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nanganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nanganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Nanganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Nanganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -7356,9 +7154,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Nanganallur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Nanganallur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Nanganallur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Nanganallur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -7465,7 +7264,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Navalur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Navalur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -7483,7 +7282,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Navalur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Navalur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -7504,16 +7303,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Navalur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Navalur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -7589,9 +7379,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Navalur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Navalur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Navalur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Navalur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -7602,7 +7393,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
       "title": "Balcony Safety Nets in Neelankarai Chennai | DK Safety Solutions",
-      "description": "Detailed area guide for balcony safety nets in Neelankarai, Chennai, covering coastal villas, open terraces, premium views, child safety, pet safety, bird control, installation planning, and maintenance.",
+      "description": "Detailed area guide for balcony safety nets in Neelankarai, Chennai, covering coastal villas, open terraces, refined views, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Neelankarai",
         "balcony safety nets Neelankarai Chennai",
@@ -7618,7 +7409,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Neelankarai Chennai balcony safety nets",
       "title": "Balcony Safety Nets in Neelankarai for safer family balconies and cleaner daily use.",
-      "lead": "Neelankarai balconies need planning around coastal villas, open terraces, premium views. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
+      "lead": "Neelankarai balconies need planning around coastal villas, open terraces, refined views. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
       "image": "/images/balcony-invisible-safety-installation.webp",
       "primaryCta": "Call for Neelankarai Site Visit",
       "secondaryCta": "WhatsApp Balcony Photos"
@@ -7643,7 +7434,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "intro": {
       "heading": "Why balcony safety nets in Neelankarai need site-specific planning",
       "paragraphs": [
-        "Balcony safety nets in Neelankarai should be planned around the way the balcony is actually used. The area conditions include coastal villas, open terraces, premium views, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
+        "Balcony safety nets in Neelankarai should be planned around the way the balcony is actually used. The area conditions include coastal villas, open terraces, refined views, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
         "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Balcony safety nets must keep the opening protected without blocking airflow, daily drying use, plant access, or the view from the main room. This is why the page cannot stop at a small service description. Balcony netting has to think about railing gaps, floor height, side openings, children, pets, birds, cleaning access, and how the finished line looks from inside the home.",
         "The risk is not always the obvious open face. Children can climb through reachable gaps, pets can push toward side corners, and pigeons can enter from ledges or beam pockets. A good site visit studies the unsafe route before quoting. If the installer measures only the front rectangle, the result may miss the way the household actually uses the balcony.",
         "This service page is written for Neelankarai residents who want the balcony to stay usable after safety work. It explains family safety, pet movement, bird control, fixing choices, association rules, maintenance, and quote comparison. This guide keeps the advice focused on real site conditions, daily use, safety priorities, and a cleaner visit plan for Neelankarai."
@@ -7691,14 +7482,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "heading": "Neelankarai weather and usage affect safety net material",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
-          "Balcony nets face sun, rain, dust, and daily handling. In Neelankarai, the material should suit coastal villas, open terraces, premium views. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
+          "Balcony nets face sun, rain, dust, and daily handling. In Neelankarai, the material should suit coastal villas, open terraces, refined views. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
           "Residents should ask about outdoor durability, visibility, expected life, and maintenance. The cheapest option may not be the safest if it loses tension quickly. A better material keeps the balcony safer and easier to clean over time."
         ]
       },
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Neelankarai should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Neelankarai, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -7716,7 +7507,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Neelankarai balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Neelankarai residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -7737,15 +7528,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Neelankarai customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Neelankarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Neelankarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Neelankarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Neelankarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Neelankarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Neelankarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Neelankarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Neelankarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Neelankarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Neelankarai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -7821,9 +7604,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Neelankarai balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Neelankarai, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Neelankarai, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Neelankarai, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -7834,7 +7618,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
       "title": "Balcony Safety Nets in Nungambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed area guide for balcony safety nets in Nungambakkam, Chennai, covering premium apartments, discreet lines, association finish, child safety, pet safety, bird control, installation planning, and maintenance.",
+      "description": "Detailed area guide for balcony safety nets in Nungambakkam, Chennai, covering refined apartments, discreet lines, association finish, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Nungambakkam",
         "balcony safety nets Nungambakkam Chennai",
@@ -7850,7 +7634,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Nungambakkam Chennai balcony safety nets",
       "title": "Balcony Safety Nets in Nungambakkam for safer family balconies and cleaner daily use.",
-      "lead": "Nungambakkam balconies need planning around premium apartments, discreet lines, association finish. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
+      "lead": "Nungambakkam balconies need planning around refined apartments, discreet lines, association finish. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
       "image": "/images/balcony-invisible-safety-installation.webp",
       "primaryCta": "Call for Nungambakkam Site Visit",
       "secondaryCta": "WhatsApp Balcony Photos"
@@ -7859,7 +7643,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Area",
         "label": "Nungambakkam Balcony Use",
-        "description": "Nungambakkam needs a premium finish angle, where the page explains why clean alignment, association approval, and discreet hardware matter as much as safety."
+        "description": "Nungambakkam needs a neat finish angle, where the page explains why clean alignment, association approval, and discreet hardware matter as much as safety."
       },
       {
         "stat": "2500",
@@ -7875,8 +7659,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "intro": {
       "heading": "Why balcony safety nets in Nungambakkam need site-specific planning",
       "paragraphs": [
-        "Balcony safety nets in Nungambakkam should be planned around the way the balcony is actually used. The area conditions include premium apartments, discreet lines, association finish, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
-        "Nungambakkam needs a premium finish angle, where the page explains why clean alignment, association approval, and discreet hardware matter as much as safety. This is why the page cannot stop at a small service description. Balcony netting has to think about railing gaps, floor height, side openings, children, pets, birds, cleaning access, and how the finished line looks from inside the home.",
+        "Balcony safety nets in Nungambakkam should be planned around the way the balcony is actually used. The area conditions include refined apartments, discreet lines, association finish, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
+        "Nungambakkam needs a neat finish angle, where the page explains why clean alignment, association approval, and discreet hardware matter as much as safety. This is why the page cannot stop at a small service description. Balcony netting has to think about railing gaps, floor height, side openings, children, pets, birds, cleaning access, and how the finished line looks from inside the home.",
         "The risk is not always the obvious open face. Children can climb through reachable gaps, pets can push toward side corners, and pigeons can enter from ledges or beam pockets. A good site visit studies the unsafe route before quoting. If the installer measures only the front rectangle, the result may miss the way the household actually uses the balcony.",
         "This service page is written for Nungambakkam residents who want the balcony to stay usable after safety work. It explains family safety, pet movement, bird control, fixing choices, association rules, maintenance, and quote comparison. This guide keeps the advice focused on real site conditions, daily use, safety priorities, and a cleaner visit plan for Nungambakkam."
       ]
@@ -7923,14 +7707,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "heading": "Nungambakkam weather and usage affect safety net material",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
-          "Balcony nets face sun, rain, dust, and daily handling. In Nungambakkam, the material should suit premium apartments, discreet lines, association finish. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
+          "Balcony nets face sun, rain, dust, and daily handling. In Nungambakkam, the material should suit refined apartments, discreet lines, association finish. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
           "Residents should ask about outdoor durability, visibility, expected life, and maintenance. The cheapest option may not be the safest if it loses tension quickly. A better material keeps the balcony safer and easier to clean over time."
         ]
       },
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Nungambakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Nungambakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -7948,7 +7732,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Nungambakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Nungambakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -7969,15 +7753,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Nungambakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Nungambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nungambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nungambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nungambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nungambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nungambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nungambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Nungambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Nungambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Nungambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -8053,9 +7829,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Nungambakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Nungambakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Nungambakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Nungambakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -8162,7 +7939,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Pallavaram should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Pallavaram, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -8180,7 +7957,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Pallavaram balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Pallavaram residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -8201,16 +7978,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Pallavaram customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Pallavaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -8286,9 +8054,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Pallavaram balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Pallavaram, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Pallavaram, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Pallavaram, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -8395,7 +8164,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Pallikaranai should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Pallikaranai, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -8413,7 +8182,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Pallikaranai balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Pallikaranai residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -8434,15 +8203,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Pallikaranai customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Pallikaranai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallikaranai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallikaranai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallikaranai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallikaranai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallikaranai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallikaranai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Pallikaranai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Pallikaranai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Pallikaranai, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -8518,9 +8279,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Pallikaranai balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Pallikaranai, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Pallikaranai, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Pallikaranai, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -8627,7 +8389,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Perambur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Perambur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -8645,7 +8407,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Perambur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Perambur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -8666,14 +8428,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Perambur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Perambur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perambur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perambur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perambur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perambur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perambur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perambur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Perambur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Perambur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -8749,9 +8504,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Perambur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Perambur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Perambur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Perambur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -8858,7 +8614,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Perungudi should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Perungudi, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -8876,7 +8632,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Perungudi balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Perungudi residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -8897,15 +8653,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Perungudi customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Perungudi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perungudi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perungudi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perungudi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perungudi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perungudi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perungudi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Perungudi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Perungudi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Perungudi, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -8981,9 +8729,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Perungudi balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Perungudi, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Perungudi, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Perungudi, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -9090,7 +8839,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Poonamallee should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Poonamallee, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -9108,7 +8857,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Poonamallee balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Poonamallee residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -9129,16 +8878,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Poonamallee customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Poonamallee, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -9214,9 +8954,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Poonamallee balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Poonamallee, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Poonamallee, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Poonamallee, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -9323,7 +9064,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Porur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Porur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -9341,7 +9082,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Porur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Porur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -9362,15 +9103,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Porur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Porur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Porur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Porur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Porur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Porur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Porur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Porur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Porur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Porur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Porur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -9446,9 +9179,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Porur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Porur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Porur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Porur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -9555,7 +9289,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Purasawalkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Purasawalkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -9573,7 +9307,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Purasawalkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Purasawalkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -9594,15 +9328,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Purasawalkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Purasawalkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Purasawalkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Purasawalkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Purasawalkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Purasawalkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Purasawalkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Purasawalkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Purasawalkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Purasawalkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Purasawalkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -9678,9 +9404,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Purasawalkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Purasawalkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Purasawalkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Purasawalkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -9787,7 +9514,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Ramapuram should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Ramapuram, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -9805,7 +9532,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Ramapuram balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Ramapuram residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -9826,15 +9553,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Ramapuram customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Ramapuram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ramapuram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ramapuram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ramapuram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ramapuram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ramapuram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ramapuram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Ramapuram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Ramapuram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Ramapuram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -9910,9 +9629,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Ramapuram balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Ramapuram, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Ramapuram, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Ramapuram, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -10019,7 +9739,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Royapettah should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Royapettah, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -10037,7 +9757,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Royapettah balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Royapettah residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -10058,14 +9778,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Royapettah customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Royapettah, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Royapettah, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Royapettah, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Royapettah, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Royapettah, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Royapettah, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Royapettah, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Royapettah, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Royapettah, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -10141,9 +9854,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Royapettah balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Royapettah, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Royapettah, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Royapettah, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -10250,7 +9964,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Saidapet should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Saidapet, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -10268,7 +9982,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Saidapet balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Saidapet residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -10289,14 +10003,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Saidapet customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Saidapet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Saidapet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Saidapet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Saidapet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Saidapet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Saidapet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Saidapet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Saidapet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Saidapet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -10372,9 +10079,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Saidapet balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Saidapet, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Saidapet, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Saidapet, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -10481,7 +10189,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Selaiyur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Selaiyur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -10499,7 +10207,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Selaiyur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Selaiyur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -10520,14 +10228,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Selaiyur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Selaiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Selaiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Selaiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Selaiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Selaiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Selaiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Selaiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Selaiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Selaiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -10603,9 +10304,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Selaiyur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Selaiyur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Selaiyur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Selaiyur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -10712,7 +10414,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Sholinganallur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Sholinganallur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -10730,7 +10432,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Sholinganallur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Sholinganallur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -10751,15 +10453,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Sholinganallur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Sholinganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Sholinganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Sholinganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Sholinganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Sholinganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Sholinganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Sholinganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Sholinganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Sholinganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Sholinganallur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -10835,9 +10529,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Sholinganallur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Sholinganallur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Sholinganallur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Sholinganallur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -10944,7 +10639,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Siruseri should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Siruseri, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -10962,7 +10657,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Siruseri balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Siruseri residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -10983,15 +10678,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Siruseri customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Siruseri, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Siruseri, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Siruseri, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Siruseri, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Siruseri, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Siruseri, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Siruseri, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Siruseri, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Siruseri, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Siruseri, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -11067,9 +10754,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Siruseri balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Siruseri, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Siruseri, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Siruseri, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -11176,7 +10864,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Tambaram should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Tambaram, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -11194,7 +10882,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Tambaram balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Tambaram residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -11215,15 +10903,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Tambaram customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Tambaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Tambaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Tambaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Tambaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Tambaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Tambaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Tambaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Tambaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Tambaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Tambaram, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -11299,9 +10979,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Tambaram balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Tambaram, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Tambaram, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Tambaram, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -11353,8 +11034,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "intro": {
       "heading": "Why balcony safety nets in T Nagar need area planning",
       "paragraphs": [
-        "T Nagar is not a single type of residential market. It has older independent homes, established apartment blocks, newer gated layouts, compact rental flats, premium commercial building apartments, and homes that sit close to busy roads. A balcony safety net that works well in one of these buildings may feel awkward in another if the installer ignores the opening shape, railing condition, floor height, and how the family actually uses the balcony. The correct work starts with observation before measurement.",
-        "For many T Nagar families, the balcony is both useful and emotional. It is where children watch the street, elders get fresh air, pets follow movement outside, clothes dry during humid weeks, and plants receive their best light. The safety net has to protect that opening without turning the space into a cage. It should be tight, balanced, clean at the corners, and aligned so the final finish feels deliberate from inside the room.",
+        "T Nagar is not a single type of residential market. It has older independent homes, established apartment blocks, newer gated layouts, compact rental flats, refined commercial building apartments, and homes that sit close to busy roads. A balcony safety net that works well in one of these buildings may feel awkward in another if the installer ignores the opening shape, railing condition, floor height, and how the family actually uses the balcony. The correct work starts with observation before measurement.",
+        "For many T Nagar families, the balcony is both useful and emotional. It is where children watch the street, elders get fresh air, pets follow movement outside, clothes dry during humid weeks, and plants receive their right light. The safety net has to protect that opening without turning the space into a cage. It should be tight, balanced, clean at the corners, and aligned so the final finish feels deliberate from inside the room.",
         "Searches for balcony safety nets in T Nagar often carry more than one intent. One family may be trying to stop a toddler from leaning through a railing. Another may be tired of pigeon droppings near a washing machine. A renter may want a neat solution that does not damage the flat, while an owner may want a stronger long-term installation that suits the building elevation. A useful service page must speak to all of those real situations instead of forcing every visitor into the same generic paragraph.",
         "This page is written as a complete planning guide for balcony safety nets in T Nagar. It explains how to think about child safety, bird control, apartment association expectations, material selection, installation access, maintenance, and quote comparison. It is not a doorway page made by replacing a city name. It is a detailed service page in the Chennai content system, written with area care."
       ]
@@ -11375,7 +11056,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/cards/anti-bird-invisible-grills.webp",
         "paragraphs": [
           "Many balcony safety net enquiries in T Nagar are not only about children. Pigeons and other birds can turn a balcony into a daily cleaning problem, especially when the opening has AC ledges, side gaps, grills, beams, shade projections, or quiet corners where birds feel protected. If the net is planned only for fall safety and ignores bird route behavior, the balcony may still collect droppings, feathers, nesting material, and smell.",
-          "The net layout should close the actual entry paths. That can include the front opening, side slit, top beam gap, parapet edge, or the area behind an outdoor unit. A clean install avoids loose pockets where birds can push in or where dust collects. In apartments close to busy streets, this difference matters. The best result is a balcony that feels safer for the family and easier to keep clean through Chennai weather."
+          "The net layout should close the actual entry paths. That can include the front opening, side slit, top beam gap, parapet edge, or the area behind an outdoor unit. A clean install avoids loose pockets where birds can push in or where dust collects. In apartments close to busy streets, this difference matters. The right result is a balcony that feels safer for the family and easier to keep clean through Chennai weather."
         ]
       },
       {
@@ -11392,14 +11073,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "heading": "The final look matters in established T Nagar homes",
         "image": "/cards/stainless-steel-invisible-grill.webp",
         "paragraphs": [
-          "T Nagar residents often care about how the work looks from the living room, not just whether the net is installed. A rough safety net can make a good apartment feel unfinished. Crooked lines, hanging knots, messy corners, visible extra material, and uneven tension all become irritating because the balcony is seen every day. A premium finish is quieter. It sits in the background and lets the balcony remain usable.",
+          "T Nagar residents often care about how the work looks from the living room, not just whether the net is installed. A rough safety net can make a good apartment feel unfinished. Crooked lines, hanging knots, messy corners, visible extra material, and uneven tension all become irritating because the balcony is seen every day. A neat finish is quieter. It sits in the background and lets the balcony remain usable.",
           "Before installation, the team should decide how the border will run, how the corners will be handled, and what visual line the family will see when curtains are open. Association rules may also matter in some buildings, especially where exterior appearance is controlled. The safest and cleanest work respects the building elevation while still protecting the household. That balance is especially important in busy residential pockets around T Nagar."
         ]
       },
       {
         "eyebrow": "Site Visit",
         "heading": "A site visit prevents the wrong quote and the wrong solution",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Phone quotes are useful for rough budgeting, but they cannot read balcony behavior. A proper T Nagar site visit checks the width, height, railing, wall condition, ceiling edge, anchor points, AC unit position, building access, and the family requirement. It also helps decide whether a simple safety net is enough or whether side closures, bird route blocking, or a different protection style should be considered.",
           "The site visit also protects the customer from underquoting. A low quote can become frustrating if the team later adds charges for difficult access, extra hooks, side gaps, material changes, or height work. A clear quote should describe what is included, what is not included, how long the installation will take, and what preparation the family should complete before the team arrives. That clarity is part of a professional safety service."
@@ -11411,7 +11092,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Someone searching for balcony safety nets in T Nagar may not be ready to book immediately. They may be checking whether nets are allowed in their apartment, whether the work will look clean from the hall, whether pets can still enjoy the balcony, whether the net will stop pigeons, or whether a weekend installation is possible without disturbing the building. Good area content should make those decisions easier before a call happens. It should help the customer recognize the correct scope for their home.",
-          "This is why DK Safety Solutions should treat each Chennai area page as a small area consultation. T Nagar needs details about busy street dust, commercial building apartments, older walls, tree-facing balconies, humidity, premium finishes, and family homes where grandparents and children share the same balcony. Another area will need a different angle. When the writing is specific, the page can answer service, price, safety, pigeon control, pet safety, association approval, and customer search intent without feeling like a thin service page."
+          "This is why DK Safety Solutions should treat each Chennai area page as a small area consultation. T Nagar needs details about busy street dust, commercial building apartments, older walls, tree-facing balconies, humidity, neat finishes, and family homes where grandparents and children share the same balcony. Another area will need a different angle. When the writing is specific, the page can answer service, price, safety, pigeon control, pet safety, association approval, and customer search intent without feeling like a thin service page."
         ]
       },
       {
@@ -11419,7 +11100,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "heading": "A good safety net should remain easy to live with",
         "image": "/images/invisible-grill.webp",
         "paragraphs": [
-          "Balcony safety nets in T Nagar should be planned with cleaning and maintenance in mind. Families still need to sweep, water plants, dry clothes, clean railings, and sometimes access AC units. If the net blocks all practical movement or creates dust-catching pockets, it may slowly become a daily inconvenience. The best layout protects the opening while keeping the balcony easy to use.",
+          "Balcony safety nets in T Nagar should be planned with cleaning and maintenance in mind. Families still need to sweep, water plants, dry clothes, clean railings, and sometimes access AC units. If the net blocks all practical movement or creates dust-catching pockets, it may slowly become a daily inconvenience. The right layout protects the opening while keeping the balcony easy to use.",
           "Maintenance is often simple when the net is tight, the corners are clean, and the fixing points are stable. Families should check for looseness after heavy weather, avoid hanging heavy items from the net, and call for adjustment if a corner starts to sag. The net is a safety system, not a storage support. Treating it that way helps it last longer and keeps the balcony looking neat."
         ]
       }
@@ -11451,8 +11132,8 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     },
     "faq": [
       {
-        "question": "What is the best balcony safety net for T Nagar apartments?",
-        "answer": "The best balcony safety net depends on the balcony opening, floor height, family use, bird activity, and building finish expectations. For many T Nagar apartments, a strong UV-stable net with clean border tension and well-planned corner fixing gives the right balance of child safety, bird control, airflow, and appearance. The exact choice should be made after checking the site, because balcony shapes and railing conditions vary widely."
+        "question": "What is the right balcony safety net for T Nagar apartments?",
+        "answer": "The right balcony safety net depends on the balcony opening, floor height, family use, bird activity, and building finish expectations. For many T Nagar apartments, a strong UV-stable net with clean border tension and well-planned corner fixing gives the right balance of child safety, bird control, airflow, and appearance. The exact choice should be made after checking the site, because balcony shapes and railing conditions vary widely."
       },
       {
         "question": "Can balcony safety nets stop pigeons in T Nagar?",
@@ -11480,7 +11161,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How do I maintain a balcony safety net after installation?",
-        "answer": "Keep the net free from heavy hanging loads, avoid cutting or pulling the mesh, and check corners after heavy rain or strong wind. Normal balcony cleaning can continue if the layout has been planned properly. If a fixing point loosens or a corner sags, call for adjustment rather than tying temporary knots. A safety net works best when it stays evenly tensioned."
+        "answer": "Keep the net free from heavy hanging loads, avoid cutting or pulling the mesh, and check corners after heavy rain or strong wind. Normal balcony cleaning can continue if the layout has been planned properly. If a fixing point loosens or a corner sags, call for adjustment rather than tying temporary knots. A safety net works right when it stays evenly tensioned."
       }
     ],
     "closing": {
@@ -11498,7 +11179,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "balcony-safety-nets",
     "metadata": {
       "title": "Balcony Safety Nets in Teynampet Chennai | DK Safety Solutions",
-      "description": "Detailed area guide for balcony safety nets in Teynampet, Chennai, covering premium central homes, visible fronts, quiet work, child safety, pet safety, bird control, installation planning, and maintenance.",
+      "description": "Detailed area guide for balcony safety nets in Teynampet, Chennai, covering refined central homes, visible fronts, quiet work, child safety, pet safety, bird control, installation planning, and maintenance.",
       "keywords": [
         "balcony safety nets in Teynampet",
         "balcony safety nets Teynampet Chennai",
@@ -11514,7 +11195,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Teynampet Chennai balcony safety nets",
       "title": "Balcony Safety Nets in Teynampet for safer family balconies and cleaner daily use.",
-      "lead": "Teynampet balconies need planning around premium central homes, visible fronts, quiet work. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
+      "lead": "Teynampet balconies need planning around refined central homes, visible fronts, quiet work. A balcony safety net should reduce fall risk, discourage birds, keep pets and children safer, and still leave the balcony practical for air, plants, laundry, cleaning, and everyday Chennai apartment life.",
       "image": "/images/balcony-invisible-safety-installation.webp",
       "primaryCta": "Call for Teynampet Site Visit",
       "secondaryCta": "WhatsApp Balcony Photos"
@@ -11539,7 +11220,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "intro": {
       "heading": "Why balcony safety nets in Teynampet need site-specific planning",
       "paragraphs": [
-        "Balcony safety nets in Teynampet should be planned around the way the balcony is actually used. The area conditions include premium central homes, visible fronts, quiet work, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
+        "Balcony safety nets in Teynampet should be planned around the way the balcony is actually used. The area conditions include refined central homes, visible fronts, quiet work, and those details change how the opening should be measured, fixed, tensioned, and maintained. A family that uses the balcony for plants and evening air needs a different layout from a rental flat where the same opening is also used for drying clothes or AC access.",
         "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Balcony safety nets must keep the opening protected without blocking airflow, daily drying use, plant access, or the view from the main room. This is why the page cannot stop at a small service description. Balcony netting has to think about railing gaps, floor height, side openings, children, pets, birds, cleaning access, and how the finished line looks from inside the home.",
         "The risk is not always the obvious open face. Children can climb through reachable gaps, pets can push toward side corners, and pigeons can enter from ledges or beam pockets. A good site visit studies the unsafe route before quoting. If the installer measures only the front rectangle, the result may miss the way the household actually uses the balcony.",
         "This service page is written for Teynampet residents who want the balcony to stay usable after safety work. It explains family safety, pet movement, bird control, fixing choices, association rules, maintenance, and quote comparison. This guide keeps the advice focused on real site conditions, daily use, safety priorities, and a cleaner visit plan for Teynampet."
@@ -11587,14 +11268,14 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "heading": "Teynampet weather and usage affect safety net material",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
-          "Balcony nets face sun, rain, dust, and daily handling. In Teynampet, the material should suit premium central homes, visible fronts, quiet work. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
+          "Balcony nets face sun, rain, dust, and daily handling. In Teynampet, the material should suit refined central homes, visible fronts, quiet work. A weak mesh can sag, collect dirt, or loosen at corners. The border rope, hooks, and tension matter as much as the mesh itself.",
           "Residents should ask about outdoor durability, visibility, expected life, and maintenance. The cheapest option may not be the safest if it loses tension quickly. A better material keeps the balcony safer and easier to clean over time."
         ]
       },
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Teynampet should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Teynampet, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -11612,7 +11293,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Teynampet balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Teynampet residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -11633,14 +11314,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Teynampet customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Teynampet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Teynampet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Teynampet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Teynampet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Teynampet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Teynampet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Teynampet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Teynampet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Teynampet, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -11716,9 +11390,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Teynampet balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Teynampet, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Teynampet, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Teynampet, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -11825,7 +11500,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Thiruvanmiyur should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Thiruvanmiyur, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -11843,7 +11518,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Thiruvanmiyur balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Thiruvanmiyur residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -11864,15 +11539,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Thiruvanmiyur customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Thiruvanmiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thiruvanmiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thiruvanmiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thiruvanmiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thiruvanmiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thiruvanmiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thiruvanmiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thiruvanmiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Thiruvanmiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Thiruvanmiyur, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -11948,9 +11615,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Thiruvanmiyur balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Thiruvanmiyur, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Thiruvanmiyur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Thiruvanmiyur, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -12057,7 +11725,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Thoraipakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Thoraipakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -12075,7 +11743,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Thoraipakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Thoraipakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -12096,15 +11764,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Thoraipakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Thoraipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thoraipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thoraipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thoraipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thoraipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thoraipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thoraipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Thoraipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Thoraipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Thoraipakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -12180,9 +11840,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Thoraipakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Thoraipakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Thoraipakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Thoraipakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -12289,7 +11950,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Triplicane should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Triplicane, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -12307,7 +11968,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Triplicane balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Triplicane residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -12328,14 +11989,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Triplicane customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Triplicane, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Triplicane, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Triplicane, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Triplicane, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Triplicane, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Triplicane, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Triplicane, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Triplicane, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Triplicane, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -12411,9 +12065,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Triplicane balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Triplicane, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Triplicane, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Triplicane, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -12520,7 +12175,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Vadapalani should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Vadapalani, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -12538,7 +12193,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Vadapalani balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Vadapalani residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -12559,14 +12214,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Vadapalani customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Vadapalani, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Vadapalani, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Vadapalani, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Vadapalani, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Vadapalani, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Vadapalani, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Vadapalani, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Vadapalani, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Vadapalani, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -12642,9 +12290,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Vadapalani balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Vadapalani, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Vadapalani, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Vadapalani, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -12751,7 +12400,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Valasaravakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Valasaravakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -12769,7 +12418,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Valasaravakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Valasaravakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -12790,16 +12439,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Valasaravakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Valasaravakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -12875,9 +12515,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Valasaravakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Valasaravakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Valasaravakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Valasaravakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -12984,7 +12625,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Velachery should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Velachery, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -13002,7 +12643,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Velachery balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Velachery residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -13023,15 +12664,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Velachery customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Velachery, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Velachery, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Velachery, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Velachery, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Velachery, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Velachery, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Velachery, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Velachery, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Velachery, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Velachery, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -13107,9 +12740,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Velachery balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Velachery, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Velachery, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Velachery, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -13216,7 +12850,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Villivakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Villivakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -13234,7 +12868,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Villivakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Villivakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -13255,14 +12889,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Villivakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Villivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Villivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Villivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Villivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Villivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Villivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Villivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Villivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Villivakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -13338,9 +12965,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Villivakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Villivakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Villivakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Villivakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -13447,7 +13075,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in Virugambakkam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In Virugambakkam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -13465,7 +13093,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "Virugambakkam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. Virugambakkam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -13486,15 +13114,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. Virugambakkam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For Virugambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Virugambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Virugambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Virugambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Virugambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Virugambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Virugambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For Virugambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For Virugambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For Virugambakkam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -13570,9 +13190,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Virugambakkam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For Virugambakkam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For Virugambakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For Virugambakkam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -13679,7 +13300,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Installation Access",
         "heading": "Fixing points in West Mambalam should be chosen with care",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Every balcony has its own fixing limits. Older paint, hollow plaster, metal railings, side columns, or tiled surfaces may need different hardware. In West Mambalam, a careful site visit should decide where the net can hold tension without damaging the home.",
           "Access also matters. High floors, narrow balconies, stored items, AC units, and association work hours can affect the installation method. The team should explain how they will work before drilling begins."
@@ -13697,7 +13318,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Apartment Finish",
         "heading": "West Mambalam balcony nets should look neat from the room and building",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "Appearance matters because balcony nets are visible from inside the hall and sometimes from common areas or the street. A sagging edge or uneven corner can make the work look temporary. West Mambalam residents should ask for straight border lines and tidy corner treatment.",
           "Apartment associations may also have rules about color, drilling, or facade appearance. It is better to confirm these before work starts. A clean finish helps the family, the building, and future maintenance teams accept the installation."
@@ -13718,13 +13339,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "image": "/images/Balcony-Invisible-Grills-1.webp",
         "paragraphs": [
           "Two quotes may look different because they include different work. One may include side gaps, bird-control corners, difficult access, stronger hardware, and cleanup planning. Another may quote only a front rectangle. West Mambalam customers should ask what is included.",
-          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The best value is the installation that matches the real balcony, not the lowest number shared before inspection.",
-          "For West Mambalam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For West Mambalam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For West Mambalam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For West Mambalam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For West Mambalam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
-          "For West Mambalam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
+          "A clear quote should mention material, measurement, fixing points, access difficulty, warranty or support, and whether bird-control routes are included. The right value is the installation that matches the real balcony, not the lowest number shared before inspection.",
           "For West Mambalam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check.",
           "For West Mambalam, the installer should also explain after-service expectations. If painting, AC work, plumbing, or exterior maintenance disturbs the border, the safety line may need adjustment. Keeping photos, quote notes, and service contact details helps the family maintain the balcony net instead of treating installation day as the final check."
         ]
@@ -13800,9 +13415,10 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the West Mambalam balcony safer without losing daily use.",
       "paragraphs": [
-        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The best installation is firm, tidy, and planned around the way the home actually works.",
+        "A balcony safety net should protect the opening while keeping the balcony useful for air, plants, laundry, cleaning, pets, and family routines. The right installation is firm, tidy, and planned around the way the home actually works.",
         "For West Mambalam, the right result comes from site measurement, risk-point checking, bird-route awareness, and clear scope. A neat net should feel like a natural part of the balcony rather than a rushed add-on.",
-        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence."
+        "When children, pets, elders, and daily cleaning are considered together, balcony netting becomes a practical home upgrade: safer edges, fewer bird problems, and a balcony the family can use with more confidence.",
+        "For West Mambalam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use. The best finish is usually the quiet one: straight borders, firm corner tension, no loose pockets, and enough clearance for windows, doors, outdoor units, and future maintenance work. Before confirming the booking, ask what is included in the price, how long the work will take, what preparation is needed, and who to call if a corner loosens later. That conversation makes the page useful for a real Chennai household, not just for a search engine visit, and it helps the customer compare service quality without guessing. It also keeps the scope honest for both sides. Clear scope prevents surprise charges. For West Mambalam, a useful balcony safety net quote should name the balcony or ledge openings, the fixing method, the access condition, and the small gaps that usually decide whether the work stays clean after installation. Photos taken from inside the home and from the common passage help the team understand wall edges, grills, AC units, service shafts, and any association limits before the visit starts. Residents should also mention children, pets, regular drying stands, plant shelves, older railings, and cleaning routines, because those details change the safest line for the net. A careful installer will check whether drilling is suitable, whether clamps are better in a rented flat, and whether the chosen mesh keeps enough light and airflow for daily use."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -13907,7 +13523,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Adambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13938,7 +13554,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13984,7 +13600,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Adambakkam conditions?",
+        "question": "Which material is right for Adambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14117,7 +13733,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ayanavaram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14148,7 +13764,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14194,7 +13810,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ayanavaram conditions?",
+        "question": "Which material is right for Ayanavaram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14327,7 +13943,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ekkattuthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14358,7 +13974,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14404,7 +14020,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ekkattuthangal conditions?",
+        "question": "Which material is right for Ekkattuthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14537,7 +14153,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Iyyappanthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14568,7 +14184,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14614,7 +14230,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Iyyappanthangal conditions?",
+        "question": "Which material is right for Iyyappanthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14747,7 +14363,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Manapakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14778,7 +14394,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14824,7 +14440,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Manapakkam conditions?",
+        "question": "Which material is right for Manapakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14879,7 +14495,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Mandaveli Chennai balcony safety nets",
       "title": "Balcony Safety Nets in Mandaveli planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Mandaveli customers often need balcony safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, and the work has to solve open edge risk, climb points near furniture, bird entry, and loose side returns without making routine use harder. A good Mandaveli plan studies older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "lead": "Mandaveli customers often need balcony safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony fronts, side gaps, railing openings, utility corners, and daily-use apartment edges, and the work has to solve open edge risk, climb points near furniture, bird entry, and loose side returns without making routine use harder. A good Mandaveli plan studies older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/balocny-safety-nets-installation.webp",
       "primaryCta": "Call for Balcony Net Visit in Mandaveli",
       "secondaryCta": "WhatsApp Balcony Net Details"
@@ -14888,7 +14504,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Mandaveli",
         "label": "Area Site Focus",
-        "description": "Written for Mandaveli conditions, including older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
       },
       {
         "stat": "2500",
@@ -14905,7 +14521,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mandaveli sites need a clear balcony safety nets plan",
       "paragraphs": [
         "Balcony Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Balcony Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Mandaveli, DK Safety Solutions should check opening width, railing height, side gaps, anchor strength, floor level, furniture climb points, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14957,7 +14573,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Mandaveli, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14988,7 +14604,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15034,7 +14650,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Mandaveli conditions?",
+        "question": "Which material is right for Mandaveli conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15167,7 +14783,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Palavakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15198,7 +14814,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15244,7 +14860,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Palavakkam conditions?",
+        "question": "Which material is right for Palavakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15377,7 +14993,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Periyar Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15408,7 +15024,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15454,7 +15070,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Periyar Nagar conditions?",
+        "question": "Which material is right for Periyar Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15586,7 +15202,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Royapuram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15617,7 +15233,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15663,7 +15279,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Royapuram conditions?",
+        "question": "Which material is right for Royapuram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15796,7 +15412,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Semmancheri, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15827,7 +15443,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15873,7 +15489,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Semmancheri conditions?",
+        "question": "Which material is right for Semmancheri conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -16006,7 +15622,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Tondiarpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -16037,7 +15653,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -16083,7 +15699,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Tondiarpet conditions?",
+        "question": "Which material is right for Tondiarpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -16216,7 +15832,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/birdnet/balocny-safety-nets-installation.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Washermanpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -16247,7 +15863,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: open edge risk, climb points near furniture, bird entry, and loose side returns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -16293,7 +15909,7 @@ export const balconySafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Washermanpet conditions?",
+        "question": "Which material is right for Washermanpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {

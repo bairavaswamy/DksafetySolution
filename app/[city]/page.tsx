@@ -163,7 +163,12 @@ export default function ChennaiPage({ params }: CityPageProps) {
             return (
               <article key={service.slug} className="overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm">
                 <div className="relative h-44">
-                  <Image src={detail.cardImage} alt={service.name} fill className="object-cover" />
+                  <Image
+                    src={detail.cardImage}
+                    alt={`${service.name} service photo in Chennai`}
+                    fill
+                    className="object-cover"
+                  />
                 </div>
                 <div className="p-5">
                   <p className="text-xs font-bold uppercase tracking-[0.18em] text-sky-500">

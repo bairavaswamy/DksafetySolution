@@ -47,7 +47,13 @@ function FocusCard({ item, isMobile = false }: { item: FocusItem; isMobile?: boo
   return (
     <>
       <div className={`${isMobile ? "h-48" : "h-40"} relative w-full bg-gray-100`}>
-        <Image src={item.image} alt={item.title} fill className="object-cover" unoptimized />
+        <Image
+          src={item.image}
+          alt={`${item.title} installation photo in Chennai`}
+          fill
+          className="object-cover"
+          unoptimized
+        />
       </div>
 
       <div className="p-4 text-left">

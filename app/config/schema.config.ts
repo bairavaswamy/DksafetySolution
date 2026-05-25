@@ -58,6 +58,18 @@ export const getGeoSchema = () => {
   };
 };
 
+const getMapUrl = () => {
+  const { latitude, longitude } = siteConfig.business.geo;
+
+  if (latitude && longitude) {
+    return `https://www.google.com/maps/search/?api=1&query=${latitude},${longitude}`;
+  }
+
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+    siteConfig.contact.addressLines.join(", ")
+  )}`;
+};
+
 export const getAreaServedSchema = () => ({
   "@type": "City",
   name: siteConfig.business.areaServed.city,
@@ -79,6 +91,7 @@ export const getLocalBusinessSchema = () =>
     image: absoluteUrl(siteConfig.defaultImage),
     telephone: siteConfig.contact.phoneLabel,
     email: siteConfig.contact.email,
+    hasMap: getMapUrl(),
     priceRange: siteConfig.business.priceRange,
     currenciesAccepted: siteConfig.business.currenciesAccepted,
     paymentAccepted: siteConfig.business.paymentAccepted,
@@ -90,15 +103,25 @@ export const getLocalBusinessSchema = () =>
       opens: hours.opens,
       closes: hours.closes,
     })),
+    openingHours: ["Mo-Su 00:00-23:59"],
     areaServed: getAreaServedSchema(),
-    contactPoint: {
-      "@type": "ContactPoint",
-      contactType: siteConfig.business.contactType,
-      telephone: siteConfig.contact.phoneLabel,
-      email: siteConfig.contact.email,
-      availableLanguage: ["en", "ta"],
-      areaServed: siteConfig.business.areaServed.country,
-    },
+    contactPoint: [
+      {
+        "@type": "ContactPoint",
+        contactType: siteConfig.business.contactType,
+        telephone: siteConfig.contact.phoneLabel,
+        email: siteConfig.contact.email,
+        availableLanguage: ["en", "ta"],
+        areaServed: siteConfig.business.areaServed.country,
+      },
+      {
+        "@type": "ContactPoint",
+        contactType: "WhatsApp enquiry",
+        telephone: siteConfig.contact.phoneLabel,
+        url: siteConfig.contact.whatsappHref,
+        availableLanguage: ["en", "ta"],
+      },
+    ],
     sameAs: siteConfig.socialProfiles.map((profile) => profile.href),
   });
 
@@ -108,6 +131,14 @@ export const getOrganizationSchema = () => ({
   name: siteConfig.name,
   url: siteConfig.url,
   logo: absoluteUrl(siteConfig.logos.desktopPng),
+  address: getPostalAddressSchema(),
+  contactPoint: {
+    "@type": "ContactPoint",
+    contactType: siteConfig.business.contactType,
+    telephone: siteConfig.contact.phoneLabel,
+    email: siteConfig.contact.email,
+    availableLanguage: ["en", "ta"],
+  },
   sameAs: siteConfig.socialProfiles.map((profile) => profile.href),
 });
 

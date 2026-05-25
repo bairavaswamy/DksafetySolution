@@ -4,7 +4,7 @@ import { memo, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import dynamic from "next/dynamic";
-import { ChevronDown, Menu, Phone, X } from "lucide-react";
+import { ChevronDown, Mail, Menu, MessageCircle, Phone, X } from "lucide-react";
 import { chennaiConfig } from "../config/chennai.config";
 import { siteConfig } from "../config/site.config";
 
@@ -16,11 +16,6 @@ const Header: React.FC = () => {
   const [open, setOpen] = useState(false);
   const cityHref = `/${chennaiConfig.citySlug}`;
   const standardLinks = siteConfig.navLinks.filter((link) => link.href !== cityHref);
-
-  const scrollToQuote = () => {
-    const element = document.getElementById("quote");
-    element?.scrollIntoView({ behavior: "smooth" });
-  };
 
   return (
     <>
@@ -160,12 +155,13 @@ const Header: React.FC = () => {
               {siteConfig.contact.phoneLabel}
             </a>
 
-            <button
-              onClick={scrollToQuote}
+            <Link
+              href="/request-quote"
+              prefetch={false}
               className="hidden rounded-full px-4 py-2 text-sm font-semibold text-white transition hover:opacity-90 md:inline-block btn-accent"
             >
               Request Quote
-            </button>
+            </Link>
 
             <button
               type="button"
@@ -178,9 +174,39 @@ const Header: React.FC = () => {
             </button>
           </div>
         </header>
+
+        <div className="border-t border-slate-200 bg-slate-900 text-white">
+          <div className="mx-auto flex max-w-7xl items-center justify-center gap-2 overflow-x-auto whitespace-nowrap px-3 py-2 text-[11px] font-bold sm:gap-5 sm:text-xs">
+            <a
+              href={siteConfig.contact.phoneHref}
+              className="inline-flex items-center gap-1.5 rounded-full px-2 py-1 transition hover:bg-white/10 hover:text-[#C9A227]"
+            >
+              <Phone size={13} />
+              {siteConfig.contact.phoneLabel}
+            </a>
+
+            <a
+              href={siteConfig.contact.whatsappHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 rounded-full px-2 py-1 transition hover:bg-white/10 hover:text-[#C9A227]"
+            >
+              <MessageCircle size={13} />
+              WhatsApp {siteConfig.contact.whatsappLabel}
+            </a>
+
+            <a
+              href={siteConfig.contact.emailHref}
+              className="hidden items-center gap-1.5 rounded-full px-2 py-1 transition hover:bg-white/10 hover:text-[#C9A227] sm:inline-flex"
+            >
+              <Mail size={13} />
+              {siteConfig.contact.email}
+            </a>
+          </div>
+        </div>
       </div>
 
-      <div className="pt-20" />
+      <div className="pt-[112px] sm:pt-[124px] lg:pt-[132px]" />
       <div className="block lg:hidden">
         <MenuClient open={open} onClose={() => setOpen(false)} />
       </div>

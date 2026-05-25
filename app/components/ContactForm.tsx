@@ -6,7 +6,23 @@ import { ArrowRight, Mail, MessageCircle, Phone } from "lucide-react";
 import { FORMSPREE_URL, FORM_NAME } from "../config/form.config";
 import { siteConfig } from "../config/site.config";
 
-export default function ContactForm() {
+type ContactFormProps = {
+  eyebrow?: string;
+  heading?: string;
+  description?: string;
+  formTitle?: string;
+  submitLabel?: string;
+  subjectLabel?: string;
+};
+
+export default function ContactForm({
+  eyebrow = `Contact ${siteConfig.shortName}`,
+  heading = "Share your Chennai safety requirement.",
+  description = "Send your area, service, floor level, and photos if available. Phone, WhatsApp, and email are controlled from the central site config.",
+  formTitle = "Get a Free Quote",
+  submitLabel = "Send Enquiry",
+  subjectLabel = FORM_NAME,
+}: ContactFormProps = {}) {
   const [formData, setFormData] = useState({
     name: "",
     purpose: "",
@@ -46,7 +62,7 @@ export default function ContactForm() {
           phone: formData.phone,
           purpose: formData.purpose,
           message: formData.message,
-          _subject: `${FORM_NAME} - New Enquiry from ${formData.name}`,
+          _subject: `${subjectLabel} - New Enquiry from ${formData.name}`,
           _replyto: formData.email,
         }),
       });
@@ -80,14 +96,13 @@ export default function ContactForm() {
         <div className="relative z-10 grid min-h-[620px] gap-8 px-5 py-8 md:min-h-[520px] md:grid-cols-[0.9fr_1fr] md:px-10 lg:px-16">
           <div className="flex flex-col justify-center text-white">
             <p className="text-sm font-bold uppercase tracking-[0.22em] text-lime-200">
-              Contact {siteConfig.shortName}
+              {eyebrow}
             </p>
             <h2 className="mt-4 max-w-xl text-3xl font-extrabold leading-tight sm:text-5xl">
-              Share your Chennai safety requirement.
+              {heading}
             </h2>
             <p className="mt-4 max-w-lg text-base leading-8 text-slate-100">
-              Send your area, service, floor level, and photos if available. Phone,
-              WhatsApp, and email are controlled from the central site config.
+              {description}
             </p>
 
             <div className="mt-6 flex flex-wrap gap-3">
@@ -120,7 +135,7 @@ export default function ContactForm() {
           <div className="flex items-center">
             <div className="relative w-full rounded-3xl border border-white/10 bg-white/15 p-6 shadow-[0_25px_70px_rgba(0,40,120,0.15)] backdrop-blur-xl sm:p-8">
               <h3 className="mb-6 text-center text-2xl font-bold tracking-wide text-white">
-                Get a Free Quote
+                {formTitle}
               </h3>
 
               <form className="grid grid-cols-1 gap-4" onSubmit={handleSubmit}>
@@ -188,7 +203,7 @@ export default function ContactForm() {
                   disabled={status === "loading"}
                   className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-blue-600 via-cyan-500 to-indigo-700 py-3 font-bold text-white shadow-[0_10px_30px_rgba(0,80,200,0.5)] transition-all duration-300 hover:from-blue-500 hover:to-indigo-800 disabled:cursor-not-allowed disabled:opacity-50"
                 >
-                  {status === "loading" ? "Sending..." : "Send Enquiry"}
+                  {status === "loading" ? "Sending..." : submitLabel}
                   <ArrowRight size={18} />
                 </button>
               </form>

@@ -37,7 +37,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -102,7 +102,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Adyar child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Adyar, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -120,7 +120,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Adyar should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -207,7 +207,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Adyar home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Adyar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Adyar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Adyar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Adyar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -255,7 +255,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -320,7 +320,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Alandur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Alandur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -338,7 +338,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Alandur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -425,7 +425,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Alandur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Alandur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Alandur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Alandur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Alandur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -473,7 +473,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -538,7 +538,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Ambattur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Ambattur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -556,7 +556,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Ambattur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -643,7 +643,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Ambattur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Ambattur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Ambattur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Ambattur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Ambattur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -691,7 +691,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -756,7 +756,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Aminjikarai child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Aminjikarai, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -774,7 +774,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Aminjikarai should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -861,7 +861,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Aminjikarai home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Aminjikarai plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Aminjikarai plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Aminjikarai, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Aminjikarai homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -956,7 +956,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Stair And Void Areas",
         "heading": "Duplex homes and older buildings may need vertical protection",
-        "image": "/images/site/chennai-article-anchor-detail.png",
+        "image": "/images/site/chennai-article-anchor-detail.webp",
         "paragraphs": [
           "Some Anna Nagar homes are not simple flat layouts. Duplex apartments, independent houses, and older buildings may have stair voids, terrace cutouts, internal balconies, or open shafts. Children can treat these spaces as play routes. A net here must be stronger and more carefully fixed because the fall line is vertical and the opening may be irregular.",
           "The installation team should inspect the wall surface, railing type, handrail height, and whether adults need frequent access through the same area. A staircase safety net for children should not become a loose curtain. It should be tensioned, stable, and positioned so a child cannot push under it or pull it away from the edge."
@@ -992,7 +992,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "A child safety quote should describe the exact risk being solved",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful quote is more than a square-foot number. It should state which openings are covered, what material is used, how corners are fixed, whether side gaps are included, and whether the team has considered children, pets, windows, stair edges, and balcony use. A low price that covers only the obvious front opening may leave the family with the same worry after installation.",
           "Parents should compare the explanation as much as the cost. If the installer asks careful questions, measures properly, and points out practical risks, the service is more likely to match the home. In child safety work, confidence matters. The family should know exactly why each net line is placed where it is placed."
@@ -1079,7 +1079,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "closing": {
       "heading": "Make the Anna Nagar home safer without changing how the family lives.",
       "paragraphs": [
-        "Children safety nets should feel like calm protection, not a daily obstruction. The best result comes from studying the child, the room, the balcony, the windows, the building rules, and the family's normal movement.",
+        "Children safety nets should feel like calm protection, not a daily obstruction. The right result comes from studying the child, the room, the balcony, the windows, the building rules, and the family's normal movement.",
         "If you are planning child safety in Anna Nagar, start with a complete site visit and a clear explanation. A correct net line should answer the risk before it answers only the price."
       ],
       "cta": "Call DK Safety Solutions"
@@ -1121,7 +1121,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -1186,7 +1186,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Arumbakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Arumbakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -1204,7 +1204,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Arumbakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -1291,7 +1291,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Arumbakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Arumbakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Arumbakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Arumbakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Arumbakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -1339,7 +1339,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -1404,7 +1404,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Ashok Nagar child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Ashok Nagar, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -1422,7 +1422,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Ashok Nagar should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -1509,7 +1509,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Ashok Nagar home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Ashok Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Ashok Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Ashok Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Ashok Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -1556,7 +1556,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -1621,7 +1621,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Avadi child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Avadi, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -1639,7 +1639,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Avadi should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -1726,7 +1726,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Avadi home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Avadi plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Avadi plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Avadi, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Avadi homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -1774,7 +1774,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -1839,7 +1839,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Besant Nagar child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Besant Nagar, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -1857,7 +1857,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Besant Nagar should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -1944,7 +1944,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Besant Nagar home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Besant Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Besant Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Besant Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Besant Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -1991,7 +1991,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -2056,7 +2056,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Chetpet child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Chetpet, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -2074,7 +2074,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Chetpet should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -2161,7 +2161,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Chetpet home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Chetpet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Chetpet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Chetpet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Chetpet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -2209,7 +2209,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -2274,7 +2274,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Choolaimedu child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Choolaimedu, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -2292,7 +2292,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Choolaimedu should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -2379,7 +2379,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Choolaimedu home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Choolaimedu plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Choolaimedu plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Choolaimedu, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Choolaimedu homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -2427,7 +2427,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -2492,7 +2492,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Chromepet child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Chromepet, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -2510,7 +2510,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Chromepet should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -2597,7 +2597,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Chromepet home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Chromepet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Chromepet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Chromepet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Chromepet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -2645,7 +2645,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -2710,7 +2710,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Egmore child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Egmore, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -2728,7 +2728,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Egmore should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -2815,7 +2815,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Egmore home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Egmore plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Egmore plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Egmore, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Egmore homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -2863,7 +2863,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -2928,7 +2928,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Guindy child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Guindy, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -2946,7 +2946,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Guindy should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -3033,7 +3033,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Guindy home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Guindy plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Guindy plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Guindy, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Guindy homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -3081,7 +3081,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -3146,7 +3146,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Injambakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Injambakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -3164,7 +3164,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Injambakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -3251,7 +3251,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Injambakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Injambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Injambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Injambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Injambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -3299,7 +3299,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -3364,7 +3364,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a K K Nagar child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In K K Nagar, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -3382,7 +3382,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for K K Nagar should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -3469,7 +3469,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the K K Nagar home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best K K Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right K K Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in K K Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger K K Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -3515,7 +3515,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -3580,7 +3580,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Kandanchavadi child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Kandanchavadi, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -3598,7 +3598,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Kandanchavadi should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -3685,7 +3685,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Kandanchavadi home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Kandanchavadi plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kandanchavadi plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Kandanchavadi, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kandanchavadi homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -3733,7 +3733,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -3798,7 +3798,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Karapakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Karapakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -3816,7 +3816,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Karapakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -3903,7 +3903,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Karapakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Karapakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Karapakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Karapakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Karapakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -3951,7 +3951,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -4016,7 +4016,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Kelambakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Kelambakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -4034,7 +4034,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Kelambakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -4121,7 +4121,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Kelambakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Kelambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kelambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Kelambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kelambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -4169,7 +4169,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -4234,7 +4234,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Kilpauk child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Kilpauk, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -4252,7 +4252,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Kilpauk should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -4339,7 +4339,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Kilpauk home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Kilpauk plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kilpauk plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Kilpauk, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kilpauk homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -4387,7 +4387,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -4452,7 +4452,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Kodambakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Kodambakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -4470,7 +4470,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Kodambakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -4557,7 +4557,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Kodambakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Kodambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kodambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Kodambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kodambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -4605,7 +4605,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -4670,7 +4670,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Kolathur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Kolathur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -4688,7 +4688,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Kolathur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -4775,7 +4775,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Kolathur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Kolathur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kolathur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Kolathur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kolathur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -4823,7 +4823,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -4888,7 +4888,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Korattur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Korattur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -4906,7 +4906,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Korattur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -4993,7 +4993,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Korattur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Korattur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Korattur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Korattur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Korattur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -5041,7 +5041,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -5106,7 +5106,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Kottivakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Kottivakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -5124,7 +5124,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Kottivakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -5211,7 +5211,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Kottivakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Kottivakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kottivakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Kottivakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kottivakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -5259,7 +5259,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -5324,7 +5324,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Koyambedu child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Koyambedu, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -5342,7 +5342,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Koyambedu should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -5429,7 +5429,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Koyambedu home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Koyambedu plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Koyambedu plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Koyambedu, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Koyambedu homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -5477,7 +5477,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -5542,7 +5542,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Madipakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Madipakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -5560,7 +5560,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Madipakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -5647,7 +5647,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Madipakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Madipakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Madipakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Madipakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Madipakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -5695,7 +5695,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -5760,7 +5760,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Madhavaram child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Madhavaram, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -5778,7 +5778,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Madhavaram should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -5865,7 +5865,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Madhavaram home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Madhavaram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Madhavaram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Madhavaram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Madhavaram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -5913,7 +5913,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -5978,7 +5978,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Medavakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Medavakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -5996,7 +5996,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Medavakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -6083,7 +6083,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Medavakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Medavakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Medavakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Medavakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Medavakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -6131,7 +6131,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -6196,7 +6196,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Mogappair child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Mogappair, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -6214,7 +6214,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Mogappair should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -6301,7 +6301,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Mogappair home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Mogappair plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Mogappair plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Mogappair, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Mogappair homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -6349,7 +6349,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -6414,7 +6414,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Mugalivakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Mugalivakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -6432,7 +6432,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Mugalivakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -6519,7 +6519,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Mugalivakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Mugalivakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Mugalivakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Mugalivakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Mugalivakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -6567,7 +6567,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -6632,7 +6632,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Mylapore child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Mylapore, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -6650,7 +6650,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Mylapore should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -6737,7 +6737,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Mylapore home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Mylapore plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Mylapore plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Mylapore, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Mylapore homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -6785,7 +6785,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -6850,7 +6850,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Nanganallur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Nanganallur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -6868,7 +6868,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Nanganallur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -6955,7 +6955,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Nanganallur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Nanganallur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Nanganallur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Nanganallur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Nanganallur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -7003,7 +7003,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -7068,7 +7068,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Navalur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Navalur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -7086,7 +7086,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Navalur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -7173,7 +7173,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Navalur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Navalur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Navalur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Navalur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Navalur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -7221,7 +7221,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -7286,7 +7286,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Neelankarai child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Neelankarai, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -7304,7 +7304,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Neelankarai should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -7391,7 +7391,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Neelankarai home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Neelankarai plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Neelankarai plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Neelankarai, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Neelankarai homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -7439,7 +7439,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -7451,7 +7451,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Nungambakkam families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Nungambakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Nungambakkam service entries should emphasize discreet hardware, straight alignment, premium finish, and clean installation that respects high-value interiors. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Nungambakkam service entries should emphasize discreet hardware, straight alignment, neat finish, and clean installation that respects high-value interiors. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Nungambakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -7504,7 +7504,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Nungambakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Nungambakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -7522,7 +7522,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Nungambakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -7609,7 +7609,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Nungambakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Nungambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Nungambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Nungambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Nungambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -7657,7 +7657,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -7722,7 +7722,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Pallavaram child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Pallavaram, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -7740,7 +7740,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Pallavaram should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -7827,7 +7827,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Pallavaram home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Pallavaram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Pallavaram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Pallavaram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Pallavaram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -7875,7 +7875,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -7940,7 +7940,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Pallikaranai child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Pallikaranai, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -7958,7 +7958,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Pallikaranai should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -8045,7 +8045,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Pallikaranai home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Pallikaranai plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Pallikaranai plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Pallikaranai, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Pallikaranai homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -8093,7 +8093,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -8158,7 +8158,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Perambur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Perambur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -8176,7 +8176,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Perambur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -8263,7 +8263,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Perambur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Perambur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Perambur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Perambur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Perambur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -8311,7 +8311,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -8376,7 +8376,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Perungudi child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Perungudi, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -8394,7 +8394,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Perungudi should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -8481,7 +8481,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Perungudi home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Perungudi plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Perungudi plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Perungudi, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Perungudi homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -8529,7 +8529,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -8594,7 +8594,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Poonamallee child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Poonamallee, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -8612,7 +8612,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Poonamallee should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -8699,7 +8699,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Poonamallee home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Poonamallee plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Poonamallee plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Poonamallee, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Poonamallee homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -8747,7 +8747,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -8812,7 +8812,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Porur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Porur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -8830,7 +8830,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Porur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -8917,7 +8917,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Porur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Porur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Porur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Porur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Porur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -8965,7 +8965,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -9030,7 +9030,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Purasawalkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Purasawalkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -9048,7 +9048,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Purasawalkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -9135,7 +9135,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Purasawalkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Purasawalkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Purasawalkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Purasawalkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Purasawalkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -9183,7 +9183,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -9248,7 +9248,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Ramapuram child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Ramapuram, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -9266,7 +9266,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Ramapuram should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -9353,7 +9353,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Ramapuram home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Ramapuram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Ramapuram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Ramapuram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Ramapuram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -9401,7 +9401,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -9466,7 +9466,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Royapettah child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Royapettah, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -9484,7 +9484,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Royapettah should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -9571,7 +9571,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Royapettah home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Royapettah plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Royapettah plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Royapettah, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Royapettah homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -9619,7 +9619,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -9684,7 +9684,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Saidapet child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Saidapet, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -9702,7 +9702,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Saidapet should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -9789,7 +9789,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Saidapet home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Saidapet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Saidapet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Saidapet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Saidapet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -9837,7 +9837,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -9902,7 +9902,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Selaiyur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Selaiyur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -9920,7 +9920,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Selaiyur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -10007,7 +10007,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Selaiyur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Selaiyur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Selaiyur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Selaiyur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Selaiyur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -10055,7 +10055,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -10120,7 +10120,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Sholinganallur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Sholinganallur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -10138,7 +10138,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Sholinganallur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -10225,7 +10225,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Sholinganallur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Sholinganallur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Sholinganallur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Sholinganallur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Sholinganallur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -10273,7 +10273,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -10338,7 +10338,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Siruseri child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Siruseri, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -10356,7 +10356,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Siruseri should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -10443,7 +10443,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Siruseri home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Siruseri plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Siruseri plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Siruseri, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Siruseri homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -10491,7 +10491,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -10556,7 +10556,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Tambaram child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Tambaram, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -10574,7 +10574,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Tambaram should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -10661,7 +10661,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Tambaram home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Tambaram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Tambaram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Tambaram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Tambaram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -10709,7 +10709,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -10774,7 +10774,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a T Nagar child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In T Nagar, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -10792,7 +10792,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for T Nagar should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -10879,7 +10879,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the T Nagar home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best T Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right T Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in T Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger T Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -10926,7 +10926,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -10991,7 +10991,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Teynampet child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Teynampet, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -11009,7 +11009,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Teynampet should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -11096,7 +11096,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Teynampet home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Teynampet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Teynampet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Teynampet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Teynampet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -11144,7 +11144,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -11209,7 +11209,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Thiruvanmiyur child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Thiruvanmiyur, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -11227,7 +11227,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Thiruvanmiyur should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -11314,7 +11314,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Thiruvanmiyur home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Thiruvanmiyur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Thiruvanmiyur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Thiruvanmiyur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Thiruvanmiyur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -11362,7 +11362,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -11427,7 +11427,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Thoraipakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Thoraipakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -11445,7 +11445,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Thoraipakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -11532,7 +11532,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Thoraipakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Thoraipakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Thoraipakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Thoraipakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Thoraipakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -11580,7 +11580,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -11645,7 +11645,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Triplicane child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Triplicane, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -11663,7 +11663,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Triplicane should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -11750,7 +11750,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Triplicane home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Triplicane plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Triplicane plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Triplicane, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Triplicane homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -11798,7 +11798,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -11863,7 +11863,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Vadapalani child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Vadapalani, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -11881,7 +11881,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Vadapalani should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -11968,7 +11968,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Vadapalani home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Vadapalani plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Vadapalani plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Vadapalani, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Vadapalani homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -12016,7 +12016,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -12081,7 +12081,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Valasaravakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Valasaravakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -12099,7 +12099,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Valasaravakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -12186,7 +12186,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Valasaravakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Valasaravakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Valasaravakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Valasaravakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Valasaravakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -12234,7 +12234,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -12299,7 +12299,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Velachery child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Velachery, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -12317,7 +12317,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Velachery should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -12404,7 +12404,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Velachery home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Velachery plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Velachery plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Velachery, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Velachery homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -12452,7 +12452,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -12517,7 +12517,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Villivakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Villivakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -12535,7 +12535,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Villivakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -12622,7 +12622,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Villivakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Villivakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Villivakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Villivakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Villivakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -12670,7 +12670,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -12735,7 +12735,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a Virugambakkam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In Virugambakkam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -12753,7 +12753,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for Virugambakkam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -12840,7 +12840,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Virugambakkam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best Virugambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Virugambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in Virugambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Virugambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -12888,7 +12888,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "2500",
         "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a premium service page."
+        "description": "This article is written as a full area guide before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -12953,7 +12953,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Fixing Method",
         "heading": "Strong fixing is what makes a West Mambalam child safety net dependable",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A children safety net is only as reliable as its fixing line. The team should inspect wall strength, railing surfaces, beam edges, tile finishes, and possible drilling points before confirming the quote. In West Mambalam, mixed building ages can mean one flat has strong concrete edges while the next has older plaster or modified balcony panels.",
           "Clean fixing also affects trust. Parents should know where hooks or anchors will sit, how close the border will be to the wall, and what happens around pipes or AC ledges. Loose tying, skipped corners, or uneven spacing can leave the family with the same anxiety after installation, so this part deserves careful explanation."
@@ -12971,7 +12971,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "eyebrow": "Quote Clarity",
         "heading": "The quote should describe the risk, not only the square footage",
-        "image": "/images/site/chennai-area-balcony-safety-view.png",
+        "image": "/images/site/chennai-area-balcony-safety-view.webp",
         "paragraphs": [
           "A useful children safety net quote for West Mambalam should state the openings covered, material selected, fixing method, corner treatment, access needs, expected time, and after-service support. Square footage alone does not explain whether the installer checked the child's route, the window reach, or the lower balcony gap.",
           "Families should compare the explanation as carefully as the amount. If the installer asks about children, pets, furniture, elders, cleaning, rented-home rules, and future maintenance, the quote is more likely to match the actual home. Child safety work should feel considered before it feels cheap."
@@ -13058,7 +13058,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the West Mambalam home safer without closing down daily life.",
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
-        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the best West Mambalam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
+        "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right West Mambalam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
         "If you are planning child safety in West Mambalam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger West Mambalam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
@@ -13169,7 +13169,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Adambakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13200,7 +13200,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13246,7 +13246,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Adambakkam conditions?",
+        "question": "Which material is right for Adambakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13379,7 +13379,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ayanavaram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13410,7 +13410,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13456,7 +13456,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ayanavaram conditions?",
+        "question": "Which material is right for Ayanavaram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13589,7 +13589,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Ekkattuthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13620,7 +13620,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13666,7 +13666,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Ekkattuthangal conditions?",
+        "question": "Which material is right for Ekkattuthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -13799,7 +13799,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Iyyappanthangal, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -13830,7 +13830,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -13876,7 +13876,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Iyyappanthangal conditions?",
+        "question": "Which material is right for Iyyappanthangal conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14009,7 +14009,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Manapakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14040,7 +14040,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14086,7 +14086,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Manapakkam conditions?",
+        "question": "Which material is right for Manapakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14141,7 +14141,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "hero": {
       "eyebrow": "Mandaveli Chennai children safety nets",
       "title": "Children Safety Nets in Mandaveli planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Mandaveli customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Mandaveli plan studies older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "lead": "Mandaveli customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Mandaveli plan studies older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Mandaveli",
       "secondaryCta": "WhatsApp Family Safety Details"
@@ -14150,7 +14150,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Mandaveli",
         "label": "Area Site Focus",
-        "description": "Written for Mandaveli conditions, including older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
       },
       {
         "stat": "2500",
@@ -14167,7 +14167,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mandaveli sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Mandaveli work often needs attention to older city homes, premium apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Mandaveli, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14219,7 +14219,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Mandaveli, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14250,7 +14250,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14296,7 +14296,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Mandaveli conditions?",
+        "question": "Which material is right for Mandaveli conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14429,7 +14429,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Palavakkam, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14460,7 +14460,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14506,7 +14506,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Palavakkam conditions?",
+        "question": "Which material is right for Palavakkam conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14639,7 +14639,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Periyar Nagar, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14670,7 +14670,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14716,7 +14716,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Periyar Nagar conditions?",
+        "question": "Which material is right for Periyar Nagar conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -14848,7 +14848,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Royapuram, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -14879,7 +14879,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -14925,7 +14925,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Royapuram conditions?",
+        "question": "Which material is right for Royapuram conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15058,7 +15058,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Semmancheri, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15089,7 +15089,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15135,7 +15135,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Semmancheri conditions?",
+        "question": "Which material is right for Semmancheri conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15268,7 +15268,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Tondiarpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15299,7 +15299,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15345,7 +15345,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Tondiarpet conditions?",
+        "question": "Which material is right for Tondiarpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {
@@ -15478,7 +15478,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Installation Day",
-        "heading": "The best installation feels orderly from arrival to cleanup",
+        "heading": "The right installation feels orderly from arrival to cleanup",
         "image": "/images/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "On installation day, the team should confirm the agreed scope, protect nearby surfaces, keep tools organized, and explain any practical changes before drilling or tying begins. In Washermanpet, where many homes and buildings have limited access, this calm process makes a real difference to residents and security staff.",
@@ -15509,7 +15509,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The best scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
         },
         {
           "title": "Check the fixing surface",
@@ -15555,7 +15555,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "answer": "It should not. A good plan leaves usable access for cleaning, AC service, plumbing, painting, drainage checks, or other routine work that the property may need later."
       },
       {
-        "question": "Which material is best for Washermanpet conditions?",
+        "question": "Which material is right for Washermanpet conditions?",
         "answer": "The material should match sun, rain, dust, wind, contact pressure, and the purpose of the work. DK Safety Solutions should explain why the suggested grade fits the site."
       },
       {

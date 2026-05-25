@@ -35,7 +35,7 @@ try {
   const { manualServicePages } = require(path.join(rootDir, "app", "content", "manualServicePages.ts"));
 
   const seen = new Map();
-  const expectedKinds = ["hero", "detail", "context"];
+  const expectedKinds = ["hero", "mobileHero", "detail", "context", "areaCard"];
 
   for (const service of chennaiConfig.services) {
     const visuals = serviceVisualsBySlug[service.slug];
@@ -79,7 +79,7 @@ try {
     }
 
     if (new Set(values).size !== expectedKinds.length) {
-      throw new Error(`${service.slug} must use three different visuals.`);
+      throw new Error(`${service.slug} must use different visuals for each service image role.`);
     }
   }
 

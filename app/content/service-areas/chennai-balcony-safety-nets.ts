@@ -15,7 +15,7 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
     localAngle:
       "Established Adyar apartments need safety net planning that respects older balconies, family routines, greenery, and association-facing finish expectations.",
     articleBrief: [
-      "Mention Adyar's mix of old apartments, premium lanes, and tree-facing balconies.",
+      "Mention Adyar's mix of old apartments, refined lanes, and tree-facing balconies.",
       "Explain why child safety and pigeon control often need to be solved together.",
       "Discuss clean finishing for living-room-facing balconies and association rules.",
     ],
@@ -30,13 +30,13 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
     path: "/chennai/anna-nagar/balcony-safety-nets",
     writingPriority: 2,
     status: "ready-to-write",
-    searchIntent: "Apartment owners in Anna Nagar looking for premium balcony safety nets with clean visible finish.",
+    searchIntent: "Apartment owners in Anna Nagar looking for refined balcony safety nets with clean visible finish.",
     localAngle:
-      "Anna Nagar homes often have larger front-facing balconies and families who care about neat elevation lines, so the article should focus on premium finish and daily usability.",
+      "Anna Nagar homes often have larger front-facing balconies and families who care about neat elevation lines, so the article should focus on neat finish and daily usability.",
     articleBrief: [
       "Write about wide residential avenues, family apartments, and visible balcony fronts.",
       "Cover child safety around balcony furniture, planters, and drying zones.",
-      "Explain why tension, border line, and corner finishing matter in premium blocks.",
+      "Explain why tension, border line, and corner finishing matter in refined blocks.",
     ],
   },
   {
@@ -144,12 +144,12 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
     path: "/chennai/nungambakkam/balcony-safety-nets",
     writingPriority: 8,
     status: "ready-to-write",
-    searchIntent: "Premium apartment owners in Nungambakkam looking for discreet balcony safety nets.",
+    searchIntent: "Refined apartment owners in Nungambakkam looking for discreet balcony safety nets.",
     localAngle:
-      "Nungambakkam needs a premium finish angle, where the page explains why clean alignment, association approval, and discreet hardware matter as much as safety.",
+      "Nungambakkam needs a neat finish angle, where the page explains why clean alignment, association approval, and discreet hardware matter as much as safety.",
     articleBrief: [
       "Write for high-value apartments and balcony fronts visible from main rooms.",
-      "Explain premium net tension, edge treatment, and minimal visual disturbance.",
+      "Explain refined net tension, edge treatment, and minimal visual disturbance.",
       "Cover child safety, pets, and pigeon prevention without cheap-looking fittings.",
     ],
   },

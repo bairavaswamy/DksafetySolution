@@ -2,9 +2,9 @@ export const chennaiConfig = {
   city: "Chennai",
   citySlug: "chennai",
   region: "Tamil Nadu",
-  heroImage: "/images/site/chennai-service-directory-montage.png",
-  serviceImage: "/images/site/chennai-article-anchor-detail.png",
-  areaImage: "/images/site/chennai-area-balcony-safety-view.png",
+  heroImage: "/images/site/chennai-service-directory-montage.webp",
+  serviceImage: "/images/site/chennai-article-anchor-detail.webp",
+  areaImage: "/images/site/chennai-area-balcony-safety-view.webp",
   areas: [
     { name: "Adambakkam", slug: "adambakkam" },
     { name: "Adyar", slug: "adyar" },
@@ -108,7 +108,7 @@ export const chennaiConfig = {
     {
       name: "Balcony Invisible Grills",
       slug: "balcony-invisible-grills",
-      angle: "Premium balcony protection where the view should stay open.",
+      angle: "View-friendly balcony protection where the view should stay open.",
     },
     {
       name: "Window Safety Nets",

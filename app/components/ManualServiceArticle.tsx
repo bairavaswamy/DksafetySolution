@@ -4,6 +4,7 @@ import { ArrowRight, CheckCircle2, MessageCircle, Phone } from "lucide-react";
 import type { ManualServicePage } from "../content/manualServicePages";
 import { siteConfig } from "../config/site.config";
 import { getServiceDetail, type ServiceSlug } from "../content/serviceDetails";
+import { getServiceVisuals } from "../content/serviceVisuals";
 
 type ManualServiceArticleProps = {
   page: ManualServicePage;
@@ -12,12 +13,26 @@ type ManualServiceArticleProps = {
 export default function ManualServiceArticle({ page }: ManualServiceArticleProps) {
   const serviceSlug = page.serviceSlug as ServiceSlug;
   const serviceDetail = getServiceDetail(serviceSlug);
+  const visuals = getServiceVisuals(serviceSlug);
 
   return (
     <main className="bg-white text-slate-950">
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">
-          <Image src={page.hero.image} alt={page.hero.title} fill priority className="object-cover" />
+          <Image
+            src={visuals.mobileHero}
+            alt={page.hero.title}
+            fill
+            priority
+            className="object-cover md:hidden"
+          />
+          <Image
+            src={page.hero.image}
+            alt={page.hero.title}
+            fill
+            priority
+            className="hidden object-cover md:block"
+          />
           <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/76 to-slate-900/30" />
         </div>
 

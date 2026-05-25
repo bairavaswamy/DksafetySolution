@@ -60,6 +60,14 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
 
           <div className="flex-1 space-y-5 overflow-y-auto px-6 py-5">
             <div className="grid gap-3">
+              <Link
+                href="/request-quote"
+                prefetch={false}
+                onClick={onClose}
+                className="block rounded-xl bg-slate-950 px-4 py-3 text-sm font-bold text-white shadow-sm transition hover:bg-slate-800"
+              >
+                Request Quote
+              </Link>
               {standardLinks.map((link) => (
                 <Link
                   key={link.href}
