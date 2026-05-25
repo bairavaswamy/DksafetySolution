@@ -1,4 +1,5 @@
 import { chennaiConfig } from "../config/chennai.config";
+import { gatedCommunityPages } from "./gatedCommunityServicePages";
 import { manualServicePages } from "./manualServicePages";
 import { manualServiceAreaEntries } from "./service-areas";
 
@@ -33,11 +34,18 @@ const manualPageKeys = new Set(
 );
 
 export const getAllServiceAreaPaths = (): ServiceAreaParams[] =>
-  manualServiceAreaEntries.map((entry) => ({
-    city: entry.citySlug,
-    area: entry.areaSlug,
-    service: entry.serviceSlug,
-  }));
+  [
+    ...manualServiceAreaEntries.map((entry) => ({
+      city: entry.citySlug,
+      area: entry.areaSlug,
+      service: entry.serviceSlug,
+    })),
+    ...gatedCommunityPages.map((page) => ({
+      city: page.citySlug,
+      area: page.community.slug,
+      service: page.service.slug,
+    })),
+  ];
 
 export const getAreaBySlug = (slug: string) =>
   chennaiConfig.areas.find((area) => area.slug === slug);

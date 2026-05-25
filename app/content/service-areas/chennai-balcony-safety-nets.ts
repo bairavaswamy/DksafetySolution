@@ -13,7 +13,7 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
     status: "published",
     searchIntent: "Families comparing balcony safety nets near Adyar apartments, children safety, and pigeon control.",
     localAngle:
-      "Established Adyar apartments need safety net planning that respects older balconies, family routines, greenery, and association-facing finish expectations.",
+      "Established Adyar apartments need safety net checks that respects older balconies, family routines, greenery, and association-facing finish expectations.",
     articleBrief: [
       "Mention Adyar's mix of old apartments, refined lanes, and tree-facing balconies.",
       "Explain why child safety and pigeon control often need to be solved together.",
@@ -74,7 +74,7 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
     articleBrief: [
       "Mention ECR/OMR influence, practical apartment use, and daily balcony routines.",
       "Explain bird entry from side ledges, AC units, and utility gaps.",
-      "Include quick site-visit planning for working households.",
+      "Include quick site-visit details for working households.",
     ],
   },
   {
@@ -187,8 +187,8 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
       "Medavakkam should focus on newer family apartments, budget clarity, child safety, and balcony use in homes where the opening is part utility and part living extension.",
     articleBrief: [
       "Write about family apartment demand in south Chennai growth pockets.",
-      "Explain price versus quality without sounding generic.",
-      "Discuss installation planning for high-rise and mid-rise balcony edges.",
+      "Explain price versus quality without sounding standard.",
+      "Discuss installation details for high-rise and mid-rise balcony edges.",
     ],
   },
   {
@@ -321,7 +321,7 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
     articleBrief: [
       "Discuss family routines and older apartment balcony conditions.",
       "Explain careful fixing where railings or walls may not be new.",
-      "Include practical maintenance and child-safety planning.",
+      "Include practical maintenance and child-safety checks.",
     ],
   },
   {
@@ -336,7 +336,7 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
     status: "ready-to-write",
     searchIntent: "Ashok Nagar residents comparing balcony safety net installers for family flats and street-facing balconies.",
     localAngle:
-      "Ashok Nagar needs central-family-home content with practical balcony protection, visible front finishes, and careful planning around everyday family movement.",
+      "Ashok Nagar needs central-family-home content with practical balcony protection, visible front finishes, and careful checking around everyday family movement.",
     articleBrief: [
       "Mention family flats, street-facing balconies, and compact residential lanes.",
       "Cover plant stands, furniture, and children's climbing routes.",
@@ -377,7 +377,7 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
       "Valasaravakkam should focus on family apartments and duplex-style homes where balcony, staircase, and terrace safety needs may overlap.",
     articleBrief: [
       "Mention family homes, apartment balconies, and mixed safety requirements.",
-      "Discuss how balcony net planning can connect with window or staircase safety.",
+      "Discuss how balcony net checks can connect with window or staircase safety.",
       "Explain site measurement and quote clarity for varied home layouts.",
     ],
   },
@@ -471,7 +471,7 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
     localAngle:
       "Karapakkam should be positioned around newer OMR-side towers where height, wind exposure, and neat facade-facing installation are important.",
     articleBrief: [
-      "Discuss newer towers, open balcony faces, and height-related planning.",
+      "Discuss newer towers, open balcony faces, and height-related checks.",
       "Explain anchor strength, tension checks, and safe installation access.",
       "Cover child safety for families moving into recently built apartments.",
     ],
@@ -491,7 +491,7 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
       "Navalur should lean into gated communities, newer high-rise balconies, families with children, pet safety, and association-approved exterior appearance.",
     articleBrief: [
       "Mention newer communities and balcony fronts visible from common areas.",
-      "Discuss pet-safe and child-safe planning in high-rise flats.",
+      "Discuss pet-safe and child-safe checks in high-rise flats.",
       "Explain association approval and clean uniform exterior lines.",
     ],
   },
@@ -511,7 +511,7 @@ export const chennaiBalconySafetyNetAreas: ManualServiceAreaEntry[] = [
     articleBrief: [
       "Write for families setting up safety soon after moving in.",
       "Cover high-rise balcony wind and association restrictions.",
-      "Discuss bundled safety planning for balcony, windows, and utility areas.",
+      "Discuss bundled safety checks for balcony, windows, and utility areas.",
     ],
   },
   {

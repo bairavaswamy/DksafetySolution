@@ -72,7 +72,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
             <p className="text-xs font-bold uppercase tracking-[0.22em] text-lime-200">
               Article Details
             </p>
-            <h2 className="mt-3 text-2xl font-black">Full service guide</h2>
+            <h2 className="mt-3 text-2xl font-black">Full service notes</h2>
             <p className="mt-3 text-sm leading-7 text-slate-100">
               This page explains the area condition, service route, fixing choices,
               access needs, and contact steps before a site visit.
@@ -155,7 +155,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
               {serviceDetail.category}
             </p>
             <h2 className="mt-3 text-2xl font-black text-slate-950">
-              Ask for a manual site visit.
+              Ask for a measured site visit.
             </h2>
             <p className="mt-3 text-sm leading-7 text-slate-600">
               Share the opening size, floor level, usage pattern, and location. The
@@ -186,7 +186,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
         <div className="mx-auto max-w-7xl">
           <div className="max-w-3xl">
             <p className="text-sm font-bold uppercase tracking-[0.2em] text-indigo-700">
-              Decision Guide
+              Decision Notes
             </p>
             <h2 className="mt-3 text-3xl font-black text-slate-950">
               {page.decisionGuide.heading}

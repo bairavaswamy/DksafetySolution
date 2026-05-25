@@ -7,7 +7,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Adyar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Adyar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Adyar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Adyar",
         "kids safety nets Adyar Chennai",
@@ -16,14 +16,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Adyar Chennai",
-      "openGraphDescription": "A manual Adyar guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Adyar notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Adyar Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Adyar apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Adyar apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Adyar Chennai children safety nets",
       "title": "Children Safety Nets in Adyar for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Adyar homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Adyar closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Adyar homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Adyar closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Adyar Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -36,8 +36,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -168,7 +168,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Adyar suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Adyar flats?",
@@ -188,7 +188,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Adyar?",
@@ -208,7 +208,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Adyar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Adyar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Adyar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Adyar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -225,7 +225,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Alandur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Alandur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Alandur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Alandur",
         "kids safety nets Alandur Chennai",
@@ -234,14 +234,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Alandur Chennai",
-      "openGraphDescription": "A manual Alandur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Alandur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Alandur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Alandur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Alandur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Alandur Chennai children safety nets",
       "title": "Children Safety Nets in Alandur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Alandur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Alandur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Alandur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Alandur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Alandur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -254,8 +254,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -386,7 +386,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Alandur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Alandur flats?",
@@ -406,7 +406,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Alandur?",
@@ -426,7 +426,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Alandur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Alandur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Alandur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Alandur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -443,7 +443,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Ambattur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Ambattur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Ambattur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Ambattur",
         "kids safety nets Ambattur Chennai",
@@ -452,14 +452,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Ambattur Chennai",
-      "openGraphDescription": "A manual Ambattur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Ambattur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Ambattur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Ambattur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Ambattur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Ambattur Chennai children safety nets",
       "title": "Children Safety Nets in Ambattur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Ambattur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Ambattur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Ambattur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Ambattur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Ambattur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -472,8 +472,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -604,7 +604,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Ambattur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Ambattur flats?",
@@ -624,7 +624,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Ambattur?",
@@ -644,7 +644,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Ambattur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Ambattur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Ambattur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Ambattur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -661,7 +661,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Aminjikarai Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Aminjikarai, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Aminjikarai, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Aminjikarai",
         "kids safety nets Aminjikarai Chennai",
@@ -670,14 +670,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Aminjikarai Chennai",
-      "openGraphDescription": "A manual Aminjikarai guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Aminjikarai notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Aminjikarai Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Aminjikarai apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Aminjikarai apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Aminjikarai Chennai children safety nets",
       "title": "Children Safety Nets in Aminjikarai for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Aminjikarai homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Aminjikarai closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Aminjikarai homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Aminjikarai closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Aminjikarai Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -690,8 +690,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -703,7 +703,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Aminjikarai families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Aminjikarai after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Aminjikarai homes often need careful access planning, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Aminjikarai homes often need careful access details, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Aminjikarai, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -822,7 +822,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Aminjikarai suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Aminjikarai flats?",
@@ -842,7 +842,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Aminjikarai?",
@@ -862,7 +862,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Aminjikarai plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Aminjikarai, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Aminjikarai, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Aminjikarai homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -879,7 +879,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Anna Nagar Chennai | DK Safety Solutions",
-      "description": "Unique detailed guide for children safety nets in Anna Nagar, Chennai, covering balconies, windows, stair voids, pets, elders, apartment rules, and safe installation planning.",
+      "description": "Unique service notes for children safety nets in Anna Nagar, Chennai, covering balconies, windows, stair voids, pets, elders, apartment rules, and safe installation details.",
       "keywords": [
         "children safety nets in Anna Nagar",
         "kids safety nets Chennai",
@@ -888,14 +888,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Anna Nagar Chennai",
-      "openGraphDescription": "A area Anna Nagar children safety net guide for families planning balcony, window, staircase, and open-edge protection.",
+      "openGraphDescription": "A area Anna Nagar children safety net notes for families checks balcony, window, staircase, and open-edge protection.",
       "twitterTitle": "Children Safety Nets in Anna Nagar Chennai",
-      "twitterDescription": "Manual Chennai article for child-focused safety net planning in Anna Nagar apartments and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Anna Nagar apartments and family homes."
     },
     "hero": {
       "eyebrow": "Anna Nagar Chennai children safety nets",
       "title": "Children Safety Nets in Anna Nagar for calm balconies, safer windows, and family-ready homes.",
-      "lead": "Anna Nagar homes often have active family routines, wide apartment balconies, children moving between rooms, elders using balcony seating, and windows that stay open for air through Chennai heat. A children safety net here should not be treated as one small add-on. It should be planned as a household safety system that protects the routes children actually use every day.",
+      "lead": "Anna Nagar homes often have active family routines, wide apartment balconies, children moving between rooms, elders using balcony seating, and windows that stay open for air through Chennai heat. A children safety net here should not be treated as one small add-on. It should be treated as a household safety system that protects the routes children actually use every day.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Anna Nagar Safety Visit",
       "secondaryCta": "WhatsApp Child Safety Details"
@@ -908,8 +908,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This children safety net page is written as a full area guide before it is allowed into the public route system."
+        "label": "Service Checks Depth",
+        "description": "This children safety net page is written as a full area notes before it is allowed into the public route system."
       },
       {
         "stat": "8",
@@ -918,11 +918,11 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       }
     ],
     "intro": {
-      "heading": "Why Anna Nagar families need child safety planning before installation",
+      "heading": "Why Anna Nagar families need child safety checks before installation",
       "paragraphs": [
         "Children safety nets in Anna Nagar are often requested after a family notices one uncomfortable moment: a toddler climbing near a balcony railing, a child leaning out of a bedroom window, a pet pushing toward an open edge, or a grandparent worrying every time the balcony door is open. Those moments are small, but they change how a home feels. The purpose of a safety net is to return normal family movement without turning the apartment into a restricted zone.",
         "Anna Nagar has a wide mix of homes. Some apartments have broad balconies facing avenues, some have compact utility balconies, some have older window grills with awkward gaps, and some independent homes have staircases or terrace edges where children play during evenings. A single product name cannot solve all these conditions. The correct safety plan starts by mapping where a child can reach, climb, lean, crawl, or follow an adult without being noticed.",
-        "This page is written for parents, grandparents, tenants, and homeowners comparing children safety nets in Anna Nagar. It covers balcony protection, window safety, staircase voids, pet movement, apartment association expectations, material choice, fixing method, and how to judge a quote. It is not a thin page with only the area name changed. It is a first full detailed service guide for child-focused safety in Chennai."
+        "This page is written for parents, grandparents, tenants, and homeowners comparing children safety nets in Anna Nagar. It covers balcony protection, window safety, staircase voids, pet movement, apartment association expectations, material choice, fixing method, and how to judge a quote. It is not a thin page with only the area name changed. It is a first full detailed service notes for child-focused safety in Chennai."
       ]
     },
     "sections": [
@@ -950,7 +950,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/window-safety-nets-installation.webp",
         "paragraphs": [
           "Children safety enquiries often begin with balconies, but windows can be equally important. In Anna Nagar flats, hall windows, bedroom windows, and kitchen-side openings may sit near beds, desks, sofas, or storage units. A child can climb those objects and reach the window quickly. If the grill spacing is wide or the window opens outward, a safety net can add a softer and more complete barrier.",
-          "Window safety nets should be planned so they do not block ventilation or make routine cleaning impossible. The fixing points must respect the frame, wall condition, and curtain movement. For rental homes, the owner may want minimal disturbance, while parents need reliable protection. A site visit should explain both sides before work begins."
+          "Window safety nets should be set so they do not block ventilation or make routine cleaning impossible. The fixing points must respect the frame, wall condition, and curtain movement. For rental homes, the owner may want minimal disturbance, while parents need reliable protection. A site visit should explain both sides before work begins."
         ]
       },
       {
@@ -967,7 +967,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "heading": "Pet movement often changes the child safety plan",
         "image": "/images/Cat-safety-nets-and-invisible-grills-installation.webp",
         "paragraphs": [
-          "Many families in Anna Nagar ask for children safety nets and then mention a cat, dog, or visiting pet during the site visit. That detail matters. A pet may jump to a window ledge, squeeze through a balcony side gap, or distract a child near the railing. If the net is planned only for a standing child, it may miss the lower routes pets use.",
+          "Many families in Anna Nagar ask for children safety nets and then mention a cat, dog, or visiting pet during the site visit. That detail matters. A pet may jump to a window ledge, squeeze through a balcony side gap, or distract a child near the railing. If the net is set only for a standing child, it may miss the lower routes pets use.",
           "A combined child and pet safety plan checks mesh size, bottom fixing, corner tension, and whether the animal can chew or push against the net. The work should make the balcony calmer for the whole household. Parents should be able to open the balcony door without immediately chasing a child or pet away from the edge."
         ]
       },
@@ -986,7 +986,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "image": "/images/invisible-grill-for-balcony.webp",
         "paragraphs": [
           "Anna Nagar apartments may have building-level expectations about exterior appearance, drilling, color, and work timing. Families should check whether the association requires approval before installation. This is especially important when the balcony faces a main road or the building has a uniform facade. A clean safety net can often respect these expectations if the fixing method is discussed early.",
-          "Professional planning avoids last-minute arguments. The installer should explain where hooks will sit, whether drilling is required, how visible the border will be, and how the net will look from outside. When the family, association, and installer share the same understanding, the work day becomes smoother and the final result looks intentional."
+          "Professional checks avoids last-minute arguments. The installer should explain where hooks will sit, whether drilling is required, how visible the border will be, and how the net will look from outside. When the family, association, and installer share the same understanding, the work day becomes smoother and the final result looks intentional."
         ]
       },
       {
@@ -1041,7 +1041,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets enough for toddlers?",
-        "answer": "Children safety nets can greatly reduce open-edge risk when they are fixed tightly and planned around real child movement. They should not replace supervision, but they help protect the balcony or window when a child moves quickly. For toddlers, bottom gaps, reachable furniture, and corner fixing are especially important."
+        "answer": "Children safety nets can greatly reduce open-edge risk when they are fixed tightly and matched to real child movement. They should not replace supervision, but they help protect the balcony or window when a child moves quickly. For toddlers, bottom gaps, reachable furniture, and corner fixing are especially important."
       },
       {
         "question": "Can I install children safety nets in a rented Anna Nagar apartment?",
@@ -1080,7 +1080,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Make the Anna Nagar home safer without changing how the family lives.",
       "paragraphs": [
         "Children safety nets should feel like calm protection, not a daily obstruction. The right result comes from studying the child, the room, the balcony, the windows, the building rules, and the family's normal movement.",
-        "If you are planning child safety in Anna Nagar, start with a complete site visit and a clear explanation. A correct net line should answer the risk before it answers only the price."
+        "If you are checks child safety in Anna Nagar, start with a complete site visit and a clear explanation. A correct net line should answer the risk before it answers only the price."
       ],
       "cta": "Call DK Safety Solutions"
     }
@@ -1091,7 +1091,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Arumbakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Arumbakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Arumbakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Arumbakkam",
         "kids safety nets Arumbakkam Chennai",
@@ -1100,14 +1100,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Arumbakkam Chennai",
-      "openGraphDescription": "A manual Arumbakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Arumbakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Arumbakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Arumbakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Arumbakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Arumbakkam Chennai children safety nets",
       "title": "Children Safety Nets in Arumbakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Arumbakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Arumbakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Arumbakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Arumbakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Arumbakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -1120,8 +1120,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -1252,7 +1252,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Arumbakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Arumbakkam flats?",
@@ -1272,7 +1272,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Arumbakkam?",
@@ -1292,7 +1292,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Arumbakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Arumbakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Arumbakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Arumbakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -1309,7 +1309,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Ashok Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Ashok Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Ashok Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Ashok Nagar",
         "kids safety nets Ashok Nagar Chennai",
@@ -1318,14 +1318,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Ashok Nagar Chennai",
-      "openGraphDescription": "A manual Ashok Nagar guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Ashok Nagar notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Ashok Nagar Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Ashok Nagar apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Ashok Nagar apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Ashok Nagar Chennai children safety nets",
       "title": "Children Safety Nets in Ashok Nagar for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Ashok Nagar homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Ashok Nagar closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Ashok Nagar homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Ashok Nagar closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Ashok Nagar Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -1338,8 +1338,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -1470,7 +1470,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Ashok Nagar suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Ashok Nagar flats?",
@@ -1490,7 +1490,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Ashok Nagar?",
@@ -1510,7 +1510,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Ashok Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Ashok Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Ashok Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Ashok Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -1526,7 +1526,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Avadi Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Avadi, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Avadi, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Avadi",
         "kids safety nets Avadi Chennai",
@@ -1535,14 +1535,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Avadi Chennai",
-      "openGraphDescription": "A manual Avadi guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Avadi notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Avadi Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Avadi apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Avadi apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Avadi Chennai children safety nets",
       "title": "Children Safety Nets in Avadi for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Avadi homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Avadi closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Avadi homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Avadi closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Avadi Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -1555,8 +1555,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -1687,7 +1687,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Avadi suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Avadi flats?",
@@ -1707,7 +1707,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Avadi?",
@@ -1727,7 +1727,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Avadi plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Avadi, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Avadi, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Avadi homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -1744,7 +1744,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Besant Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Besant Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Besant Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Besant Nagar",
         "kids safety nets Besant Nagar Chennai",
@@ -1753,14 +1753,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Besant Nagar Chennai",
-      "openGraphDescription": "A manual Besant Nagar guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Besant Nagar notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Besant Nagar Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Besant Nagar apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Besant Nagar apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Besant Nagar Chennai children safety nets",
       "title": "Children Safety Nets in Besant Nagar for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Besant Nagar homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Besant Nagar closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Besant Nagar homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Besant Nagar closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Besant Nagar Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -1773,8 +1773,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -1786,7 +1786,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Besant Nagar families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Besant Nagar after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety planning for balconies that face breeze, sand, and humidity. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety checks for balconies that face breeze, sand, and humidity. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Besant Nagar, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -1905,7 +1905,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Besant Nagar suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Besant Nagar flats?",
@@ -1925,7 +1925,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Besant Nagar?",
@@ -1945,7 +1945,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Besant Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Besant Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Besant Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Besant Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -1961,7 +1961,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Chetpet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Chetpet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Chetpet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Chetpet",
         "kids safety nets Chetpet Chennai",
@@ -1970,14 +1970,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Chetpet Chennai",
-      "openGraphDescription": "A manual Chetpet guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Chetpet notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Chetpet Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Chetpet apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Chetpet apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Chetpet Chennai children safety nets",
       "title": "Children Safety Nets in Chetpet for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Chetpet homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Chetpet closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Chetpet homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Chetpet closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Chetpet Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -1990,8 +1990,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -2122,7 +2122,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Chetpet suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Chetpet flats?",
@@ -2142,7 +2142,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Chetpet?",
@@ -2162,7 +2162,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Chetpet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Chetpet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Chetpet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Chetpet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -2179,7 +2179,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Choolaimedu Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Choolaimedu, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Choolaimedu, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Choolaimedu",
         "kids safety nets Choolaimedu Chennai",
@@ -2188,14 +2188,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Choolaimedu Chennai",
-      "openGraphDescription": "A manual Choolaimedu guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Choolaimedu notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Choolaimedu Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Choolaimedu apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Choolaimedu apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Choolaimedu Chennai children safety nets",
       "title": "Children Safety Nets in Choolaimedu for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Choolaimedu homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Choolaimedu closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Choolaimedu homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Choolaimedu closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Choolaimedu Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -2208,8 +2208,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -2221,7 +2221,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Choolaimedu families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Choolaimedu after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Choolaimedu pages should focus on practical installation, renter-friendly planning, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Choolaimedu pages should focus on practical installation, renter-friendly checks, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Choolaimedu, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -2340,7 +2340,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Choolaimedu suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Choolaimedu flats?",
@@ -2360,7 +2360,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Choolaimedu?",
@@ -2380,7 +2380,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Choolaimedu plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Choolaimedu, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Choolaimedu, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Choolaimedu homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -2397,7 +2397,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Chromepet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Chromepet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Chromepet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Chromepet",
         "kids safety nets Chromepet Chennai",
@@ -2406,14 +2406,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Chromepet Chennai",
-      "openGraphDescription": "A manual Chromepet guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Chromepet notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Chromepet Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Chromepet apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Chromepet apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Chromepet Chennai children safety nets",
       "title": "Children Safety Nets in Chromepet for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Chromepet homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Chromepet closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Chromepet homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Chromepet closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Chromepet Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -2426,8 +2426,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -2558,7 +2558,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Chromepet suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Chromepet flats?",
@@ -2578,7 +2578,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Chromepet?",
@@ -2598,7 +2598,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Chromepet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Chromepet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Chromepet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Chromepet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -2615,7 +2615,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Egmore Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Egmore, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Egmore, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Egmore",
         "kids safety nets Egmore Chennai",
@@ -2624,14 +2624,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Egmore Chennai",
-      "openGraphDescription": "A manual Egmore guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Egmore notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Egmore Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Egmore apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Egmore apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Egmore Chennai children safety nets",
       "title": "Children Safety Nets in Egmore for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Egmore homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Egmore closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Egmore homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Egmore closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Egmore Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -2644,8 +2644,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -2776,7 +2776,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Egmore suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Egmore flats?",
@@ -2796,7 +2796,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Egmore?",
@@ -2816,7 +2816,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Egmore plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Egmore, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Egmore, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Egmore homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -2833,7 +2833,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Guindy Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Guindy, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Guindy, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Guindy",
         "kids safety nets Guindy Chennai",
@@ -2842,14 +2842,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Guindy Chennai",
-      "openGraphDescription": "A manual Guindy guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Guindy notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Guindy Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Guindy apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Guindy apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Guindy Chennai children safety nets",
       "title": "Children Safety Nets in Guindy for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Guindy homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Guindy closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Guindy homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Guindy closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Guindy Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -2862,8 +2862,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -2994,7 +2994,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Guindy suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Guindy flats?",
@@ -3014,7 +3014,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Guindy?",
@@ -3034,7 +3034,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Guindy plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Guindy, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Guindy, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Guindy homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -3051,7 +3051,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Injambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Injambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Injambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Injambakkam",
         "kids safety nets Injambakkam Chennai",
@@ -3060,14 +3060,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Injambakkam Chennai",
-      "openGraphDescription": "A manual Injambakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Injambakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Injambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Injambakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Injambakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Injambakkam Chennai children safety nets",
       "title": "Children Safety Nets in Injambakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Injambakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Injambakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Injambakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Injambakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Injambakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -3080,8 +3080,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -3212,7 +3212,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Injambakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Injambakkam flats?",
@@ -3232,7 +3232,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Injambakkam?",
@@ -3252,7 +3252,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Injambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Injambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Injambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Injambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -3269,7 +3269,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in K K Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in K K Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in K K Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in K K Nagar",
         "kids safety nets K K Nagar Chennai",
@@ -3278,14 +3278,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in K K Nagar Chennai",
-      "openGraphDescription": "A manual K K Nagar guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed K K Nagar notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in K K Nagar Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in K K Nagar apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in K K Nagar apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "K K Nagar Chennai children safety nets",
       "title": "Children Safety Nets in K K Nagar for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "K K Nagar homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for K K Nagar closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "K K Nagar homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for K K Nagar closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for K K Nagar Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -3298,8 +3298,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -3430,7 +3430,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in K K Nagar suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented K K Nagar flats?",
@@ -3450,7 +3450,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in K K Nagar?",
@@ -3470,7 +3470,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right K K Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in K K Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in K K Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger K K Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -3485,7 +3485,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Kandanchavadi Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Kandanchavadi, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Kandanchavadi, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kandanchavadi",
         "kids safety nets Kandanchavadi Chennai",
@@ -3494,14 +3494,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kandanchavadi Chennai",
-      "openGraphDescription": "A manual Kandanchavadi guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Kandanchavadi notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Kandanchavadi Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Kandanchavadi apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Kandanchavadi apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Kandanchavadi Chennai children safety nets",
       "title": "Children Safety Nets in Kandanchavadi for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Kandanchavadi homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kandanchavadi closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Kandanchavadi homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kandanchavadi closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Kandanchavadi Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -3514,8 +3514,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -3646,7 +3646,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Kandanchavadi suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Kandanchavadi flats?",
@@ -3666,7 +3666,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Kandanchavadi?",
@@ -3686,7 +3686,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kandanchavadi plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Kandanchavadi, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Kandanchavadi, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kandanchavadi homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -3703,7 +3703,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Karapakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Karapakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Karapakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Karapakkam",
         "kids safety nets Karapakkam Chennai",
@@ -3712,14 +3712,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Karapakkam Chennai",
-      "openGraphDescription": "A manual Karapakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Karapakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Karapakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Karapakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Karapakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Karapakkam Chennai children safety nets",
       "title": "Children Safety Nets in Karapakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Karapakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Karapakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Karapakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Karapakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Karapakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -3732,8 +3732,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -3745,7 +3745,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Karapakkam families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Karapakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in planning, and durable finishes for newer residential towers. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in checks, and durable finishes for newer residential towers. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Karapakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -3864,7 +3864,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Karapakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Karapakkam flats?",
@@ -3884,7 +3884,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Karapakkam?",
@@ -3904,7 +3904,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Karapakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Karapakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Karapakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Karapakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -3921,7 +3921,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Kelambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Kelambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Kelambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kelambakkam",
         "kids safety nets Kelambakkam Chennai",
@@ -3930,14 +3930,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kelambakkam Chennai",
-      "openGraphDescription": "A manual Kelambakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Kelambakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Kelambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Kelambakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Kelambakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Kelambakkam Chennai children safety nets",
       "title": "Children Safety Nets in Kelambakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Kelambakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kelambakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Kelambakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kelambakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Kelambakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -3950,8 +3950,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -3963,7 +3963,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Kelambakkam families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Kelambakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout planning and durable exposed materials. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout checks and durable exposed materials. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Kelambakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -4082,7 +4082,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Kelambakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Kelambakkam flats?",
@@ -4102,7 +4102,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Kelambakkam?",
@@ -4122,7 +4122,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kelambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Kelambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Kelambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kelambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -4139,7 +4139,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Kilpauk Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Kilpauk, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Kilpauk, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kilpauk",
         "kids safety nets Kilpauk Chennai",
@@ -4148,14 +4148,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kilpauk Chennai",
-      "openGraphDescription": "A manual Kilpauk guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Kilpauk notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Kilpauk Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Kilpauk apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Kilpauk apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Kilpauk Chennai children safety nets",
       "title": "Children Safety Nets in Kilpauk for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Kilpauk homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kilpauk closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Kilpauk homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kilpauk closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Kilpauk Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -4168,8 +4168,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -4181,7 +4181,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Kilpauk families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Kilpauk after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety checks for established residences that expect tidy work. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Kilpauk, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -4300,7 +4300,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Kilpauk suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Kilpauk flats?",
@@ -4320,7 +4320,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Kilpauk?",
@@ -4340,7 +4340,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kilpauk plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Kilpauk, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Kilpauk, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kilpauk homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -4357,7 +4357,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Kodambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Kodambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Kodambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kodambakkam",
         "kids safety nets Kodambakkam Chennai",
@@ -4366,14 +4366,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kodambakkam Chennai",
-      "openGraphDescription": "A manual Kodambakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Kodambakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Kodambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Kodambakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Kodambakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Kodambakkam Chennai children safety nets",
       "title": "Children Safety Nets in Kodambakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Kodambakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kodambakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Kodambakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kodambakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Kodambakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -4386,8 +4386,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -4518,7 +4518,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Kodambakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Kodambakkam flats?",
@@ -4538,7 +4538,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Kodambakkam?",
@@ -4558,7 +4558,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kodambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Kodambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Kodambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kodambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -4575,7 +4575,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Kolathur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Kolathur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Kolathur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kolathur",
         "kids safety nets Kolathur Chennai",
@@ -4584,14 +4584,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kolathur Chennai",
-      "openGraphDescription": "A manual Kolathur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Kolathur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Kolathur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Kolathur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Kolathur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Kolathur Chennai children safety nets",
       "title": "Children Safety Nets in Kolathur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Kolathur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kolathur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Kolathur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kolathur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Kolathur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -4604,8 +4604,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -4736,7 +4736,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Kolathur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Kolathur flats?",
@@ -4756,7 +4756,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Kolathur?",
@@ -4776,7 +4776,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kolathur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Kolathur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Kolathur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kolathur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -4793,7 +4793,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Korattur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Korattur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Korattur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Korattur",
         "kids safety nets Korattur Chennai",
@@ -4802,14 +4802,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Korattur Chennai",
-      "openGraphDescription": "A manual Korattur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Korattur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Korattur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Korattur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Korattur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Korattur Chennai children safety nets",
       "title": "Children Safety Nets in Korattur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Korattur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Korattur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Korattur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Korattur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Korattur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -4822,8 +4822,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -4835,7 +4835,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Korattur families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Korattur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Korattur work benefits from weather-aware planning, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Korattur work benefits from weather-aware checks, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Korattur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -4954,7 +4954,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Korattur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Korattur flats?",
@@ -4974,7 +4974,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Korattur?",
@@ -4994,7 +4994,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Korattur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Korattur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Korattur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Korattur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -5011,7 +5011,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Kottivakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Kottivakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Kottivakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Kottivakkam",
         "kids safety nets Kottivakkam Chennai",
@@ -5020,14 +5020,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Kottivakkam Chennai",
-      "openGraphDescription": "A manual Kottivakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Kottivakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Kottivakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Kottivakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Kottivakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Kottivakkam Chennai children safety nets",
       "title": "Children Safety Nets in Kottivakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Kottivakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kottivakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Kottivakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Kottivakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Kottivakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -5040,8 +5040,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -5172,7 +5172,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Kottivakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Kottivakkam flats?",
@@ -5192,7 +5192,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Kottivakkam?",
@@ -5212,7 +5212,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Kottivakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Kottivakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Kottivakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Kottivakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -5229,7 +5229,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Koyambedu Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Koyambedu, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Koyambedu, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Koyambedu",
         "kids safety nets Koyambedu Chennai",
@@ -5238,14 +5238,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Koyambedu Chennai",
-      "openGraphDescription": "A manual Koyambedu guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Koyambedu notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Koyambedu Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Koyambedu apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Koyambedu apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Koyambedu Chennai children safety nets",
       "title": "Children Safety Nets in Koyambedu for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Koyambedu homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Koyambedu closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Koyambedu homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Koyambedu closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Koyambedu Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -5258,8 +5258,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -5271,7 +5271,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Koyambedu families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Koyambedu after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Koyambedu jobs need practical timing, compact access planning, dust control, and strong low-maintenance materials for homes near active road and market movement. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Koyambedu jobs need practical timing, compact access details, dust control, and strong low-maintenance materials for homes near active road and market movement. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Koyambedu, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -5390,7 +5390,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Koyambedu suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Koyambedu flats?",
@@ -5410,7 +5410,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Koyambedu?",
@@ -5430,7 +5430,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Koyambedu plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Koyambedu, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Koyambedu, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Koyambedu homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -5447,7 +5447,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Madipakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Madipakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Madipakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Madipakkam",
         "kids safety nets Madipakkam Chennai",
@@ -5456,14 +5456,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Madipakkam Chennai",
-      "openGraphDescription": "A manual Madipakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Madipakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Madipakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Madipakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Madipakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Madipakkam Chennai children safety nets",
       "title": "Children Safety Nets in Madipakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Madipakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Madipakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Madipakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Madipakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Madipakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -5476,8 +5476,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -5608,7 +5608,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Madipakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Madipakkam flats?",
@@ -5628,7 +5628,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Madipakkam?",
@@ -5648,7 +5648,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Madipakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Madipakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Madipakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Madipakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -5665,7 +5665,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Madhavaram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Madhavaram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Madhavaram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Madhavaram",
         "kids safety nets Madhavaram Chennai",
@@ -5674,14 +5674,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Madhavaram Chennai",
-      "openGraphDescription": "A manual Madhavaram guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Madhavaram notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Madhavaram Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Madhavaram apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Madhavaram apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Madhavaram Chennai children safety nets",
       "title": "Children Safety Nets in Madhavaram for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Madhavaram homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Madhavaram closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Madhavaram homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Madhavaram closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Madhavaram Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -5694,8 +5694,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -5826,7 +5826,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Madhavaram suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Madhavaram flats?",
@@ -5846,7 +5846,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Madhavaram?",
@@ -5866,7 +5866,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Madhavaram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Madhavaram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Madhavaram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Madhavaram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -5883,7 +5883,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Medavakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Medavakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Medavakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Medavakkam",
         "kids safety nets Medavakkam Chennai",
@@ -5892,14 +5892,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Medavakkam Chennai",
-      "openGraphDescription": "A manual Medavakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Medavakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Medavakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Medavakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Medavakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Medavakkam Chennai children safety nets",
       "title": "Children Safety Nets in Medavakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Medavakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Medavakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Medavakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Medavakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Medavakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -5912,8 +5912,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -6044,7 +6044,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Medavakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Medavakkam flats?",
@@ -6064,7 +6064,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Medavakkam?",
@@ -6084,7 +6084,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Medavakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Medavakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Medavakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Medavakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -6101,7 +6101,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Mogappair Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Mogappair, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Mogappair, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Mogappair",
         "kids safety nets Mogappair Chennai",
@@ -6110,14 +6110,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Mogappair Chennai",
-      "openGraphDescription": "A manual Mogappair guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Mogappair notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Mogappair Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Mogappair apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Mogappair apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Mogappair Chennai children safety nets",
       "title": "Children Safety Nets in Mogappair for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Mogappair homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Mogappair closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Mogappair homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Mogappair closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Mogappair Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -6130,8 +6130,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -6262,7 +6262,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Mogappair suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Mogappair flats?",
@@ -6282,7 +6282,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Mogappair?",
@@ -6302,7 +6302,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Mogappair plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Mogappair, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Mogappair, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Mogappair homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -6319,7 +6319,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Mugalivakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Mugalivakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Mugalivakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Mugalivakkam",
         "kids safety nets Mugalivakkam Chennai",
@@ -6328,14 +6328,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Mugalivakkam Chennai",
-      "openGraphDescription": "A manual Mugalivakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Mugalivakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Mugalivakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Mugalivakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Mugalivakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Mugalivakkam Chennai children safety nets",
       "title": "Children Safety Nets in Mugalivakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Mugalivakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Mugalivakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Mugalivakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Mugalivakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Mugalivakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -6348,8 +6348,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -6361,7 +6361,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mugalivakkam families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Mugalivakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Mugalivakkam jobs need flexible planning for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Mugalivakkam jobs need flexible checks for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Mugalivakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -6480,7 +6480,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Mugalivakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Mugalivakkam flats?",
@@ -6500,7 +6500,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Mugalivakkam?",
@@ -6520,7 +6520,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Mugalivakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Mugalivakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Mugalivakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Mugalivakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -6537,7 +6537,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Mylapore Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Mylapore, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Mylapore, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Mylapore",
         "kids safety nets Mylapore Chennai",
@@ -6546,14 +6546,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Mylapore Chennai",
-      "openGraphDescription": "A manual Mylapore guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Mylapore notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Mylapore Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Mylapore apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Mylapore apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Mylapore Chennai children safety nets",
       "title": "Children Safety Nets in Mylapore for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Mylapore homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Mylapore closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Mylapore homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Mylapore closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Mylapore Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -6566,8 +6566,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -6698,7 +6698,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Mylapore suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Mylapore flats?",
@@ -6718,7 +6718,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Mylapore?",
@@ -6738,7 +6738,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Mylapore plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Mylapore, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Mylapore, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Mylapore homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -6755,7 +6755,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Nanganallur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Nanganallur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Nanganallur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Nanganallur",
         "kids safety nets Nanganallur Chennai",
@@ -6764,14 +6764,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Nanganallur Chennai",
-      "openGraphDescription": "A manual Nanganallur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Nanganallur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Nanganallur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Nanganallur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Nanganallur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Nanganallur Chennai children safety nets",
       "title": "Children Safety Nets in Nanganallur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Nanganallur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Nanganallur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Nanganallur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Nanganallur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Nanganallur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -6784,8 +6784,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -6916,7 +6916,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Nanganallur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Nanganallur flats?",
@@ -6936,7 +6936,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Nanganallur?",
@@ -6956,7 +6956,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Nanganallur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Nanganallur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Nanganallur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Nanganallur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -6973,7 +6973,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Navalur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Navalur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Navalur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Navalur",
         "kids safety nets Navalur Chennai",
@@ -6982,14 +6982,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Navalur Chennai",
-      "openGraphDescription": "A manual Navalur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Navalur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Navalur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Navalur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Navalur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Navalur Chennai children safety nets",
       "title": "Children Safety Nets in Navalur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Navalur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Navalur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Navalur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Navalur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Navalur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -7002,8 +7002,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -7134,7 +7134,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Navalur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Navalur flats?",
@@ -7154,7 +7154,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Navalur?",
@@ -7174,7 +7174,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Navalur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Navalur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Navalur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Navalur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -7191,7 +7191,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Neelankarai Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Neelankarai, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Neelankarai, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Neelankarai",
         "kids safety nets Neelankarai Chennai",
@@ -7200,14 +7200,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Neelankarai Chennai",
-      "openGraphDescription": "A manual Neelankarai guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Neelankarai notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Neelankarai Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Neelankarai apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Neelankarai apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Neelankarai Chennai children safety nets",
       "title": "Children Safety Nets in Neelankarai for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Neelankarai homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Neelankarai closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Neelankarai homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Neelankarai closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Neelankarai Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -7220,8 +7220,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -7233,7 +7233,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Neelankarai families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Neelankarai after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Neelankarai projects need coastal-grade checks, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Neelankarai, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -7352,7 +7352,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Neelankarai suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Neelankarai flats?",
@@ -7372,7 +7372,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Neelankarai?",
@@ -7392,7 +7392,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Neelankarai plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Neelankarai, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Neelankarai, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Neelankarai homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -7409,7 +7409,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Nungambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Nungambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Nungambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Nungambakkam",
         "kids safety nets Nungambakkam Chennai",
@@ -7418,14 +7418,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Nungambakkam Chennai",
-      "openGraphDescription": "A manual Nungambakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Nungambakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Nungambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Nungambakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Nungambakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Nungambakkam Chennai children safety nets",
       "title": "Children Safety Nets in Nungambakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Nungambakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Nungambakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Nungambakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Nungambakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Nungambakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -7438,8 +7438,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -7570,7 +7570,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Nungambakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Nungambakkam flats?",
@@ -7590,7 +7590,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Nungambakkam?",
@@ -7610,7 +7610,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Nungambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Nungambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Nungambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Nungambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -7627,7 +7627,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Pallavaram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Pallavaram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Pallavaram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Pallavaram",
         "kids safety nets Pallavaram Chennai",
@@ -7636,14 +7636,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Pallavaram Chennai",
-      "openGraphDescription": "A manual Pallavaram guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Pallavaram notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Pallavaram Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Pallavaram apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Pallavaram apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Pallavaram Chennai children safety nets",
       "title": "Children Safety Nets in Pallavaram for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Pallavaram homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Pallavaram closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Pallavaram homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Pallavaram closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Pallavaram Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -7656,8 +7656,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -7788,7 +7788,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Pallavaram suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Pallavaram flats?",
@@ -7808,7 +7808,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Pallavaram?",
@@ -7828,7 +7828,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Pallavaram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Pallavaram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Pallavaram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Pallavaram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -7845,7 +7845,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Pallikaranai Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Pallikaranai, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Pallikaranai, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Pallikaranai",
         "kids safety nets Pallikaranai Chennai",
@@ -7854,14 +7854,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Pallikaranai Chennai",
-      "openGraphDescription": "A manual Pallikaranai guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Pallikaranai notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Pallikaranai Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Pallikaranai apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Pallikaranai apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Pallikaranai Chennai children safety nets",
       "title": "Children Safety Nets in Pallikaranai for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Pallikaranai homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Pallikaranai closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Pallikaranai homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Pallikaranai closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Pallikaranai Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -7874,8 +7874,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -8006,7 +8006,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Pallikaranai suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Pallikaranai flats?",
@@ -8026,7 +8026,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Pallikaranai?",
@@ -8046,7 +8046,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Pallikaranai plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Pallikaranai, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Pallikaranai, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Pallikaranai homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -8063,7 +8063,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Perambur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Perambur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Perambur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Perambur",
         "kids safety nets Perambur Chennai",
@@ -8072,14 +8072,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Perambur Chennai",
-      "openGraphDescription": "A manual Perambur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Perambur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Perambur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Perambur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Perambur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Perambur Chennai children safety nets",
       "title": "Children Safety Nets in Perambur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Perambur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Perambur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Perambur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Perambur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Perambur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -8092,8 +8092,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -8105,7 +8105,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Perambur families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Perambur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware planning for homes with compact balcony and window openings. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware checks for homes with compact balcony and window openings. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Perambur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -8224,7 +8224,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Perambur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Perambur flats?",
@@ -8244,7 +8244,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Perambur?",
@@ -8264,7 +8264,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Perambur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Perambur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Perambur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Perambur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -8281,7 +8281,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Perungudi Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Perungudi, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Perungudi, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Perungudi",
         "kids safety nets Perungudi Chennai",
@@ -8290,14 +8290,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Perungudi Chennai",
-      "openGraphDescription": "A manual Perungudi guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Perungudi notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Perungudi Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Perungudi apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Perungudi apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Perungudi Chennai children safety nets",
       "title": "Children Safety Nets in Perungudi for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Perungudi homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Perungudi closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Perungudi homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Perungudi closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Perungudi Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -8310,8 +8310,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -8442,7 +8442,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Perungudi suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Perungudi flats?",
@@ -8462,7 +8462,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Perungudi?",
@@ -8482,7 +8482,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Perungudi plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Perungudi, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Perungudi, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Perungudi homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -8499,7 +8499,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Poonamallee Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Poonamallee, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Poonamallee, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Poonamallee",
         "kids safety nets Poonamallee Chennai",
@@ -8508,14 +8508,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Poonamallee Chennai",
-      "openGraphDescription": "A manual Poonamallee guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Poonamallee notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Poonamallee Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Poonamallee apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Poonamallee apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Poonamallee Chennai children safety nets",
       "title": "Children Safety Nets in Poonamallee for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Poonamallee homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Poonamallee closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Poonamallee homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Poonamallee closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Poonamallee Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -8528,8 +8528,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -8660,7 +8660,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Poonamallee suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Poonamallee flats?",
@@ -8680,7 +8680,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Poonamallee?",
@@ -8700,7 +8700,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Poonamallee plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Poonamallee, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Poonamallee, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Poonamallee homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -8717,7 +8717,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Porur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Porur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Porur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Porur",
         "kids safety nets Porur Chennai",
@@ -8726,14 +8726,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Porur Chennai",
-      "openGraphDescription": "A manual Porur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Porur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Porur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Porur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Porur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Porur Chennai children safety nets",
       "title": "Children Safety Nets in Porur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Porur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Porur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Porur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Porur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Porur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -8746,8 +8746,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -8878,7 +8878,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Porur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Porur flats?",
@@ -8898,7 +8898,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Porur?",
@@ -8918,7 +8918,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Porur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Porur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Porur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Porur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -8935,7 +8935,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Purasawalkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Purasawalkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Purasawalkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Purasawalkam",
         "kids safety nets Purasawalkam Chennai",
@@ -8944,14 +8944,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Purasawalkam Chennai",
-      "openGraphDescription": "A manual Purasawalkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Purasawalkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Purasawalkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Purasawalkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Purasawalkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Purasawalkam Chennai children safety nets",
       "title": "Children Safety Nets in Purasawalkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Purasawalkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Purasawalkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Purasawalkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Purasawalkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Purasawalkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -8964,8 +8964,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -8977,7 +8977,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Purasawalkam families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Purasawalkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control planning around busy central streets. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control checks around busy central streets. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Purasawalkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -9096,7 +9096,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Purasawalkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Purasawalkam flats?",
@@ -9116,7 +9116,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Purasawalkam?",
@@ -9136,7 +9136,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Purasawalkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Purasawalkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Purasawalkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Purasawalkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -9153,7 +9153,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Ramapuram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Ramapuram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Ramapuram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Ramapuram",
         "kids safety nets Ramapuram Chennai",
@@ -9162,14 +9162,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Ramapuram Chennai",
-      "openGraphDescription": "A manual Ramapuram guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Ramapuram notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Ramapuram Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Ramapuram apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Ramapuram apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Ramapuram Chennai children safety nets",
       "title": "Children Safety Nets in Ramapuram for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Ramapuram homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Ramapuram closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Ramapuram homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Ramapuram closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Ramapuram Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -9182,8 +9182,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -9314,7 +9314,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Ramapuram suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Ramapuram flats?",
@@ -9334,7 +9334,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Ramapuram?",
@@ -9354,7 +9354,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Ramapuram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Ramapuram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Ramapuram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Ramapuram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -9371,7 +9371,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Royapettah Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Royapettah, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Royapettah, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Royapettah",
         "kids safety nets Royapettah Chennai",
@@ -9380,14 +9380,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Royapettah Chennai",
-      "openGraphDescription": "A manual Royapettah guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Royapettah notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Royapettah Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Royapettah apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Royapettah apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Royapettah Chennai children safety nets",
       "title": "Children Safety Nets in Royapettah for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Royapettah homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Royapettah closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Royapettah homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Royapettah closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Royapettah Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -9400,8 +9400,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -9532,7 +9532,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Royapettah suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Royapettah flats?",
@@ -9552,7 +9552,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Royapettah?",
@@ -9572,7 +9572,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Royapettah plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Royapettah, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Royapettah, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Royapettah homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -9589,7 +9589,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Saidapet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Saidapet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Saidapet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Saidapet",
         "kids safety nets Saidapet Chennai",
@@ -9598,14 +9598,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Saidapet Chennai",
-      "openGraphDescription": "A manual Saidapet guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Saidapet notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Saidapet Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Saidapet apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Saidapet apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Saidapet Chennai children safety nets",
       "title": "Children Safety Nets in Saidapet for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Saidapet homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Saidapet closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Saidapet homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Saidapet closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Saidapet Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -9618,8 +9618,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -9750,7 +9750,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Saidapet suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Saidapet flats?",
@@ -9770,7 +9770,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Saidapet?",
@@ -9790,7 +9790,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Saidapet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Saidapet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Saidapet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Saidapet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -9807,7 +9807,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Selaiyur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Selaiyur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Selaiyur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Selaiyur",
         "kids safety nets Selaiyur Chennai",
@@ -9816,14 +9816,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Selaiyur Chennai",
-      "openGraphDescription": "A manual Selaiyur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Selaiyur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Selaiyur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Selaiyur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Selaiyur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Selaiyur Chennai children safety nets",
       "title": "Children Safety Nets in Selaiyur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Selaiyur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Selaiyur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Selaiyur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Selaiyur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Selaiyur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -9836,8 +9836,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -9968,7 +9968,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Selaiyur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Selaiyur flats?",
@@ -9988,7 +9988,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Selaiyur?",
@@ -10008,7 +10008,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Selaiyur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Selaiyur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Selaiyur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Selaiyur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -10025,7 +10025,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Sholinganallur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Sholinganallur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Sholinganallur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Sholinganallur",
         "kids safety nets Sholinganallur Chennai",
@@ -10034,14 +10034,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Sholinganallur Chennai",
-      "openGraphDescription": "A manual Sholinganallur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Sholinganallur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Sholinganallur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Sholinganallur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Sholinganallur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Sholinganallur Chennai children safety nets",
       "title": "Children Safety Nets in Sholinganallur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Sholinganallur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Sholinganallur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Sholinganallur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Sholinganallur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Sholinganallur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -10054,8 +10054,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -10067,7 +10067,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Sholinganallur families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Sholinganallur after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety planning for children, pets, pigeons, and open utility edges. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety checks for children, pets, pigeons, and open utility edges. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Sholinganallur, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -10186,7 +10186,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Sholinganallur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Sholinganallur flats?",
@@ -10206,7 +10206,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Sholinganallur?",
@@ -10226,7 +10226,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Sholinganallur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Sholinganallur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Sholinganallur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Sholinganallur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -10243,7 +10243,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Siruseri Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Siruseri, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Siruseri, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Siruseri",
         "kids safety nets Siruseri Chennai",
@@ -10252,14 +10252,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Siruseri Chennai",
-      "openGraphDescription": "A manual Siruseri guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Siruseri notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Siruseri Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Siruseri apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Siruseri apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Siruseri Chennai children safety nets",
       "title": "Children Safety Nets in Siruseri for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Siruseri homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Siruseri closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Siruseri homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Siruseri closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Siruseri Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -10272,8 +10272,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -10404,7 +10404,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Siruseri suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Siruseri flats?",
@@ -10424,7 +10424,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Siruseri?",
@@ -10444,7 +10444,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Siruseri plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Siruseri, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Siruseri, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Siruseri homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -10461,7 +10461,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Tambaram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Tambaram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Tambaram, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Tambaram",
         "kids safety nets Tambaram Chennai",
@@ -10470,14 +10470,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Tambaram Chennai",
-      "openGraphDescription": "A manual Tambaram guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Tambaram notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Tambaram Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Tambaram apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Tambaram apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Tambaram Chennai children safety nets",
       "title": "Children Safety Nets in Tambaram for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Tambaram homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Tambaram closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Tambaram homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Tambaram closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Tambaram Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -10490,8 +10490,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -10622,7 +10622,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Tambaram suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Tambaram flats?",
@@ -10642,7 +10642,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Tambaram?",
@@ -10662,7 +10662,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Tambaram plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Tambaram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Tambaram, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Tambaram homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -10679,7 +10679,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in T Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in T Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in T Nagar, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in T Nagar",
         "kids safety nets T Nagar Chennai",
@@ -10688,14 +10688,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in T Nagar Chennai",
-      "openGraphDescription": "A manual T Nagar guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed T Nagar notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in T Nagar Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in T Nagar apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in T Nagar apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "T Nagar Chennai children safety nets",
       "title": "Children Safety Nets in T Nagar for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "T Nagar homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for T Nagar closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "T Nagar homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for T Nagar closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for T Nagar Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -10708,8 +10708,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -10840,7 +10840,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in T Nagar suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented T Nagar flats?",
@@ -10860,7 +10860,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in T Nagar?",
@@ -10880,7 +10880,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right T Nagar plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in T Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in T Nagar, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger T Nagar homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -10896,7 +10896,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Teynampet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Teynampet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Teynampet, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Teynampet",
         "kids safety nets Teynampet Chennai",
@@ -10905,14 +10905,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Teynampet Chennai",
-      "openGraphDescription": "A manual Teynampet guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Teynampet notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Teynampet Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Teynampet apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Teynampet apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Teynampet Chennai children safety nets",
       "title": "Children Safety Nets in Teynampet for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Teynampet homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Teynampet closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Teynampet homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Teynampet closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Teynampet Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -10925,8 +10925,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -10938,7 +10938,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Teynampet families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Teynampet after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety checks for central Chennai homes. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Teynampet, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -11057,7 +11057,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Teynampet suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Teynampet flats?",
@@ -11077,7 +11077,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Teynampet?",
@@ -11097,7 +11097,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Teynampet plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Teynampet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Teynampet, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Teynampet homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -11114,7 +11114,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Thiruvanmiyur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Thiruvanmiyur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Thiruvanmiyur, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Thiruvanmiyur",
         "kids safety nets Thiruvanmiyur Chennai",
@@ -11123,14 +11123,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Thiruvanmiyur Chennai",
-      "openGraphDescription": "A manual Thiruvanmiyur guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Thiruvanmiyur notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Thiruvanmiyur Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Thiruvanmiyur apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Thiruvanmiyur apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Thiruvanmiyur Chennai children safety nets",
       "title": "Children Safety Nets in Thiruvanmiyur for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Thiruvanmiyur homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Thiruvanmiyur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Thiruvanmiyur homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Thiruvanmiyur closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Thiruvanmiyur Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -11143,8 +11143,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -11275,7 +11275,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Thiruvanmiyur suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Thiruvanmiyur flats?",
@@ -11295,7 +11295,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Thiruvanmiyur?",
@@ -11315,7 +11315,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Thiruvanmiyur plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Thiruvanmiyur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Thiruvanmiyur, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Thiruvanmiyur homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -11332,7 +11332,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Thoraipakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Thoraipakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Thoraipakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Thoraipakkam",
         "kids safety nets Thoraipakkam Chennai",
@@ -11341,14 +11341,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Thoraipakkam Chennai",
-      "openGraphDescription": "A manual Thoraipakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Thoraipakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Thoraipakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Thoraipakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Thoraipakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Thoraipakkam Chennai children safety nets",
       "title": "Children Safety Nets in Thoraipakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Thoraipakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Thoraipakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Thoraipakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Thoraipakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Thoraipakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -11361,8 +11361,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -11374,7 +11374,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Thoraipakkam families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Thoraipakkam after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Thoraipakkam entries should explain quick but careful installation, rental-friendly planning, association-approved finish, pigeon control, and children safety. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Thoraipakkam entries should explain quick but careful installation, rental-friendly service, association-approved finish, pigeon control, and children safety. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Thoraipakkam, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -11493,7 +11493,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Thoraipakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Thoraipakkam flats?",
@@ -11513,7 +11513,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Thoraipakkam?",
@@ -11533,7 +11533,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Thoraipakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Thoraipakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Thoraipakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Thoraipakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -11550,7 +11550,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Triplicane Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Triplicane, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Triplicane, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Triplicane",
         "kids safety nets Triplicane Chennai",
@@ -11559,14 +11559,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Triplicane Chennai",
-      "openGraphDescription": "A manual Triplicane guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Triplicane notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Triplicane Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Triplicane apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Triplicane apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Triplicane Chennai children safety nets",
       "title": "Children Safety Nets in Triplicane for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Triplicane homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Triplicane closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Triplicane homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Triplicane closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Triplicane Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -11579,8 +11579,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -11592,7 +11592,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Triplicane families should plan child safety before choosing a net",
       "paragraphs": [
         "Parents often ask for children safety nets in Triplicane after one small moment makes the home feel less relaxed: a toddler reaches a balcony rail, a child leans near a bedroom window, a pet runs toward an open utility area, or a grandparent notices a staircase void that was ignored for years. The installation should answer that worry with a practical plan, not only a quick mesh fitting.",
-        "Triplicane projects need patient access planning, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
+        "Triplicane projects need patient access details, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Children safety nets need closer attention to climb points, furniture placement, gap width, and openings that look harmless during normal adult use.",
         "Before quoting in Triplicane, DK Safety Solutions should check railing gaps, window reach, furniture position, staircase voids, balcony corners, anchor points, and daily supervision patterns so the material, access method, and timeline match the real site. A useful site visit studies the home like a child would use it. The team should check reachable chairs, planter stands, low sills, railing gaps, side corners, utility ledges, and the places where children pause while adults are busy. That is how a safety net becomes a family system instead of one covered opening."
       ]
     },
@@ -11711,7 +11711,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Triplicane suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Triplicane flats?",
@@ -11731,7 +11731,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Triplicane?",
@@ -11751,7 +11751,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Triplicane plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Triplicane, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Triplicane, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Triplicane homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -11768,7 +11768,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Vadapalani Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Vadapalani, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Vadapalani, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Vadapalani",
         "kids safety nets Vadapalani Chennai",
@@ -11777,14 +11777,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Vadapalani Chennai",
-      "openGraphDescription": "A manual Vadapalani guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Vadapalani notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Vadapalani Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Vadapalani apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Vadapalani apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Vadapalani Chennai children safety nets",
       "title": "Children Safety Nets in Vadapalani for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Vadapalani homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Vadapalani closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Vadapalani homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Vadapalani closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Vadapalani Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -11797,8 +11797,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -11929,7 +11929,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Vadapalani suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Vadapalani flats?",
@@ -11949,7 +11949,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Vadapalani?",
@@ -11969,7 +11969,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Vadapalani plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Vadapalani, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Vadapalani, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Vadapalani homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -11986,7 +11986,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Valasaravakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Valasaravakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Valasaravakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Valasaravakkam",
         "kids safety nets Valasaravakkam Chennai",
@@ -11995,14 +11995,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Valasaravakkam Chennai",
-      "openGraphDescription": "A manual Valasaravakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Valasaravakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Valasaravakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Valasaravakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Valasaravakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Valasaravakkam Chennai children safety nets",
       "title": "Children Safety Nets in Valasaravakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Valasaravakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Valasaravakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Valasaravakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Valasaravakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Valasaravakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -12015,8 +12015,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -12147,7 +12147,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Valasaravakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Valasaravakkam flats?",
@@ -12167,7 +12167,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Valasaravakkam?",
@@ -12187,7 +12187,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Valasaravakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Valasaravakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Valasaravakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Valasaravakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -12204,7 +12204,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Velachery Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Velachery, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Velachery, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Velachery",
         "kids safety nets Velachery Chennai",
@@ -12213,14 +12213,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Velachery Chennai",
-      "openGraphDescription": "A manual Velachery guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Velachery notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Velachery Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Velachery apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Velachery apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Velachery Chennai children safety nets",
       "title": "Children Safety Nets in Velachery for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Velachery homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Velachery closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Velachery homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Velachery closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Velachery Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -12233,8 +12233,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -12365,7 +12365,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Velachery suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Velachery flats?",
@@ -12385,7 +12385,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Velachery?",
@@ -12405,7 +12405,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Velachery plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Velachery, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Velachery, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Velachery homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -12422,7 +12422,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Villivakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Villivakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Villivakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Villivakkam",
         "kids safety nets Villivakkam Chennai",
@@ -12431,14 +12431,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Villivakkam Chennai",
-      "openGraphDescription": "A manual Villivakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Villivakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Villivakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Villivakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Villivakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Villivakkam Chennai children safety nets",
       "title": "Children Safety Nets in Villivakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Villivakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Villivakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Villivakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Villivakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Villivakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -12451,8 +12451,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -12583,7 +12583,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Villivakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Villivakkam flats?",
@@ -12603,7 +12603,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Villivakkam?",
@@ -12623,7 +12623,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Villivakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Villivakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Villivakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Villivakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -12640,7 +12640,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Virugambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Virugambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in Virugambakkam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in Virugambakkam",
         "kids safety nets Virugambakkam Chennai",
@@ -12649,14 +12649,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Virugambakkam Chennai",
-      "openGraphDescription": "A manual Virugambakkam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed Virugambakkam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in Virugambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in Virugambakkam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in Virugambakkam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "Virugambakkam Chennai children safety nets",
       "title": "Children Safety Nets in Virugambakkam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "Virugambakkam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Virugambakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "Virugambakkam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for Virugambakkam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Virugambakkam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -12669,8 +12669,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -12801,7 +12801,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in Virugambakkam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented Virugambakkam flats?",
@@ -12821,7 +12821,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in Virugambakkam?",
@@ -12841,7 +12841,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right Virugambakkam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in Virugambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in Virugambakkam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger Virugambakkam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -12858,7 +12858,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in West Mambalam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in West Mambalam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation planning, pricing, and maintenance.",
+      "description": "Detailed Chennai notes for children safety nets in West Mambalam, Chennai, covering balconies, windows, stair openings, climb points, child-safe mesh, installation details, pricing, and maintenance.",
       "keywords": [
         "children safety nets in West Mambalam",
         "kids safety nets West Mambalam Chennai",
@@ -12867,14 +12867,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in West Mambalam Chennai",
-      "openGraphDescription": "A manual West Mambalam guide for families planning child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
+      "openGraphDescription": "Detailed West Mambalam notes for families checks child-safe balcony, window, staircase, and open-edge net installation in Chennai.",
       "twitterTitle": "Children Safety Nets in West Mambalam Chennai",
-      "twitterDescription": "Manual Chennai page for child-focused safety net planning in West Mambalam apartments, rented flats, and family homes."
+      "twitterDescription": "Chennai service notes for child-focused safety net checks in West Mambalam apartments, rented flats, and family homes."
     },
     "hero": {
       "eyebrow": "West Mambalam Chennai children safety nets",
       "title": "Children Safety Nets in West Mambalam for safer balconies, calmer windows, and family-ready open edges.",
-      "lead": "West Mambalam homes need children safety nets planned around real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for West Mambalam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
+      "lead": "West Mambalam homes need children safety nets matched to real family movement, not only around the size of one balcony opening. Children move quickly between rooms, copy adults near windows, follow pets toward utility spaces, and use furniture in ways adults do not expect. A good safety net plan for West Mambalam closes reachable edges while keeping air, light, cleaning access, and everyday home routine practical.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for West Mambalam Child Safety Visit",
       "secondaryCta": "WhatsApp Safety Details"
@@ -12887,8 +12887,8 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This article is written as a full area guide before the route is treated as a refined service page."
+        "label": "Service Checks Depth",
+        "description": "This article is written as a full area notes before the route is treated as a refined service page."
       },
       {
         "stat": "10",
@@ -13019,7 +13019,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are children safety nets in West Mambalam suitable for toddlers?",
-        "answer": "Yes, when the net is planned around toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
+        "answer": "Yes, when the net is matched to toddler movement, lower gaps, furniture climb points, and firm corner fixing. It should support supervision rather than replace it, and parents should keep climbable items away from protected edges."
       },
       {
         "question": "Can DK Safety Solutions install nets in rented West Mambalam flats?",
@@ -13039,7 +13039,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can children safety nets also help with pet safety?",
-        "answer": "They can help when lower edges, side gaps, and mesh strength are planned for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
+        "answer": "They can help when lower edges, side gaps, and mesh strength are made for pet movement as well as child movement. Mention pets during the site visit because their routes near railings and utility spaces may be different."
       },
       {
         "question": "How is pricing decided for children safety nets in West Mambalam?",
@@ -13059,7 +13059,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "paragraphs": [
         "Children safety nets should make the home feel calmer, not more complicated. The right installation protects the balcony, window, staircase, or open edge while leaving room for air, light, cleaning, plant care, and normal family movement.",
         "The finished work should provide firm mesh, soft visual presence, child-safe spacing, and clean fixing that families can trust, with phone, WhatsApp, nearby-area links, and related services connected for quick area follow-up. This is why the right West Mambalam plan combines measurement, child-route thinking, neat fixing, and clear follow-up instead of treating the job as a simple mesh order.",
-        "If you are planning child safety in West Mambalam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
+        "If you are checks child safety in West Mambalam, start with a complete risk check. Once the reachable edges are understood, the net layout, material, fixing method, and installation timing become easier to choose with confidence.",
         "A final check should happen after the mesh is tensioned. Walk through the room, open the balcony or window normally, look at the lower corners, and make sure no furniture creates a new climb point near the protected edge. This simple review helps the family understand how the installation should be used every day.",
         "For larger West Mambalam homes, the same visit can also mark future-risk openings. Some families finish all areas at once, while others complete the highest-risk balcony or child's bedroom first. A written scope keeps those decisions organized without losing the bigger safety picture.",
         "The goal is not to make the house feel restricted. It is to let children, parents, elders, and pets share the space with fewer sudden worries around openings that were previously left to supervision alone.",
@@ -13075,7 +13075,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Adambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Adambakkam, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Adambakkam, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Adambakkam",
         "children safety nets Adambakkam Chennai",
@@ -13084,13 +13084,13 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Adambakkam Chennai",
-      "openGraphDescription": "A manual Adambakkam guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Adambakkam notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Adambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Adambakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Adambakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Adambakkam Chennai children safety nets",
-      "title": "Children Safety Nets in Adambakkam planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Children Safety Nets in Adambakkam made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Adambakkam customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Adambakkam plan studies compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Adambakkam",
@@ -13100,12 +13100,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Adambakkam",
         "label": "Area Site Focus",
-        "description": "Written for Adambakkam conditions, including compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Adambakkam conditions, including compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -13117,7 +13117,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Adambakkam sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Adambakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Adambakkam, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -13151,7 +13151,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Adambakkam",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Adambakkam",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Adambakkam, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -13200,14 +13200,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "First agree on what has to be solved in Adambakkam: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. Once that is clear, the installer can choose the right coverage, anchors, and finishing details."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Adambakkam site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -13239,7 +13239,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Adambakkam?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -13273,7 +13273,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Adambakkam"
@@ -13285,7 +13285,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Ayanavaram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Ayanavaram, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Ayanavaram, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Ayanavaram",
         "children safety nets Ayanavaram Chennai",
@@ -13294,13 +13294,13 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Ayanavaram Chennai",
-      "openGraphDescription": "A manual Ayanavaram guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Ayanavaram notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Ayanavaram Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Ayanavaram, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Ayanavaram, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Ayanavaram Chennai children safety nets",
-      "title": "Children Safety Nets in Ayanavaram planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Children Safety Nets in Ayanavaram made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Ayanavaram customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Ayanavaram plan studies older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Ayanavaram",
@@ -13310,12 +13310,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Ayanavaram",
         "label": "Area Site Focus",
-        "description": "Written for Ayanavaram conditions, including older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Ayanavaram conditions, including older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -13327,7 +13327,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Ayanavaram sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Ayanavaram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Ayanavaram, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -13361,7 +13361,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Ayanavaram",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Ayanavaram",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Ayanavaram, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -13410,14 +13410,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "For Ayanavaram, the first question is simple: is the issue climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The answer decides whether the work needs front coverage, side returns, stronger borders, or easier service access."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Ayanavaram site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -13449,7 +13449,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Ayanavaram?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -13483,7 +13483,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Ayanavaram"
@@ -13495,7 +13495,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Ekkattuthangal Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Ekkattuthangal, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Ekkattuthangal, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Ekkattuthangal",
         "children safety nets Ekkattuthangal Chennai",
@@ -13504,13 +13504,13 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Ekkattuthangal Chennai",
-      "openGraphDescription": "A manual Ekkattuthangal guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Ekkattuthangal notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Ekkattuthangal Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Ekkattuthangal, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Ekkattuthangal, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Ekkattuthangal Chennai children safety nets",
-      "title": "Children Safety Nets in Ekkattuthangal planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Children Safety Nets in Ekkattuthangal made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Ekkattuthangal customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Ekkattuthangal plan studies workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Ekkattuthangal",
@@ -13520,12 +13520,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Ekkattuthangal",
         "label": "Area Site Focus",
-        "description": "Written for Ekkattuthangal conditions, including workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Ekkattuthangal conditions, including workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -13537,7 +13537,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Ekkattuthangal sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Ekkattuthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Ekkattuthangal, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -13571,7 +13571,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Ekkattuthangal",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Ekkattuthangal",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Ekkattuthangal, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -13620,14 +13620,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Start with what is actually happening at Ekkattuthangal: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The quote should follow that concern before adding side gaps, access constraints, material grade, or after-care."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Ekkattuthangal site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -13659,7 +13659,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Ekkattuthangal?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -13693,7 +13693,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Ekkattuthangal"
@@ -13705,7 +13705,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Iyyappanthangal Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Iyyappanthangal, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Iyyappanthangal, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Iyyappanthangal",
         "children safety nets Iyyappanthangal Chennai",
@@ -13714,14 +13714,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Iyyappanthangal Chennai",
-      "openGraphDescription": "A manual Iyyappanthangal guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Iyyappanthangal notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Iyyappanthangal Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Iyyappanthangal, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Iyyappanthangal, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Iyyappanthangal Chennai children safety nets",
-      "title": "Children Safety Nets in Iyyappanthangal planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Iyyappanthangal customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Iyyappanthangal plan studies fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "title": "Children Safety Nets in Iyyappanthangal made for safer coverage, cleaner fixing, and dependable area installation.",
+      "lead": "Iyyappanthangal customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Iyyappanthangal plan studies fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor safety work, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Iyyappanthangal",
       "secondaryCta": "WhatsApp Family Safety Details"
@@ -13730,12 +13730,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Iyyappanthangal",
         "label": "Area Site Focus",
-        "description": "Written for Iyyappanthangal conditions, including fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Iyyappanthangal conditions, including fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor safety work, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -13747,7 +13747,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Iyyappanthangal sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Iyyappanthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor safety work. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Iyyappanthangal, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -13781,7 +13781,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Iyyappanthangal",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Iyyappanthangal",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Iyyappanthangal, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -13830,14 +13830,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Use the Iyyappanthangal site problem as the starting point: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. Then check opening shape, fixing strength, and maintenance access so the children safety nets scope stays practical."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Iyyappanthangal site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -13869,7 +13869,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Iyyappanthangal?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -13903,7 +13903,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Iyyappanthangal"
@@ -13915,7 +13915,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Manapakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Manapakkam, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Manapakkam, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Manapakkam",
         "children safety nets Manapakkam Chennai",
@@ -13924,13 +13924,13 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Manapakkam Chennai",
-      "openGraphDescription": "A manual Manapakkam guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Manapakkam notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Manapakkam Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Manapakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Manapakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Manapakkam Chennai children safety nets",
-      "title": "Children Safety Nets in Manapakkam planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Children Safety Nets in Manapakkam made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Manapakkam customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Manapakkam plan studies IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Manapakkam",
@@ -13940,12 +13940,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Manapakkam",
         "label": "Area Site Focus",
-        "description": "Written for Manapakkam conditions, including IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Manapakkam conditions, including IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -13957,7 +13957,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Manapakkam sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Manapakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Manapakkam, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -13991,7 +13991,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Manapakkam",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Manapakkam",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Manapakkam, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -14040,14 +14040,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "First agree on what has to be solved in Manapakkam: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. Once that is clear, the installer can choose the right coverage, anchors, and finishing details."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Manapakkam site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -14079,7 +14079,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Manapakkam?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -14113,7 +14113,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Manapakkam"
@@ -14125,7 +14125,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Mandaveli Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Mandaveli, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Mandaveli, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Mandaveli",
         "children safety nets Mandaveli Chennai",
@@ -14134,13 +14134,13 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Mandaveli Chennai",
-      "openGraphDescription": "A manual Mandaveli guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Mandaveli notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Mandaveli Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Mandaveli, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Mandaveli, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Mandaveli Chennai children safety nets",
-      "title": "Children Safety Nets in Mandaveli planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Children Safety Nets in Mandaveli made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Mandaveli customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Mandaveli plan studies older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Mandaveli",
@@ -14150,12 +14150,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Mandaveli",
         "label": "Area Site Focus",
-        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -14167,7 +14167,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mandaveli sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Mandaveli, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14201,7 +14201,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Mandaveli",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Mandaveli",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Mandaveli, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -14250,14 +14250,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "For Mandaveli, the first question is simple: is the issue climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The answer decides whether the work needs front coverage, side returns, stronger borders, or easier service access."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Mandaveli site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -14289,7 +14289,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Mandaveli?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -14323,7 +14323,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Mandaveli"
@@ -14335,7 +14335,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Palavakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Palavakkam, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Palavakkam, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Palavakkam",
         "children safety nets Palavakkam Chennai",
@@ -14344,13 +14344,13 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Palavakkam Chennai",
-      "openGraphDescription": "A manual Palavakkam guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Palavakkam notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Palavakkam Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Palavakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Palavakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Palavakkam Chennai children safety nets",
-      "title": "Children Safety Nets in Palavakkam planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Children Safety Nets in Palavakkam made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Palavakkam customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Palavakkam plan studies coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Palavakkam",
@@ -14360,12 +14360,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Palavakkam",
         "label": "Area Site Focus",
-        "description": "Written for Palavakkam conditions, including coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Palavakkam conditions, including coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -14377,7 +14377,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Palavakkam sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Palavakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Palavakkam, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14411,7 +14411,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Palavakkam",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Palavakkam",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Palavakkam, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -14460,14 +14460,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Start with what is actually happening at Palavakkam: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The quote should follow that concern before adding side gaps, access constraints, material grade, or after-care."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Palavakkam site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -14499,7 +14499,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Palavakkam?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -14533,7 +14533,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Palavakkam"
@@ -14545,7 +14545,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Periyar Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Periyar Nagar, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Periyar Nagar, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Periyar Nagar",
         "children safety nets Periyar Nagar Chennai",
@@ -14554,13 +14554,13 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Periyar Nagar Chennai",
-      "openGraphDescription": "A manual Periyar Nagar guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Periyar Nagar notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Periyar Nagar Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Periyar Nagar, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Periyar Nagar, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Periyar Nagar Chennai children safety nets",
-      "title": "Children Safety Nets in Periyar Nagar planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Children Safety Nets in Periyar Nagar made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Periyar Nagar customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Periyar Nagar plan studies dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Periyar Nagar",
@@ -14570,12 +14570,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Periyar Nagar",
         "label": "Area Site Focus",
-        "description": "Written for Periyar Nagar conditions, including dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Periyar Nagar conditions, including dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -14587,7 +14587,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Periyar Nagar sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Periyar Nagar should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Periyar Nagar, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14621,7 +14621,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Periyar Nagar",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Periyar Nagar",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Periyar Nagar, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -14670,14 +14670,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Use the Periyar Nagar site problem as the starting point: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. Then check opening shape, fixing strength, and maintenance access so the children safety nets scope stays practical."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Periyar Nagar site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -14709,7 +14709,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Periyar Nagar?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -14743,7 +14743,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion."
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion."
       ],
       "cta": "Call for Children Safety Visit in Periyar Nagar"
     }
@@ -14754,7 +14754,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Royapuram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Royapuram, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Royapuram, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Royapuram",
         "children safety nets Royapuram Chennai",
@@ -14763,13 +14763,13 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Royapuram Chennai",
-      "openGraphDescription": "A manual Royapuram guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Royapuram notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Royapuram Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Royapuram, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Royapuram, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Royapuram Chennai children safety nets",
-      "title": "Children Safety Nets in Royapuram planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Children Safety Nets in Royapuram made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Royapuram customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Royapuram plan studies coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Royapuram",
@@ -14779,12 +14779,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Royapuram",
         "label": "Area Site Focus",
-        "description": "Written for Royapuram conditions, including coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Royapuram conditions, including coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -14796,7 +14796,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Royapuram sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Royapuram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Royapuram, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14830,7 +14830,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Royapuram",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Royapuram",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Royapuram, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -14879,14 +14879,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "First agree on what has to be solved in Royapuram: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. Once that is clear, the installer can choose the right coverage, anchors, and finishing details."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Royapuram site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -14918,7 +14918,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Royapuram?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -14952,7 +14952,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Royapuram"
@@ -14964,7 +14964,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Semmancheri Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Semmancheri, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Semmancheri, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Semmancheri",
         "children safety nets Semmancheri Chennai",
@@ -14973,14 +14973,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Semmancheri Chennai",
-      "openGraphDescription": "A manual Semmancheri guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Semmancheri notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Semmancheri Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Semmancheri, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Semmancheri, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Semmancheri Chennai children safety nets",
-      "title": "Children Safety Nets in Semmancheri planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Semmancheri customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Semmancheri plan studies OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "title": "Children Safety Nets in Semmancheri made for safer coverage, cleaner fixing, and dependable area installation.",
+      "lead": "Semmancheri customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Semmancheri plan studies OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety work, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Semmancheri",
       "secondaryCta": "WhatsApp Family Safety Details"
@@ -14989,12 +14989,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Semmancheri",
         "label": "Area Site Focus",
-        "description": "Written for Semmancheri conditions, including OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Semmancheri conditions, including OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety work, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -15006,7 +15006,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Semmancheri sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Semmancheri should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety work. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Semmancheri, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -15040,7 +15040,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Semmancheri",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Semmancheri",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Semmancheri, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -15089,14 +15089,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "For Semmancheri, the first question is simple: is the issue climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The answer decides whether the work needs front coverage, side returns, stronger borders, or easier service access."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Semmancheri site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -15128,7 +15128,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Semmancheri?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -15162,7 +15162,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Semmancheri"
@@ -15174,7 +15174,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Tondiarpet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Tondiarpet, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Tondiarpet, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Tondiarpet",
         "children safety nets Tondiarpet Chennai",
@@ -15183,14 +15183,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Tondiarpet Chennai",
-      "openGraphDescription": "A manual Tondiarpet guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Tondiarpet notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Tondiarpet Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Tondiarpet, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Tondiarpet, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Tondiarpet Chennai children safety nets",
-      "title": "Children Safety Nets in Tondiarpet planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Tondiarpet customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Tondiarpet plan studies industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "title": "Children Safety Nets in Tondiarpet made for safer coverage, cleaner fixing, and dependable area installation.",
+      "lead": "Tondiarpet customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Tondiarpet plan studies industrial-near residential pockets, older structures, dust exposure, and buildings where access details must be practical, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Tondiarpet",
       "secondaryCta": "WhatsApp Family Safety Details"
@@ -15199,12 +15199,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Tondiarpet",
         "label": "Area Site Focus",
-        "description": "Written for Tondiarpet conditions, including industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Tondiarpet conditions, including industrial-near residential pockets, older structures, dust exposure, and buildings where access details must be practical, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -15216,7 +15216,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Tondiarpet sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Tondiarpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access details must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Tondiarpet, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -15250,7 +15250,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Tondiarpet",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Tondiarpet",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Tondiarpet, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -15299,14 +15299,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Start with what is actually happening at Tondiarpet: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The quote should follow that concern before adding side gaps, access constraints, material grade, or after-care."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Tondiarpet site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -15338,7 +15338,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Tondiarpet?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -15372,7 +15372,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Tondiarpet"
@@ -15384,7 +15384,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "children-safety-nets",
     "metadata": {
       "title": "Children Safety Nets in Washermanpet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for children safety nets in Washermanpet, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for children safety nets in Washermanpet, Chennai, covering balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, child-safe coverage for balconies, windows, stair edges, and open family spaces, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "children safety nets in Washermanpet",
         "children safety nets Washermanpet Chennai",
@@ -15393,13 +15393,13 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Children Safety Nets in Washermanpet Chennai",
-      "openGraphDescription": "A manual Washermanpet guide for children safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Washermanpet notes for children safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Children Safety Nets in Washermanpet Chennai",
-      "twitterDescription": "Manual Chennai page for children safety nets in Washermanpet, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for children safety nets in Washermanpet, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Washermanpet Chennai children safety nets",
-      "title": "Children Safety Nets in Washermanpet planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Children Safety Nets in Washermanpet made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Washermanpet customers often need children safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve balcony openings, window gaps, duplex edges, staircase voids, and play-facing corners, and the work has to solve climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines without making routine use harder. A good Washermanpet plan studies busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/images/children-safety-invisible-grills-for-balcony.webp",
       "primaryCta": "Call for Children Safety Visit in Washermanpet",
@@ -15409,12 +15409,12 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Washermanpet",
         "label": "Area Site Focus",
-        "description": "Written for Washermanpet conditions, including busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Washermanpet conditions, including busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -15426,7 +15426,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Washermanpet sites need a clear children safety nets plan",
       "paragraphs": [
         "Children Safety Nets in Washermanpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Children Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Washermanpet, DK Safety Solutions should check climb points, gap width, railing strength, window swing, furniture position, family routine, cleaning access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -15460,7 +15460,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable children safety nets in Washermanpet",
+        "heading": "Anchor checks is the backbone of reliable children safety nets in Washermanpet",
         "image": "/cards/children-safety-invisible-grills-for-balcony.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Washermanpet, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -15509,14 +15509,14 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Use the Washermanpet site problem as the starting point: climbable furniture, railing gaps, playful leaning, toy movement near edges, and mixed child-and-pet routines. Then check opening shape, fixing strength, and maintenance access so the children safety nets scope stays practical."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect climb points, gap width, railing strength, window swing before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Washermanpet site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -15548,7 +15548,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does children safety nets installation take in Washermanpet?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -15582,7 +15582,7 @@ export const childrenSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Children Safety Visit in Washermanpet"

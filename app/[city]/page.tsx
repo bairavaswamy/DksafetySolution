@@ -24,6 +24,8 @@ const cityPageTitle = "Chennai Safety Services and Areas | DK Safety Solutions";
 const cityPageDescription =
   "Browse DK Safety Solutions services across Chennai, including balcony safety nets, invisible grills, bird control, sports nets, and utility services.";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return [{ city: chennaiConfig.citySlug }];
 }
@@ -67,7 +69,6 @@ export default function ChennaiPage({ params }: CityPageProps) {
   }
 
   const defaultArea = chennaiConfig.areas[0];
-  const featuredAreas = chennaiConfig.areas.slice(0, 12);
   const pageUrl = absoluteUrl(`/${chennaiConfig.citySlug}/`);
   const jsonLd = getGraphSchema([
     getWebPageSchema({
@@ -121,7 +122,7 @@ export default function ChennaiPage({ params }: CityPageProps) {
                 <div key={item} className="rounded-lg border border-white/15 bg-white/10 p-4 text-white backdrop-blur">
                   <p className="text-base font-black">{item}</p>
                   <p className="mt-2 text-sm leading-6 text-slate-200">
-                    Planned for Chennai apartments, homes, and shared spaces.
+                    Made for Chennai apartments, homes, and shared spaces.
                   </p>
                 </div>
               ))}
@@ -259,7 +260,7 @@ export default function ChennaiPage({ params }: CityPageProps) {
         <div className="grid gap-4 md:grid-cols-3">
           {[
             "Service pages start from Chennai before moving into the exact area.",
-            "Area pages include nearby links, practical planning copy, and contact actions.",
+            "Area pages include nearby links, practical service copy, and contact actions.",
             "Main service cards now open Chennai service pages first.",
           ].map((item) => (
             <div key={item} className="flex gap-3 rounded-lg border border-indigo-100 bg-indigo-50 p-5 text-sm font-semibold leading-6 text-slate-700">

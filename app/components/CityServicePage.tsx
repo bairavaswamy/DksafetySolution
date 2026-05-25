@@ -138,10 +138,10 @@ export default function CityServicePage({ service }: CityServicePageProps) {
       <section className="mx-auto grid max-w-7xl gap-8 px-4 py-14 lg:grid-cols-[0.7fr_0.3fr] lg:px-6">
         <article>
           <p className="text-sm font-bold uppercase tracking-[0.2em] text-sky-500">
-            Chennai Service Planning
+            Chennai Service Notes
           </p>
           <h2 className="mt-3 text-3xl font-black tracking-tight text-slate-950">
-            Built around site condition, not a fixed template
+            Built around site condition and daily use
           </h2>
           <div className="mt-5 space-y-5 text-[17px] leading-8 text-slate-700">
             <p>
@@ -155,7 +155,7 @@ export default function CityServicePage({ service }: CityServicePageProps) {
               The service visit should confirm where the protection starts and ends,
               how cleaning or maintenance will happen later, and whether the finish
               should stay low-profile from inside the home or from the building
-              exterior. That planning keeps the finished work useful after
+              exterior. That care keeps the finished work useful after
               installation, not just neat on the first day.
             </p>
           </div>

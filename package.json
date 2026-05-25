@@ -12,12 +12,10 @@
     "start": "next start",
     "export": "next build && next export",
     "lint": "next lint",
-    "analyze": "cross-env ANALYZE=true next build",
     "build:prod": "cross-env NODE_ENV=production next build"
   },
   "dependencies": {
     "@next/third-parties": "^16.2.1",
-    "framer-motion": "^12.38.0",
     "lucide-react": "^0.575.0",
     "next": "^13.5.11",
     "next-sitemap": "^4.2.3",
@@ -25,7 +23,6 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "^16.1.6",
     "@types/node": "25.2.3",
     "@types/react": "19.2.14",
     "autoprefixer": "^10",

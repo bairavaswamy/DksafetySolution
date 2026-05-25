@@ -1,11 +1,14 @@
 import type { ReactNode } from "react";
-import { getManualServicePaths } from "../content/manualPageRegistry";
 
 type CityLayoutProps = {
   children: ReactNode;
 };
 
-export const dynamicParams = true;
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return [{ city: "chennai" }];
+}
 
 export default function CityLayout({ children }: CityLayoutProps) {
   return children;

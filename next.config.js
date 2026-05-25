@@ -2,7 +2,8 @@
 
 const nextConfig = {
   reactStrictMode: true,
-  output: "export",
+  output: process.env.NODE_ENV === "production" ? "export" : undefined,
+  staticPageGenerationTimeout: 180,
   images: {
     unoptimized: true,
   },
@@ -12,6 +13,13 @@ const nextConfig = {
       process.env.NODE_ENV === "production"
         ? { exclude: ["error", "warn"] }
         : false,
+  },
+  webpack: (config, { dev }) => {
+    if (!dev) {
+      config.cache = false;
+    }
+
+    return config;
   },
 };
 

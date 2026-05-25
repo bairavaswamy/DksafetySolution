@@ -97,7 +97,7 @@ export const siteConfig = {
     {
       title: "Bird Control",
       description:
-        "Neat balcony and utility-area protection planned for low maintenance living.",
+        "Neat balcony and utility-area protection made for low maintenance living.",
       image: "/images/services/anti-bird-nets/anti-bird-nets-area-card.webp",
       href: "/chennai/anti-bird-nets",
     },
@@ -118,7 +118,7 @@ export const siteConfig = {
     },
     {
       src: "/images/site/chennai-about-installation-team.webp",
-      title: "Measurement and Anchor Planning",
+      title: "Measurement and Anchor Check",
       alt: "Installation team checking anchor points for a Chennai safety net project",
       category: "Site Visit",
     },
@@ -143,7 +143,7 @@ export const siteConfig = {
     {
       src: "/images/site/chennai-contact-site-visit.webp",
       title: "Contact and Site Visit",
-      alt: "Safety net quote planning with measurement notes and mesh sample",
+      alt: "Safety net quote with measurement notes and mesh sample",
       category: "Contact",
     },
   ],
@@ -166,7 +166,7 @@ export const siteConfig = {
       location: "Adyar",
       project: "Balcony safety nets",
       quote:
-        "The balcony safety net was planned around our railing gaps and cleaning access, so the space still feels open.",
+        "The balcony safety net was matched to our railing gaps and cleaning access, so the space still feels open.",
     },
     {
       name: "Anna Nagar Home Owner",

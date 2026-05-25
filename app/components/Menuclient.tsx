@@ -68,6 +68,14 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
               >
                 Request Quote
               </Link>
+              <Link
+                href={`${cityHref}/gated-communities`}
+                prefetch={false}
+                onClick={onClose}
+                className="block rounded-xl border border-sky-200 bg-white px-4 py-3 text-sm font-bold text-sky-700 shadow-sm transition hover:border-sky-300 hover:bg-sky-50"
+              >
+                Gated Communities
+              </Link>
               {standardLinks.map((link) => (
                 <Link
                   key={link.href}

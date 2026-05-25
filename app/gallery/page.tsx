@@ -83,7 +83,7 @@ export default function GalleryPage() {
         </h1>
         <p className="mx-auto mt-4 max-w-2xl text-lg leading-8 text-gray-600">
           A clean visual set for balcony protection, anchor details, service visits,
-          area planning, and connected Chennai safety services.
+          area notes, and connected Chennai safety services.
         </p>
       </section>
 

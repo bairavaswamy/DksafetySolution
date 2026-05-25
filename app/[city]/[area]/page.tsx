@@ -2,16 +2,22 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowRight, MapPin, Phone, ShieldCheck } from "lucide-react";
+import { ArrowRight, Building2, MapPin, Phone, ShieldCheck } from "lucide-react";
 import CityServicePage from "../../components/CityServicePage";
 import { chennaiConfig } from "../../config/chennai.config";
 import {
   getBreadcrumbListSchema,
   getGraphSchema,
+  getItemListSchema,
   getWebPageSchema,
   stringifySchema,
 } from "../../config/schema.config";
 import { absoluteUrl, siteConfig } from "../../config/site.config";
+import {
+  gatedCommunities,
+  gatedCommunityServices,
+  getGatedCommunity,
+} from "../../content/gatedCommunityServicePages";
 import {
   getAreaBySlug,
   getServiceBySlug,
@@ -26,6 +32,8 @@ type AreaPageProps = {
   };
 };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return [
     ...chennaiConfig.areas.map((area) => ({
@@ -36,14 +44,19 @@ export function generateStaticParams() {
       city: chennaiConfig.citySlug,
       area: service.slug,
     })),
+    ...gatedCommunities.map((community) => ({
+      city: chennaiConfig.citySlug,
+      area: community.slug,
+    })),
   ];
 }
 
 export function generateMetadata({ params }: AreaPageProps): Metadata {
   const area = getAreaBySlug(params.area);
   const service = getServiceBySlug(params.area);
+  const community = getGatedCommunity(params.area);
 
-  if (params.city !== chennaiConfig.citySlug || (!area && !service)) {
+  if (params.city !== chennaiConfig.citySlug || (!area && !service && !community)) {
     return {
       title: "Page Not Found | DK Safety Solutions",
       description: "The requested Chennai service page could not be found.",
@@ -53,7 +66,7 @@ export function generateMetadata({ params }: AreaPageProps): Metadata {
   if (service) {
     const detail = getServiceDetail(service.slug);
     const title = `${service.name} in Chennai | DK Safety Solutions`;
-    const description = `${detail.shortBenefit} Chennai service planning for homes, apartments, communities, terraces, utility spaces, and open building edges.`;
+    const description = `${detail.shortBenefit} Chennai service checks for homes, apartments, communities, terraces, utility spaces, and open building edges.`;
 
     return {
       title,
@@ -76,6 +89,41 @@ export function generateMetadata({ params }: AreaPageProps): Metadata {
             alt: title,
           },
         ],
+      },
+    };
+  }
+
+  if (community) {
+    const title = `${community.name} Safety Services in Chennai | DK Safety Solutions`;
+    const description = `Choose balcony safety nets, pigeon safety nets, invisible grills, window safety nets, and anti bird nets for ${community.name}, ${community.locality}.`;
+
+    return {
+      title,
+      description,
+      alternates: {
+        canonical: absoluteUrl(`/${chennaiConfig.citySlug}/${community.slug}/`),
+      },
+      openGraph: {
+        title,
+        description,
+        url: absoluteUrl(`/${chennaiConfig.citySlug}/${community.slug}/`),
+        siteName: siteConfig.name,
+        locale: "en_IN",
+        type: "website",
+        images: [
+          {
+            url: absoluteUrl(chennaiConfig.areaImage),
+            width: 1200,
+            height: 630,
+            alt: title,
+          },
+        ],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title,
+        description,
+        images: [absoluteUrl(chennaiConfig.areaImage)],
       },
     };
   }
@@ -128,13 +176,122 @@ const getNearbyAreas = (areaSlug: string) => {
 export default function AreaPage({ params }: AreaPageProps) {
   const area = getAreaBySlug(params.area);
   const service = getServiceBySlug(params.area);
+  const community = getGatedCommunity(params.area);
 
-  if (params.city !== chennaiConfig.citySlug || (!area && !service)) {
+  if (params.city !== chennaiConfig.citySlug || (!area && !service && !community)) {
     notFound();
   }
 
   if (service) {
     return <CityServicePage service={service} />;
+  }
+
+  if (community) {
+    const pageUrl = absoluteUrl(`/${chennaiConfig.citySlug}/${community.slug}/`);
+    const jsonLd = getGraphSchema([
+      getWebPageSchema({
+        url: pageUrl,
+        name: `${community.name} Safety Services`,
+        description: community.homeMix,
+        image: absoluteUrl(chennaiConfig.areaImage),
+        type: "CollectionPage",
+      }),
+      getBreadcrumbListSchema([
+        { name: "Home", url: absoluteUrl("/") },
+        { name: "Chennai", url: absoluteUrl(`/${chennaiConfig.citySlug}/`) },
+        { name: "Gated Communities", url: absoluteUrl(`/${chennaiConfig.citySlug}/gated-communities/`) },
+        { name: community.name, url: pageUrl },
+      ]),
+      getItemListSchema({
+        url: pageUrl,
+        name: `${community.name} safety services`,
+        items: gatedCommunityServices.map((communityService) => ({
+          name: communityService.name,
+          url: absoluteUrl(
+            `/${chennaiConfig.citySlug}/${community.slug}/${communityService.slug}/`
+          ),
+          description: communityService.quietWin,
+        })),
+      }),
+    ]);
+
+    return (
+      <main className="bg-white text-slate-950">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: stringifySchema(jsonLd),
+          }}
+        />
+        <section className="relative overflow-hidden bg-slate-950 px-4 py-16 text-white lg:px-6">
+          <div className="mx-auto max-w-7xl">
+            <p className="text-sm font-black uppercase tracking-[0.22em] text-sky-300">
+              {community.locality} | {community.corridor}
+            </p>
+            <h1 className="mt-4 max-w-4xl text-4xl font-black leading-tight sm:text-5xl">
+              Safety services for {community.name}
+            </h1>
+            <p className="mt-5 max-w-3xl text-base leading-8 text-slate-200">
+              {community.homeMix}. Choose the service page below for community-specific checks,
+              access notes, images, FAQs, and quote details.
+            </p>
+            <div className="mt-7 flex flex-wrap gap-3">
+              <Link
+                href={`/${chennaiConfig.citySlug}/gated-communities`}
+                prefetch={false}
+                className="inline-flex items-center gap-2 rounded-full border border-white/20 px-5 py-3 text-sm font-bold text-white transition hover:bg-white/10"
+              >
+                All gated communities
+                <ArrowRight size={16} />
+              </Link>
+              <a
+                href={siteConfig.contact.phoneHref}
+                className="inline-flex items-center gap-2 rounded-full bg-sky-500 px-5 py-3 text-sm font-bold text-white transition hover:bg-sky-600"
+              >
+                <Phone size={16} />
+                Call for visit
+              </a>
+            </div>
+          </div>
+        </section>
+
+        <section className="mx-auto max-w-7xl px-4 py-14 lg:px-6">
+          <div className="rounded-lg border border-slate-200 bg-slate-50 p-5">
+            <Building2 className="text-sky-600" size={24} />
+            <p className="mt-3 text-sm font-bold uppercase tracking-[0.18em] text-sky-700">
+              Community Details
+            </p>
+            <p className="mt-2 text-lg font-black text-slate-950">{community.addressNote}</p>
+            <p className="mt-3 text-sm leading-7 text-slate-600">{community.accessNote}</p>
+          </div>
+
+          <div className="mt-8 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
+            {gatedCommunityServices.map((communityService) => (
+              <Link
+                key={communityService.slug}
+                href={`/${chennaiConfig.citySlug}/${community.slug}/${communityService.slug}`}
+                prefetch={false}
+                className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-sky-300 hover:shadow-md"
+              >
+                <p className="text-xs font-black uppercase tracking-[0.18em] text-sky-600">
+                  {community.locality}
+                </p>
+                <h2 className="mt-2 text-2xl font-black text-slate-950">
+                  {communityService.name}
+                </h2>
+                <p className="mt-3 text-sm leading-7 text-slate-600">
+                  {communityService.quietWin}
+                </p>
+                <span className="mt-5 inline-flex items-center gap-2 text-sm font-bold text-sky-700">
+                  Open service page
+                  <ArrowRight size={16} className="transition group-hover:translate-x-1" />
+                </span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      </main>
+    );
   }
 
   if (!area) {
@@ -219,7 +376,7 @@ export default function AreaPage({ params }: AreaPageProps) {
             <h2 className="mt-4 text-2xl font-black">{area.name} service hub</h2>
             <p className="mt-3 text-sm leading-7 text-slate-100">
               Each card below opens a direct service page for {area.name}, with
-              area-specific planning, nearby links, and contact actions.
+              area-specific checks, nearby links, and contact actions.
             </p>
             <Link
               href={`/${chennaiConfig.citySlug}/${area.slug}/${firstService.slug}`}

@@ -7,7 +7,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Adyar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Adyar, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Adyar, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Adyar",
         "window safety nets Adyar Chennai",
@@ -16,13 +16,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Adyar Chennai",
-      "openGraphDescription": "A manual Adyar guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Adyar notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Adyar Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Adyar, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Adyar, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Adyar Chennai window safety nets",
-      "title": "Window Safety Nets in Adyar planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Adyar made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Adyar customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Adyar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Adyar",
@@ -32,12 +32,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Adyar",
         "label": "Area Site Focus",
-        "description": "Written for Adyar conditions, including older apartments, family homes, visible balcony fronts, and association expectations, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Adyar conditions, including older apartments, family homes, visible balcony fronts, and association expectations, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -91,12 +91,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Adyar, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Adyar, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -132,7 +132,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Adyar space easier to manage."
+          "Window Safety Nets in Adyar should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -224,7 +224,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Alandur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Alandur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Alandur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Alandur",
         "window safety nets Alandur Chennai",
@@ -233,13 +233,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Alandur Chennai",
-      "openGraphDescription": "A manual Alandur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Alandur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Alandur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Alandur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Alandur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Alandur Chennai window safety nets",
-      "title": "Window Safety Nets in Alandur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Alandur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Alandur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Alandur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Alandur",
@@ -249,12 +249,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Alandur",
         "label": "Area Site Focus",
-        "description": "Written for Alandur conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Alandur conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -308,12 +308,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Alandur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Alandur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -349,7 +349,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Alandur space easier to manage."
+          "For Alandur, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -441,7 +441,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Ambattur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Ambattur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Ambattur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Ambattur",
         "window safety nets Ambattur Chennai",
@@ -450,13 +450,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Ambattur Chennai",
-      "openGraphDescription": "A manual Ambattur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Ambattur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Ambattur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Ambattur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Ambattur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Ambattur Chennai window safety nets",
-      "title": "Window Safety Nets in Ambattur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Ambattur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Ambattur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Ambattur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Ambattur",
@@ -466,12 +466,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Ambattur",
         "label": "Area Site Focus",
-        "description": "Written for Ambattur conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Ambattur conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -525,12 +525,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Ambattur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Ambattur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -566,7 +566,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Ambattur space easier to manage."
+          "After the Ambattur installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -658,7 +658,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Aminjikarai Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Aminjikarai, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Aminjikarai, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Aminjikarai",
         "window safety nets Aminjikarai Chennai",
@@ -667,13 +667,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Aminjikarai Chennai",
-      "openGraphDescription": "A manual Aminjikarai guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Aminjikarai notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Aminjikarai Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Aminjikarai, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Aminjikarai, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Aminjikarai Chennai window safety nets",
-      "title": "Window Safety Nets in Aminjikarai planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Aminjikarai made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Aminjikarai customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Aminjikarai plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Aminjikarai",
@@ -683,12 +683,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Aminjikarai",
         "label": "Area Site Focus",
-        "description": "Written for Aminjikarai conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Aminjikarai conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -700,7 +700,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Aminjikarai sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Aminjikarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Aminjikarai homes often need careful access planning, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Aminjikarai homes often need careful access details, clean edge lines, dust control, and fixing choices that respect older walls and modified balcony fronts. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Aminjikarai, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -742,12 +742,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Aminjikarai, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Aminjikarai, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -783,7 +783,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Aminjikarai space easier to manage."
+          "After the Aminjikarai installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -875,7 +875,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Anna Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Anna Nagar, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Anna Nagar, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Anna Nagar",
         "window safety nets Anna Nagar Chennai",
@@ -884,13 +884,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Anna Nagar Chennai",
-      "openGraphDescription": "A manual Anna Nagar guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Anna Nagar notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Anna Nagar Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Anna Nagar, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Anna Nagar, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Anna Nagar Chennai window safety nets",
-      "title": "Window Safety Nets in Anna Nagar planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Anna Nagar made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Anna Nagar customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Anna Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Anna Nagar",
@@ -900,12 +900,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Anna Nagar",
         "label": "Area Site Focus",
-        "description": "Written for Anna Nagar conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Anna Nagar conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -917,7 +917,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Anna Nagar sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Anna Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Anna Nagar service pages should emphasize neat finish, straight visible lines, child-safe planning, and association-friendly installation for well-kept apartment fronts. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Anna Nagar service pages should emphasize neat finish, straight visible lines, child-safe checks, and association-friendly installation for well-kept apartment fronts. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Anna Nagar, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -959,12 +959,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Anna Nagar, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Anna Nagar, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -1000,7 +1000,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Anna Nagar space easier to manage."
+          "After the Anna Nagar installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -1091,7 +1091,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Arumbakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Arumbakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Arumbakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Arumbakkam",
         "window safety nets Arumbakkam Chennai",
@@ -1100,13 +1100,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Arumbakkam Chennai",
-      "openGraphDescription": "A manual Arumbakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Arumbakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Arumbakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Arumbakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Arumbakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Arumbakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Arumbakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Arumbakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Arumbakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Arumbakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Arumbakkam",
@@ -1116,12 +1116,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Arumbakkam",
         "label": "Area Site Focus",
-        "description": "Written for Arumbakkam conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Arumbakkam conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -1175,12 +1175,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Arumbakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Arumbakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -1216,7 +1216,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Arumbakkam space easier to manage."
+          "The Arumbakkam setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -1308,7 +1308,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Ashok Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Ashok Nagar, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Ashok Nagar, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Ashok Nagar",
         "window safety nets Ashok Nagar Chennai",
@@ -1317,13 +1317,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Ashok Nagar Chennai",
-      "openGraphDescription": "A manual Ashok Nagar guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Ashok Nagar notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Ashok Nagar Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Ashok Nagar, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Ashok Nagar, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Ashok Nagar Chennai window safety nets",
-      "title": "Window Safety Nets in Ashok Nagar planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Ashok Nagar made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Ashok Nagar customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Ashok Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Ashok Nagar",
@@ -1333,12 +1333,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Ashok Nagar",
         "label": "Area Site Focus",
-        "description": "Written for Ashok Nagar conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Ashok Nagar conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -1392,12 +1392,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Ashok Nagar, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Ashok Nagar, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -1433,7 +1433,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Ashok Nagar space easier to manage."
+          "Window Safety Nets in Ashok Nagar should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -1524,7 +1524,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Avadi Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Avadi, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Avadi, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Avadi",
         "window safety nets Avadi Chennai",
@@ -1533,13 +1533,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Avadi Chennai",
-      "openGraphDescription": "A manual Avadi guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Avadi notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Avadi Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Avadi, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Avadi, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Avadi Chennai window safety nets",
-      "title": "Window Safety Nets in Avadi planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Avadi made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Avadi customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Avadi plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Avadi",
@@ -1549,12 +1549,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Avadi",
         "label": "Area Site Focus",
-        "description": "Written for Avadi conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Avadi conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -1608,12 +1608,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Avadi, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Avadi, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -1649,7 +1649,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Avadi space easier to manage."
+          "For Avadi, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -1741,7 +1741,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Besant Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Besant Nagar, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Besant Nagar, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Besant Nagar",
         "window safety nets Besant Nagar Chennai",
@@ -1750,13 +1750,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Besant Nagar Chennai",
-      "openGraphDescription": "A manual Besant Nagar guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Besant Nagar notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Besant Nagar Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Besant Nagar, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Besant Nagar, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Besant Nagar Chennai window safety nets",
-      "title": "Window Safety Nets in Besant Nagar planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Besant Nagar made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Besant Nagar customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Besant Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Besant Nagar",
@@ -1766,12 +1766,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Besant Nagar",
         "label": "Area Site Focus",
-        "description": "Written for Besant Nagar conditions, including older apartments, family homes, visible balcony fronts, and association expectations, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Besant Nagar conditions, including older apartments, family homes, visible balcony fronts, and association expectations, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -1783,7 +1783,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Besant Nagar sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Besant Nagar should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety planning for balconies that face breeze, sand, and humidity. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Besant Nagar needs coastal durability, neat low-visual-noise finishing, salt-air aware materials, and safety checks for balconies that face breeze, sand, and humidity. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Besant Nagar, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -1825,12 +1825,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Besant Nagar, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Besant Nagar, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -1866,7 +1866,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Besant Nagar space easier to manage."
+          "For Besant Nagar, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -1957,7 +1957,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Chetpet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Chetpet, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Chetpet, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Chetpet",
         "window safety nets Chetpet Chennai",
@@ -1966,13 +1966,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Chetpet Chennai",
-      "openGraphDescription": "A manual Chetpet guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Chetpet notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Chetpet Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Chetpet, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Chetpet, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Chetpet Chennai window safety nets",
-      "title": "Window Safety Nets in Chetpet planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Chetpet made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Chetpet customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Chetpet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Chetpet",
@@ -1982,12 +1982,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Chetpet",
         "label": "Area Site Focus",
-        "description": "Written for Chetpet conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Chetpet conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -2041,12 +2041,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Chetpet, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Chetpet, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -2082,7 +2082,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Chetpet space easier to manage."
+          "For Chetpet, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -2174,7 +2174,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Choolaimedu Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Choolaimedu, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Choolaimedu, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Choolaimedu",
         "window safety nets Choolaimedu Chennai",
@@ -2183,13 +2183,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Choolaimedu Chennai",
-      "openGraphDescription": "A manual Choolaimedu guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Choolaimedu notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Choolaimedu Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Choolaimedu, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Choolaimedu, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Choolaimedu Chennai window safety nets",
-      "title": "Window Safety Nets in Choolaimedu planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Choolaimedu made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Choolaimedu customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Choolaimedu plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Choolaimedu",
@@ -2199,12 +2199,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Choolaimedu",
         "label": "Area Site Focus",
-        "description": "Written for Choolaimedu conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Choolaimedu conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -2216,7 +2216,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Choolaimedu sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Choolaimedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Choolaimedu pages should focus on practical installation, renter-friendly planning, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Choolaimedu pages should focus on practical installation, renter-friendly checks, dust and pigeon prevention, and clear quotes for compact balcony and window openings. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Choolaimedu, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -2258,12 +2258,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Choolaimedu, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Choolaimedu, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -2299,7 +2299,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Choolaimedu space easier to manage."
+          "Window Safety Nets in Choolaimedu should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -2391,7 +2391,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Chromepet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Chromepet, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Chromepet, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Chromepet",
         "window safety nets Chromepet Chennai",
@@ -2400,13 +2400,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Chromepet Chennai",
-      "openGraphDescription": "A manual Chromepet guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Chromepet notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Chromepet Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Chromepet, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Chromepet, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Chromepet Chennai window safety nets",
-      "title": "Window Safety Nets in Chromepet planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Chromepet made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Chromepet customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Chromepet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Chromepet",
@@ -2416,12 +2416,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Chromepet",
         "label": "Area Site Focus",
-        "description": "Written for Chromepet conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Chromepet conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -2475,12 +2475,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Chromepet, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Chromepet, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -2516,7 +2516,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Chromepet space easier to manage."
+          "For Chromepet, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -2608,7 +2608,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Egmore Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Egmore, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Egmore, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Egmore",
         "window safety nets Egmore Chennai",
@@ -2617,13 +2617,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Egmore Chennai",
-      "openGraphDescription": "A manual Egmore guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Egmore notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Egmore Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Egmore, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Egmore, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Egmore Chennai window safety nets",
-      "title": "Window Safety Nets in Egmore planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Egmore made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Egmore customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Egmore plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Egmore",
@@ -2633,12 +2633,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Egmore",
         "label": "Area Site Focus",
-        "description": "Written for Egmore conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Egmore conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -2692,12 +2692,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Egmore, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Egmore, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -2733,7 +2733,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Egmore space easier to manage."
+          "After the Egmore installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -2825,7 +2825,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Guindy Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Guindy, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Guindy, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Guindy",
         "window safety nets Guindy Chennai",
@@ -2834,13 +2834,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Guindy Chennai",
-      "openGraphDescription": "A manual Guindy guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Guindy notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Guindy Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Guindy, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Guindy, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Guindy Chennai window safety nets",
-      "title": "Window Safety Nets in Guindy planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Guindy made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Guindy customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Guindy plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Guindy",
@@ -2850,12 +2850,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Guindy",
         "label": "Area Site Focus",
-        "description": "Written for Guindy conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Guindy conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -2909,12 +2909,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Guindy, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Guindy, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -2950,7 +2950,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Guindy space easier to manage."
+          "The Guindy setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -3042,7 +3042,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Injambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Injambakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Injambakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Injambakkam",
         "window safety nets Injambakkam Chennai",
@@ -3051,13 +3051,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Injambakkam Chennai",
-      "openGraphDescription": "A manual Injambakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Injambakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Injambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Injambakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Injambakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Injambakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Injambakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Injambakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Injambakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Injambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Injambakkam",
@@ -3067,12 +3067,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Injambakkam",
         "label": "Area Site Focus",
-        "description": "Written for Injambakkam conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Injambakkam conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -3126,12 +3126,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Injambakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Injambakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -3167,7 +3167,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Injambakkam space easier to manage."
+          "Window Safety Nets in Injambakkam should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -3259,7 +3259,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in K K Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in K K Nagar, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in K K Nagar, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in K K Nagar",
         "window safety nets K K Nagar Chennai",
@@ -3268,13 +3268,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in K K Nagar Chennai",
-      "openGraphDescription": "A manual K K Nagar guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed K K Nagar notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in K K Nagar Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in K K Nagar, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in K K Nagar, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "K K Nagar Chennai window safety nets",
-      "title": "Window Safety Nets in K K Nagar planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in K K Nagar made for cleaner use, safer edges, and dependable area installation.",
       "lead": "K K Nagar customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good K K Nagar plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in K K Nagar",
@@ -3284,12 +3284,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "K K Nagar",
         "label": "Area Site Focus",
-        "description": "Written for K K Nagar conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for K K Nagar conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -3343,12 +3343,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In K K Nagar, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In K K Nagar, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -3384,7 +3384,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the K K Nagar space easier to manage."
+          "For K K Nagar, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -3474,7 +3474,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Kandanchavadi Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Kandanchavadi, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Kandanchavadi, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Kandanchavadi",
         "window safety nets Kandanchavadi Chennai",
@@ -3483,13 +3483,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Kandanchavadi Chennai",
-      "openGraphDescription": "A manual Kandanchavadi guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Kandanchavadi notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Kandanchavadi Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Kandanchavadi, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Kandanchavadi, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Kandanchavadi Chennai window safety nets",
-      "title": "Window Safety Nets in Kandanchavadi planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Kandanchavadi made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Kandanchavadi customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Kandanchavadi plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Kandanchavadi",
@@ -3499,12 +3499,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Kandanchavadi",
         "label": "Area Site Focus",
-        "description": "Written for Kandanchavadi conditions, including older apartments, family homes, visible balcony fronts, and association expectations, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Kandanchavadi conditions, including older apartments, family homes, visible balcony fronts, and association expectations, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -3558,12 +3558,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Kandanchavadi, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Kandanchavadi, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -3599,7 +3599,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Kandanchavadi space easier to manage."
+          "Window Safety Nets in Kandanchavadi should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -3691,7 +3691,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Karapakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Karapakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Karapakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Karapakkam",
         "window safety nets Karapakkam Chennai",
@@ -3700,13 +3700,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Karapakkam Chennai",
-      "openGraphDescription": "A manual Karapakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Karapakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Karapakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Karapakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Karapakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Karapakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Karapakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Karapakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Karapakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Karapakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Karapakkam",
@@ -3716,12 +3716,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Karapakkam",
         "label": "Area Site Focus",
-        "description": "Written for Karapakkam conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Karapakkam conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -3733,7 +3733,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Karapakkam sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Karapakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in planning, and durable finishes for newer residential towers. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Karapakkam installations should highlight height-aware fixing, clean facade lines, child-safe move-in checks, and durable finishes for newer residential towers. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Karapakkam, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -3775,12 +3775,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Karapakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Karapakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -3816,7 +3816,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Karapakkam space easier to manage."
+          "The Karapakkam setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -3908,7 +3908,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Kelambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Kelambakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Kelambakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Kelambakkam",
         "window safety nets Kelambakkam Chennai",
@@ -3917,13 +3917,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Kelambakkam Chennai",
-      "openGraphDescription": "A manual Kelambakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Kelambakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Kelambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Kelambakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Kelambakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Kelambakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Kelambakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Kelambakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Kelambakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Kelambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Kelambakkam",
@@ -3933,12 +3933,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Kelambakkam",
         "label": "Area Site Focus",
-        "description": "Written for Kelambakkam conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Kelambakkam conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -3950,7 +3950,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Kelambakkam sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Kelambakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout planning and durable exposed materials. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Kelambakkam projects often connect balcony, terrace, pet, pool, and sports safety, so entries should explain broader home-layout checks and durable exposed materials. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Kelambakkam, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -3992,12 +3992,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Kelambakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Kelambakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -4033,7 +4033,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Kelambakkam space easier to manage."
+          "Window Safety Nets in Kelambakkam should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -4125,7 +4125,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Kilpauk Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Kilpauk, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Kilpauk, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Kilpauk",
         "window safety nets Kilpauk Chennai",
@@ -4134,13 +4134,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Kilpauk Chennai",
-      "openGraphDescription": "A manual Kilpauk guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Kilpauk notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Kilpauk Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Kilpauk, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Kilpauk, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Kilpauk Chennai window safety nets",
-      "title": "Window Safety Nets in Kilpauk planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Kilpauk made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Kilpauk customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Kilpauk plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Kilpauk",
@@ -4150,12 +4150,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Kilpauk",
         "label": "Area Site Focus",
-        "description": "Written for Kilpauk conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Kilpauk conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -4167,7 +4167,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Kilpauk sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Kilpauk should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety planning for established residences that expect tidy work. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Kilpauk work should combine discreet finishing, careful drilling, clean site behavior, and safety checks for established residences that expect tidy work. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Kilpauk, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -4209,12 +4209,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Kilpauk, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Kilpauk, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -4250,7 +4250,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Kilpauk space easier to manage."
+          "After the Kilpauk installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -4342,7 +4342,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Kodambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Kodambakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Kodambakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Kodambakkam",
         "window safety nets Kodambakkam Chennai",
@@ -4351,13 +4351,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Kodambakkam Chennai",
-      "openGraphDescription": "A manual Kodambakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Kodambakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Kodambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Kodambakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Kodambakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Kodambakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Kodambakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Kodambakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Kodambakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Kodambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Kodambakkam",
@@ -4367,12 +4367,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Kodambakkam",
         "label": "Area Site Focus",
-        "description": "Written for Kodambakkam conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Kodambakkam conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -4426,12 +4426,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Kodambakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Kodambakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -4467,7 +4467,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Kodambakkam space easier to manage."
+          "The Kodambakkam setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -4559,7 +4559,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Kolathur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Kolathur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Kolathur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Kolathur",
         "window safety nets Kolathur Chennai",
@@ -4568,13 +4568,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Kolathur Chennai",
-      "openGraphDescription": "A manual Kolathur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Kolathur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Kolathur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Kolathur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Kolathur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Kolathur Chennai window safety nets",
-      "title": "Window Safety Nets in Kolathur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Kolathur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Kolathur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Kolathur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Kolathur",
@@ -4584,12 +4584,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Kolathur",
         "label": "Area Site Focus",
-        "description": "Written for Kolathur conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Kolathur conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -4643,12 +4643,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Kolathur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Kolathur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -4684,7 +4684,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Kolathur space easier to manage."
+          "Window Safety Nets in Kolathur should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -4776,7 +4776,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Korattur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Korattur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Korattur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Korattur",
         "window safety nets Korattur Chennai",
@@ -4785,13 +4785,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Korattur Chennai",
-      "openGraphDescription": "A manual Korattur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Korattur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Korattur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Korattur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Korattur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Korattur Chennai window safety nets",
-      "title": "Window Safety Nets in Korattur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Korattur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Korattur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Korattur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Korattur",
@@ -4801,12 +4801,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Korattur",
         "label": "Area Site Focus",
-        "description": "Written for Korattur conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Korattur conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -4818,7 +4818,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Korattur sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Korattur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Korattur work benefits from weather-aware planning, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Korattur work benefits from weather-aware checks, bird route checks, and sturdy fixing for mixed homes where open edges and utility areas see regular use. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Korattur, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -4860,12 +4860,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Korattur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Korattur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -4901,7 +4901,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Korattur space easier to manage."
+          "After the Korattur installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -4993,7 +4993,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Kottivakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Kottivakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Kottivakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Kottivakkam",
         "window safety nets Kottivakkam Chennai",
@@ -5002,13 +5002,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Kottivakkam Chennai",
-      "openGraphDescription": "A manual Kottivakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Kottivakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Kottivakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Kottivakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Kottivakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Kottivakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Kottivakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Kottivakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Kottivakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Kottivakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Kottivakkam",
@@ -5018,12 +5018,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Kottivakkam",
         "label": "Area Site Focus",
-        "description": "Written for Kottivakkam conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Kottivakkam conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -5077,12 +5077,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Kottivakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Kottivakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -5118,7 +5118,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Kottivakkam space easier to manage."
+          "After the Kottivakkam installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -5210,7 +5210,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Koyambedu Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Koyambedu, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Koyambedu, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Koyambedu",
         "window safety nets Koyambedu Chennai",
@@ -5219,13 +5219,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Koyambedu Chennai",
-      "openGraphDescription": "A manual Koyambedu guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Koyambedu notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Koyambedu Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Koyambedu, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Koyambedu, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Koyambedu Chennai window safety nets",
-      "title": "Window Safety Nets in Koyambedu planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Koyambedu made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Koyambedu customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Koyambedu plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Koyambedu",
@@ -5235,12 +5235,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Koyambedu",
         "label": "Area Site Focus",
-        "description": "Written for Koyambedu conditions, including older apartments, family homes, visible balcony fronts, and association expectations, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Koyambedu conditions, including older apartments, family homes, visible balcony fronts, and association expectations, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -5252,7 +5252,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Koyambedu sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Koyambedu should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Koyambedu jobs need practical timing, compact access planning, dust control, and strong low-maintenance materials for homes near active road and market movement. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Koyambedu jobs need practical timing, compact access details, dust control, and strong low-maintenance materials for homes near active road and market movement. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Koyambedu, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -5294,12 +5294,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Koyambedu, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Koyambedu, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -5335,7 +5335,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Koyambedu space easier to manage."
+          "Window Safety Nets in Koyambedu should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -5427,7 +5427,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Madipakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Madipakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Madipakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Madipakkam",
         "window safety nets Madipakkam Chennai",
@@ -5436,13 +5436,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Madipakkam Chennai",
-      "openGraphDescription": "A manual Madipakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Madipakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Madipakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Madipakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Madipakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Madipakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Madipakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Madipakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Madipakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Madipakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Madipakkam",
@@ -5452,12 +5452,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Madipakkam",
         "label": "Area Site Focus",
-        "description": "Written for Madipakkam conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Madipakkam conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -5511,12 +5511,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Madipakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Madipakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -5552,7 +5552,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Madipakkam space easier to manage."
+          "The Madipakkam setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -5644,7 +5644,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Madhavaram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Madhavaram, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Madhavaram, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Madhavaram",
         "window safety nets Madhavaram Chennai",
@@ -5653,13 +5653,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Madhavaram Chennai",
-      "openGraphDescription": "A manual Madhavaram guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Madhavaram notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Madhavaram Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Madhavaram, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Madhavaram, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Madhavaram Chennai window safety nets",
-      "title": "Window Safety Nets in Madhavaram planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Madhavaram made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Madhavaram customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Madhavaram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Madhavaram",
@@ -5669,12 +5669,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Madhavaram",
         "label": "Area Site Focus",
-        "description": "Written for Madhavaram conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Madhavaram conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -5728,12 +5728,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Madhavaram, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Madhavaram, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -5769,7 +5769,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Madhavaram space easier to manage."
+          "For Madhavaram, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -5861,7 +5861,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Medavakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Medavakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Medavakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Medavakkam",
         "window safety nets Medavakkam Chennai",
@@ -5870,13 +5870,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Medavakkam Chennai",
-      "openGraphDescription": "A manual Medavakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Medavakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Medavakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Medavakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Medavakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Medavakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Medavakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Medavakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Medavakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Medavakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Medavakkam",
@@ -5886,12 +5886,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Medavakkam",
         "label": "Area Site Focus",
-        "description": "Written for Medavakkam conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Medavakkam conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -5945,12 +5945,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Medavakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Medavakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -5986,7 +5986,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Medavakkam space easier to manage."
+          "Window Safety Nets in Medavakkam should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -6079,7 +6079,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Mogappair Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Mogappair, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Mogappair, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Mogappair",
         "window safety nets Mogappair Chennai",
@@ -6088,13 +6088,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Mogappair Chennai",
-      "openGraphDescription": "A manual Mogappair guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Mogappair notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Mogappair Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Mogappair, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Mogappair, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Mogappair Chennai window safety nets",
-      "title": "Window Safety Nets in Mogappair planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Mogappair made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Mogappair customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Mogappair plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Mogappair",
@@ -6104,12 +6104,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Mogappair",
         "label": "Area Site Focus",
-        "description": "Written for Mogappair conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Mogappair conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -6163,12 +6163,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Mogappair, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Mogappair, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -6204,7 +6204,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Mogappair space easier to manage."
+          "Window Safety Nets in Mogappair should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -6296,7 +6296,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Mugalivakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Mugalivakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Mugalivakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Mugalivakkam",
         "window safety nets Mugalivakkam Chennai",
@@ -6305,13 +6305,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Mugalivakkam Chennai",
-      "openGraphDescription": "A manual Mugalivakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Mugalivakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Mugalivakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Mugalivakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Mugalivakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Mugalivakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Mugalivakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Mugalivakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Mugalivakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Mugalivakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Mugalivakkam",
@@ -6321,12 +6321,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Mugalivakkam",
         "label": "Area Site Focus",
-        "description": "Written for Mugalivakkam conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Mugalivakkam conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -6338,7 +6338,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mugalivakkam sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Mugalivakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Mugalivakkam jobs need flexible planning for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Mugalivakkam jobs need flexible checks for apartments and independent homes, with clear measurement, strong anchors, and practical scheduling around family routines. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Mugalivakkam, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -6380,12 +6380,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Mugalivakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Mugalivakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -6421,7 +6421,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Mugalivakkam space easier to manage."
+          "Window Safety Nets in Mugalivakkam should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -6513,7 +6513,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Mylapore Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Mylapore, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Mylapore, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Mylapore",
         "window safety nets Mylapore Chennai",
@@ -6522,13 +6522,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Mylapore Chennai",
-      "openGraphDescription": "A manual Mylapore guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Mylapore notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Mylapore Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Mylapore, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Mylapore, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Mylapore Chennai window safety nets",
-      "title": "Window Safety Nets in Mylapore planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Mylapore made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Mylapore customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Mylapore plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Mylapore",
@@ -6538,12 +6538,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Mylapore",
         "label": "Area Site Focus",
-        "description": "Written for Mylapore conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Mylapore conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -6597,12 +6597,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Mylapore, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Mylapore, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -6638,7 +6638,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Mylapore space easier to manage."
+          "After the Mylapore installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -6730,7 +6730,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Nanganallur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Nanganallur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Nanganallur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Nanganallur",
         "window safety nets Nanganallur Chennai",
@@ -6739,13 +6739,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Nanganallur Chennai",
-      "openGraphDescription": "A manual Nanganallur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Nanganallur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Nanganallur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Nanganallur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Nanganallur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Nanganallur Chennai window safety nets",
-      "title": "Window Safety Nets in Nanganallur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Nanganallur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Nanganallur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Nanganallur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Nanganallur",
@@ -6755,12 +6755,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Nanganallur",
         "label": "Area Site Focus",
-        "description": "Written for Nanganallur conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Nanganallur conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -6814,12 +6814,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Nanganallur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Nanganallur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -6855,7 +6855,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Nanganallur space easier to manage."
+          "After the Nanganallur installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -6947,7 +6947,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Navalur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Navalur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Navalur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Navalur",
         "window safety nets Navalur Chennai",
@@ -6956,13 +6956,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Navalur Chennai",
-      "openGraphDescription": "A manual Navalur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Navalur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Navalur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Navalur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Navalur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Navalur Chennai window safety nets",
-      "title": "Window Safety Nets in Navalur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Navalur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Navalur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Navalur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Navalur",
@@ -6972,12 +6972,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Navalur",
         "label": "Area Site Focus",
-        "description": "Written for Navalur conditions, including older apartments, family homes, visible balcony fronts, and association expectations, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Navalur conditions, including older apartments, family homes, visible balcony fronts, and association expectations, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -7031,12 +7031,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Navalur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Navalur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -7072,7 +7072,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Navalur space easier to manage."
+          "The Navalur setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -7164,7 +7164,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Neelankarai Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Neelankarai, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Neelankarai, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Neelankarai",
         "window safety nets Neelankarai Chennai",
@@ -7173,13 +7173,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Neelankarai Chennai",
-      "openGraphDescription": "A manual Neelankarai guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Neelankarai notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Neelankarai Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Neelankarai, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Neelankarai, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Neelankarai Chennai window safety nets",
-      "title": "Window Safety Nets in Neelankarai planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Neelankarai made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Neelankarai customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Neelankarai plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Neelankarai",
@@ -7189,12 +7189,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Neelankarai",
         "label": "Area Site Focus",
-        "description": "Written for Neelankarai conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Neelankarai conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -7206,7 +7206,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Neelankarai sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Neelankarai should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Neelankarai projects need coastal-grade planning, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Neelankarai projects need coastal-grade checks, neat open-view protection, pet and child safety, and durable fittings for sea-breeze exposure. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Neelankarai, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -7248,12 +7248,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Neelankarai, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Neelankarai, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -7289,7 +7289,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Neelankarai space easier to manage."
+          "For Neelankarai, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -7382,7 +7382,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Nungambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Nungambakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Nungambakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Nungambakkam",
         "window safety nets Nungambakkam Chennai",
@@ -7391,13 +7391,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Nungambakkam Chennai",
-      "openGraphDescription": "A manual Nungambakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Nungambakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Nungambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Nungambakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Nungambakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Nungambakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Nungambakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Nungambakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Nungambakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Nungambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Nungambakkam",
@@ -7407,12 +7407,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Nungambakkam",
         "label": "Area Site Focus",
-        "description": "Written for Nungambakkam conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Nungambakkam conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -7466,12 +7466,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Nungambakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Nungambakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -7507,7 +7507,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Nungambakkam space easier to manage."
+          "After the Nungambakkam installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -7600,7 +7600,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Pallavaram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Pallavaram, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Pallavaram, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Pallavaram",
         "window safety nets Pallavaram Chennai",
@@ -7609,13 +7609,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Pallavaram Chennai",
-      "openGraphDescription": "A manual Pallavaram guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Pallavaram notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Pallavaram Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Pallavaram, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Pallavaram, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Pallavaram Chennai window safety nets",
-      "title": "Window Safety Nets in Pallavaram planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Pallavaram made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Pallavaram customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Pallavaram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Pallavaram",
@@ -7625,12 +7625,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Pallavaram",
         "label": "Area Site Focus",
-        "description": "Written for Pallavaram conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Pallavaram conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -7684,12 +7684,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Pallavaram, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Pallavaram, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -7725,7 +7725,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Pallavaram space easier to manage."
+          "Window Safety Nets in Pallavaram should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -7817,7 +7817,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Pallikaranai Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Pallikaranai, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Pallikaranai, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Pallikaranai",
         "window safety nets Pallikaranai Chennai",
@@ -7826,13 +7826,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Pallikaranai Chennai",
-      "openGraphDescription": "A manual Pallikaranai guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Pallikaranai notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Pallikaranai Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Pallikaranai, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Pallikaranai, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Pallikaranai Chennai window safety nets",
-      "title": "Window Safety Nets in Pallikaranai planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Pallikaranai made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Pallikaranai customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Pallikaranai plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Pallikaranai",
@@ -7842,12 +7842,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Pallikaranai",
         "label": "Area Site Focus",
-        "description": "Written for Pallikaranai conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Pallikaranai conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -7901,12 +7901,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Pallikaranai, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Pallikaranai, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -7942,7 +7942,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Pallikaranai space easier to manage."
+          "For Pallikaranai, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -8035,7 +8035,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Perambur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Perambur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Perambur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Perambur",
         "window safety nets Perambur Chennai",
@@ -8044,13 +8044,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Perambur Chennai",
-      "openGraphDescription": "A manual Perambur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Perambur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Perambur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Perambur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Perambur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Perambur Chennai window safety nets",
-      "title": "Window Safety Nets in Perambur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Perambur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Perambur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Perambur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Perambur",
@@ -8060,12 +8060,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Perambur",
         "label": "Area Site Focus",
-        "description": "Written for Perambur conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Perambur conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -8077,7 +8077,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Perambur sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Perambur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware planning for homes with compact balcony and window openings. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Perambur projects need clear pricing, sturdy materials, careful fixing, and dust-aware checks for homes with compact balcony and window openings. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Perambur, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -8119,12 +8119,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Perambur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Perambur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -8160,7 +8160,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Perambur space easier to manage."
+          "Window Safety Nets in Perambur should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -8252,7 +8252,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Perungudi Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Perungudi, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Perungudi, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Perungudi",
         "window safety nets Perungudi Chennai",
@@ -8261,13 +8261,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Perungudi Chennai",
-      "openGraphDescription": "A manual Perungudi guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Perungudi notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Perungudi Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Perungudi, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Perungudi, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Perungudi Chennai window safety nets",
-      "title": "Window Safety Nets in Perungudi planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Perungudi made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Perungudi customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Perungudi plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Perungudi",
@@ -8277,12 +8277,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Perungudi",
         "label": "Area Site Focus",
-        "description": "Written for Perungudi conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Perungudi conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -8336,12 +8336,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Perungudi, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Perungudi, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -8377,7 +8377,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Perungudi space easier to manage."
+          "The Perungudi setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -8469,7 +8469,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Poonamallee Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Poonamallee, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Poonamallee, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Poonamallee",
         "window safety nets Poonamallee Chennai",
@@ -8478,13 +8478,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Poonamallee Chennai",
-      "openGraphDescription": "A manual Poonamallee guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Poonamallee notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Poonamallee Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Poonamallee, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Poonamallee, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Poonamallee Chennai window safety nets",
-      "title": "Window Safety Nets in Poonamallee planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Poonamallee made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Poonamallee customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Poonamallee plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Poonamallee",
@@ -8494,12 +8494,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Poonamallee",
         "label": "Area Site Focus",
-        "description": "Written for Poonamallee conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Poonamallee conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -8553,12 +8553,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Poonamallee, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Poonamallee, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -8594,7 +8594,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Poonamallee space easier to manage."
+          "After the Poonamallee installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -8686,7 +8686,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Porur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Porur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Porur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Porur",
         "window safety nets Porur Chennai",
@@ -8695,13 +8695,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Porur Chennai",
-      "openGraphDescription": "A manual Porur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Porur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Porur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Porur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Porur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Porur Chennai window safety nets",
-      "title": "Window Safety Nets in Porur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Porur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Porur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Porur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Porur",
@@ -8711,12 +8711,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Porur",
         "label": "Area Site Focus",
-        "description": "Written for Porur conditions, including older apartments, family homes, visible balcony fronts, and association expectations, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Porur conditions, including older apartments, family homes, visible balcony fronts, and association expectations, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -8770,12 +8770,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Porur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Porur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -8811,7 +8811,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Porur space easier to manage."
+          "Window Safety Nets in Porur should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -8903,7 +8903,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Purasawalkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Purasawalkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Purasawalkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Purasawalkam",
         "window safety nets Purasawalkam Chennai",
@@ -8912,13 +8912,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Purasawalkam Chennai",
-      "openGraphDescription": "A manual Purasawalkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Purasawalkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Purasawalkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Purasawalkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Purasawalkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Purasawalkam Chennai window safety nets",
-      "title": "Window Safety Nets in Purasawalkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Purasawalkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Purasawalkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Purasawalkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Purasawalkam",
@@ -8928,12 +8928,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Purasawalkam",
         "label": "Area Site Focus",
-        "description": "Written for Purasawalkam conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Purasawalkam conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -8945,7 +8945,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Purasawalkam sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Purasawalkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control planning around busy central streets. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Purasawalkam jobs need careful access, older surface checks, clean finishing, and dust and bird-control checks around busy central streets. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Purasawalkam, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -8987,12 +8987,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Purasawalkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Purasawalkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -9028,7 +9028,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Purasawalkam space easier to manage."
+          "Window Safety Nets in Purasawalkam should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -9120,7 +9120,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Ramapuram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Ramapuram, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Ramapuram, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Ramapuram",
         "window safety nets Ramapuram Chennai",
@@ -9129,13 +9129,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Ramapuram Chennai",
-      "openGraphDescription": "A manual Ramapuram guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Ramapuram notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Ramapuram Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Ramapuram, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Ramapuram, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Ramapuram Chennai window safety nets",
-      "title": "Window Safety Nets in Ramapuram planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Ramapuram made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Ramapuram customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Ramapuram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Ramapuram",
@@ -9145,12 +9145,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Ramapuram",
         "label": "Area Site Focus",
-        "description": "Written for Ramapuram conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Ramapuram conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -9204,12 +9204,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Ramapuram, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Ramapuram, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -9245,7 +9245,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Ramapuram space easier to manage."
+          "The Ramapuram setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -9338,7 +9338,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Royapettah Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Royapettah, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Royapettah, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Royapettah",
         "window safety nets Royapettah Chennai",
@@ -9347,13 +9347,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Royapettah Chennai",
-      "openGraphDescription": "A manual Royapettah guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Royapettah notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Royapettah Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Royapettah, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Royapettah, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Royapettah Chennai window safety nets",
-      "title": "Window Safety Nets in Royapettah planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Royapettah made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Royapettah customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Royapettah plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Royapettah",
@@ -9363,12 +9363,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Royapettah",
         "label": "Area Site Focus",
-        "description": "Written for Royapettah conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Royapettah conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -9422,12 +9422,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Royapettah, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Royapettah, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -9463,7 +9463,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Royapettah space easier to manage."
+          "Window Safety Nets in Royapettah should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -9556,7 +9556,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Saidapet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Saidapet, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Saidapet, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Saidapet",
         "window safety nets Saidapet Chennai",
@@ -9565,13 +9565,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Saidapet Chennai",
-      "openGraphDescription": "A manual Saidapet guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Saidapet notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Saidapet Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Saidapet, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Saidapet, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Saidapet Chennai window safety nets",
-      "title": "Window Safety Nets in Saidapet planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Saidapet made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Saidapet customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Saidapet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Saidapet",
@@ -9581,12 +9581,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Saidapet",
         "label": "Area Site Focus",
-        "description": "Written for Saidapet conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Saidapet conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -9640,12 +9640,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Saidapet, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Saidapet, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -9681,7 +9681,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Saidapet space easier to manage."
+          "For Saidapet, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -9773,7 +9773,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Selaiyur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Selaiyur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Selaiyur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Selaiyur",
         "window safety nets Selaiyur Chennai",
@@ -9782,13 +9782,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Selaiyur Chennai",
-      "openGraphDescription": "A manual Selaiyur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Selaiyur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Selaiyur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Selaiyur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Selaiyur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Selaiyur Chennai window safety nets",
-      "title": "Window Safety Nets in Selaiyur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Selaiyur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Selaiyur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Selaiyur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Selaiyur",
@@ -9798,12 +9798,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Selaiyur",
         "label": "Area Site Focus",
-        "description": "Written for Selaiyur conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Selaiyur conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -9857,12 +9857,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Selaiyur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Selaiyur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -9898,7 +9898,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Selaiyur space easier to manage."
+          "Window Safety Nets in Selaiyur should be left to do one job: protect the opening. Avoid tying bags, extra ropes, planters, or heavy hangers to it. If another contractor moves a corner later, have it set back properly so the finish stays firm."
         ]
       }
     ],
@@ -9990,7 +9990,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Sholinganallur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Sholinganallur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Sholinganallur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Sholinganallur",
         "window safety nets Sholinganallur Chennai",
@@ -9999,13 +9999,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Sholinganallur Chennai",
-      "openGraphDescription": "A manual Sholinganallur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Sholinganallur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Sholinganallur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Sholinganallur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Sholinganallur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Sholinganallur Chennai window safety nets",
-      "title": "Window Safety Nets in Sholinganallur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Sholinganallur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Sholinganallur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Sholinganallur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Sholinganallur",
@@ -10015,12 +10015,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Sholinganallur",
         "label": "Area Site Focus",
-        "description": "Written for Sholinganallur conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Sholinganallur conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -10032,7 +10032,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Sholinganallur sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Sholinganallur should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety planning for children, pets, pigeons, and open utility edges. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Sholinganallur projects need height-aware fixing, clean facade finish, quick scheduling, and safety checks for children, pets, pigeons, and open utility edges. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Sholinganallur, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -10074,12 +10074,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Sholinganallur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Sholinganallur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -10115,7 +10115,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Sholinganallur space easier to manage."
+          "For Sholinganallur, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -10207,7 +10207,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Siruseri Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Siruseri, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Siruseri, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Siruseri",
         "window safety nets Siruseri Chennai",
@@ -10216,13 +10216,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Siruseri Chennai",
-      "openGraphDescription": "A manual Siruseri guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Siruseri notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Siruseri Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Siruseri, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Siruseri, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Siruseri Chennai window safety nets",
-      "title": "Window Safety Nets in Siruseri planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Siruseri made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Siruseri customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Siruseri plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Siruseri",
@@ -10232,12 +10232,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Siruseri",
         "label": "Area Site Focus",
-        "description": "Written for Siruseri conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Siruseri conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -10291,12 +10291,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Siruseri, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Siruseri, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -10332,7 +10332,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Siruseri space easier to manage."
+          "The Siruseri setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -10424,7 +10424,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Tambaram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Tambaram, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Tambaram, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Tambaram",
         "window safety nets Tambaram Chennai",
@@ -10433,13 +10433,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Tambaram Chennai",
-      "openGraphDescription": "A manual Tambaram guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Tambaram notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Tambaram Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Tambaram, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Tambaram, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Tambaram Chennai window safety nets",
-      "title": "Window Safety Nets in Tambaram planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Tambaram made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Tambaram customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Tambaram plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Tambaram",
@@ -10449,12 +10449,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Tambaram",
         "label": "Area Site Focus",
-        "description": "Written for Tambaram conditions, including older apartments, family homes, visible balcony fronts, and association expectations, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Tambaram conditions, including older apartments, family homes, visible balcony fronts, and association expectations, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -10508,12 +10508,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Tambaram, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Tambaram, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -10549,7 +10549,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Tambaram space easier to manage."
+          "For Tambaram, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -10642,7 +10642,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in T Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed guide for window safety nets in T Nagar, Chennai, covering older flats, rental homes, child safety, pigeon control, ventilation, careful fixing, and area installation planning.",
+      "description": "Detailed notes for window safety nets in T Nagar, Chennai, covering older flats, rental homes, child safety, pigeon control, ventilation, careful fixing, and area installation details.",
       "keywords": [
         "window safety nets in T Nagar",
         "window safety nets Chennai",
@@ -10651,9 +10651,9 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in T Nagar Chennai",
-      "openGraphDescription": "A area T Nagar guide for window safety nets in family flats, older buildings, rental homes, and street-facing apartments.",
+      "openGraphDescription": "A area T Nagar notes for window safety nets in family flats, older buildings, rental homes, and street-facing apartments.",
       "twitterTitle": "Window Safety Nets in T Nagar Chennai",
-      "twitterDescription": "Manual Chennai article for T Nagar window safety nets, child protection, ventilation, and bird control."
+      "twitterDescription": "Chennai service notes for T Nagar window safety nets, child protection, ventilation, and bird control."
     },
     "hero": {
       "eyebrow": "T Nagar Chennai window safety nets",
@@ -10671,7 +10671,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "stat": "2500",
-        "label": "Service Planning Depth",
+        "label": "Service Checks Depth",
         "description": "The page is written and validated as a full service entry before publication."
       },
       {
@@ -10681,12 +10681,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       }
     ],
     "intro": {
-      "heading": "Why T Nagar window safety nets need room-by-room planning",
+      "heading": "Why T Nagar window safety nets need room-by-room checks",
       "paragraphs": [
         "Window safety nets in T Nagar are often requested after families notice how close daily furniture sits to the window. A bed under a window, a study table against a wall, a sofa near a hall opening, or a storage shelf below a grill can turn a normal window into a reachable edge for a child or pet. The right safety net should respond to the room layout, not only the window size.",
         "T Nagar also has many older flats and rental homes where wall condition, grill design, frame age, and exterior access vary. Some windows face busy roads and collect dust. Others face quiet shafts where birds enter. A quick phone quote cannot understand these differences. A proper site visit checks each window's purpose, risk, and fixing surface.",
         "People searching for window safety nets in T Nagar may want child protection, pigeon prevention, mosquito-like barrier support, pet safety, rental-friendly fixing, or a budget for several rooms at once. The service page should explain these separate intents because every window in the same flat may have a different reason for needing a net.",
-        "This page is a area guide for T Nagar window safety nets. It covers child protection, bird control, ventilation, rental approval, older walls, material choice, cleaning, and quote comparison. The content is written manually for this service-area path, so every section has a specific role in helping residents decide."
+        "This page gives area notes for T Nagar window safety nets. It covers child protection, bird control, ventilation, rental approval, older walls, material choice, cleaning, and quote comparison. The content is written with local detail for this service-area path, so every section has a specific role in helping residents decide."
       ]
     },
     "sections": [
@@ -10773,11 +10773,11 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Multiple Windows",
-        "heading": "Full-home window safety needs priority planning",
+        "heading": "Full-home window safety needs priority checks",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "When a home has many windows, not every opening carries the same urgency. Children's bedrooms, low hall windows, pet-access windows, and bird-entry windows should be prioritized first. A room-wise plan helps families manage budget without leaving the highest-risk spaces unattended.",
-          "The quote can list immediate and later windows separately. This is useful for T Nagar homes where owners may want to complete the full apartment in phases. Manual planning is better than pushing the same material and urgency on every opening.",
+          "The quote can list immediate and later windows separately. This is useful for T Nagar homes where owners may want to complete the full apartment in phases. Site checks are better than pushing the same material and urgency on every opening.",
           "Phasing also helps tenants. A renter may begin with children's rooms and bird-entry windows, then add other windows after owner approval or budget confirmation. The important thing is that each phase connects cleanly with the next, using the same finish, material, documentation, warranty, and support plan consistently across rooms later safely for family use daily."
         ]
       }
@@ -10842,7 +10842,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Are window safety nets suitable for pets?",
-        "answer": "They can help protect cats and small dogs when mesh, corners, and bottom edges are planned correctly. Mention pets during the site visit because pet movement is different from child movement."
+        "answer": "They can help protect cats and small dogs when mesh, corners, and bottom edges are set correctly. Mention pets during the site visit because pet movement is different from child movement."
       },
       {
         "question": "Can all windows be completed in one visit?",
@@ -10862,7 +10862,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Will window nets disturb existing grills or shutters?",
-        "answer": "They should not if planned properly. The installer must check shutter swing, grill position, curtain movement, and cleaning access before fixing. Older T Nagar windows may need a more careful method than newer frames."
+        "answer": "They should not if set properly. The installer must check shutter swing, grill position, curtain movement, and cleaning access before fixing. Older T Nagar windows may need a more careful method than newer frames."
       },
       {
         "question": "Can window nets be matched to a low-visibility look?",
@@ -10882,14 +10882,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "Can window nets help keep small objects from falling?",
-        "answer": "They can reduce the chance of toys, clips, and light items falling through the opening when the mesh and edge line are planned correctly. Mention object-fall concerns during measurement, especially in children's rooms."
+        "answer": "They can reduce the chance of toys, clips, and light items falling through the opening when the mesh and edge line are set correctly. Mention object-fall concerns during measurement, especially in children's rooms."
       }
     ],
     "closing": {
       "heading": "Make T Nagar windows safer without losing the room's air.",
       "paragraphs": [
         "Window safety nets should protect children, pets, and rooms from unsafe gaps while keeping ventilation, light, and cleaning practical.",
-        "If you are planning window nets in T Nagar, start with a room-by-room visit. The right installation understands furniture, wall condition, bird routes, rental approval, and daily use.",
+        "If you are checks window nets in T Nagar, start with a room-by-room visit. The right installation understands furniture, wall condition, bird routes, rental approval, and daily use.",
         "A quiet, neat window net can make a busy central Chennai home feel easier to manage every day.",
         "The right result is simple: windows stay useful for air and light, while children, pets, and rooms get a safer edge."
       ],
@@ -10902,7 +10902,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Teynampet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Teynampet, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Teynampet, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Teynampet",
         "window safety nets Teynampet Chennai",
@@ -10911,13 +10911,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Teynampet Chennai",
-      "openGraphDescription": "A manual Teynampet guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Teynampet notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Teynampet Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Teynampet, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Teynampet, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Teynampet Chennai window safety nets",
-      "title": "Window Safety Nets in Teynampet planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Teynampet made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Teynampet customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Teynampet plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Teynampet",
@@ -10927,12 +10927,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Teynampet",
         "label": "Area Site Focus",
-        "description": "Written for Teynampet conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Teynampet conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -10944,7 +10944,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Teynampet sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Teynampet should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety planning for central Chennai homes. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Teynampet service pages should combine discreet finish, careful access, practical measurement, and strong safety checks for central Chennai homes. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Teynampet, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -10986,12 +10986,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Teynampet, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Teynampet, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -11027,7 +11027,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Teynampet space easier to manage."
+          "After the Teynampet installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -11119,7 +11119,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Thiruvanmiyur Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Thiruvanmiyur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Thiruvanmiyur, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Thiruvanmiyur",
         "window safety nets Thiruvanmiyur Chennai",
@@ -11128,13 +11128,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Thiruvanmiyur Chennai",
-      "openGraphDescription": "A manual Thiruvanmiyur guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Thiruvanmiyur notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Thiruvanmiyur Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Thiruvanmiyur, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Thiruvanmiyur, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Thiruvanmiyur Chennai window safety nets",
-      "title": "Window Safety Nets in Thiruvanmiyur planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Thiruvanmiyur made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Thiruvanmiyur customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Thiruvanmiyur plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Thiruvanmiyur",
@@ -11144,12 +11144,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Thiruvanmiyur",
         "label": "Area Site Focus",
-        "description": "Written for Thiruvanmiyur conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Thiruvanmiyur conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -11203,12 +11203,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Thiruvanmiyur, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Thiruvanmiyur, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -11244,7 +11244,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Thiruvanmiyur space easier to manage."
+          "The Thiruvanmiyur setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -11337,7 +11337,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Thoraipakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Thoraipakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Thoraipakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Thoraipakkam",
         "window safety nets Thoraipakkam Chennai",
@@ -11346,13 +11346,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Thoraipakkam Chennai",
-      "openGraphDescription": "A manual Thoraipakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Thoraipakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Thoraipakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Thoraipakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Thoraipakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Thoraipakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Thoraipakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Thoraipakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Thoraipakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Thoraipakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Thoraipakkam",
@@ -11362,12 +11362,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Thoraipakkam",
         "label": "Area Site Focus",
-        "description": "Written for Thoraipakkam conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Thoraipakkam conditions, including central homes where elders, children, maintenance access, and neat finishing all matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -11379,7 +11379,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Thoraipakkam sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Thoraipakkam should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Thoraipakkam entries should explain quick but careful installation, rental-friendly planning, association-approved finish, pigeon control, and children safety. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Thoraipakkam entries should explain quick but careful installation, rental-friendly service, association-approved finish, pigeon control, and children safety. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Thoraipakkam, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -11421,12 +11421,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Thoraipakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Thoraipakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -11462,7 +11462,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Thoraipakkam space easier to manage."
+          "The Thoraipakkam setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -11554,7 +11554,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Triplicane Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Triplicane, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Triplicane, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Triplicane",
         "window safety nets Triplicane Chennai",
@@ -11563,13 +11563,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Triplicane Chennai",
-      "openGraphDescription": "A manual Triplicane guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Triplicane notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Triplicane Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Triplicane, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Triplicane, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Triplicane Chennai window safety nets",
-      "title": "Window Safety Nets in Triplicane planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Triplicane made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Triplicane customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Triplicane plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Triplicane",
@@ -11579,12 +11579,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Triplicane",
         "label": "Area Site Focus",
-        "description": "Written for Triplicane conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Triplicane conditions, including coastal or open-view buildings where wind, salt air, and appearance need extra care, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -11596,7 +11596,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Triplicane sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Triplicane should begin with the real problem at the site. Some customers are trying to stop birds, some are protecting children or pets, some need a usable sports or amenity area, and some want a daily utility upgrade that does not disturb the home. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained.",
-        "Triplicane projects need patient access planning, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
+        "Triplicane projects need patient access details, older wall checks, low visual clutter, and practical safety for compact homes in busy heritage-like streets. Window safety nets should make ventilation safer while still allowing window movement, cleaning access, and natural light.",
         "Before quoting in Triplicane, DK Safety Solutions should check window frame type, shutter swing, child reach, cleaning route, side gaps, bird entry points, and fixing surface so the material, access method, and timeline match the real site. A useful visit does not stop at measuring width and height. It studies the route of use, the pressure points, the fixing surfaces, and the small details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -11638,12 +11638,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Triplicane, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Triplicane, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -11679,7 +11679,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Triplicane space easier to manage."
+          "After the Triplicane installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -11771,7 +11771,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Vadapalani Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Vadapalani, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Vadapalani, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Vadapalani",
         "window safety nets Vadapalani Chennai",
@@ -11780,13 +11780,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Vadapalani Chennai",
-      "openGraphDescription": "A manual Vadapalani guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Vadapalani notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Vadapalani Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Vadapalani, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Vadapalani, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Vadapalani Chennai window safety nets",
-      "title": "Window Safety Nets in Vadapalani planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Vadapalani made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Vadapalani customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Vadapalani plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Vadapalani",
@@ -11796,12 +11796,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Vadapalani",
         "label": "Area Site Focus",
-        "description": "Written for Vadapalani conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Vadapalani conditions, including IT-corridor apartments where long workdays, rental approvals, and quick support are important, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -11855,12 +11855,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Vadapalani, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Vadapalani, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -11896,7 +11896,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Vadapalani space easier to manage."
+          "The Vadapalani setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -11988,7 +11988,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Valasaravakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Valasaravakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Valasaravakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Valasaravakkam",
         "window safety nets Valasaravakkam Chennai",
@@ -11997,13 +11997,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Valasaravakkam Chennai",
-      "openGraphDescription": "A manual Valasaravakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Valasaravakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Valasaravakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Valasaravakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Valasaravakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Valasaravakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Valasaravakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Valasaravakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Valasaravakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Valasaravakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Valasaravakkam",
@@ -12013,12 +12013,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Valasaravakkam",
         "label": "Area Site Focus",
-        "description": "Written for Valasaravakkam conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Valasaravakkam conditions, including suburban homes where terraces, larger openings, and multi-use outdoor areas often appear together, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -12072,12 +12072,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Valasaravakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Valasaravakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -12113,7 +12113,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Valasaravakkam space easier to manage."
+          "For Valasaravakkam, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -12205,7 +12205,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Velachery Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Velachery, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Velachery, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Velachery",
         "window safety nets Velachery Chennai",
@@ -12214,13 +12214,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Velachery Chennai",
-      "openGraphDescription": "A manual Velachery guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Velachery notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Velachery Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Velachery, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Velachery, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Velachery Chennai window safety nets",
-      "title": "Window Safety Nets in Velachery planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Velachery made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Velachery customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Velachery plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Velachery",
@@ -12230,12 +12230,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Velachery",
         "label": "Area Site Focus",
-        "description": "Written for Velachery conditions, including older apartments, family homes, visible balcony fronts, and association expectations, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Velachery conditions, including older apartments, family homes, visible balcony fronts, and association expectations, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -12289,12 +12289,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Velachery, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Velachery, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -12330,7 +12330,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Velachery space easier to manage."
+          "For Velachery, the simplest care rule is to leave the installed system alone unless service work requires access. When a corner is opened for AC, painting, or cleaning, it should be closed back with the same tension and spacing."
         ]
       }
     ],
@@ -12422,7 +12422,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Villivakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Villivakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Villivakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Villivakkam",
         "window safety nets Villivakkam Chennai",
@@ -12431,13 +12431,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Villivakkam Chennai",
-      "openGraphDescription": "A manual Villivakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Villivakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Villivakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Villivakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Villivakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Villivakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Villivakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Villivakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Villivakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Villivakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Villivakkam",
@@ -12447,12 +12447,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Villivakkam",
         "label": "Area Site Focus",
-        "description": "Written for Villivakkam conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Villivakkam conditions, including compact rentals, road-facing flats, mixed-use streets, and practical work timing, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -12506,12 +12506,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Villivakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Villivakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -12547,7 +12547,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Villivakkam space easier to manage."
+          "The Villivakkam setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -12639,7 +12639,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Virugambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Virugambakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Virugambakkam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Virugambakkam",
         "window safety nets Virugambakkam Chennai",
@@ -12648,13 +12648,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Virugambakkam Chennai",
-      "openGraphDescription": "A manual Virugambakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Virugambakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Virugambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Virugambakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Virugambakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Virugambakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Virugambakkam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in Virugambakkam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "Virugambakkam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good Virugambakkam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in Virugambakkam",
@@ -12664,12 +12664,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Virugambakkam",
         "label": "Area Site Focus",
-        "description": "Written for Virugambakkam conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for Virugambakkam conditions, including larger residential pockets, independent houses, apartment blocks, and utility-heavy spaces, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -12723,12 +12723,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In Virugambakkam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In Virugambakkam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -12764,7 +12764,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the Virugambakkam space easier to manage."
+          "After the Virugambakkam installation, keep heavy storage and temporary knots off the finished line. If cleaning, painting, or AC work changes the edge, a quick re-tension is safer than leaving a loose repair in daily use."
         ]
       }
     ],
@@ -12857,7 +12857,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in West Mambalam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in West Mambalam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in West Mambalam, Chennai, covering window-level safety and bird protection for bedrooms, kitchens, halls, and utility rooms, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in West Mambalam",
         "window safety nets West Mambalam Chennai",
@@ -12866,13 +12866,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in West Mambalam Chennai",
-      "openGraphDescription": "A manual West Mambalam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed West Mambalam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in West Mambalam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in West Mambalam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in West Mambalam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "West Mambalam Chennai window safety nets",
-      "title": "Window Safety Nets in West Mambalam planned for cleaner use, safer edges, and dependable area installation.",
+      "title": "Window Safety Nets in West Mambalam made for cleaner use, safer edges, and dependable area installation.",
       "lead": "West Mambalam customers often need window safety nets for a practical reason, not for a decorative upgrade. The site may involve bedroom windows, hall windows, kitchen windows, utility windows, sliding frames, and older grill openings, and the work has to solve child leaning, pet pressure, bird entry, wide grill gaps, low sill height, and unsafe furniture near windows without making daily use harder. A good West Mambalam plan studies how the home, apartment, business, or amenity area is actually used before recommending material, fixing method, and installation timing.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Safety Visit in West Mambalam",
@@ -12882,12 +12882,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "West Mambalam",
         "label": "Area Site Focus",
-        "description": "Written for West Mambalam conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, rather than a generic Chennai-wide paragraph with the area name swapped in."
+        "description": "Written for West Mambalam conditions, including newer communities, high-rise homes, service balconies, and shared amenity routines, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -12941,12 +12941,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         ]
       },
       {
-        "eyebrow": "Access Planning",
+        "eyebrow": "Access Checks",
         "heading": "Cleaning, service work, and future maintenance should stay possible",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A good window safety nets installation should not block every future task. Families may need to clean windows, reach drains, service AC units, paint a wall, maintain a pool deck, adjust sports posts, or use a utility space every week. The plan should protect the site while still respecting these future movements.",
-          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be planned neatly rather than cut later. In West Mambalam, where customers may be balancing owner approval, association timing, and daily schedules, access planning saves trouble after installation."
+          "This is why access questions should be discussed before approval. If a cleaning route or maintenance panel is needed, it should be left neat instead of cut later. In West Mambalam, where customers may be balancing owner approval, association timing, and daily schedules, access details saves trouble after installation."
         ]
       },
       {
@@ -12982,7 +12982,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "avoid pulling the mesh while cleaning, move climbable furniture away, check hooks after service work, and request adjustment for sagging corners. The first few days are a good time to notice whether daily use creates pressure on one corner, whether cleaning staff need guidance, or whether another nearby route still needs coverage. Small adjustments are easier before rough habits begin.",
-          "Customers should avoid overloading, cutting, bending, or using the installed system as a storage support. The installation is meant to solve the original problem cleanly. When it is treated as part of the site rather than a temporary add-on, it lasts longer and keeps the West Mambalam space easier to manage."
+          "The West Mambalam setup lasts better when residents treat the finished line as protection, not as a support point. Small changes after maintenance should be corrected early before they turn into sagging or open gaps."
         ]
       }
     ],
@@ -13073,7 +13073,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Adambakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Adambakkam, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Adambakkam, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Adambakkam",
         "window safety nets Adambakkam Chennai",
@@ -13082,13 +13082,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Adambakkam Chennai",
-      "openGraphDescription": "A manual Adambakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Adambakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Adambakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Adambakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Adambakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Adambakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Adambakkam planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Window Safety Nets in Adambakkam made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Adambakkam customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Adambakkam plan studies compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Adambakkam",
@@ -13098,12 +13098,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Adambakkam",
         "label": "Area Site Focus",
-        "description": "Written for Adambakkam conditions, including compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Adambakkam conditions, including compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -13115,7 +13115,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Adambakkam sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Adambakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Adambakkam work often needs attention to compact family apartments, railway-side access, mixed old and new buildings, and practical balconies that need tidy drilling and quick scheduling. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Adambakkam, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -13149,7 +13149,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Adambakkam",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Adambakkam",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Adambakkam, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -13198,14 +13198,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "For Adambakkam, the first question is simple: is the issue child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The answer decides whether the work needs front coverage, side returns, stronger borders, or easier service access."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Adambakkam site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -13237,7 +13237,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Adambakkam?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -13271,7 +13271,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Adambakkam"
@@ -13283,7 +13283,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Ayanavaram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Ayanavaram, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Ayanavaram, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Ayanavaram",
         "window safety nets Ayanavaram Chennai",
@@ -13292,13 +13292,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Ayanavaram Chennai",
-      "openGraphDescription": "A manual Ayanavaram guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Ayanavaram notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Ayanavaram Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Ayanavaram, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Ayanavaram, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Ayanavaram Chennai window safety nets",
-      "title": "Window Safety Nets in Ayanavaram planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Window Safety Nets in Ayanavaram made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Ayanavaram customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Ayanavaram plan studies older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Ayanavaram",
@@ -13308,12 +13308,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Ayanavaram",
         "label": "Area Site Focus",
-        "description": "Written for Ayanavaram conditions, including older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Ayanavaram conditions, including older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -13325,7 +13325,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Ayanavaram sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Ayanavaram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Ayanavaram work often needs attention to older residential streets, compact apartment fronts, school-and-family routines, and buildings where clean access and careful anchor choice matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Ayanavaram, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -13359,7 +13359,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Ayanavaram",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Ayanavaram",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Ayanavaram, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -13408,14 +13408,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Start with what is actually happening at Ayanavaram: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The quote should follow that concern before adding side gaps, access constraints, material grade, or after-care."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Ayanavaram site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -13447,7 +13447,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Ayanavaram?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -13481,7 +13481,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Ayanavaram"
@@ -13493,7 +13493,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Ekkattuthangal Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Ekkattuthangal, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Ekkattuthangal, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Ekkattuthangal",
         "window safety nets Ekkattuthangal Chennai",
@@ -13502,13 +13502,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Ekkattuthangal Chennai",
-      "openGraphDescription": "A manual Ekkattuthangal guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Ekkattuthangal notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Ekkattuthangal Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Ekkattuthangal, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Ekkattuthangal, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Ekkattuthangal Chennai window safety nets",
-      "title": "Window Safety Nets in Ekkattuthangal planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Window Safety Nets in Ekkattuthangal made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Ekkattuthangal customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Ekkattuthangal plan studies workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Ekkattuthangal",
@@ -13518,12 +13518,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Ekkattuthangal",
         "label": "Area Site Focus",
-        "description": "Written for Ekkattuthangal conditions, including workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Ekkattuthangal conditions, including workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -13535,7 +13535,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Ekkattuthangal sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Ekkattuthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Ekkattuthangal work often needs attention to workplace traffic, metro-side apartments, commercial blocks, and road-facing elevations exposed to dust and vibration. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Ekkattuthangal, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -13569,7 +13569,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Ekkattuthangal",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Ekkattuthangal",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Ekkattuthangal, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -13618,14 +13618,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Use the Ekkattuthangal site problem as the starting point: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. Then check opening shape, fixing strength, and maintenance access so the window safety nets scope stays practical."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Ekkattuthangal site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -13657,7 +13657,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Ekkattuthangal?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -13691,7 +13691,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Ekkattuthangal"
@@ -13703,7 +13703,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Iyyappanthangal Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Iyyappanthangal, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Iyyappanthangal, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Iyyappanthangal",
         "window safety nets Iyyappanthangal Chennai",
@@ -13712,14 +13712,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Iyyappanthangal Chennai",
-      "openGraphDescription": "A manual Iyyappanthangal guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Iyyappanthangal notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Iyyappanthangal Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Iyyappanthangal, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Iyyappanthangal, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Iyyappanthangal Chennai window safety nets",
-      "title": "Window Safety Nets in Iyyappanthangal planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Iyyappanthangal customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Iyyappanthangal plan studies fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "title": "Window Safety Nets in Iyyappanthangal made for safer coverage, cleaner fixing, and dependable area installation.",
+      "lead": "Iyyappanthangal customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Iyyappanthangal plan studies fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor safety work, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Iyyappanthangal",
       "secondaryCta": "WhatsApp Window Net Details"
@@ -13728,12 +13728,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Iyyappanthangal",
         "label": "Area Site Focus",
-        "description": "Written for Iyyappanthangal conditions, including fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Iyyappanthangal conditions, including fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor safety work, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -13745,7 +13745,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Iyyappanthangal sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Iyyappanthangal should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Iyyappanthangal work often needs attention to fast-growing apartment clusters, broad balconies, new construction pockets, and family homes needing durable high-floor safety work. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Iyyappanthangal, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -13779,7 +13779,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Iyyappanthangal",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Iyyappanthangal",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Iyyappanthangal, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -13828,14 +13828,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "First agree on what has to be solved in Iyyappanthangal: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. Once that is clear, the installer can choose the right coverage, anchors, and finishing details."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Iyyappanthangal site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -13867,7 +13867,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Iyyappanthangal?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -13901,7 +13901,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Iyyappanthangal"
@@ -13913,7 +13913,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Manapakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Manapakkam, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Manapakkam, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Manapakkam",
         "window safety nets Manapakkam Chennai",
@@ -13922,13 +13922,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Manapakkam Chennai",
-      "openGraphDescription": "A manual Manapakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Manapakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Manapakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Manapakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Manapakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Manapakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Manapakkam planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Window Safety Nets in Manapakkam made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Manapakkam customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Manapakkam plan studies IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Manapakkam",
@@ -13938,12 +13938,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Manapakkam",
         "label": "Area Site Focus",
-        "description": "Written for Manapakkam conditions, including IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Manapakkam conditions, including IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -13955,7 +13955,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Manapakkam sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Manapakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Manapakkam work often needs attention to IT corridor homes, gated communities, river-side wind exposure, and apartment elevations where neat facade finish matters. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Manapakkam, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -13989,7 +13989,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Manapakkam",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Manapakkam",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Manapakkam, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -14038,14 +14038,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "For Manapakkam, the first question is simple: is the issue child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The answer decides whether the work needs front coverage, side returns, stronger borders, or easier service access."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Manapakkam site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -14077,7 +14077,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Manapakkam?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -14111,7 +14111,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Manapakkam"
@@ -14123,7 +14123,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Mandaveli Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Mandaveli, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Mandaveli, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Mandaveli",
         "window safety nets Mandaveli Chennai",
@@ -14132,13 +14132,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Mandaveli Chennai",
-      "openGraphDescription": "A manual Mandaveli guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Mandaveli notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Mandaveli Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Mandaveli, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Mandaveli, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Mandaveli Chennai window safety nets",
-      "title": "Window Safety Nets in Mandaveli planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Window Safety Nets in Mandaveli made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Mandaveli customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Mandaveli plan studies older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Mandaveli",
@@ -14148,12 +14148,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Mandaveli",
         "label": "Area Site Focus",
-        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Mandaveli conditions, including older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -14165,7 +14165,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Mandaveli sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Mandaveli should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Mandaveli work often needs attention to older city homes, refined apartments, narrow lanes, and visible balcony or facade lines that need low-disturbance installation. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Mandaveli, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14199,7 +14199,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Mandaveli",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Mandaveli",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Mandaveli, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -14248,14 +14248,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Start with what is actually happening at Mandaveli: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The quote should follow that concern before adding side gaps, access constraints, material grade, or after-care."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Mandaveli site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -14287,7 +14287,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Mandaveli?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -14321,7 +14321,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Mandaveli"
@@ -14333,7 +14333,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Palavakkam Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Palavakkam, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Palavakkam, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Palavakkam",
         "window safety nets Palavakkam Chennai",
@@ -14342,13 +14342,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Palavakkam Chennai",
-      "openGraphDescription": "A manual Palavakkam guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Palavakkam notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Palavakkam Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Palavakkam, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Palavakkam, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Palavakkam Chennai window safety nets",
-      "title": "Window Safety Nets in Palavakkam planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Window Safety Nets in Palavakkam made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Palavakkam customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Palavakkam plan studies coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Palavakkam",
@@ -14358,12 +14358,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Palavakkam",
         "label": "Area Site Focus",
-        "description": "Written for Palavakkam conditions, including coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Palavakkam conditions, including coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -14375,7 +14375,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Palavakkam sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Palavakkam should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Palavakkam work often needs attention to coastal air, sea-breeze exposure, ECR apartments, and open-side buildings where corrosion-aware fixing is important. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Palavakkam, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14409,7 +14409,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Palavakkam",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Palavakkam",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Palavakkam, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -14458,14 +14458,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Use the Palavakkam site problem as the starting point: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. Then check opening shape, fixing strength, and maintenance access so the window safety nets scope stays practical."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Palavakkam site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -14497,7 +14497,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Palavakkam?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -14531,7 +14531,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Palavakkam"
@@ -14543,7 +14543,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Periyar Nagar Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Periyar Nagar, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Periyar Nagar, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Periyar Nagar",
         "window safety nets Periyar Nagar Chennai",
@@ -14552,13 +14552,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Periyar Nagar Chennai",
-      "openGraphDescription": "A manual Periyar Nagar guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Periyar Nagar notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Periyar Nagar Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Periyar Nagar, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Periyar Nagar, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Periyar Nagar Chennai window safety nets",
-      "title": "Window Safety Nets in Periyar Nagar planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Window Safety Nets in Periyar Nagar made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Periyar Nagar customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Periyar Nagar plan studies dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Periyar Nagar",
@@ -14568,12 +14568,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Periyar Nagar",
         "label": "Area Site Focus",
-        "description": "Written for Periyar Nagar conditions, including dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Periyar Nagar conditions, including dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -14585,7 +14585,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Periyar Nagar sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Periyar Nagar should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Periyar Nagar work often needs attention to dense residential blocks, practical balconies, older wall surfaces, and family homes needing reliable safety without decorative excess. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Periyar Nagar, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14619,7 +14619,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Periyar Nagar",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Periyar Nagar",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Periyar Nagar, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -14668,14 +14668,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "First agree on what has to be solved in Periyar Nagar: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. Once that is clear, the installer can choose the right coverage, anchors, and finishing details."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Periyar Nagar site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -14707,7 +14707,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Periyar Nagar?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -14741,7 +14741,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion."
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion."
       ],
       "cta": "Call for Window Net Visit in Periyar Nagar"
     }
@@ -14752,7 +14752,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Royapuram Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Royapuram, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Royapuram, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Royapuram",
         "window safety nets Royapuram Chennai",
@@ -14761,13 +14761,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Royapuram Chennai",
-      "openGraphDescription": "A manual Royapuram guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Royapuram notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Royapuram Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Royapuram, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Royapuram, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Royapuram Chennai window safety nets",
-      "title": "Window Safety Nets in Royapuram planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Window Safety Nets in Royapuram made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Royapuram customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Royapuram plan studies coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Royapuram",
@@ -14777,12 +14777,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Royapuram",
         "label": "Area Site Focus",
-        "description": "Written for Royapuram conditions, including coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Royapuram conditions, including coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -14794,7 +14794,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Royapuram sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Royapuram should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Royapuram work often needs attention to coastal-side streets, older buildings, busy access routes, and service edges where strong fixing and corrosion awareness matter. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Royapuram, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -14828,7 +14828,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Royapuram",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Royapuram",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Royapuram, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -14877,14 +14877,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "For Royapuram, the first question is simple: is the issue child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The answer decides whether the work needs front coverage, side returns, stronger borders, or easier service access."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Royapuram site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -14916,7 +14916,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Royapuram?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -14950,7 +14950,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Royapuram"
@@ -14962,7 +14962,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Semmancheri Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Semmancheri, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Semmancheri, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Semmancheri",
         "window safety nets Semmancheri Chennai",
@@ -14971,14 +14971,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Semmancheri Chennai",
-      "openGraphDescription": "A manual Semmancheri guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Semmancheri notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Semmancheri Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Semmancheri, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Semmancheri, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Semmancheri Chennai window safety nets",
-      "title": "Window Safety Nets in Semmancheri planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Semmancheri customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Semmancheri plan studies OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "title": "Window Safety Nets in Semmancheri made for safer coverage, cleaner fixing, and dependable area installation.",
+      "lead": "Semmancheri customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Semmancheri plan studies OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety work, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Semmancheri",
       "secondaryCta": "WhatsApp Window Net Details"
@@ -14987,12 +14987,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Semmancheri",
         "label": "Area Site Focus",
-        "description": "Written for Semmancheri conditions, including OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Semmancheri conditions, including OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety work, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -15004,7 +15004,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Semmancheri sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Semmancheri should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety planning. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Semmancheri work often needs attention to OMR high-rises, newer communities, open wind exposure, and amenity spaces that need scalable safety work. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Semmancheri, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -15038,7 +15038,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Semmancheri",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Semmancheri",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Semmancheri, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -15087,14 +15087,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Start with what is actually happening at Semmancheri: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The quote should follow that concern before adding side gaps, access constraints, material grade, or after-care."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Semmancheri site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -15126,7 +15126,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Semmancheri?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -15160,7 +15160,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Semmancheri"
@@ -15172,7 +15172,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Tondiarpet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Tondiarpet, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Tondiarpet, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Tondiarpet",
         "window safety nets Tondiarpet Chennai",
@@ -15181,14 +15181,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Tondiarpet Chennai",
-      "openGraphDescription": "A manual Tondiarpet guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Tondiarpet notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Tondiarpet Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Tondiarpet, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Tondiarpet, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Tondiarpet Chennai window safety nets",
-      "title": "Window Safety Nets in Tondiarpet planned for safer coverage, cleaner fixing, and dependable area installation.",
-      "lead": "Tondiarpet customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Tondiarpet plan studies industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
+      "title": "Window Safety Nets in Tondiarpet made for safer coverage, cleaner fixing, and dependable area installation.",
+      "lead": "Tondiarpet customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Tondiarpet plan studies industrial-near residential pockets, older structures, dust exposure, and buildings where access details must be practical, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Tondiarpet",
       "secondaryCta": "WhatsApp Window Net Details"
@@ -15197,12 +15197,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Tondiarpet",
         "label": "Area Site Focus",
-        "description": "Written for Tondiarpet conditions, including industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Tondiarpet conditions, including industrial-near residential pockets, older structures, dust exposure, and buildings where access details must be practical, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -15214,7 +15214,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Tondiarpet sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Tondiarpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access planning must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Tondiarpet work often needs attention to industrial-near residential pockets, older structures, dust exposure, and buildings where access details must be practical. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Tondiarpet, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -15248,7 +15248,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Tondiarpet",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Tondiarpet",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Tondiarpet, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -15297,14 +15297,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "Use the Tondiarpet site problem as the starting point: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. Then check opening shape, fixing strength, and maintenance access so the window safety nets scope stays practical."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Tondiarpet site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -15336,7 +15336,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Tondiarpet?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -15370,7 +15370,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Tondiarpet"
@@ -15382,7 +15382,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
     "serviceSlug": "window-safety-nets",
     "metadata": {
       "title": "Window Safety Nets in Washermanpet Chennai | DK Safety Solutions",
-      "description": "Detailed Chennai guide for window safety nets in Washermanpet, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation planning, pricing clarity, maintenance, and area support.",
+      "description": "Detailed Chennai notes for window safety nets in Washermanpet, Chennai, covering bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, window-level safety and bird protection for bedrooms, kitchens, utility rooms, and rental flats, site checks, material choice, installation details, pricing clarity, maintenance, and area support.",
       "keywords": [
         "window safety nets in Washermanpet",
         "window safety nets Washermanpet Chennai",
@@ -15391,13 +15391,13 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "DK Safety Solutions Chennai"
       ],
       "openGraphTitle": "Window Safety Nets in Washermanpet Chennai",
-      "openGraphDescription": "A manual Washermanpet guide for window safety nets, written around area site conditions, installation planning, and practical Chennai follow-up.",
+      "openGraphDescription": "Detailed Washermanpet notes for window safety nets, written around area site conditions, installation details, and practical Chennai follow-up.",
       "twitterTitle": "Window Safety Nets in Washermanpet Chennai",
-      "twitterDescription": "Manual Chennai page for window safety nets in Washermanpet, with site checks, quote clarity, and maintenance planning."
+      "twitterDescription": "Chennai service notes for window safety nets in Washermanpet, with site checks, quote clarity, and maintenance details."
     },
     "hero": {
       "eyebrow": "Washermanpet Chennai window safety nets",
-      "title": "Window Safety Nets in Washermanpet planned for safer coverage, cleaner fixing, and dependable area installation.",
+      "title": "Window Safety Nets in Washermanpet made for safer coverage, cleaner fixing, and dependable area installation.",
       "lead": "Washermanpet customers often need window safety nets for a practical reason, not for a decorative upgrade, so the team has to understand the exact daily problem before recommending a fixing method. The site may involve bedroom windows, kitchen windows, utility windows, sliding frames, and small ventilation openings, and the work has to solve child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns without making routine use harder. A good Washermanpet plan studies busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy, then selects the right material, anchor spacing, access method, and finishing line for the building rather than forcing one standard layout onto every property.",
       "image": "/birdnet/window-safety-nets-installation.webp",
       "primaryCta": "Call for Window Net Visit in Washermanpet",
@@ -15407,12 +15407,12 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       {
         "stat": "Washermanpet",
         "label": "Area Site Focus",
-        "description": "Written for Washermanpet conditions, including busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy, instead of a generic Chennai paragraph with only the area name changed."
+        "description": "Written for Washermanpet conditions, including busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy, with notes tied to the area, building style, access, and daily use."
       },
       {
-        "stat": "2500",
-        "label": "Service Planning Depth",
-        "description": "This route is held to the full service guide quality gate before it is treated as a published long-form page."
+        "stat": "Site",
+        "label": "Detailed Site Notes",
+        "description": "The page covers site checks, material choice, fixing method, quote clarity, installation day, and simple care after the work. It keeps the advice tied to everyday Chennai use, not only measurements."
       },
       {
         "stat": "10",
@@ -15424,7 +15424,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "heading": "Why Washermanpet sites need a clear window safety nets plan",
       "paragraphs": [
         "Window Safety Nets in Washermanpet should begin with the real problem at the site. Some customers are protecting children, some are blocking bird routes, some are securing a shared amenity area, and some are covering a building edge where maintenance or construction activity creates risk. The correct plan depends on how the space is used through the day, where the risk appears, and how the finished work will be maintained after installation.",
-        "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be planned as a site-specific safety job, not only a square-foot measurement.",
+        "Washermanpet work often needs attention to busy north Chennai streets, compact buildings, narrow access, and daily-use homes where installation needs to be quick and tidy. That area condition affects how installers carry material, place anchors, handle drilling dust, protect finished walls, and speak with residents, security staff, or association representatives. Window Safety Nets should therefore be treated as a site-specific safety job, not only a square-foot measurement.",
         "Before quoting in Washermanpet, DK Safety Solutions should check window swing, frame type, cleaning access, ventilation path, side clearance, floor level, child access so the material, access method, and timeline match the real site. A useful visit studies the route of use, the fixing surfaces, the pressure points, and the small maintenance details that decide whether the installation keeps working after the team leaves."
       ]
     },
@@ -15458,7 +15458,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "eyebrow": "Fixing Method",
-        "heading": "Anchor planning is the backbone of reliable window safety nets in Washermanpet",
+        "heading": "Anchor checks is the backbone of reliable window safety nets in Washermanpet",
         "image": "/birdnet/cards/window-safety-nets.webp",
         "paragraphs": [
           "A strong installation depends on where the load is transferred. In Washermanpet, older walls, new facade finishes, painted railings, tile edges, parapets, and service shafts can all require different fixing choices. The installer should avoid random drilling and instead choose anchor points that keep the net or cable line tight without damaging useful surfaces.",
@@ -15507,14 +15507,14 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       "points": [
         {
           "title": "Start with the actual risk",
-          "description": "Name the main issue first: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. The right scope changes depending on whether safety, bird control, sport containment, facade covering, or utility use is the priority."
+          "description": "First agree on what has to be solved in Washermanpet: child leaning risk, bird entry, window cleaning difficulty, frame clearance, and ventilation concerns. Once that is clear, the installer can choose the right coverage, anchors, and finishing details."
         },
         {
           "title": "Check the fixing surface",
           "description": "Ask the team to inspect window swing, frame type, cleaning access, ventilation path before finalizing the quote. Strong material still fails if the anchor surface is weak or badly placed."
         },
         {
-          "title": "Keep maintenance access planned",
+          "title": "Keep maintenance access set",
           "description": "Every Washermanpet site needs some future access for cleaning, AC service, painting, plumbing, or inspection. The layout should protect the space without forcing unsafe cutting later."
         },
         {
@@ -15546,7 +15546,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
       },
       {
         "question": "How long does window safety nets installation take in Washermanpet?",
-        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more planning. Timing should be confirmed after measurement and access review."
+        "answer": "Simple residential work may finish faster, while high-floor, facade, shaft, sports, or multi-opening work needs more time and review. Timing should be confirmed after measurement and access review."
       },
       {
         "question": "Will the installation block cleaning or maintenance?",
@@ -15580,7 +15580,7 @@ export const windowSafetyNetPages: ManualServicePage[] = [
         "A final walkthrough is worth taking seriously. It gives the customer time to check visibility, movement, cleaning access, nearby doors or windows, and the exact points where daily use may touch the finished safety line.",
         "Good area service is visible after installation too. If weather, renovation, or another contractor changes the site, quick support helps preserve the value of the original work without starting again from zero.",
         "For shared properties, the same notes can be given to the secretary, facility manager, security desk, or tenant representative. That makes future access easier when cleaning, painting, AC service, or pipe work needs to happen near the installed line.",
-        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor planning, access difficulty, visual finish, and the way the team handles small corrections after completion.",
+        "The customer should not feel rushed into choosing only by square-foot price. The safer decision compares material grade, anchor choice, access difficulty, visual finish, and the way the team handles small corrections after completion.",
         "If old netting, broken hooks, weak brackets, or dust buildup already exists, those conditions should be discussed before installation. Removing or working around old material affects time, finish, and the final strength of the new safety line."
       ],
       "cta": "Call for Window Net Visit in Washermanpet"

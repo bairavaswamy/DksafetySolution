@@ -109,7 +109,7 @@ export default function ManualEntryServicePage({
             <p className="text-xs font-bold uppercase tracking-[0.2em] text-lime-200">
               Chennai Service Help
             </p>
-            <h2 className="mt-3 text-2xl font-black">Area service planning</h2>
+            <h2 className="mt-3 text-2xl font-black">Area service notes</h2>
             <p className="mt-3 text-sm leading-7 text-slate-100">
               {service.name} pages connect the service choice with local access notes,
               nearby links, and quick contact actions.
@@ -165,7 +165,7 @@ export default function ManualEntryServicePage({
         <article>
           <div className="max-w-4xl">
             <p className="text-sm font-bold uppercase tracking-[0.2em] text-sky-500">
-              Site Planning
+              Site Check
             </p>
             <h2 className="mt-3 text-3xl font-black tracking-tight text-slate-950">
               Professional {service.name.toLowerCase()} for {area.name} properties
@@ -327,7 +327,7 @@ export default function ManualEntryServicePage({
             {[
               {
                 question: `Do you install ${service.name.toLowerCase()} in ${area.name}?`,
-                answer: `Yes. DK Safety Solutions covers ${area.name} and nearby Chennai areas for ${service.name.toLowerCase()} with site measurement, material planning, and installation support.`,
+                answer: `Yes. DK Safety Solutions covers ${area.name} and nearby Chennai areas for ${service.name.toLowerCase()} with site measurement, material selection, and installation support.`,
               },
               {
                 question: "How is the price decided?",

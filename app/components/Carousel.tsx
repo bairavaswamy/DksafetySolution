@@ -32,7 +32,7 @@ const heroImages = [
     src: "/images/site/hero-v3-cloth-hanger-balcony-desktop.webp",
     mobileSrc: "/images/site/hero-v3-cloth-hanger-balcony-mobile.webp",
     alt: "Balcony ceiling cloth hanger installation beside an open view",
-    dec: "Ceiling and balcony hanger systems planned neatly around daily utility space.",
+    dec: "Ceiling and balcony hanger systems fitted neatly around daily utility space.",
   },
 ];
 
@@ -99,22 +99,17 @@ export default function Carousel() {
         >
           {heroImages.map((item, i) => (
             <div key={item.src} className="relative h-full w-full flex-shrink-0">
-              <img
-                src={item.mobileSrc}
-                alt={item.alt}
-                className="absolute inset-0 h-full w-full object-cover md:hidden"
-                loading={i === 0 ? "eager" : "lazy"}
-                decoding={i === 0 ? "sync" : "async"}
-                fetchPriority={i === 0 ? "high" : "auto"}
-              />
-              <img
-                src={item.src}
-                alt={item.alt}
-                className="absolute inset-0 hidden h-full w-full object-cover md:block"
-                loading={i === 0 ? "eager" : "lazy"}
-                decoding={i === 0 ? "sync" : "async"}
-                fetchPriority={i === 0 ? "high" : "auto"}
-              />
+              <picture className="absolute inset-0 block h-full w-full">
+                <source media="(max-width: 767px)" srcSet={item.mobileSrc} />
+                <img
+                  src={item.src}
+                  alt={item.alt}
+                  className="h-full w-full object-cover"
+                  loading={i === 0 ? "eager" : "lazy"}
+                  decoding={i === 0 ? "sync" : "async"}
+                  fetchPriority={i === 0 ? "high" : "auto"}
+                />
+              </picture>
 
               <div className="absolute inset-0 flex items-center justify-start bg-black/25 text-left md:justify-center md:text-center">
                 <div

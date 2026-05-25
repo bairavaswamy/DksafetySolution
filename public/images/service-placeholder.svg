@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
-  <rect width="400" height="260" rx="12" fill="#f8faf9" stroke="#e6eef0" />
-  <circle cx="70" cy="70" r="40" fill="#d1f2e0" />
-  <text x="140" y="85" fill="#0b5f3c" font-size="20" font-family="Arial">Service Title</text>
-  <text x="20" y="180" fill="#6b7280" font-size="14" font-family="Arial">Short description of the service goes here.</text>
-</svg>

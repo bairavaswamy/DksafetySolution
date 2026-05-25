@@ -138,7 +138,7 @@ export default function Home() {
             <div className="mt-5 flex flex-wrap gap-2">
               {[
                 "Chennai service pages",
-                "Area planning",
+                "Area service notes",
                 "Phone and WhatsApp actions",
                 "Clean installation focus",
               ].map((point) => (

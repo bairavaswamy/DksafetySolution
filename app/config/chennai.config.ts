@@ -158,7 +158,7 @@ export const chennaiConfig = {
     {
       name: "Cloth Hanger Installation",
       slug: "cloth-hanger-installation",
-      angle: "Balcony and utility drying systems planned around daily use.",
+      angle: "Balcony and utility drying systems made for daily use.",
     },
   ],
 } as const;

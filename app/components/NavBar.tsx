@@ -85,6 +85,13 @@ const Header: React.FC = () => {
                     >
                       Open Directory
                     </Link>
+                    <Link
+                      href={`${cityHref}/gated-communities`}
+                      prefetch={false}
+                      className="shrink-0 rounded-full border border-sky-200 bg-white px-4 py-2 text-sm font-bold text-sky-700 transition hover:bg-sky-50"
+                    >
+                      Gated Communities
+                    </Link>
                   </div>
 
                   <div className="grid grid-cols-[0.9fr_1.1fr] gap-4 p-4">
@@ -158,7 +165,7 @@ const Header: React.FC = () => {
             <Link
               href="/request-quote"
               prefetch={false}
-              className="hidden rounded-full px-4 py-2 text-sm font-semibold text-white transition hover:opacity-90 md:inline-block btn-accent"
+              className="hidden rounded-full bg-sky-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-sky-700 md:inline-block"
             >
               Request Quote
             </Link>

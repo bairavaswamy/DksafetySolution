@@ -13,6 +13,8 @@ const pageKey = (page: Pick<ManualServicePage, "citySlug" | "areaSlug" | "servic
   `${page.citySlug}/${page.areaSlug}/${page.serviceSlug}`;
 
 const paramsKey = ({ city, area, service }: ManualPageParams) => `${city}/${area}/${service}`;
+const manualPageByKey = new Map(manualServicePages.map((page) => [pageKey(page), page]));
+let manualPagesValidated = false;
 
 const textFromPage = (page: ManualServicePage) =>
   [
@@ -61,6 +63,10 @@ const assertUnique = (items: string[], label: string) => {
 };
 
 export const validateManualServicePages = () => {
+  if (manualPagesValidated) {
+    return;
+  }
+
   assertUnique(manualServicePages.map(pageKey), "path");
   assertUnique(manualServicePages.map((page) => page.metadata.title), "meta title");
   assertUnique(manualServicePages.map((page) => page.metadata.description), "meta description");
@@ -83,6 +89,8 @@ export const validateManualServicePages = () => {
       `FAQ question inside ${pageKey(page)}`
     );
   }
+
+  manualPagesValidated = true;
 };
 
 export const getManualServicePaths = () => {
@@ -98,7 +106,5 @@ export const getManualServicePaths = () => {
 export const getManualServicePage = (params: ManualPageParams) => {
   validateManualServicePages();
 
-  const page = manualServicePages.find((item) => pageKey(item) === paramsKey(params));
-
-  return page;
+  return manualPageByKey.get(paramsKey(params));
 };

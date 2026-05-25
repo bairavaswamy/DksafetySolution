@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import GatedCommunityServiceArticle from "../../../components/GatedCommunityServiceArticle";
 import ManualServiceArticle from "../../../components/ManualServiceArticle";
 import ManualEntryServicePage from "../../../components/ManualEntryServicePage";
+import { getGatedCommunityPage } from "../../../content/gatedCommunityServicePages";
 import { getManualServicePage } from "../../../content/manualPageRegistry";
 import {
   getAllServiceAreaPaths,
@@ -31,7 +33,7 @@ type ManualRouteProps = {
   params: Promise<ManualRouteParams>;
 };
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 
 export async function generateStaticParams(): Promise<ManualRouteParams[]> {
   return getAllServiceAreaPaths();
@@ -75,6 +77,50 @@ export async function generateMetadata({
   params,
 }: ManualRouteProps): Promise<Metadata> {
   const resolvedParams = await params;
+  const gatedPage = getGatedCommunityPage({
+    community: resolvedParams.area,
+    service: resolvedParams.service,
+  });
+
+  if (resolvedParams.city === "chennai" && gatedPage) {
+    const url = getManualPageUrl({
+      citySlug: gatedPage.citySlug,
+      areaSlug: gatedPage.community.slug,
+      serviceSlug: gatedPage.service.slug,
+    });
+    const imageUrl = getAbsoluteImageUrl(gatedPage.images.hero);
+
+    return {
+      title: gatedPage.metadata.title,
+      description: gatedPage.metadata.description,
+      keywords: gatedPage.metadata.keywords,
+      alternates: {
+        canonical: url,
+      },
+      openGraph: {
+        title: gatedPage.metadata.title,
+        description: gatedPage.metadata.description,
+        url,
+        siteName: siteConfig.name,
+        locale: "en_IN",
+        type: "article",
+        images: [
+          {
+            url: imageUrl,
+            width: 1200,
+            height: 630,
+            alt: gatedPage.hero.title,
+          },
+        ],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: gatedPage.metadata.title,
+        description: gatedPage.metadata.description,
+        images: [imageUrl],
+      },
+    };
+  }
 
   // Prefer the long-form service page when one exists.
   const manualPage = getManualServicePage(resolvedParams);
@@ -178,6 +224,57 @@ export default async function ManualServiceRoute({
   params,
 }: ManualRouteProps) {
   const resolvedParams = await params;
+  const gatedPage = getGatedCommunityPage({
+    community: resolvedParams.area,
+    service: resolvedParams.service,
+  });
+
+  if (resolvedParams.city === "chennai" && gatedPage) {
+    const url = getManualPageUrl({
+      citySlug: gatedPage.citySlug,
+      areaSlug: gatedPage.community.slug,
+      serviceSlug: gatedPage.service.slug,
+    });
+    const imageUrl = getAbsoluteImageUrl(gatedPage.images.hero);
+
+    const jsonLd = getGraphSchema([
+      getWebPageSchema({
+        url,
+        name: gatedPage.metadata.title,
+        description: gatedPage.metadata.description,
+        image: imageUrl,
+      }),
+      getServiceSchema({
+        url,
+        name: gatedPage.metadata.title,
+        description: gatedPage.metadata.description,
+        image: imageUrl,
+        areaName: `${gatedPage.community.name}, ${gatedPage.community.locality}, Chennai`,
+      }),
+      getFAQPageSchema(url, gatedPage.faq),
+      getBreadcrumbListSchema([
+        { name: "Home", url: absoluteUrl("/") },
+        { name: "Chennai", url: absoluteUrl(`/${gatedPage.citySlug}/`) },
+        {
+          name: gatedPage.community.name,
+          url: absoluteUrl(`/${gatedPage.citySlug}/${gatedPage.community.slug}/`),
+        },
+        { name: gatedPage.service.name, url },
+      ]),
+    ]);
+
+    return (
+      <>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: stringifySchema(jsonLd),
+          }}
+        />
+        <GatedCommunityServiceArticle page={gatedPage} />
+      </>
+    );
+  }
 
   // Prefer the long-form service page when one exists.
   const manualPage = getManualServicePage(resolvedParams);
@@ -236,7 +333,6 @@ export default async function ManualServiceRoute({
     notFound();
   }
 
-  const detail = getServiceDetail(service.slug);
   const url = absoluteUrl(
     `/${resolvedParams.city}/${resolvedParams.area}/${resolvedParams.service}/`
   );

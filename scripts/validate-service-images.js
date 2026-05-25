@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const crypto = require("crypto");
 const ts = require("typescript");
 
 const rootDir = path.resolve(__dirname, "..");
@@ -29,10 +30,14 @@ const publicPathFromUrl = (url) => {
 
 const allowedStaticRasterExtensions = new Set([".webp", ".jpg", ".jpeg"]);
 
+const fileHash = (url) =>
+  crypto.createHash("sha256").update(fs.readFileSync(publicPathFromUrl(url))).digest("hex");
+
 try {
   const { chennaiConfig } = require(path.join(rootDir, "app", "config", "chennai.config.ts"));
   const { serviceVisualsBySlug } = require(path.join(rootDir, "app", "content", "serviceVisuals.ts"));
   const { manualServicePages } = require(path.join(rootDir, "app", "content", "manualServicePages.ts"));
+  const { gatedCommunityPages } = require(path.join(rootDir, "app", "content", "gatedCommunityServicePages.ts"));
 
   const seen = new Map();
   const expectedKinds = ["hero", "mobileHero", "detail", "context", "areaCard"];
@@ -80,6 +85,21 @@ try {
 
     if (new Set(values).size !== expectedKinds.length) {
       throw new Error(`${service.slug} must use different visuals for each service image role.`);
+    }
+
+    const hashGroups = new Map();
+
+    for (const kind of expectedKinds) {
+      const hash = fileHash(visuals[kind]);
+      hashGroups.set(hash, [...(hashGroups.get(hash) ?? []), kind]);
+    }
+
+    const repeatedHashGroup = [...hashGroups.values()].find((group) => group.length > 1);
+
+    if (repeatedHashGroup) {
+      throw new Error(
+        `${service.slug} repeats the same image file content across roles: ${repeatedHashGroup.join(", ")}`
+      );
     }
   }
 
@@ -144,8 +164,42 @@ try {
     }
   }
 
+  for (const page of gatedCommunityPages) {
+    const imageEntries = Object.entries(page.images);
+    const imageUrls = imageEntries.map(([, url]) => url);
+
+    if (new Set(imageUrls).size !== imageUrls.length) {
+      throw new Error(`${page.path} repeats a gated community image URL.`);
+    }
+
+    const imageHashes = new Map();
+
+    for (const [role, url] of imageEntries) {
+      const extension = path.extname(url).toLowerCase();
+
+      if (extension !== ".webp") {
+        throw new Error(`${page.path} ${role} image must be WebP: ${url}`);
+      }
+
+      if (!fs.existsSync(publicPathFromUrl(url))) {
+        throw new Error(`Missing gated community image for ${page.path} ${role}: ${url}`);
+      }
+
+      const hash = fileHash(url);
+      imageHashes.set(hash, [...(imageHashes.get(hash) ?? []), role]);
+    }
+
+    const repeatedHashGroup = [...imageHashes.values()].find((group) => group.length > 1);
+
+    if (repeatedHashGroup) {
+      throw new Error(
+        `${page.path} repeats the same image file content across roles: ${repeatedHashGroup.join(", ")}`
+      );
+    }
+  }
+
   console.log(
-    `Service image validation passed for ${chennaiConfig.services.length} services, ${seen.size} unique images, and ${manualServicePages.length} normalized manual pages.`
+    `Service image validation passed for ${chennaiConfig.services.length} services, ${seen.size} unique images, ${manualServicePages.length} normalized manual pages, and ${gatedCommunityPages.length} gated community pages.`
   );
 } catch (error) {
   console.error("Service image validation failed.");
