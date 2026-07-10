@@ -1,19 +1,19 @@
 export const siteConfig = {
   name: "DK Safety Solutions",
-  shortName: "DK Safety Solutions",
+  shortName: "DK Safety",
   domain: "dksafetysolutions.com",
   url: "https://dksafetysolutions.com",
   tagline: "Modern safety systems for homes, balconies, windows, and open spaces.",
   description:
     "DK Safety Solutions provides balcony protection, window safety, bird control, sports netting, and utility safety services across Chennai.",
   defaultImage: "/images/site/chennai-home-hero-safety-nets.webp",
-  logo: "/brand/dk-safety-logo-mobile.svg",
+  logo: "/brand/dk-safety-logo-mobile.png",
   logos: {
-    desktop: "/brand/dk-safety-logo-desktop.svg",
+    desktop: "/brand/dk-safety-logo-desktop.png",
     desktopPng: "/brand/dk-safety-logo-desktop.png",
-    mobile: "/brand/dk-safety-logo-mobile.svg",
+    mobile: "/brand/dk-safety-logo-mobile.png",
     mobilePng: "/brand/dk-safety-logo-mobile.png",
-    favicon: "/brand/dk-safety-favicon.svg",
+    favicon: "/brand/favicon-32.png",
     faviconPng: "/brand/favicon-32.png",
     appleTouchIcon: "/brand/dk-safety-apple-touch-icon.png",
     icon192: "/brand/dk-safety-icon-192.png",
@@ -33,6 +33,14 @@ export const siteConfig = {
       "Anna Nagar East, Chennai, Tamil Nadu 600102",
       "India",
     ],
+    googleBusiness: {
+      name: "DK Safety Solutions : balcony safety nets, pigeon nets & invisible grills in Anna Nagar",
+      shareUrl: "https://share.google/NKWcOBUaHDqsjq7HF",
+      mapHref:
+        "https://www.google.com/maps/search/?api=1&query=DK%20Safety%20Solutions%20balcony%20safety%20nets%20pigeon%20nets%20invisible%20grills%20Anna%20Nagar",
+      mapEmbedUrl:
+        "https://www.google.com/maps?q=DK%20Safety%20Solutions%20balcony%20safety%20nets%20pigeon%20nets%20invisible%20grills%20Anna%20Nagar&output=embed",
+    },
   },
   business: {
     schemaTypes: ["LocalBusiness", "HomeAndConstructionBusiness"],
@@ -75,38 +83,46 @@ export const siteConfig = {
   },
   navLinks: [
     { label: "Home", href: "/" },
+    { label: "Services", href: "/services" },
     { label: "About", href: "/about" },
     { label: "Gallery", href: "/gallery" },
     { label: "Contact", href: "/contact-us" },
   ],
   focusAreas: [
     {
-      title: "Balcony Protection",
+      title: "Invisible Grill Installation",
       description:
-        "Clean, modern safety finishes for apartments, villas, and high-rise homes.",
-      image: "/images/services/balcony-safety-nets/balcony-safety-nets-area-card.webp",
+        "Clear-view grill systems for balconies and windows without blocking airflow.",
+      image: "/images/home/invisible-grill-installation-chennai-balcony.png",
+      href: "/chennai/invisible-grills",
+    },
+    {
+      title: "Pigeon Safety Nets",
+      description:
+        "Clean pigeon net protection for balconies, ducts, ledges, and utility spaces.",
+      image: "/images/home/pigeon-safety-net-balcony-chennai.png",
+      href: "/chennai/pigeon-safety-nets",
+    },
+    {
+      title: "Balcony Safety Nets",
+      description:
+        "Strong balcony safety net fitting for families, children, pets, and open edges.",
+      image: "/images/home/balcony-safety-net-installation-chennai-apartment.png",
       href: "/chennai/balcony-safety-nets",
     },
     {
-      title: "Window Safety",
+      title: "Sports Nets",
       description:
-        "Slim protective systems that keep airflow and natural light feeling open.",
-      image: "/images/services/window-safety-nets/window-safety-nets-area-card.webp",
-      href: "/chennai/window-safety-nets",
+        "Durable practice nets for cricket, football, play areas, and terrace courts.",
+      image: "/images/home/sports-net-installation-cricket-chennai.png",
+      href: "/chennai/football-sports-nets",
     },
     {
-      title: "Bird Control",
+      title: "Cloth Hanger Installation",
       description:
-        "Neat balcony and utility-area protection made for low maintenance living.",
-      image: "/images/services/anti-bird-nets/anti-bird-nets-area-card.webp",
-      href: "/chennai/anti-bird-nets",
-    },
-    {
-      title: "Outdoor Utility",
-      description:
-        "Practical safety and utility setups for terraces, play zones, and service areas.",
-      image: "/images/services/terrace-safety-nets/terrace-safety-nets-area-card.webp",
-      href: "/chennai/terrace-safety-nets",
+        "Space-saving ceiling and wall-mounted hanger systems for modern homes.",
+      image: "/images/home/ceiling-cloth-hanger-installation-chennai.png",
+      href: "/chennai/cloth-hanger-installation",
     },
   ],
   galleryImages: [
@@ -153,11 +169,28 @@ export const siteConfig = {
     "Modern finish",
     "Warranty support",
   ],
+  faq: [
+    {
+      question: "Which safety services does DK Safety Solutions provide in Chennai?",
+      answer:
+        "DK Safety Solutions provides balcony safety nets, pigeon safety nets, invisible grills, sports nets, cloth hanger installation, terrace nets, window nets, staircase nets, and related home safety services across Chennai.",
+    },
+    {
+      question: "How can I contact DK Safety Solutions for a site visit?",
+      answer:
+        "You can call, WhatsApp, email, or use the contact form. Sharing your area, floor level, photos, and required service helps the team plan the visit faster.",
+    },
+    {
+      question: "Does DK Safety Solutions serve Anna Nagar and other Chennai areas?",
+      answer:
+        "Yes. DK Safety Solutions is listed for Anna Nagar and serves Chennai areas including apartments, homes, villas, commercial spaces, and communities.",
+    },
+  ],
   stats: [
     { value: "Proven", label: "Bird Control", detail: "Protects balconies, terraces, and utility areas from pest birds." },
     { value: "Reliable", label: "Net Installation", detail: "Strong, low-profile nets installed with clean, safe finishes." },
     { value: "Safe", label: "Home Protection", detail: "Keeps families safe while preserving airflow and views." },
-    { value: "Fast", label: "Site Survey", detail: "Quick site visits and site-matched bird-control solutions for your home." },
+    { value: "Fast", label: "Site Survey", detail: "Quick site visits and tailored bird-control solutions for your home." },
   ],
   testimonials: [
     {
@@ -166,7 +199,7 @@ export const siteConfig = {
       location: "Adyar",
       project: "Balcony safety nets",
       quote:
-        "The balcony safety net was matched to our railing gaps and cleaning access, so the space still feels open.",
+        "The balcony safety net was planned around our railing gaps and cleaning access, so the space still feels open.",
     },
     {
       name: "Anna Nagar Home Owner",
@@ -194,28 +227,6 @@ export const siteConfig = {
     },
   ],
   clients: ["Residential Homes", "Apartments", "Villas", "Commercial Spaces", "Communities"],
-  clientCards: [
-    {
-      name: "Residential Homes",
-      image: "/images/site/chennai-home-hero-safety-nets.webp",
-    },
-    {
-      name: "Apartments",
-      image: "/images/apartment-balcony-invisible-grills-near-me-in-hyderabad.webp",
-    },
-    {
-      name: "Villas",
-      image: "/images/invisible-grill.webp",
-    },
-    {
-      name: "Commercial Spaces",
-      image: "/images/site/chennai-about-installation-team.webp",
-    },
-    {
-      name: "Communities",
-      image: "/images/sports-nets-installation-for-cricket-and-football-practice.webp",
-    },
-  ],
   socialProfiles: [
     {
       name: "Instagram",

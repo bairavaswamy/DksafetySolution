@@ -82,7 +82,7 @@ export default function AboutClient() {
         </div>
       </section>
 
-      <section className="bg-[#344A6C] px-6 py-12 text-center text-white">
+      <section className="bg-primary-900 px-6 py-12 text-center text-white">
         <h2 className="mb-4 text-3xl font-bold">Ready to plan a safety installation.</h2>
         <p className="mx-auto mb-6 max-w-2xl">
           Pick a Chennai area, choose the service, and contact DK Safety Solutions
@@ -91,7 +91,7 @@ export default function AboutClient() {
         <Link
           href="/contact-us"
           prefetch={false}
-          className="inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 font-semibold text-sky-500 shadow transition hover:bg-gray-100"
+          className="inline-flex items-center gap-2 rounded-full bg-secondary px-6 py-3 font-semibold text-white shadow transition hover:bg-secondary-600"
         >
           Contact Us
           <ArrowRight size={18} />

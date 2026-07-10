@@ -4,6 +4,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { ArrowRight } from "lucide-react";
 import ButtonCards from "./components/ButtonCards";
+import ContactDetailsBar from "./components/ContactDetailsBar";
 import HomeStats from "./components/HomeStats";
 import { chennaiConfig } from "./config/chennai.config";
 import {
@@ -98,14 +99,14 @@ export default function Home() {
       <link
         rel="preload"
         as="image"
-        href="/images/site/hero-v3-open-balcony-grill-mobile.webp"
+        href="/images/home/invisible-grill-installation-chennai-balcony.png"
         media="(max-width: 767px)"
         fetchPriority="high"
       />
       <link
         rel="preload"
         as="image"
-        href="/images/site/hero-v3-open-balcony-grill-desktop.webp"
+        href="/images/home/invisible-grill-installation-chennai-balcony.png"
         media="(min-width: 768px)"
         fetchPriority="high"
       />
@@ -115,10 +116,13 @@ export default function Home() {
           __html: homeJsonLd,
         }}
       />
-      <main className="overflow-hidden bg-white px-4 pb-6 pt-[1px] md:pt-[3px] sm:p-6">
+      <main className="overflow-hidden bg-white px-4 pb-6 sm:px-6">
         <h1 className="sr-only">{siteConfig.name}</h1>
 
         <Carousel />
+        <div className="-mx-4 sm:-mx-6">
+          <ContactDetailsBar />
+        </div>
 
         <ButtonCards />
 
@@ -133,12 +137,12 @@ export default function Home() {
             <p className="mt-4 text-sm leading-7 text-slate-600">
               DK Safety Solutions connects Chennai customers to safety net,
               invisible grill, bird control, sports net, and utility installation
-              pages with enough detail to choose the right service before booking a visit.
+              pages with clear service choices before the area-specific visit.
             </p>
             <div className="mt-5 flex flex-wrap gap-2">
               {[
                 "Chennai service pages",
-                "Area service notes",
+                "Area-specific planning",
                 "Phone and WhatsApp actions",
                 "Clean installation focus",
               ].map((point) => (
@@ -194,9 +198,9 @@ export default function Home() {
 
         <HomeStats />
 
-        <section className="mx-auto mt-10 bg-[#E5E5E5] px-4 py-12 sm:px-6 lg:px-8">
+        <section className="mx-auto mt-10 bg-primary-50 px-4 py-12 sm:px-6 lg:px-8">
           <h2 className="mb-4 text-2xl font-semibold text-sky-900">
-            Homes and Properties We Serve
+            Audiences We Are Preparing For
           </h2>
           <Clients />
         </section>

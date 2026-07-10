@@ -18,7 +18,7 @@ type ContactFormProps = {
 export default function ContactForm({
   eyebrow = `Contact ${siteConfig.shortName}`,
   heading = "Share your Chennai safety requirement.",
-  description = "Send your area, service, floor level, and photos if available. Phone, WhatsApp, and email are controlled from the central site config.",
+  description = "Send your area, service, floor level, and photos if available. We will review the requirement and contact you with the next step.",
   formTitle = "Get a Free Quote",
   submitLabel = "Send Enquiry",
   subjectLabel = FORM_NAME,
@@ -82,7 +82,7 @@ export default function ContactForm({
   };
 
   return (
-    <section id="quote" className="rounded-lg bg-sky-100 px-4 py-6 shadow-sm">
+    <section id="quote" className="rounded-lg bg-primary-50 px-4 py-6 shadow-sm">
       <div className="relative min-h-[620px] overflow-hidden rounded-2xl bg-gray-100 md:min-h-[520px]">
         <Image
           src={siteConfig.defaultImage}
@@ -91,11 +91,11 @@ export default function ContactForm({
           className="object-cover"
           sizes="100vw"
         />
-        <div className="absolute inset-0 bg-slate-950/60" />
+        <div className="absolute inset-0 bg-primary-900/70" />
 
         <div className="relative z-10 grid min-h-[620px] gap-8 px-5 py-8 md:min-h-[520px] md:grid-cols-[0.9fr_1fr] md:px-10 lg:px-16">
           <div className="flex flex-col justify-center text-white">
-            <p className="text-sm font-bold uppercase tracking-[0.22em] text-lime-200">
+            <p className="text-sm font-bold uppercase tracking-[0.22em] text-secondary-200">
               {eyebrow}
             </p>
             <h2 className="mt-4 max-w-xl text-3xl font-extrabold leading-tight sm:text-5xl">
@@ -108,7 +108,7 @@ export default function ContactForm({
             <div className="mt-6 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-3 text-sm font-semibold backdrop-blur transition hover:bg-white/20"
+                className="inline-flex items-center gap-2 rounded-full border border-red-300/60 bg-red-600/90 px-4 py-3 text-sm font-semibold backdrop-blur transition hover:bg-red-700"
               >
                 <Phone size={17} />
                 {siteConfig.contact.phoneLabel}
@@ -117,7 +117,7 @@ export default function ContactForm({
                 href={siteConfig.contact.whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 rounded-full border border-sky-300/40 bg-sky-500/20 px-4 py-3 text-sm font-semibold text-sky-50 backdrop-blur transition hover:bg-sky-500/30"
+                className="inline-flex items-center gap-2 rounded-full border border-accent-300/70 bg-accent/90 px-4 py-3 text-sm font-semibold text-white backdrop-blur transition hover:bg-accent-600"
               >
                 <MessageCircle size={17} />
                 WhatsApp
@@ -133,7 +133,7 @@ export default function ContactForm({
           </div>
 
           <div className="flex items-center">
-            <div className="relative w-full rounded-3xl border border-white/10 bg-white/15 p-6 shadow-[0_25px_70px_rgba(0,40,120,0.15)] backdrop-blur-xl sm:p-8">
+            <div className="relative w-full rounded-3xl border border-white/15 bg-white/15 p-6 shadow-[0_25px_70px_rgba(15,76,129,0.24)] backdrop-blur-xl sm:p-8">
               <h3 className="mb-6 text-center text-2xl font-bold tracking-wide text-white">
                 {formTitle}
               </h3>
@@ -146,7 +146,7 @@ export default function ContactForm({
                     value={formData.name}
                     onChange={handleChange}
                     required
-                    className="rounded-xl border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-xl border border-primary-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
                   />
                   <input
                     name="phone"
@@ -154,7 +154,7 @@ export default function ContactForm({
                     value={formData.phone}
                     onChange={handleChange}
                     required
-                    className="rounded-xl border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-xl border border-primary-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
                   />
                 </div>
 
@@ -166,14 +166,14 @@ export default function ContactForm({
                     value={formData.email}
                     onChange={handleChange}
                     required
-                    className="rounded-xl border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-xl border border-primary-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
                   />
                   <input
                     name="purpose"
                     placeholder="Requirement"
                     value={formData.purpose}
                     onChange={handleChange}
-                    className="rounded-xl border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                    className="rounded-xl border border-primary-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
                   />
                 </div>
 
@@ -183,11 +183,11 @@ export default function ContactForm({
                   placeholder="Project details, location, or notes..."
                   value={formData.message}
                   onChange={handleChange}
-                  className="resize-none rounded-xl border border-blue-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-200"
+                  className="resize-none rounded-xl border border-primary-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
                 />
 
                 {status === "success" ? (
-                  <div className="rounded-lg border border-sky-300 bg-sky-50 p-3 text-sm text-sky-700">
+                  <div className="rounded-lg border border-accent-300 bg-accent-50 p-3 text-sm text-accent-700">
                     Enquiry sent successfully. We will contact you soon.
                   </div>
                 ) : null}
@@ -201,7 +201,7 @@ export default function ContactForm({
                 <button
                   type="submit"
                   disabled={status === "loading"}
-                  className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-blue-600 via-cyan-500 to-indigo-700 py-3 font-bold text-white shadow-[0_10px_30px_rgba(0,80,200,0.5)] transition-all duration-300 hover:from-blue-500 hover:to-indigo-800 disabled:cursor-not-allowed disabled:opacity-50"
+                  className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-secondary py-3 font-bold text-white shadow-[0_10px_30px_rgba(249,115,22,0.32)] transition-all duration-300 hover:bg-secondary-600 disabled:cursor-not-allowed disabled:opacity-50"
                 >
                   {status === "loading" ? "Sending..." : submitLabel}
                   <ArrowRight size={18} />

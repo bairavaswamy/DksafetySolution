@@ -22,7 +22,7 @@ export default function HomeStats() {
                     {stat.label}
                   </h2>
                 </div>
-                <span className="mt-1 h-3 w-3 rounded-full bg-lime-400 shadow-[0_0_0_6px_rgba(251,191,36,0.16)] transition-transform duration-300 group-hover:scale-125" />
+                <span className="mt-1 h-3 w-3 rounded-full bg-accent shadow-[0_0_0_6px_rgba(34,197,94,0.18)] transition-transform duration-300 group-hover:scale-125" />
               </div>
 
               <p className="mt-4 text-sm leading-6 text-slate-600">{stat.detail}</p>

@@ -88,7 +88,7 @@ export default function ManualEntryServicePage({
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center gap-2 rounded-full bg-sky-500 px-5 py-3 font-bold text-white shadow-lg shadow-sky-950/20 transition hover:bg-sky-600"
+                className="inline-flex items-center gap-2 rounded-full bg-red-600 px-5 py-3 font-bold text-white shadow-lg shadow-red-950/20 transition hover:bg-red-700"
               >
                 <Phone size={18} />
                 Call for {area.name}
@@ -97,7 +97,7 @@ export default function ManualEntryServicePage({
                 href={siteConfig.contact.whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 px-5 py-3 font-bold text-white backdrop-blur transition hover:bg-white/20"
+                className="inline-flex items-center gap-2 rounded-full border border-accent-300/70 bg-accent/90 px-5 py-3 font-bold text-white backdrop-blur transition hover:bg-accent-600"
               >
                 <MessageCircle size={18} />
                 WhatsApp Details
@@ -278,7 +278,7 @@ export default function ManualEntryServicePage({
             <div className="mt-5 grid gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-slate-950 px-5 py-3 font-bold text-white shadow transition hover:bg-slate-800"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-red-600 px-5 py-3 font-bold text-white shadow transition hover:bg-red-700"
               >
                 <Phone size={17} />
                 Call Now
@@ -315,7 +315,7 @@ export default function ManualEntryServicePage({
         </aside>
       </section>
 
-      <section className="bg-[#f7faf7] px-4 py-14">
+      <section className="bg-primary-50 px-4 py-14">
         <div className="mx-auto max-w-5xl">
           <p className="text-center text-sm font-bold uppercase tracking-[0.2em] text-indigo-700">
             FAQ
@@ -354,7 +354,7 @@ export default function ManualEntryServicePage({
       </section>
 
       <section className="px-4 py-16">
-        <div className="mx-auto max-w-7xl rounded-lg bg-[#344A6C] p-8 text-center text-white shadow-xl">
+        <div className="mx-auto max-w-7xl rounded-lg bg-primary-900 p-8 text-center text-white shadow-xl">
           <h2 className="text-3xl font-black">
             Book {service.name.toLowerCase()} in {area.name}
           </h2>

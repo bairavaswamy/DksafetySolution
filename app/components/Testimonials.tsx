@@ -20,7 +20,7 @@ function Stars() {
 
 export default function Testimonials() {
   return (
-    <div className="mx-auto max-w-7xl rounded-[34px] border border-stone-200 bg-[#fbfaf5] p-4 shadow-[0_24px_70px_rgba(15,23,42,0.08)] sm:p-6 lg:p-8">
+    <div className="mx-auto max-w-7xl rounded-[34px] border border-primary-100 bg-primary-50 p-4 shadow-[0_24px_70px_rgba(15,76,129,0.08)] sm:p-6 lg:p-8">
       <div className="grid gap-6 lg:grid-cols-[0.85fr_1.5fr]">
         <div className="rounded-[28px] border border-indigo-100 bg-white p-6 shadow-sm lg:p-7">
           <p className="text-xs font-bold uppercase tracking-[0.22em] text-indigo-700">

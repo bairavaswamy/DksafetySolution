@@ -25,12 +25,13 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: `${siteConfig.name} | Home Safety Solutions`,
   description: siteConfig.description,
+  manifest: "/manifest.webmanifest",
   icons: {
     icon: [
-      { url: siteConfig.logos.favicon, type: "image/svg+xml" },
       { url: siteConfig.logos.faviconPng, sizes: "32x32", type: "image/png" },
+      { url: siteConfig.logos.icon192, sizes: "192x192", type: "image/png" },
     ],
-    shortcut: [{ url: siteConfig.logos.favicon }],
+    shortcut: [{ url: siteConfig.logos.favicon, type: "image/png" }],
     apple: [{ url: siteConfig.logos.appleTouchIcon, sizes: "180x180", type: "image/png" }],
   },
   robots: {

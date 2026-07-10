@@ -10,13 +10,116 @@ html {
 body {
   min-height: 100%;
   overflow-x: clip;
-  background: linear-gradient(180deg, #f8fbff 0%, #eef6ff 100%);
+  background: #F8FAFC;
   color: #0f172a;
   font-family: Poppins, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+.app-shell {
+  border-radius: 18px;
+  overflow: hidden;
+  background: #ffffff;
+  box-shadow: 0 10px 40px rgba(15, 76, 129, 0.08);
+  border: 1px solid rgba(15, 23, 42, 0.04);
+}
+
+/* remove rounded corners and full-bleed layout on larger screens */
+@media (min-width: 768px) {
+  .app-shell {
+    border-radius: 0;
+    box-shadow: none;
+    border: none;
+  }
+}
+
 /* ensure images don't overflow their containers */
 img { max-width: 100%; height: auto; display: block; }
+
+.hero-overlay {
+  background: linear-gradient(90deg, rgba(15, 76, 129, 0.9), rgba(249, 115, 22, 0.58));
+}
+
+.btn-accent {
+  background-color: #F97316;
+  color: white;
+  box-shadow: 0 10px 24px rgba(249, 115, 22, 0.22);
+}
+
+.btn-accent:hover {
+  background-color: #ea580c;
+}
+
+.ribbon-mobile {
+  background: linear-gradient(90deg, #0F4C81, #F97316);
+}
+
+.marquee-mask {
+  mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+}
+
+.marquee-track {
+  animation: marquee-scroll 36s linear infinite;
+}
+
+.marquee-mask:hover .marquee-track {
+  animation-play-state: paused;
+}
+
+@keyframes marquee-scroll {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+/* hide native scrollbar while keeping scrolling usable */
+.hide-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.hide-scrollbar::-webkit-scrollbar { display: none; }
+
+/* enable smooth touch scrolling for mobile */
+.hide-scrollbar {
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-x;
+}
+
+/* thin, visible scrollbar for certain horizontal strips */
+.thin-scrollbar {
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+}
+.thin-scrollbar::-webkit-scrollbar { height: 6px; }
+.thin-scrollbar::-webkit-scrollbar-track { background: transparent; }
+.thin-scrollbar::-webkit-scrollbar-thumb { background: rgba(15,23,42,0.12); border-radius: 9999px; }
+
+/* scroll snap helpers */
+.snap-x { scroll-snap-type: x mandatory; }
+.snap-start { scroll-snap-align: start; }
+
+/* Hide scrollbar but keep scroll functionality */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, Edge */
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* for IE and Edge */
+  scrollbar-width: none;     /* for Firefox */
+}
+
+/* Add to your CSS */
+@layer utilities {
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
 

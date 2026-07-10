@@ -9,9 +9,9 @@ import {
 } from "../config/schema.config";
 import { absoluteUrl, siteConfig } from "../config/site.config";
 
-const url = absoluteUrl("/contact-us");
+const url = absoluteUrl("/contact-us/");
 const title = `Contact ${siteConfig.name}`;
-const description = `Contact ${siteConfig.name} for Chennai safety net, invisible grill, bird-control, sports net, and utility installation enquiries.`;
+const description = `Contact ${siteConfig.name} in Anna Nagar, Chennai for balcony safety nets, pigeon nets, invisible grills, sports nets, and cloth hanger installation.`;
 
 export const metadata: Metadata = {
   title,
@@ -23,6 +23,8 @@ export const metadata: Metadata = {
     `contact ${siteConfig.name}`,
     siteConfig.domain,
     "DK Safety Solutions phone",
+    "DK Safety Solutions Anna Nagar",
+    "DK Safety Solutions Google Maps",
     "home safety enquiry",
   ],
   openGraph: {

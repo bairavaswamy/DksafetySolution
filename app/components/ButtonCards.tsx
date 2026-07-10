@@ -19,7 +19,7 @@ function ButtonCardsInner({ images = siteConfig.focusAreas }: { images?: readonl
       </div>
 
       <div className="mx-auto grid w-full max-w-sm gap-4 px-4 pb-4 md:hidden">
-        {images.slice(0, 4).map((item) => (
+        {images.slice(0, 5).map((item) => (
           <article
             key={item.title}
             className="overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm"
@@ -29,7 +29,7 @@ function ButtonCardsInner({ images = siteConfig.focusAreas }: { images?: readonl
         ))}
       </div>
 
-      <div className="mx-auto hidden w-full max-w-7xl grid-cols-2 gap-6 px-4 pb-4 md:grid lg:grid-cols-4">
+      <div className="mx-auto hidden w-full max-w-7xl grid-cols-2 gap-6 px-4 pb-4 md:grid lg:grid-cols-5">
         {images.map((item) => (
           <div
             key={item.title}
@@ -57,7 +57,21 @@ function FocusCard({ item, isMobile = false }: { item: FocusItem; isMobile?: boo
       </div>
 
       <div className="p-4 text-left">
-        <h3 className="text-base font-semibold text-slate-950">{item.title}</h3>
+        <div className="flex items-center gap-3">
+          <span className="relative h-11 w-11 shrink-0 overflow-hidden rounded-full border border-primary-100 bg-white shadow-sm ring-2 ring-white">
+            <Image
+              src={item.image}
+              alt=""
+              fill
+              className="object-cover"
+              sizes="44px"
+              unoptimized
+            />
+          </span>
+          <h3 className="min-w-0 text-base font-semibold leading-tight text-slate-950">
+            {item.title}
+          </h3>
+        </div>
         <p className="mt-2 min-h-[72px] text-sm leading-6 text-gray-600">{item.description}</p>
 
         <Link

@@ -51,7 +51,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex w-full max-w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-sky-500 to-lime-500 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-sky-950/20 transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-sky-950/30 sm:w-auto sm:text-base"
+                className="inline-flex w-full max-w-full items-center justify-center gap-2 rounded-full bg-red-600 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-red-900/20 transition-all duration-300 hover:scale-105 hover:bg-red-700 hover:shadow-xl hover:shadow-red-900/30 sm:w-auto sm:text-base"
               >
                 <Phone size={18} />
                 <span className="truncate">{page.hero.primaryCta}</span>
@@ -60,7 +60,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
                 href={siteConfig.contact.whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex w-full max-w-full items-center justify-center gap-2 rounded-full border border-white/25 bg-white/10 px-5 py-3 text-sm font-bold text-white backdrop-blur transition-all duration-300 hover:border-white/40 hover:bg-white/20 sm:w-auto sm:text-base"
+                className="inline-flex w-full max-w-full items-center justify-center gap-2 rounded-full border border-accent-300/70 bg-accent/90 px-5 py-3 text-sm font-bold text-white backdrop-blur transition-all duration-300 hover:border-accent-200 hover:bg-accent-600 sm:w-auto sm:text-base"
               >
                 <MessageCircle size={18} />
                 <span className="truncate">{page.hero.secondaryCta}</span>
@@ -164,7 +164,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
             <div className="mt-5 grid gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-slate-950 px-5 py-3 font-bold text-white shadow transition-all duration-300 hover:bg-slate-800 hover:shadow-lg hover:scale-105"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-red-600 px-5 py-3 font-bold text-white shadow transition-all duration-300 hover:scale-105 hover:bg-red-700 hover:shadow-lg"
               >
                 <Phone size={17} />
                 Call
@@ -182,7 +182,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
         </aside>
       </section>
 
-      <section className="bg-[#f7faf7] px-4 py-14">
+      <section className="bg-primary-50 px-4 py-14">
         <div className="mx-auto max-w-7xl">
           <div className="max-w-3xl">
             <p className="text-sm font-bold uppercase tracking-[0.2em] text-indigo-700">
@@ -225,7 +225,7 @@ export default function ManualServiceArticle({ page }: ManualServiceArticleProps
       </section>
 
       <section className="px-4 pb-16">
-        <div className="mx-auto max-w-7xl rounded-[34px] bg-[#344A6C] p-8 text-center text-white shadow-xl">
+        <div className="mx-auto max-w-7xl rounded-[34px] bg-primary-900 p-8 text-center text-white shadow-xl">
           <h2 className="text-3xl font-black">{page.closing.heading}</h2>
           <div className="mx-auto mt-5 max-w-3xl space-y-4 text-sm leading-7 text-slate-100">
             {page.closing.paragraphs.map((paragraph) => (

@@ -20,11 +20,11 @@ type CityPageProps = {
   };
 };
 
+export const dynamicParams = false;
+
 const cityPageTitle = "Chennai Safety Services and Areas | DK Safety Solutions";
 const cityPageDescription =
   "Browse DK Safety Solutions services across Chennai, including balcony safety nets, invisible grills, bird control, sports nets, and utility services.";
-
-export const dynamicParams = false;
 
 export function generateStaticParams() {
   return [{ city: chennaiConfig.citySlug }];

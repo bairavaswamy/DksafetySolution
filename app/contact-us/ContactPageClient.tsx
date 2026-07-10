@@ -1,54 +1,92 @@
 import Link from "next/link";
-import { Clock3, Mail, MapPin, MessageCircle, Phone, ShieldCheck } from "lucide-react";
+import {
+  Clock3,
+  ExternalLink,
+  Mail,
+  MapPin,
+  MessageCircle,
+  Navigation,
+  Phone,
+  ShieldCheck,
+} from "lucide-react";
 import ContactForm from "../components/ContactForm";
 import SocialProfileLinks from "../components/SocialProfileLinks";
 import { siteConfig } from "../config/site.config";
+
+const googleBusiness = siteConfig.contact.googleBusiness;
 
 const contactCards = [
   {
     label: "Call",
     value: siteConfig.contact.phoneLabel,
+    description: "Speak directly with the DK Safety Solutions team.",
     href: siteConfig.contact.phoneHref,
     icon: Phone,
+    tone: "text-red-600",
+    hover: "hover:border-red-300",
   },
   {
     label: "WhatsApp",
     value: siteConfig.contact.whatsappLabel,
+    description: "Send photos, location, and service requirement.",
     href: siteConfig.contact.whatsappHref,
     icon: MessageCircle,
     external: true,
+    tone: "text-accent-700",
+    hover: "hover:border-accent-300",
   },
   {
     label: "Email",
     value: siteConfig.contact.email,
+    description: "Share project details for a written response.",
     href: siteConfig.contact.emailHref,
     icon: Mail,
+    tone: "text-primary",
+    hover: "hover:border-primary-300",
   },
+  {
+    label: "Google Maps",
+    value: "Anna Nagar listing",
+    description: "Open the live Google Business profile.",
+    href: googleBusiness.mapHref,
+    icon: Navigation,
+    external: true,
+    tone: "text-secondary",
+    hover: "hover:border-secondary-300",
+  },
+];
+
+const serviceLinks = [
+  { label: "Invisible Grills", href: "/chennai/invisible-grills" },
+  { label: "Pigeon Nets", href: "/chennai/pigeon-safety-nets" },
+  { label: "Balcony Nets", href: "/chennai/balcony-safety-nets" },
+  { label: "Sports Nets", href: "/chennai/football-sports-nets" },
+  { label: "Cloth Hangers", href: "/chennai/cloth-hanger-installation" },
 ];
 
 export default function ContactPageClient() {
   return (
-    <div className="bg-gradient-to-b from-sky-50 via-white to-lime-50">
-      <section className="mx-auto max-w-7xl px-4 py-12 lg:py-16">
-        <div className="grid gap-8 lg:grid-cols-[0.85fr_1.15fr]">
-          <div className="space-y-6">
-            <div className="inline-flex items-center gap-2 rounded-full border border-sky-200 bg-white/80 px-4 py-2 text-sm font-semibold text-sky-600 shadow-sm">
+    <div className="bg-[#F8FAFC]">
+      <section className="mx-auto max-w-7xl px-4 pb-12 pt-28 sm:px-6 lg:pt-32">
+        <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr]">
+          <div className="space-y-7">
+            <div className="inline-flex items-center gap-2 rounded-full border border-primary-100 bg-white px-4 py-2 text-sm font-bold text-primary shadow-sm">
               <ShieldCheck size={16} />
               Chennai enquiry desk
             </div>
 
             <div>
-              <h1 className="max-w-3xl text-4xl font-extrabold leading-tight text-slate-900 sm:text-5xl">
-                Contact {siteConfig.name}.
+              <h1 className="max-w-3xl text-4xl font-extrabold leading-tight text-slate-950 sm:text-5xl">
+                Contact {siteConfig.name}
               </h1>
               <p className="mt-4 max-w-2xl text-base leading-8 text-slate-600 sm:text-lg">
-                Call, WhatsApp, or send the form with your area, service, floor
-                level, and photos. The same contact details are used across every
-                Chennai service page.
+                Call or WhatsApp for balcony nets, pigeon nets, invisible grills,
+                sports nets, and cloth hanger installation in Chennai. Share your
+                area, floor level, photos, and preferred visit time.
               </p>
             </div>
 
-            <div className="grid gap-4 sm:grid-cols-3">
+            <div className="grid gap-4 sm:grid-cols-2">
               {contactCards.map((card) => {
                 const Icon = card.icon;
 
@@ -58,75 +96,113 @@ export default function ContactPageClient() {
                     href={card.href}
                     target={card.external ? "_blank" : undefined}
                     rel={card.external ? "noopener noreferrer" : undefined}
-                    className="rounded-3xl border border-sky-100 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-sky-300"
+                    className={`group rounded-lg border border-primary-100 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 ${card.hover}`}
                   >
-                    <Icon className="text-sky-500" size={22} />
-                    <p className="mt-4 text-sm font-semibold uppercase tracking-[0.18em] text-sky-500">
+                    <div className="flex items-start justify-between gap-3">
+                      <Icon className={card.tone} size={23} />
+                      {card.external ? (
+                        <ExternalLink
+                          className="text-slate-300 transition group-hover:text-secondary"
+                          size={17}
+                        />
+                      ) : null}
+                    </div>
+                    <p className={`mt-4 text-sm font-black uppercase tracking-[0.16em] ${card.tone}`}>
                       {card.label}
                     </p>
-                    <p className="mt-2 break-words text-sm font-bold text-slate-900">{card.value}</p>
+                    <p className="mt-2 break-words text-sm font-bold text-slate-950">
+                      {card.value}
+                    </p>
+                    <p className="mt-2 text-sm leading-6 text-slate-600">{card.description}</p>
                   </a>
                 );
               })}
             </div>
 
-            <div className="rounded-[30px] border border-sky-100 bg-white p-6 shadow-lg shadow-sky-100/60">
-              <div className="grid gap-5 sm:grid-cols-2">
-                <div className="flex items-start gap-4 rounded-2xl border border-slate-200 bg-slate-50 p-4">
-                  <MapPin className="mt-1 text-sky-500" size={20} />
-                  <div>
-                    <p className="font-semibold text-slate-950">Location</p>
-                    <p className="mt-1 text-sm leading-6 text-slate-600">
-                      {siteConfig.contact.addressLines.join(", ")}
-                    </p>
-                  </div>
+            <div className="rounded-lg border border-primary-100 bg-white p-5 shadow-sm">
+              <p className="text-sm font-black uppercase tracking-[0.18em] text-secondary">
+                Google Business Listing
+              </p>
+              <h2 className="mt-3 text-xl font-extrabold leading-snug text-slate-950">
+                {googleBusiness.name}
+              </h2>
+              <div className="mt-4 grid gap-4 text-sm text-slate-600 sm:grid-cols-2">
+                <div className="flex items-start gap-3">
+                  <MapPin className="mt-0.5 shrink-0 text-primary" size={18} />
+                  <span>{siteConfig.contact.addressLines.join(", ")}</span>
                 </div>
-
-                <div className="flex items-start gap-4 rounded-2xl border border-slate-200 bg-slate-50 p-4">
-                  <Clock3 className="mt-1 text-sky-500" size={20} />
-                  <div>
-                    <p className="font-semibold text-slate-950">Working Hours</p>
-                    <p className="mt-1 text-sm leading-6 text-slate-600">
-                      {siteConfig.contact.hours}
-                    </p>
-                  </div>
+                <div className="flex items-start gap-3">
+                  <Clock3 className="mt-0.5 shrink-0 text-primary" size={18} />
+                  <span>{siteConfig.contact.hours}</span>
                 </div>
               </div>
-
-              <SocialProfileLinks
-                className="mt-6 rounded-2xl border border-sky-100 bg-sky-50/70 p-4"
-                heading="Social Profiles"
-                description="Add or replace final profile URLs in the central site config."
-                showLabels
-                variant="warm"
-              />
             </div>
           </div>
 
-          <div>
-            <ContactForm />
-          </div>
+          <ContactForm />
         </div>
       </section>
 
-      <section className="mx-auto max-w-7xl px-4 pb-14">
-        <div className="rounded-[34px] border border-sky-100 bg-white p-7 text-center shadow-xl shadow-sky-100/50 sm:p-8">
-          <h2 className="text-2xl font-bold text-slate-950">Service pages are connected.</h2>
-          <p className="mx-auto mt-3 max-w-2xl text-sm leading-7 text-slate-600">
-            Continue from Home, Chennai, About, Gallery, or Contact and move into
-            the right Chennai service page whenever you need a site quote.
-          </p>
-          <div className="mt-5 flex flex-wrap justify-center gap-3">
-            {siteConfig.navLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                prefetch={false}
-                className="rounded-full border border-sky-200 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-sky-400 hover:text-sky-500"
-              >
-                {link.label}
-              </Link>
-            ))}
+      <section className="mx-auto max-w-7xl px-4 pb-16 sm:px-6">
+        <div className="grid gap-6 lg:grid-cols-[0.8fr_1.2fr]">
+          <div className="rounded-lg border border-primary-100 bg-white p-6 shadow-sm">
+            <p className="text-sm font-black uppercase tracking-[0.18em] text-secondary">
+              Find Us
+            </p>
+            <h2 className="mt-3 text-2xl font-extrabold text-slate-950">
+              DK Safety Solutions in Anna Nagar
+            </h2>
+            <p className="mt-3 text-sm leading-7 text-slate-600">
+              Use the map to open our Google Business listing, request directions,
+              or confirm the business name before calling.
+            </p>
+
+            <a
+              href={googleBusiness.mapHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-5 inline-flex items-center gap-2 rounded-full bg-secondary px-5 py-3 text-sm font-bold text-white shadow-sm shadow-secondary/30 transition hover:bg-secondary-600"
+            >
+              Open Google Maps
+              <ExternalLink size={17} />
+            </a>
+
+            <div className="mt-7">
+              <p className="text-sm font-black uppercase tracking-[0.18em] text-primary">
+                Quick Service Links
+              </p>
+              <div className="mt-4 flex flex-wrap gap-2">
+                {serviceLinks.map((link) => (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    prefetch={false}
+                    className="rounded-full border border-primary-100 bg-primary-50 px-3 py-2 text-xs font-bold text-primary transition hover:border-secondary-300 hover:bg-secondary-50 hover:text-secondary-700"
+                  >
+                    {link.label}
+                  </Link>
+                ))}
+              </div>
+            </div>
+
+            <SocialProfileLinks
+              className="mt-7 rounded-lg border border-primary-100 bg-primary-50/70 p-4"
+              heading="Social Profiles"
+              description="Follow DK Safety Solutions for service updates and recent work."
+              showLabels
+              variant="warm"
+            />
+          </div>
+
+          <div className="overflow-hidden rounded-lg border border-primary-100 bg-white shadow-sm">
+            <iframe
+              src={googleBusiness.mapEmbedUrl}
+              title={`${googleBusiness.name} map`}
+              className="h-[360px] w-full border-0 md:h-[480px]"
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              allowFullScreen
+            />
           </div>
         </div>
       </section>

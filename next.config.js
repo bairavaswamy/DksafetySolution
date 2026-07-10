@@ -1,8 +1,11 @@
 /** @type {import('next').NextConfig} */
 
+const isDev = process.env.NODE_ENV === "development";
+
 const nextConfig = {
   reactStrictMode: true,
-  output: process.env.NODE_ENV === "production" ? "export" : undefined,
+  ...(isDev ? {} : { output: "export" }),
+  trailingSlash: true,
   staticPageGenerationTimeout: 180,
   images: {
     unoptimized: true,
@@ -13,6 +16,9 @@ const nextConfig = {
       process.env.NODE_ENV === "production"
         ? { exclude: ["error", "warn"] }
         : false,
+  },
+  experimental: {
+    cpus: 1,
   },
   webpack: (config, { dev }) => {
     if (!dev) {

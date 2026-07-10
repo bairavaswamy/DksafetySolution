@@ -12,17 +12,18 @@ import { absoluteUrl, siteConfig } from "../config/site.config";
 const title = `About ${siteConfig.name}`;
 const description =
   "Learn how DK Safety Solutions plans Chennai safety net, invisible grill, bird-control, sports net, and utility installations.";
+const aboutUrl = absoluteUrl("/about/");
 
 export const metadata: Metadata = {
   title,
   description,
   alternates: {
-    canonical: absoluteUrl("/about"),
+    canonical: aboutUrl,
   },
   openGraph: {
     title,
     description,
-    url: absoluteUrl("/about"),
+    url: aboutUrl,
     siteName: siteConfig.name,
     images: [
       {
@@ -43,7 +44,6 @@ export const metadata: Metadata = {
   },
 };
 
-const aboutUrl = absoluteUrl("/about");
 const aboutJsonLd = stringifySchema(
   getGraphSchema([
     {

@@ -13,17 +13,18 @@ import { absoluteUrl, siteConfig } from "../config/site.config";
 const title = `${siteConfig.name} Gallery`;
 const description =
   "Chennai safety net, invisible grill, bird-control, sports net, and utility installation visuals from DK Safety Solutions.";
+const galleryUrl = absoluteUrl("/gallery/");
 
 export const metadata: Metadata = {
   title,
   description,
   alternates: {
-    canonical: absoluteUrl("/gallery"),
+    canonical: galleryUrl,
   },
   openGraph: {
     title,
     description,
-    url: absoluteUrl("/gallery"),
+    url: galleryUrl,
     siteName: siteConfig.name,
     images: [
       {
@@ -44,7 +45,6 @@ export const metadata: Metadata = {
   },
 };
 
-const galleryUrl = absoluteUrl("/gallery");
 const galleryJsonLd = stringifySchema(
   getGraphSchema([
     {

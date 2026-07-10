@@ -32,6 +32,9 @@ export const schemaIds = {
   localBusiness: absoluteUrl("/#local-business"),
   website: absoluteUrl("/#website"),
   organization: absoluteUrl("/#organization"),
+  primaryImage: absoluteUrl("/#primary-image"),
+  logoImage: absoluteUrl("/#logo-image"),
+  siteFaq: absoluteUrl("/#site-faq"),
 };
 
 export const getPostalAddressSchema = () =>
@@ -58,18 +61,6 @@ export const getGeoSchema = () => {
   };
 };
 
-const getMapUrl = () => {
-  const { latitude, longitude } = siteConfig.business.geo;
-
-  if (latitude && longitude) {
-    return `https://www.google.com/maps/search/?api=1&query=${latitude},${longitude}`;
-  }
-
-  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-    siteConfig.contact.addressLines.join(", ")
-  )}`;
-};
-
 export const getAreaServedSchema = () => ({
   "@type": "City",
   name: siteConfig.business.areaServed.city,
@@ -87,11 +78,15 @@ export const getLocalBusinessSchema = () =>
     name: siteConfig.name,
     legalName: siteConfig.business.legalName,
     url: siteConfig.url,
-    logo: absoluteUrl(siteConfig.logos.desktopPng),
-    image: absoluteUrl(siteConfig.defaultImage),
+    logo: {
+      "@id": schemaIds.logoImage,
+    },
+    image: {
+      "@id": schemaIds.primaryImage,
+    },
+    hasMap: siteConfig.contact.googleBusiness.mapHref,
     telephone: siteConfig.contact.phoneLabel,
     email: siteConfig.contact.email,
-    hasMap: getMapUrl(),
     priceRange: siteConfig.business.priceRange,
     currenciesAccepted: siteConfig.business.currenciesAccepted,
     paymentAccepted: siteConfig.business.paymentAccepted,
@@ -122,7 +117,31 @@ export const getLocalBusinessSchema = () =>
         availableLanguage: ["en", "ta"],
       },
     ],
-    sameAs: siteConfig.socialProfiles.map((profile) => profile.href),
+    sameAs: [
+      ...siteConfig.socialProfiles.map((profile) => profile.href),
+      siteConfig.contact.googleBusiness.shareUrl,
+    ],
+  });
+
+export const getImageObjectSchema = ({
+  id,
+  url,
+  name,
+  caption,
+}: {
+  id: string;
+  url: string;
+  name: string;
+  caption?: string;
+}) =>
+  compactObject({
+    "@type": "ImageObject",
+    "@id": id,
+    url,
+    contentUrl: url,
+    name,
+    caption,
+    representativeOfPage: id === schemaIds.primaryImage,
   });
 
 export const getOrganizationSchema = () => ({
@@ -130,7 +149,9 @@ export const getOrganizationSchema = () => ({
   "@id": schemaIds.organization,
   name: siteConfig.name,
   url: siteConfig.url,
-  logo: absoluteUrl(siteConfig.logos.desktopPng),
+  logo: {
+    "@id": schemaIds.logoImage,
+  },
   address: getPostalAddressSchema(),
   contactPoint: {
     "@type": "ContactPoint",
@@ -159,7 +180,24 @@ export const getWebSiteSchema = () => ({
 
 export const getSiteSchemaGraph = () => ({
   "@context": "https://schema.org",
-  "@graph": [getLocalBusinessSchema(), getOrganizationSchema(), getWebSiteSchema()],
+  "@graph": [
+    getLocalBusinessSchema(),
+    getOrganizationSchema(),
+    getWebSiteSchema(),
+    getImageObjectSchema({
+      id: schemaIds.logoImage,
+      url: absoluteUrl(siteConfig.logos.desktopPng),
+      name: `${siteConfig.name} logo`,
+      caption: `${siteConfig.name} brand logo`,
+    }),
+    getImageObjectSchema({
+      id: schemaIds.primaryImage,
+      url: absoluteUrl(siteConfig.defaultImage),
+      name: `${siteConfig.name} service image`,
+      caption: siteConfig.description,
+    }),
+    getFAQPageSchema(siteConfig.url, siteConfig.faq, schemaIds.siteFaq),
+  ],
 });
 
 export const getWebPageSchema = ({
@@ -246,25 +284,6 @@ export const getBreadcrumbListSchema = (
   })),
 });
 
-export const getFAQPageSchema = (
-  url: string,
-  faq: Array<{
-    question: string;
-    answer: string;
-  }>
-) => ({
-  "@type": "FAQPage",
-  "@id": `${url}#faq`,
-  mainEntity: faq.map((item) => ({
-    "@type": "Question",
-    name: item.question,
-    acceptedAnswer: {
-      "@type": "Answer",
-      text: item.answer,
-    },
-  })),
-});
-
 export const getItemListSchema = ({
   url,
   name,
@@ -292,6 +311,26 @@ export const getItemListSchema = ({
       })
     ),
   });
+
+export const getFAQPageSchema = (
+  url: string,
+  faq: ReadonlyArray<{
+    question: string;
+    answer: string;
+  }>,
+  id = `${url}#faq`
+) => ({
+  "@type": "FAQPage",
+  "@id": id,
+  mainEntity: faq.map((item) => ({
+    "@type": "Question",
+    name: item.question,
+    acceptedAnswer: {
+      "@type": "Answer",
+      text: item.answer,
+    },
+  })),
+});
 
 export const getGraphSchema = (items: SchemaObject[]) => ({
   "@context": "https://schema.org",
