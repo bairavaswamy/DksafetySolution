@@ -5,10 +5,14 @@ function SkeletonBlock({ className = "" }: { className?: string }) {
 export function HeaderSkeleton() {
   return (
     <>
-      <div className="pointer-events-none fixed left-0 top-3 z-50 w-full px-3 sm:px-5">
-        <header className="pointer-events-auto mx-auto flex max-w-7xl items-center justify-between gap-3 rounded-full border border-white/60 bg-white/90 px-3 py-2 shadow-xl shadow-primary-900/10 backdrop-blur-md sm:px-6 sm:py-3">
-          <div className="flex shrink-0 items-center rounded-full bg-white/95 p-1 shadow-sm ring-1 ring-primary-100 sm:px-2 sm:py-1">
+      <div className="fixed left-0 top-0 z-50 w-screen max-w-[100vw] border-b border-primary-100 bg-white/95 shadow-lg shadow-primary-900/5 backdrop-blur-md">
+        <header className="mx-auto flex h-[68px] max-w-7xl items-center justify-between gap-3 px-4 sm:h-[76px] sm:px-6 lg:h-20">
+          <div className="flex max-w-[calc(100vw-8.75rem)] shrink-0 items-center gap-2 rounded-xl bg-white p-1 pr-2 ring-1 ring-primary-100 sm:max-w-none sm:px-2 sm:py-1">
             <div className="h-11 w-11 animate-pulse rounded-full bg-primary-100 sm:h-14 sm:w-48 sm:rounded-lg lg:w-56" />
+            <div className="space-y-1.5 sm:hidden">
+              <div className="h-3 w-16 animate-pulse rounded-full bg-primary-100" />
+              <div className="h-2 w-12 animate-pulse rounded-full bg-secondary-100" />
+            </div>
           </div>
 
           <div className="hidden animate-pulse items-center gap-3 lg:flex">
@@ -19,11 +23,20 @@ export function HeaderSkeleton() {
           </div>
 
           <div className="flex animate-pulse items-center gap-2">
-            <SkeletonBlock className="hidden h-10 w-32 rounded-full sm:block" />
-            <SkeletonBlock className="hidden h-10 w-32 rounded-full bg-secondary-100 md:block" />
+            <SkeletonBlock className="hidden h-10 w-48 rounded-full lg:block xl:w-72" />
+            <SkeletonBlock className="hidden h-10 w-32 rounded-full lg:block" />
+            <SkeletonBlock className="h-11 w-11 rounded-full lg:hidden" />
             <SkeletonBlock className="h-11 w-11 rounded-full lg:hidden" />
           </div>
         </header>
+        <div className="h-8 overflow-hidden border-t border-primary-100 bg-primary-900 px-4">
+          <div className="flex h-full animate-pulse items-center gap-3">
+            <SkeletonBlock className="h-5 w-28 rounded-full bg-white/20" />
+            <SkeletonBlock className="h-5 w-44 rounded-full bg-white/20" />
+            <SkeletonBlock className="h-5 w-36 rounded-full bg-white/20" />
+            <SkeletonBlock className="h-5 w-28 rounded-full bg-white/20" />
+          </div>
+        </div>
       </div>
     </>
   );

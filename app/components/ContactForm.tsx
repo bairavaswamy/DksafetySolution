@@ -82,133 +82,132 @@ export default function ContactForm({
   };
 
   return (
-    <section id="quote" className="rounded-lg bg-primary-50 px-4 py-6 shadow-sm">
-      <div className="relative min-h-[620px] overflow-hidden rounded-2xl bg-gray-100 md:min-h-[520px]">
-        <Image
-          src={siteConfig.defaultImage}
-          alt={`${siteConfig.name} contact background`}
-          fill
-          className="object-cover"
-          sizes="100vw"
-        />
-        <div className="absolute inset-0 bg-primary-900/70" />
-
-        <div className="relative z-10 grid min-h-[620px] gap-8 px-5 py-8 md:min-h-[520px] md:grid-cols-[0.9fr_1fr] md:px-10 lg:px-16">
-          <div className="flex flex-col justify-center text-white">
-            <p className="text-sm font-bold uppercase tracking-[0.22em] text-secondary-200">
-              {eyebrow}
-            </p>
-            <h2 className="mt-4 max-w-xl text-3xl font-extrabold leading-tight sm:text-5xl">
-              {heading}
-            </h2>
-            <p className="mt-4 max-w-lg text-base leading-8 text-slate-100">
-              {description}
-            </p>
-
-            <div className="mt-6 flex flex-wrap gap-3">
-              <a
-                href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center gap-2 rounded-full border border-red-300/60 bg-red-600/90 px-4 py-3 text-sm font-semibold backdrop-blur transition hover:bg-red-700"
-              >
-                <Phone size={17} />
-                {siteConfig.contact.phoneLabel}
-              </a>
-              <a
-                href={siteConfig.contact.whatsappHref}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 rounded-full border border-accent-300/70 bg-accent/90 px-4 py-3 text-sm font-semibold text-white backdrop-blur transition hover:bg-accent-600"
-              >
-                <MessageCircle size={17} />
-                WhatsApp
-              </a>
-              <a
-                href={siteConfig.contact.emailHref}
-                className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-3 text-sm font-semibold backdrop-blur transition hover:bg-white/20"
-              >
-                <Mail size={17} />
-                Email
-              </a>
-            </div>
+    <section id="quote" className="mx-auto max-w-7xl rounded-lg bg-secondary-100 p-4 shadow-soft sm:p-6 lg:p-8">
+      <div className="grid gap-5 lg:grid-cols-[0.88fr_1.12fr]">
+        <div className="rounded-lg bg-white p-5 shadow-soft sm:p-6">
+          <div className="relative h-48 overflow-hidden rounded-lg bg-slate-100">
+            <Image
+              src={siteConfig.defaultImage}
+              alt={`${siteConfig.name} safety installation`}
+              fill
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 38vw"
+              unoptimized
+            />
           </div>
 
-          <div className="flex items-center">
-            <div className="relative w-full rounded-3xl border border-white/15 bg-white/15 p-6 shadow-[0_25px_70px_rgba(15,76,129,0.24)] backdrop-blur-xl sm:p-8">
-              <h3 className="mb-6 text-center text-2xl font-bold tracking-wide text-white">
-                {formTitle}
-              </h3>
+          <p className="mt-5 text-xs font-black uppercase tracking-[0.22em] text-secondary">
+            {eyebrow}
+          </p>
+          <h2 className="mt-3 text-2xl font-semibold leading-tight text-green-900 sm:text-3xl">
+            {heading}
+          </h2>
+          <p className="mt-3 text-sm leading-7 text-slate-600">{description}</p>
 
-              <form className="grid grid-cols-1 gap-4" onSubmit={handleSubmit}>
-                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-                  <input
-                    name="name"
-                    placeholder="Full Name *"
-                    value={formData.name}
-                    onChange={handleChange}
-                    required
-                    className="rounded-xl border border-primary-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
-                  />
-                  <input
-                    name="phone"
-                    placeholder="Phone Number *"
-                    value={formData.phone}
-                    onChange={handleChange}
-                    required
-                    className="rounded-xl border border-primary-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
-                  />
-                </div>
-
-                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-                  <input
-                    name="email"
-                    type="email"
-                    placeholder="Email Address *"
-                    value={formData.email}
-                    onChange={handleChange}
-                    required
-                    className="rounded-xl border border-primary-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
-                  />
-                  <input
-                    name="purpose"
-                    placeholder="Requirement"
-                    value={formData.purpose}
-                    onChange={handleChange}
-                    className="rounded-xl border border-primary-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
-                  />
-                </div>
-
-                <textarea
-                  name="message"
-                  rows={4}
-                  placeholder="Project details, location, or notes..."
-                  value={formData.message}
-                  onChange={handleChange}
-                  className="resize-none rounded-xl border border-primary-200 bg-white/90 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
-                />
-
-                {status === "success" ? (
-                  <div className="rounded-lg border border-accent-300 bg-accent-50 p-3 text-sm text-accent-700">
-                    Enquiry sent successfully. We will contact you soon.
-                  </div>
-                ) : null}
-
-                {status === "error" ? (
-                  <div className="rounded-lg border border-red-300 bg-red-50 p-3 text-sm text-red-700">
-                    {errorMessage}
-                  </div>
-                ) : null}
-
-                <button
-                  type="submit"
-                  disabled={status === "loading"}
-                  className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-secondary py-3 font-bold text-white shadow-[0_10px_30px_rgba(249,115,22,0.32)] transition-all duration-300 hover:bg-secondary-600 disabled:cursor-not-allowed disabled:opacity-50"
-                >
-                  {status === "loading" ? "Sending..." : submitLabel}
-                  <ArrowRight size={18} />
-                </button>
-              </form>
-            </div>
+          <div className="mt-5 grid gap-3 sm:grid-cols-3 lg:grid-cols-1">
+            <a
+              href={siteConfig.contact.phoneHref}
+              className="inline-flex items-center justify-center gap-2 rounded-md bg-red-600 px-4 py-3 text-sm font-semibold text-white transition hover:bg-red-700"
+            >
+              <Phone size={17} />
+              Call
+            </a>
+            <a
+              href={siteConfig.contact.whatsappHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center gap-2 rounded-md bg-accent px-4 py-3 text-sm font-semibold text-white transition hover:bg-accent-600"
+            >
+              <MessageCircle size={17} />
+              WhatsApp
+            </a>
+            <a
+              href={siteConfig.contact.emailHref}
+              className="inline-flex items-center justify-center gap-2 rounded-md border border-primary px-4 py-3 text-sm font-semibold text-primary transition hover:border-secondary hover:bg-secondary hover:text-white"
+            >
+              <Mail size={17} />
+              Email
+            </a>
           </div>
+        </div>
+
+        <div className="rounded-lg bg-white p-5 shadow-soft sm:p-6 lg:p-8">
+          <div className="mb-5 border-b border-slate-100 pb-4">
+            <p className="text-xs font-black uppercase tracking-[0.22em] text-secondary">
+              Quote Request
+            </p>
+            <h3 className="mt-2 text-2xl font-semibold text-green-900">{formTitle}</h3>
+          </div>
+
+          <form className="grid grid-cols-1 gap-4" onSubmit={handleSubmit}>
+            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+              <input
+                name="name"
+                placeholder="Full Name *"
+                value={formData.name}
+                onChange={handleChange}
+                required
+                className="rounded-md border border-slate-200 bg-[#F8FAFC] px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
+              />
+              <input
+                name="phone"
+                placeholder="Phone Number *"
+                value={formData.phone}
+                onChange={handleChange}
+                required
+                className="rounded-md border border-slate-200 bg-[#F8FAFC] px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
+              />
+            </div>
+
+            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+              <input
+                name="email"
+                type="email"
+                placeholder="Email Address *"
+                value={formData.email}
+                onChange={handleChange}
+                required
+                className="rounded-md border border-slate-200 bg-[#F8FAFC] px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
+              />
+              <input
+                name="purpose"
+                placeholder="Service Needed"
+                value={formData.purpose}
+                onChange={handleChange}
+                className="rounded-md border border-slate-200 bg-[#F8FAFC] px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
+              />
+            </div>
+
+            <textarea
+              name="message"
+              rows={5}
+              placeholder="Project details, location, or notes..."
+              value={formData.message}
+              onChange={handleChange}
+              className="resize-none rounded-md border border-slate-200 bg-[#F8FAFC] px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
+            />
+
+            {status === "success" ? (
+              <div className="rounded-md border border-accent-300 bg-accent-50 p-3 text-sm text-accent-700">
+                Enquiry sent successfully. We will contact you soon.
+              </div>
+            ) : null}
+
+            {status === "error" ? (
+              <div className="rounded-md border border-red-300 bg-red-50 p-3 text-sm text-red-700">
+                {errorMessage}
+              </div>
+            ) : null}
+
+            <button
+              type="submit"
+              disabled={status === "loading"}
+              className="inline-flex w-full items-center justify-center gap-2 rounded-md bg-secondary py-3 font-semibold text-white shadow-[0_10px_24px_rgba(249,115,22,0.22)] transition hover:bg-secondary-600 disabled:cursor-not-allowed disabled:opacity-50"
+            >
+              {status === "loading" ? "Sending..." : submitLabel}
+              <ArrowRight size={18} />
+            </button>
+          </form>
         </div>
       </div>
     </section>

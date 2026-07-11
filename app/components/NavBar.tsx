@@ -7,29 +7,34 @@ import dynamic from "next/dynamic";
 import { ChevronDown, Menu, Phone, X } from "lucide-react";
 import { chennaiConfig } from "../config/chennai.config";
 import { siteConfig } from "../config/site.config";
+import SiteSearch from "./SiteSearch";
 
 const MenuClient = dynamic(() => import("./Menuclient"), {
   ssr: false,
 });
+
+const marqueeItems = [
+  { label: siteConfig.contact.phoneLabel, href: siteConfig.contact.phoneHref },
+  { label: "Invisible Grills Installation", href: `/${chennaiConfig.citySlug}/invisible-grills` },
+  { label: "Balcony Safety Nets", href: `/${chennaiConfig.citySlug}/balcony-safety-nets` },
+  { label: "Pigeon Nets", href: `/${chennaiConfig.citySlug}/pigeon-safety-nets` },
+  { label: "Sports Nets", href: `/${chennaiConfig.citySlug}/football-sports-nets` },
+  { label: "Cloth Hangers", href: `/${chennaiConfig.citySlug}/cloth-hanger-installation` },
+];
 
 const Header: React.FC = () => {
   const [open, setOpen] = useState(false);
   const cityHref = `/${chennaiConfig.citySlug}`;
   const standardLinks = siteConfig.navLinks.filter((link) => link.href !== cityHref);
 
-  const scrollToQuote = () => {
-    const element = document.getElementById("quote");
-    element?.scrollIntoView({ behavior: "smooth" });
-  };
-
   return (
     <>
-      <div className="pointer-events-none fixed left-0 top-3 z-50 w-full px-3 sm:px-5">
-        <header className="pointer-events-auto mx-auto flex max-w-7xl items-center justify-between gap-3 rounded-full border border-white/60 bg-white/90 px-3 py-2 shadow-xl shadow-primary-900/10 backdrop-blur-md sm:px-6 sm:py-3">
+      <div className="fixed left-0 top-0 z-50 w-screen max-w-[100vw] border-b border-primary-100 bg-white/95 shadow-lg shadow-primary-900/5 backdrop-blur-md">
+        <header className="mx-auto flex h-[68px] max-w-7xl items-center justify-between gap-3 px-4 sm:h-[76px] sm:px-6 lg:h-20">
           <Link
             href="/"
             prefetch={false}
-            className="flex shrink-0 items-center rounded-full bg-white/95 p-1 shadow-sm ring-1 ring-primary-100 sm:px-2 sm:py-1"
+            className="flex max-w-[calc(100vw-8.75rem)] shrink-0 items-center gap-2 rounded-xl bg-white p-1 pr-2 ring-1 ring-primary-100 sm:max-w-none sm:px-2 sm:py-1"
           >
             <Image
               src={siteConfig.logos.mobile}
@@ -40,6 +45,14 @@ const Header: React.FC = () => {
               unoptimized
               className="h-11 w-11 shrink-0 rounded-full object-contain sm:hidden"
             />
+            <span className="block min-w-0 leading-tight sm:hidden">
+              <span className="block truncate text-sm font-black text-primary-900">
+                DK Safety
+              </span>
+              <span className="block truncate text-[10px] font-bold uppercase tracking-[0.12em] text-secondary">
+                Solutions
+              </span>
+            </span>
             <Image
               src={siteConfig.logos.desktop}
               alt={`${siteConfig.name} logo`}
@@ -51,13 +64,13 @@ const Header: React.FC = () => {
             />
           </Link>
 
-          <nav className="hidden items-center gap-1 lg:flex">
+          <nav className="hidden min-w-0 flex-1 items-center justify-center gap-0 lg:flex">
             {standardLinks.slice(0, 1).map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
                 prefetch={false}
-                className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-secondary"
+                className="group relative px-3 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-secondary xl:px-4"
               >
                 {link.label}
                 <span className="absolute -bottom-1 left-0 h-[2px] w-0 bg-secondary transition-all duration-300 group-hover:w-full" />
@@ -68,7 +81,7 @@ const Header: React.FC = () => {
               <Link
                 href={cityHref}
                 prefetch={false}
-                className="group/menu relative inline-flex items-center gap-1 px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-secondary"
+                className="group/menu relative inline-flex items-center gap-1 px-3 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-secondary xl:px-4"
               >
                 Services
                 <ChevronDown
@@ -149,7 +162,7 @@ const Header: React.FC = () => {
                 key={link.href}
                 href={link.href}
                 prefetch={false}
-                className="group relative px-4 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-secondary"
+                className="group relative px-3 py-2 text-base font-medium text-gray-700 transition-all duration-300 hover:text-secondary xl:px-4"
               >
                 {link.label}
                 <span className="absolute -bottom-1 left-0 h-[2px] w-0 bg-secondary transition-all duration-300 group-hover:w-full" />
@@ -158,9 +171,16 @@ const Header: React.FC = () => {
           </nav>
 
           <div className="flex shrink-0 items-center gap-2">
+            <SiteSearch variant="desktop" />
+            <SiteSearch
+              variant="mobileNav"
+              closeSignal={open}
+              onOpen={() => setOpen(false)}
+            />
+
             <a
               href={siteConfig.contact.phoneHref}
-              className="hidden items-center gap-2 rounded-full border border-primary-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm transition hover:border-secondary-400 hover:text-secondary sm:inline-flex"
+              className="hidden items-center gap-2 rounded-full border border-primary-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm transition hover:border-secondary-400 hover:text-secondary lg:inline-flex"
             >
               <Phone size={16} />
               {siteConfig.contact.phoneLabel}
@@ -168,23 +188,65 @@ const Header: React.FC = () => {
 
             <button
               type="button"
-              onClick={scrollToQuote}
-              className="hidden rounded-full px-4 py-2 text-sm font-semibold text-white transition hover:opacity-90 md:inline-block btn-accent"
-            >
-              Request Quote
-            </button>
-
-            <button
-              type="button"
               aria-label={open ? "Close menu" : "Open menu"}
               aria-expanded={open}
-              onClick={() => setOpen(!open)}
+              onClick={() => setOpen((current) => !current)}
               className="relative z-[70] inline-flex h-11 w-11 items-center justify-center rounded-full border border-primary-200 bg-white text-slate-900 shadow-md shadow-primary-100 transition hover:border-secondary-400 hover:text-secondary focus:outline-none focus:ring-2 focus:ring-secondary-400 lg:hidden"
             >
               {open ? <X size={22} aria-hidden="true" /> : <Menu size={22} aria-hidden="true" />}
             </button>
           </div>
         </header>
+
+        <div className="overflow-hidden border-t border-primary-100 bg-primary-900 text-white">
+          <div className="navbar-marquee-mask h-8 overflow-hidden">
+            <div className="navbar-marquee-track flex h-full w-max items-center">
+              {[0, 1].map((group) => (
+                <div
+                  key={group}
+                  aria-hidden={group === 1}
+                  className="flex h-full shrink-0 items-center gap-3 px-3"
+                >
+                  {marqueeItems.map((item) => {
+                    const className =
+                      "inline-flex h-6 items-center gap-2 whitespace-nowrap rounded-full border border-white/10 bg-white/10 px-3 text-[11px] font-black uppercase tracking-[0.14em] text-white transition hover:border-secondary-300 hover:bg-secondary hover:text-white sm:text-xs";
+                    const content = (
+                      <>
+                        <span className="h-1.5 w-1.5 rounded-full bg-secondary" />
+                        {item.label}
+                      </>
+                    );
+
+                    if (item.href.startsWith("tel:")) {
+                      return (
+                        <a
+                          key={item.label}
+                          href={item.href}
+                          tabIndex={group === 1 ? -1 : undefined}
+                          className={className}
+                        >
+                          {content}
+                        </a>
+                      );
+                    }
+
+                    return (
+                      <Link
+                        key={item.label}
+                        href={item.href}
+                        prefetch={false}
+                        tabIndex={group === 1 ? -1 : undefined}
+                        className={className}
+                      >
+                        {content}
+                      </Link>
+                    );
+                  })}
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
       </div>
 
       <div className="block lg:hidden">

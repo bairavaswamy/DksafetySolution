@@ -25,6 +25,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: `${siteConfig.name} | Home Safety Solutions`,
   description: siteConfig.description,
+  viewport: "width=device-width, initial-scale=1",
   manifest: "/manifest.webmanifest",
   icons: {
     icon: [

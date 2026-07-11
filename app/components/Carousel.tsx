@@ -59,61 +59,58 @@ export default function Carousel() {
 
   return (
     <section className="-mx-4 sm:-mx-6">
-      <div className="relative h-[520px] w-full overflow-hidden sm:h-[560px] md:h-[640px] lg:h-[720px]">
-        <div
-          className="flex h-full w-full transition-transform duration-700"
-          style={{ transform: `translateX(-${index * 100}%)` }}
-        >
-          {heroImages.map((item, i) => (
-            <div key={item.src} className="relative h-full w-full flex-shrink-0">
-              <picture className="absolute inset-0 block">
-                <img
-                  src={item.src}
-                  alt={item.alt}
-                  className="h-full w-full object-cover"
-                  loading={i === 0 ? "eager" : "lazy"}
-                  decoding={i === 0 ? "sync" : "async"}
-                  fetchPriority={i === 0 ? "high" : "auto"}
-                />
-              </picture>
+      <div className="carousel-viewport relative h-[520px] w-full overflow-hidden sm:h-[560px] md:h-[640px] lg:h-[720px]">
+        {heroImages.map((item, i) => (
+          <div
+            key={item.src}
+            aria-hidden={i !== index}
+            className={`absolute inset-0 transition-opacity duration-700 ${
+              i === index ? "opacity-100" : "pointer-events-none opacity-0"
+            }`}
+          >
+            <picture className="absolute inset-0 block">
+              <img
+                src={item.src}
+                alt={item.alt}
+                className="h-full w-full object-cover"
+                loading={i === 0 ? "eager" : "lazy"}
+                decoding={i === 0 ? "sync" : "async"}
+                fetchPriority={i === 0 ? "high" : "auto"}
+              />
+            </picture>
 
-              <div className="absolute inset-0 flex items-center justify-start bg-gradient-to-r from-primary-900/82 via-primary-900/52 to-primary-900/10 pt-24 text-left md:justify-center md:text-center">
-                <div
-                  className={`w-full max-w-[calc(100vw-2rem)] px-6 text-white transition-all duration-700 sm:max-w-3xl sm:px-10 md:max-w-4xl ${
-                    i === index ? "translate-x-0 opacity-100" : "-translate-x-10 opacity-0"
-                  }`}
-                >
-                  <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em] text-secondary-200 sm:text-sm sm:tracking-[0.22em]">
-                    {siteConfig.name}
-                  </p>
-                  <h1 className="text-4xl font-extrabold leading-tight text-white drop-shadow-lg md:text-6xl">
-                    {item.alt}
-                  </h1>
+            <div className="absolute inset-0 flex items-center justify-start bg-gradient-to-r from-primary-900/82 via-primary-900/52 to-primary-900/10 pt-24 text-left md:justify-center md:text-center">
+              <div className="w-full max-w-[calc(100vw-2rem)] px-6 text-white transition-opacity duration-700 sm:max-w-3xl sm:px-10 md:max-w-4xl">
+                <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em] text-secondary-200 sm:text-sm sm:tracking-[0.22em]">
+                  {siteConfig.name}
+                </p>
+                <h1 className="text-4xl font-extrabold leading-tight text-white drop-shadow-lg md:text-6xl">
+                  {item.alt}
+                </h1>
 
-                  <p className="mt-4 text-base font-medium leading-7 text-gray-100 drop-shadow-md sm:text-xl sm:leading-8">
-                    {item.dec}
-                  </p>
+                <p className="mt-4 text-base font-medium leading-7 text-gray-100 drop-shadow-md sm:text-xl sm:leading-8">
+                  {item.dec}
+                </p>
 
-                  <div className="mt-5 flex flex-wrap gap-3 md:justify-center">
-                    <Link
-                      href={`${cityHref}${item.href}`}
-                      prefetch={false}
-                      className="inline-flex items-center justify-center rounded-full border border-secondary bg-secondary px-6 py-2 font-semibold text-white shadow-sm shadow-secondary/30 transition duration-300 hover:scale-105 hover:bg-secondary-600 md:px-8 md:py-3"
-                    >
-                      View Service
-                    </Link>
-                    <a
-                      href={siteConfig.contact.phoneHref}
-                      className="inline-flex items-center justify-center rounded-full border border-white/40 bg-white/15 px-6 py-2 font-semibold text-white backdrop-blur transition duration-300 hover:bg-white/25 md:px-8 md:py-3"
-                    >
-                      Call Now
-                    </a>
-                  </div>
+                <div className="mt-5 flex flex-wrap gap-3 md:justify-center">
+                  <Link
+                    href={`${cityHref}${item.href}`}
+                    prefetch={false}
+                    className="inline-flex items-center justify-center rounded-full border border-secondary bg-secondary px-6 py-2 font-semibold text-white shadow-sm shadow-secondary/30 transition duration-300 hover:scale-105 hover:bg-secondary-600 md:px-8 md:py-3"
+                  >
+                    View Service
+                  </Link>
+                  <a
+                    href={siteConfig.contact.phoneHref}
+                    className="inline-flex items-center justify-center rounded-full border border-white/40 bg-white/15 px-6 py-2 font-semibold text-white backdrop-blur transition duration-300 hover:bg-white/25 md:px-8 md:py-3"
+                  >
+                    Call Now
+                  </a>
                 </div>
               </div>
             </div>
-          ))}
-        </div>
+          </div>
+        ))}
 
         <button
           type="button"

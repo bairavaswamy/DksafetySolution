@@ -3,87 +3,104 @@
 import { memo } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, BadgeCheck } from "lucide-react";
 import { siteConfig } from "../config/site.config";
 
 type FocusItem = (typeof siteConfig.focusAreas)[number];
 
+const cardNotes = ["Free site visit", "Clean fixing", "Chennai service"];
+
 function ButtonCardsInner({ images = siteConfig.focusAreas }: { images?: readonly FocusItem[] }) {
+  if (!images.length) return null;
+
   return (
-    <section className="w-full max-w-full overflow-clip bg-white pb-1">
-      <div className="mt-12 text-center md:mb-6">
-        <h2 className="text-2xl font-extrabold text-sky-900 md:text-3xl lg:text-4xl">
-          Popular Safety Services
-        </h2>
-        <div className="mx-auto mt-4 h-1 w-28 rounded-full bg-gradient-to-r from-yellow-400 via-sky-400 to-yellow-500" />
-      </div>
+    <section className="w-full max-w-full overflow-hidden bg-white pb-6 pt-12">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6">
+        <div className="text-center">
+          <p className="text-xs font-black uppercase tracking-[0.22em] text-secondary">
+            Current DK Safety Picks
+          </p>
+          <h2 className="mt-3 text-2xl font-bold text-green-900 sm:text-3xl">
+            Our Services &amp; Best Picks
+          </h2>
+          <div className="mx-auto mt-4 h-1 w-28 rounded-full bg-gradient-to-r from-secondary via-secondary-400 to-accent" />
+          <p className="mx-auto mt-4 max-w-2xl text-sm leading-7 text-slate-600 sm:text-base">
+            The most requested Chennai safety installations, arranged in the
+            light card style from the original site design.
+          </p>
+        </div>
 
-      <div className="mx-auto grid w-full max-w-sm gap-4 px-4 pb-4 md:hidden">
-        {images.slice(0, 5).map((item) => (
-          <article
-            key={item.title}
-            className="overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm"
-          >
-            <FocusCard item={item} isMobile />
-          </article>
-        ))}
-      </div>
+        <div className="mt-7 grid grid-cols-1 gap-5 md:hidden">
+          {images.map((item, index) => (
+            <ServiceCard key={item.title} item={item} index={index} mobile />
+          ))}
+        </div>
 
-      <div className="mx-auto hidden w-full max-w-7xl grid-cols-2 gap-6 px-4 pb-4 md:grid lg:grid-cols-5">
-        {images.map((item) => (
-          <div
-            key={item.title}
-            className="min-w-0 overflow-hidden rounded-lg border bg-white shadow-sm transition-shadow hover:shadow-md"
-          >
-            <FocusCard item={item} />
-          </div>
-        ))}
+        <div className="mt-8 hidden gap-5 md:grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
+          {images.map((item, index) => (
+            <ServiceCard key={item.title} item={item} index={index} />
+          ))}
+        </div>
+
+        <div className="mt-3 grid gap-3 border-y border-slate-100 bg-secondary-50 px-4 py-4 sm:grid-cols-3">
+          {cardNotes.map((note) => (
+            <div key={note} className="flex items-center justify-center gap-2 text-sm font-semibold text-slate-700">
+              <BadgeCheck className="h-4 w-4 text-accent" aria-hidden="true" />
+              {note}
+            </div>
+          ))}
+        </div>
       </div>
     </section>
   );
 }
 
-function FocusCard({ item, isMobile = false }: { item: FocusItem; isMobile?: boolean }) {
+function ServiceCard({
+  item,
+  index,
+  mobile = false,
+}: {
+  item: FocusItem;
+  index: number;
+  mobile?: boolean;
+}) {
   return (
-    <>
-      <div className={`${isMobile ? "h-48" : "h-40"} relative w-full bg-gray-100`}>
+    <Link
+      href={item.href}
+      prefetch={false}
+      className={[
+        "group overflow-hidden rounded-lg border border-slate-200 bg-white shadow-soft transition duration-300 hover:-translate-y-1 hover:border-secondary-300 hover:shadow-lg",
+        mobile ? "mx-auto w-full max-w-[360px]" : "w-full",
+      ].join(" ")}
+    >
+      <div className="relative h-48 overflow-hidden bg-slate-100">
         <Image
           src={item.image}
-          alt={`${item.title} installation photo in Chennai`}
+          alt={`${item.title} installation in Chennai`}
           fill
-          className="object-cover"
+          priority={index === 0}
+          sizes={mobile ? "(max-width: 767px) 100vw" : "250px"}
+          className="object-cover transition duration-500 group-hover:scale-105"
           unoptimized
         />
-      </div>
-
-      <div className="p-4 text-left">
-        <div className="flex items-center gap-3">
-          <span className="relative h-11 w-11 shrink-0 overflow-hidden rounded-full border border-primary-100 bg-white shadow-sm ring-2 ring-white">
-            <Image
-              src={item.image}
-              alt=""
-              fill
-              className="object-cover"
-              sizes="44px"
-              unoptimized
-            />
-          </span>
-          <h3 className="min-w-0 text-base font-semibold leading-tight text-slate-950">
-            {item.title}
-          </h3>
+        <div className="absolute left-3 top-3 rounded-full bg-white/95 px-3 py-1 text-[11px] font-black uppercase tracking-[0.14em] text-secondary shadow-sm">
+          {String(index + 1).padStart(2, "0")}
         </div>
-        <p className="mt-2 min-h-[72px] text-sm leading-6 text-gray-600">{item.description}</p>
-
-        <Link
-          href={item.href}
-          prefetch={false}
-          className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-sky-600 transition hover:text-sky-700"
-        >
-          Open Service
-          <ArrowRight size={16} />
-        </Link>
       </div>
-    </>
+
+      <div className="p-4">
+        <h3 className="min-h-[48px] text-lg font-semibold leading-tight text-slate-950">
+          {item.title}
+        </h3>
+        <p className="mt-2 min-h-[72px] text-sm leading-6 text-slate-600">
+          {item.description}
+        </p>
+        <span className="mt-4 inline-flex items-center gap-2 rounded-md border border-primary px-3 py-2 text-sm font-semibold text-primary transition group-hover:border-secondary group-hover:bg-secondary group-hover:text-white">
+          Know More
+          <ArrowRight size={15} className="transition group-hover:translate-x-1" />
+        </span>
+      </div>
+    </Link>
   );
 }
 

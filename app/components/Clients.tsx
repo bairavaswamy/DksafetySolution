@@ -12,8 +12,8 @@ const audienceImages = {
 
 function Clients() {
   return (
-    <div className="w-full">
-      <div className="grid grid-cols-2 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
+    <div className="mx-auto mt-6 max-w-7xl">
+      <div className="grid grid-cols-2 gap-4 md:grid-cols-5">
         {siteConfig.clients.map((client) => (
           <AudienceCard key={client} client={client} />
         ))}
@@ -24,21 +24,30 @@ function Clients() {
 
 function AudienceCard({ client }: { client: string }) {
   const image = audienceImages[client as keyof typeof audienceImages] ?? siteConfig.defaultImage;
+  const initials = client
+    .split(" ")
+    .map((word) => word[0])
+    .join("")
+    .slice(0, 2)
+    .toUpperCase();
 
   return (
-    <div className="group flex min-h-[136px] w-full flex-col items-center justify-center gap-3 overflow-hidden rounded border border-primary-100 bg-white p-4 text-center shadow-sm shadow-soft transition-transform hover:-translate-y-1 hover:border-secondary-200">
-      <div className="relative h-16 w-16 overflow-hidden rounded-full border-2 border-white bg-primary-50 shadow-md shadow-primary-900/10 ring-1 ring-primary-100 transition-transform group-hover:scale-105">
+    <article className="rounded-lg border border-slate-200 bg-white p-4 text-center shadow-soft transition duration-300 hover:-translate-y-1 hover:border-secondary-300 hover:shadow-lg">
+      <div className="relative mx-auto h-20 w-20 overflow-hidden rounded-full border-4 border-secondary-100 bg-slate-100">
         <Image
           src={image}
-          alt=""
+          alt={`${client} safety service planning`}
           fill
-          sizes="64px"
+          sizes="80px"
           className="object-cover"
           unoptimized
         />
       </div>
-      <div className="text-sm font-bold text-slate-900">{client}</div>
-    </div>
+      <p className="mx-auto mt-3 flex h-8 w-8 items-center justify-center rounded-full bg-primary text-xs font-bold text-white">
+        {initials}
+      </p>
+      <h3 className="mt-2 text-sm font-semibold leading-5 text-green-900">{client}</h3>
+    </article>
   );
 }
 
