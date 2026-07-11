@@ -2,18 +2,33 @@ import { memo } from "react";
 import Image from "next/image";
 import { siteConfig } from "../config/site.config";
 
-const audienceImages = {
-  "Residential Homes": "/images/home/balcony-safety-net-installation-chennai-apartment.png",
-  Apartments: "/images/home/pigeon-safety-net-balcony-chennai.png",
-  Villas: "/images/home/open-balcony-safety-net.webp",
-  "Commercial Spaces": "/images/services/building-covering-safety-nets/building-covering-safety-nets-hero.webp",
-  Communities: "/images/home/sports-net-installation-cricket-chennai.png",
+const audienceProfiles = {
+  "Residential Homes": {
+    logo: "/images/audience-logos/residential-homes.svg",
+    description: "Balcony, window, terrace, and family safety planning.",
+  },
+  Apartments: {
+    logo: "/images/audience-logos/apartments.svg",
+    description: "Clean drilling, compact access, and society-friendly finish.",
+  },
+  Villas: {
+    logo: "/images/audience-logos/villas.svg",
+    description: "Open edges, stair voids, pets, and private terrace safety.",
+  },
+  "Commercial Spaces": {
+    logo: "/images/audience-logos/commercial-spaces.svg",
+    description: "Large openings, utility shafts, facades, and work zones.",
+  },
+  Communities: {
+    logo: "/images/audience-logos/communities.svg",
+    description: "Common areas, sports zones, amenities, and shared blocks.",
+  },
 } as const;
 
 function Clients() {
   return (
-    <div className="mx-auto mt-6 max-w-7xl">
-      <div className="grid grid-cols-2 gap-4 md:grid-cols-5">
+    <div className="mx-auto mt-7 max-w-7xl">
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-5">
         {siteConfig.clients.map((client) => (
           <AudienceCard key={client} client={client} />
         ))}
@@ -23,30 +38,29 @@ function Clients() {
 }
 
 function AudienceCard({ client }: { client: string }) {
-  const image = audienceImages[client as keyof typeof audienceImages] ?? siteConfig.defaultImage;
-  const initials = client
-    .split(" ")
-    .map((word) => word[0])
-    .join("")
-    .slice(0, 2)
-    .toUpperCase();
+  const profile =
+    audienceProfiles[client as keyof typeof audienceProfiles] ??
+    audienceProfiles["Residential Homes"];
 
   return (
-    <article className="rounded-lg border border-slate-200 bg-white p-4 text-center shadow-soft transition duration-300 hover:-translate-y-1 hover:border-secondary-300 hover:shadow-lg">
-      <div className="relative mx-auto h-20 w-20 overflow-hidden rounded-full border-4 border-secondary-100 bg-slate-100">
+    <article className="group rounded-lg border border-primary-100 bg-white p-5 text-center shadow-[0_14px_34px_rgba(15,76,129,0.08)] transition duration-300 hover:-translate-y-1 hover:border-secondary-300 hover:shadow-[0_20px_48px_rgba(15,76,129,0.14)]">
+      <div className="relative mx-auto h-24 w-24 overflow-hidden rounded-full bg-white p-1 shadow-[0_12px_26px_rgba(15,76,129,0.18)] ring-1 ring-primary-100 transition duration-300 group-hover:ring-secondary-300">
         <Image
-          src={image}
-          alt={`${client} safety service planning`}
+          src={profile.logo}
+          alt={`${client} safety service logo`}
           fill
-          sizes="80px"
-          className="object-cover"
+          sizes="96px"
+          className="object-contain"
           unoptimized
         />
       </div>
-      <p className="mx-auto mt-3 flex h-8 w-8 items-center justify-center rounded-full bg-primary text-xs font-bold text-white">
-        {initials}
+      <h3 className="mt-4 text-base font-black leading-5 text-slate-950">{client}</h3>
+      <p className="mx-auto mt-2 max-w-[210px] text-sm leading-6 text-slate-600">
+        {profile.description}
       </p>
-      <h3 className="mt-2 text-sm font-semibold leading-5 text-green-900">{client}</h3>
+      <span className="mt-4 inline-flex rounded-full bg-accent-50 px-3 py-1 text-xs font-black uppercase tracking-[0.12em] text-accent-700">
+        Site ready
+      </span>
     </article>
   );
 }

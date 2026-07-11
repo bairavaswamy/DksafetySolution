@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Communities safety logo</title>
+  <desc id="desc">Circular DK Safety Solutions icon for residential communities and societies.</desc>
+  <defs>
+    <linearGradient id="bg" x1="23" y1="22" x2="136" y2="138" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F4C81"/>
+      <stop offset="1" stop-color="#0B2D4B"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="76" fill="#F8FAFC"/>
+  <circle cx="80" cy="80" r="66" fill="url(#bg)"/>
+  <circle cx="80" cy="73" r="20" fill="#fff"/>
+  <circle cx="52" cy="84" r="14" fill="#E0F2FE"/>
+  <circle cx="108" cy="84" r="14" fill="#E0F2FE"/>
+  <path d="M42 122c4-20 20-31 38-31s34 11 38 31" fill="#22C55E"/>
+  <path d="M28 121c3-14 13-23 25-24 9 3 16 9 20 17" fill="#fff"/>
+  <path d="M87 114c4-8 11-14 20-17 12 1 22 10 25 24" fill="#fff"/>
+  <path d="M39 127h82" stroke="#F97316" stroke-width="8" stroke-linecap="round"/>
+  <path d="m73 60 7-7 7 7M80 53v36" stroke="#0F4C81" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

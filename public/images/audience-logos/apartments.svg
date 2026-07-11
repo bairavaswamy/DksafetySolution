@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Apartment safety logo</title>
+  <desc id="desc">Circular DK Safety Solutions icon for apartment buildings.</desc>
+  <defs>
+    <linearGradient id="bg" x1="32" y1="20" x2="132" y2="142" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F4C81"/>
+      <stop offset="1" stop-color="#06233C"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="76" fill="#F8FAFC"/>
+  <circle cx="80" cy="80" r="66" fill="url(#bg)"/>
+  <rect x="45" y="42" width="34" height="80" rx="5" fill="#fff"/>
+  <rect x="84" y="57" width="31" height="65" rx="5" fill="#E0F2FE"/>
+  <g fill="#0F4C81">
+    <rect x="54" y="54" width="8" height="12" rx="2"/>
+    <rect x="66" y="54" width="8" height="12" rx="2"/>
+    <rect x="54" y="73" width="8" height="12" rx="2"/>
+    <rect x="66" y="73" width="8" height="12" rx="2"/>
+    <rect x="54" y="92" width="8" height="12" rx="2"/>
+    <rect x="66" y="92" width="8" height="12" rx="2"/>
+    <rect x="93" y="69" width="8" height="12" rx="2"/>
+    <rect x="105" y="69" width="8" height="12" rx="2"/>
+    <rect x="93" y="88" width="8" height="12" rx="2"/>
+    <rect x="105" y="88" width="8" height="12" rx="2"/>
+  </g>
+  <path d="M36 127h88" stroke="#F97316" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="118" cy="42" r="15" fill="#22C55E"/>
+  <path d="m111 42 5 5 10-12" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

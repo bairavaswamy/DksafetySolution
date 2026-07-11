@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Residential homes safety logo</title>
+  <desc id="desc">Circular DK Safety Solutions icon for residential homes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="26" y1="20" x2="132" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F4C81"/>
+      <stop offset="1" stop-color="#0B2D4B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="44" y1="42" x2="118" y2="122" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="76" fill="#F8FAFC"/>
+  <circle cx="80" cy="80" r="66" fill="url(#bg)"/>
+  <path d="M37 83 80 48l43 35" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 82v41h60V82" fill="#fff"/>
+  <path d="M65 122V94h30v28" fill="url(#accent)"/>
+  <path d="M34 127h92" stroke="#F97316" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="118" cy="43" r="16" fill="#F97316"/>
+  <path d="m111 43 5 5 10-12" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

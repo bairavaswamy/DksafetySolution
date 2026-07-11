@@ -160,7 +160,7 @@ export default function Home() {
               </Link>
             </div>
 
-            <div className="grid grid-cols-1 gap-6 md:grid-cols-2 xl:grid-cols-3">
+            <div className="grid grid-cols-1 gap-6 md:grid-cols-2 xl:grid-cols-4">
               {chennaiConfig.services.slice(0, 9).map((service, index) => {
                 const detail = getServiceDetail(service.slug);
 
@@ -239,14 +239,20 @@ export default function Home() {
 
         <HomeStats />
 
-        <section className="mt-10 w-full max-w-full overflow-hidden bg-[#E5E5E5] px-4 py-12 sm:px-6">
-          <div className="mx-auto max-w-7xl">
+        <section className="mt-10 w-full max-w-full overflow-hidden border-y border-primary-100 bg-[#F8FAFC] px-4 py-14 sm:px-6">
+          <div className="mx-auto flex max-w-7xl flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div>
             <p className="text-xs font-black uppercase tracking-[0.22em] text-secondary">
               Audiences We Are Preparing For
             </p>
-            <h2 className="mt-2 text-2xl font-semibold text-green-900">
+            <h2 className="mt-2 text-3xl font-black tracking-tight text-slate-950 sm:text-4xl">
               Clients &amp; Societies
             </h2>
+            </div>
+            <p className="max-w-xl text-sm leading-7 text-slate-600">
+              Purpose-built safety planning for homes, apartments, villas,
+              commercial properties, and Chennai communities.
+            </p>
           </div>
           <Clients />
         </section>
