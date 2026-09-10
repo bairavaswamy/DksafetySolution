@@ -171,11 +171,6 @@ export const getWebSiteSchema = () => ({
   publisher: {
     "@id": schemaIds.localBusiness,
   },
-  potentialAction: {
-    "@type": "SearchAction",
-    target: `${siteConfig.url}/chennai?service={search_term_string}`,
-    "query-input": "required name=search_term_string",
-  },
 });
 
 export const getSiteSchemaGraph = () => ({
@@ -196,7 +191,6 @@ export const getSiteSchemaGraph = () => ({
       name: `${siteConfig.name} service image`,
       caption: siteConfig.description,
     }),
-    getFAQPageSchema(siteConfig.url, siteConfig.faq, schemaIds.siteFaq),
   ],
 });
 

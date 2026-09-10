@@ -14,8 +14,8 @@ body {
   max-width: 100%;
   min-height: 100%;
   overflow-x: hidden;
-  background: #F8FAFC;
-  color: #0f172a;
+  background: #FAF8F4;
+  color: #142D3B;
   font-family: Poppins, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -31,8 +31,8 @@ body > div {
   border-radius: 18px;
   overflow: hidden;
   background: #ffffff;
-  box-shadow: 0 10px 40px rgba(15, 76, 129, 0.08);
-  border: 1px solid rgba(15, 23, 42, 0.04);
+  box-shadow: 0 10px 40px rgba(20, 45, 59, 0.08);
+  border: 1px solid rgba(20, 45, 59, 0.04);
 }
 
 /* remove rounded corners and full-bleed layout on larger screens */
@@ -48,21 +48,21 @@ body > div {
 img { max-width: 100%; height: auto; display: block; }
 
 .hero-overlay {
-  background: linear-gradient(90deg, rgba(15, 76, 129, 0.9), rgba(249, 115, 22, 0.58));
+  background: linear-gradient(90deg, rgba(12, 30, 41, 0.9), rgba(20, 45, 59, 0.38));
 }
 
 .btn-accent {
-  background-color: #F97316;
+  background-color: #8F632C;
   color: white;
-  box-shadow: 0 10px 24px rgba(249, 115, 22, 0.22);
+  box-shadow: 0 10px 24px rgba(143, 99, 44, 0.18);
 }
 
 .btn-accent:hover {
-  background-color: #ea580c;
+  background-color: #775020;
 }
 
 .ribbon-mobile {
-  background: linear-gradient(90deg, #0F4C81, #F97316);
+  background: linear-gradient(90deg, #142D3B, #294B5C);
 }
 
 .marquee-mask {
@@ -77,26 +77,28 @@ img { max-width: 100%; height: auto; display: block; }
   animation-play-state: paused;
 }
 
-.navbar-marquee-mask {
-  contain: strict;
-  max-width: 100vw;
-  position: relative;
-  mask-image: linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent);
-}
-
-.navbar-marquee-track {
-  animation: navbar-marquee-scroll 28s linear infinite;
-  inset: 0 auto 0 0;
-  position: absolute;
-}
-
 .carousel-viewport {
   contain: layout paint;
   max-width: 100vw;
+  background: #0C1E29;
+  touch-action: pan-y pinch-zoom;
 }
 
-.navbar-marquee-mask:hover .navbar-marquee-track {
-  animation-play-state: paused;
+.carousel-slide {
+  transition: opacity 700ms cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: opacity;
+}
+
+.carousel-viewport[data-interacting="true"] {
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* Keep the visible dots in place while making their tap targets easier to hit. */
+.carousel-dot::before {
+  content: "";
+  position: absolute;
+  inset: -12px -4px;
 }
 
 .floating-call-icon {
@@ -112,16 +114,6 @@ img { max-width: 100%; height: auto; display: block; }
 
   to {
     transform: translateX(-100%);
-  }
-}
-
-@keyframes navbar-marquee-scroll {
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(-50%);
   }
 }
 
@@ -154,8 +146,9 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .navbar-marquee-track {
-    animation: none;
+  .carousel-slide {
+    transition: none;
+    will-change: auto;
   }
 
   .floating-call-icon {
@@ -184,7 +177,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .thin-scrollbar::-webkit-scrollbar { height: 6px; }
 .thin-scrollbar::-webkit-scrollbar-track { background: transparent; }
-.thin-scrollbar::-webkit-scrollbar-thumb { background: rgba(15,23,42,0.12); border-radius: 9999px; }
+.thin-scrollbar::-webkit-scrollbar-thumb { background: rgba(20,45,59,0.18); border-radius: 9999px; }
 
 /* scroll snap helpers */
 .snap-x { scroll-snap-type: x mandatory; }

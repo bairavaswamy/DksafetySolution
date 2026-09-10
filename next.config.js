@@ -1,10 +1,9 @@
 /** @type {import('next').NextConfig} */
 
-const isDev = process.env.NODE_ENV === "development";
+const { PHASE_DEVELOPMENT_SERVER } = require("next/constants");
 
 const nextConfig = {
   reactStrictMode: true,
-  ...(isDev ? {} : { output: "export" }),
   trailingSlash: true,
   staticPageGenerationTimeout: 180,
   images: {
@@ -29,4 +28,10 @@ const nextConfig = {
   },
 };
 
-module.exports = nextConfig;
+// Next 13's dev server misreports missing generateStaticParams when export mode
+// is combined with dynamicParams=false (vercel/next.js#56253). Every production
+// phase still uses static export; the dev server is only an editing tool.
+module.exports = (phase) => ({
+  ...nextConfig,
+  ...(phase === PHASE_DEVELOPMENT_SERVER ? {} : { output: "export" }),
+});

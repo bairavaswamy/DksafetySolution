@@ -9,8 +9,8 @@ import { siteConfig } from "../config/site.config";
 export default function AboutClient() {
   return (
     <div className="bg-white text-gray-800">
-      <section className="bg-gradient-to-r from-sky-100 to-sky-50 px-6 py-16 text-center">
-        <p className="text-sm font-bold uppercase tracking-[0.22em] text-sky-600">
+      <section className="bg-gradient-to-r from-primary-100 to-primary-50 px-6 py-16 text-center">
+        <p className="text-sm font-bold uppercase tracking-[0.22em] text-primary-600">
           About {siteConfig.shortName}
         </p>
         <h1 className="mx-auto mt-3 max-w-4xl text-4xl font-bold text-slate-950 md:text-5xl">
@@ -41,9 +41,9 @@ export default function AboutClient() {
             {siteConfig.trustPoints.map((point) => (
               <div
                 key={point}
-                className="flex items-center gap-3 rounded-2xl border border-sky-100 bg-sky-50/70 px-4 py-3 text-sm font-semibold text-slate-700"
+                className="flex items-center gap-3 rounded-2xl border border-primary-100 bg-primary-50/70 px-4 py-3 text-sm font-semibold text-slate-700"
               >
-                <CheckCircle2 size={17} className="text-sky-500" />
+                <CheckCircle2 size={17} className="text-primary-500" />
                 {point}
               </div>
             ))}
@@ -72,7 +72,7 @@ export default function AboutClient() {
       </section>
 
       <section className="mx-auto max-w-6xl px-6 py-12">
-        <div className="rounded-[32px] border border-sky-100 bg-gradient-to-br from-sky-50 via-white to-lime-50 p-6 shadow-lg shadow-sky-100/50 md:p-8">
+        <div className="rounded-[32px] border border-primary-100 bg-gradient-to-br from-primary-50 via-white to-secondary-50 p-6 shadow-lg shadow-primary-100/50 md:p-8">
           <SocialProfileLinks
             heading={`Connect With ${siteConfig.name}`}
             description="Instagram, Facebook, LinkedIn, and WhatsApp are arranged from the central site profile list."

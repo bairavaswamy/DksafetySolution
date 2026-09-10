@@ -34,3 +34,6 @@ Thumbs.db
 
 # coverage
 /coverage
+
+# Local dependency download cache
+/tmp/npm-cache/

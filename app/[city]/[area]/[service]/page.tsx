@@ -30,12 +30,12 @@ type ManualRouteParams = {
 };
 
 type ManualRouteProps = {
-  params: Promise<ManualRouteParams>;
+  params: ManualRouteParams;
 };
 
 export const dynamicParams = false;
 
-export async function generateStaticParams(): Promise<ManualRouteParams[]> {
+export function generateStaticParams(): ManualRouteParams[] {
   return getAllServiceAreaPaths();
 }
 
@@ -73,10 +73,10 @@ function getAbsoluteImageUrl(image?: string) {
   );
 }
 
-export async function generateMetadata({
+export function generateMetadata({
   params,
-}: ManualRouteProps): Promise<Metadata> {
-  const resolvedParams = await params;
+}: ManualRouteProps): Metadata {
+  const resolvedParams = params;
   const gatedPage = getGatedCommunityPage({
     community: resolvedParams.area,
     service: resolvedParams.service,
@@ -220,10 +220,10 @@ export async function generateMetadata({
   };
 }
 
-export default async function ManualServiceRoute({
+export default function ManualServiceRoute({
   params,
 }: ManualRouteProps) {
-  const resolvedParams = await params;
+  const resolvedParams = params;
   const gatedPage = getGatedCommunityPage({
     community: resolvedParams.area,
     service: resolvedParams.service,

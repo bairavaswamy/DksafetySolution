@@ -31,7 +31,7 @@ export default function ContactDetailsBar() {
             ))}
             <a
               href={siteConfig.contact.phoneHref}
-              className="inline-flex items-center rounded-full bg-red-600 px-3 py-1 text-[11px] font-black uppercase tracking-[0.12em] text-white transition hover:bg-red-700 sm:text-xs"
+              className="inline-flex items-center rounded-full bg-primary-900 px-3 py-1 text-[11px] font-black uppercase tracking-[0.12em] text-white transition hover:bg-primary-950 sm:text-xs"
             >
               Call Now
             </a>

@@ -33,12 +33,17 @@ const manualPageKeys = new Set(
   )
 );
 
-export const getAllServiceAreaPaths = (): ServiceAreaParams[] =>
-  [
+export const getAllServiceAreaPaths = (): ServiceAreaParams[] => {
+  const paths: ServiceAreaParams[] = [
     ...manualServiceAreaEntries.map((entry) => ({
       city: entry.citySlug,
       area: entry.areaSlug,
       service: entry.serviceSlug,
+    })),
+    ...manualServicePages.map((page) => ({
+      city: page.citySlug,
+      area: page.areaSlug,
+      service: page.serviceSlug,
     })),
     ...gatedCommunityPages.map((page) => ({
       city: page.citySlug,
@@ -46,6 +51,11 @@ export const getAllServiceAreaPaths = (): ServiceAreaParams[] =>
       service: page.service.slug,
     })),
   ];
+
+  return Array.from(
+    new Map(paths.map((params) => [serviceAreaEntryKey(params), params])).values()
+  );
+};
 
 export const getAreaBySlug = (slug: string) =>
   chennaiConfig.areas.find((area) => area.slug === slug);

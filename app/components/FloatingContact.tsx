@@ -32,7 +32,7 @@ export default function FloatingContact() {
     <div className="fixed right-1 top-[75%] z-50 flex -translate-y-1/2 flex-col gap-2 sm:right-5 sm:gap-3">
       <a
         href={siteConfig.contact.phoneHref}
-        className="flex h-10 w-10 items-center justify-center rounded-full bg-red-600 text-white shadow-lg shadow-red-600/25 ring-1 ring-white/70 transition hover:scale-105 hover:bg-red-700 sm:h-12 sm:w-12"
+        className="flex h-10 w-10 items-center justify-center rounded-full bg-primary-900 text-white shadow-lg shadow-primary-900/25 ring-1 ring-white/70 transition hover:scale-105 hover:bg-primary-950 sm:h-12 sm:w-12"
         aria-label={`Call ${siteConfig.name}`}
       >
         <span className="floating-call-icon inline-flex">

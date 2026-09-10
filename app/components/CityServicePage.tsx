@@ -1,733 +1,220 @@
 import Image from "next/image";
 import Link from "next/link";
-import {
-  ArrowRight,
-  BadgeCheck,
-  CheckCircle2,
-  ClipboardCheck,
-  IndianRupee,
-  Layers3,
-  MapPin,
-  MessageCircle,
-  Phone,
-  Ruler,
-  ShieldCheck,
-  Wrench,
-} from "lucide-react";
+import { ArrowRight, CheckCircle2, ClipboardCheck, IndianRupee, MapPin, MessageCircle, Phone, Ruler } from "lucide-react";
 import { chennaiConfig } from "../config/chennai.config";
-import {
-  getBreadcrumbListSchema,
-  getFAQPageSchema,
-  getGraphSchema,
-  getImageObjectSchema,
-  getServiceSchema,
-  getWebPageSchema,
-  stringifySchema,
-} from "../config/schema.config";
+import { getBreadcrumbListSchema, getFAQPageSchema, getGraphSchema, getImageObjectSchema, getServiceSchema, getWebPageSchema, stringifySchema } from "../config/schema.config";
 import { absoluteUrl, siteConfig } from "../config/site.config";
 import type { ChennaiService } from "../content/serviceAreaCatalog";
 import { getServiceDetail } from "../content/serviceDetails";
 import { getServiceVisuals } from "../content/serviceVisuals";
+import { getCityServiceContent } from "../content/city-services";
 
-type CityServicePageProps = {
-  service: ChennaiService;
-};
+const priorityAreaSlugs = ["anna-nagar", "adyar", "velachery", "tambaram", "sholinganallur", "porur", "ambattur", "pallikaranai", "thoraipakkam", "medavakkam", "perungudi", "navalur"];
 
-const priorityAreaSlugs = [
-  "anna-nagar",
-  "adyar",
-  "velachery",
-  "tambaram",
-  "sholinganallur",
-  "porur",
-] as const;
+function ContactLinks() {
+  return (
+    <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap">
+      <a href={siteConfig.contact.phoneHref} className="inline-flex items-center justify-center gap-2 rounded-lg bg-primary-900 px-5 py-3 text-sm font-black text-white transition hover:bg-primary-950"><Phone size={18} />Call for a Visit</a>
+      <a href={siteConfig.contact.whatsappHref} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 rounded-lg bg-accent-700 px-5 py-3 text-sm font-black text-white transition hover:bg-accent-800"><MessageCircle size={18} />WhatsApp Photos</a>
+    </div>
+  );
+}
 
-const getCityServiceFaq = (
-  service: ChennaiService,
-  detail: ReturnType<typeof getServiceDetail>
-) => [
-  {
-    question: `How is ${service.name.toLowerCase()} price decided in Chennai?`,
-    answer: `The quote is based on measured coverage, fixing surface, frame or anchor method, material grade, height, access, and finish expectations. DK Safety Solutions confirms these details before giving a clearer Chennai estimate.`,
-  },
-  {
-    question: `Do you provide fixed frame support for ${service.name.toLowerCase()}?`,
-    answer: `Yes, fixed frames or reinforced border systems are recommended where ${service.name.toLowerCase()} needs a neat edge, repeated daily use, stronger tension, or a cleaner building-facing finish.`,
-  },
-  {
-    question: `Which Chennai properties are best suited for ${service.name.toLowerCase()}?`,
-    answer: `${service.name} is commonly planned for ${detail.bestFor.join(", ").toLowerCase()}, with the final method adjusted after checking the exact opening and access conditions.`,
-  },
-  {
-    question: "What should I share before booking a site visit?",
-    answer: `Share your area name, photos or video, approximate measurements, floor level, access limitations, and the main reason for the work. For ${service.name.toLowerCase()}, photos of corners and fixing points are especially useful.`,
-  },
-  {
-    question: `How do I maintain ${service.name.toLowerCase()} after installation?`,
-    answer:
-      "Keep the area clean, avoid hanging extra loads on the net or cable, and call for a check if you notice slackness, damaged anchors, corrosion, or any change after heavy rain, cleaning, or renovation work.",
-  },
-];
-
-export default function CityServicePage({ service }: CityServicePageProps) {
+export default function CityServicePage({ service }: { service: ChennaiService }) {
   const detail = getServiceDetail(service.slug);
   const visuals = getServiceVisuals(service.slug);
-  const relatedServices = chennaiConfig.services
-    .filter((item) => item.slug !== service.slug)
-    .slice(0, 6);
+  const content = getCityServiceContent(service.slug);
+  const relatedServices = content.relatedServices
+    .map((slug) => chennaiConfig.services.find((item) => item.slug === slug))
+    .filter((item): item is ChennaiService => Boolean(item));
   const priorityAreas = priorityAreaSlugs
     .map((slug) => chennaiConfig.areas.find((area) => area.slug === slug))
     .filter((area): area is (typeof chennaiConfig.areas)[number] => Boolean(area));
   const pageUrl = absoluteUrl(`/${chennaiConfig.citySlug}/${service.slug}/`);
   const imageUrl = absoluteUrl(visuals.hero);
   const pageTitle = `${service.name} in Chennai`;
-  const serviceFaq = getCityServiceFaq(service, detail);
-
-  const proofCards = [
-    {
-      icon: ShieldCheck,
-      eyebrow: "Best For",
-      title: detail.bestFor.slice(0, 2).join(" + "),
-      text: detail.shortBenefit,
-    },
-    {
-      icon: Ruler,
-      eyebrow: "First Site Check",
-      title: detail.checks.slice(0, 2).join(" + "),
-      text: "Opening, fixing surface, access, and finish are checked before quoting.",
-    },
-    {
-      icon: BadgeCheck,
-      eyebrow: "Finish Style",
-      title: "Fixed-frame ready",
-      text: "Cleaner edge lines and stronger tension where the site needs a premium finish.",
-    },
-    {
-      icon: IndianRupee,
-      eyebrow: "Quote Style",
-      title: "Measured estimate",
-      text: "No blind rate card. The quote follows actual span, material, and access.",
-    },
+  const guideLinks = [
+    { id: "overview", label: "Overview" },
+    ...content.sections.map((section) => ({ id: `guide-${section.id}`, label: section.heading })),
+    { id: "options", label: "Compare options" },
+    { id: "pricing", label: "Pricing and quote checklist" },
+    { id: "installation", label: "Installation planning" },
+    { id: "chennai-coverage", label: "Chennai site considerations" },
+    { id: "faqs", label: "Frequently asked questions" },
   ];
-
-  const pricingFactors = [
-    {
-      title: "Coverage and shape",
-      text: `${service.name} pricing starts with the real span, corners, side gaps, bends, and whether the work is one compact opening or a continuous run.`,
-    },
-    {
-      title: "Frame and fixing surface",
-      text: "A fixed frame, reinforced border, anchor spacing, drilling surface, and cable or rope tension decide the material and labour plan.",
-    },
-    {
-      title: "Exposure and usage",
-      text: "Rain splash, UV, dust, birds, children, pets, cleaning access, or ball impact can change the recommended net, cable, rope, or steel grade.",
-    },
-    {
-      title: "Access and permissions",
-      text: "Floor level, ladder access, scaffold need, society timing, parking, lift movement, and facade rules can affect the schedule.",
-    },
-  ];
-
-  const processSteps = [
-    {
-      title: "Photo review",
-      text: `Share photos, area, floor level, and the exact reason you need ${service.name.toLowerCase()}.`,
-    },
-    {
-      title: "Site measurement",
-      text: `The team checks ${detail.checks.slice(0, 2).join(", ").toLowerCase()}, fixing points, and access before final advice.`,
-    },
-    {
-      title: "Method selection",
-      text: "Material, fixed frame need, border finish, anchor spacing, and maintenance access are confirmed.",
-    },
-    {
-      title: "Clean installation",
-      text: "Edges are tensioned, fixing points are checked, and simple care instructions are explained before handover.",
-    },
-  ];
-
-  const comparisonRows = [
-    {
-      title: "Fixed frame",
-      bestFor:
-        "Premium flats, wide balcony fronts, child and pet safety, visible facades, and community-facing openings.",
-      note: "Best finish and tension control when the site allows a neat frame or strong anchor line.",
-      featured: true,
-    },
-    {
-      title: "Reinforced border",
-      bestFor: "Openings that need clean edges but do not require a full frame on every side.",
-      note: "A practical middle option for many Chennai balconies, ducts, terraces, and utility spaces.",
-      featured: false,
-    },
-    {
-      title: "Direct fixing",
-      bestFor: "Simple compact openings with reliable fixing points and a straightforward edge line.",
-      note: "Useful for smaller work, but long-term neatness depends heavily on site condition.",
-      featured: false,
-    },
-  ];
-
-  const localPoints = [
-    `${service.name} should be planned around Chennai humidity, dust, monsoon rain, and regular cleaning needs.`,
-    "Apartment associations may care about drilling time, exterior appearance, common-area access, and lift movement.",
-    "High-rise flats need edge-to-edge checks so side gaps, corners, and service ledges do not stay open.",
-    `Homes using the area for ${detail.bestFor.slice(0, 2).join(" or ").toLowerCase()} need stronger daily-use planning than a purely visual installation.`,
-  ];
-
   const jsonLd = getGraphSchema([
-    getWebPageSchema({
-      url: pageUrl,
-      name: pageTitle,
-      description: detail.shortBenefit,
-      image: imageUrl,
-    }),
-    getServiceSchema({
-      url: pageUrl,
-      name: pageTitle,
-      description: detail.shortBenefit,
-      image: imageUrl,
-      areaName: "Chennai",
-    }),
+    getWebPageSchema({ url: pageUrl, name: pageTitle, description: content.metaDescription, image: imageUrl }),
+    getServiceSchema({ url: pageUrl, name: pageTitle, description: content.metaDescription, image: imageUrl, areaName: "Chennai" }),
     getBreadcrumbListSchema([
       { name: "Home", url: absoluteUrl("/") },
       { name: "Chennai", url: absoluteUrl(`/${chennaiConfig.citySlug}/`) },
       { name: service.name, url: pageUrl },
     ]),
-    getImageObjectSchema({
-      id: `${pageUrl}#service-image`,
-      url: imageUrl,
-      name: `${service.name} Chennai installation image`,
-      caption: detail.shortBenefit,
-    }),
-    getFAQPageSchema(pageUrl, serviceFaq),
+    getImageObjectSchema({ id: `${pageUrl}#service-image`, url: imageUrl, name: `${service.name} service visual`, caption: `Service visual for ${service.name.toLowerCase()}.` }),
+    getFAQPageSchema(pageUrl, content.faq),
   ]);
 
   return (
-    <main className="w-full max-w-full overflow-x-hidden bg-[#F8FAFC] text-slate-950">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: stringifySchema(jsonLd),
-        }}
-      />
+    <main className="w-full max-w-full overflow-x-hidden bg-neutral-50 text-slate-950">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: stringifySchema(jsonLd) }} />
 
-      <section className="relative isolate w-full max-w-full overflow-hidden bg-primary-900 text-white">
+      <section className="relative isolate overflow-hidden bg-primary-900 text-white">
         <div className="absolute inset-0">
-          <Image
-            src={visuals.mobileHero}
-            alt={`${service.name} in Chennai`}
-            fill
-            priority
-            className="object-cover md:hidden"
-          />
-          <Image
-            src={visuals.hero}
-            alt={`${service.name} in Chennai`}
-            fill
-            priority
-            className="hidden object-cover md:block"
-          />
-          <div className="absolute inset-0 bg-gradient-to-r from-primary-900 via-primary-900/88 to-primary-900/38" />
-          <div className="absolute inset-x-0 bottom-0 h-28 bg-gradient-to-t from-[#F8FAFC] to-transparent" />
+          <Image src={visuals.mobileHero} alt={pageTitle} fill priority sizes="100vw" className="object-cover md:hidden" />
+          <Image src={visuals.hero} alt={pageTitle} fill priority sizes="100vw" className="hidden object-cover md:block" />
+          <div className="absolute inset-0 bg-gradient-to-r from-primary-900 via-primary-900/[0.88] to-primary-900/[0.38]" />
+          <div className="absolute inset-x-0 bottom-0 h-28 bg-gradient-to-t from-neutral-50 to-transparent" />
         </div>
-
-        <div className="relative mx-auto grid min-h-[660px] w-full max-w-7xl items-end gap-8 px-4 pb-20 pt-32 sm:px-6 sm:pt-36 lg:min-h-[700px] lg:grid-cols-[minmax(0,0.95fr)_410px] lg:pb-24 lg:pt-40">
-          <div className="max-w-[22rem] sm:max-w-3xl lg:max-w-4xl">
-            <nav className="flex flex-wrap items-center gap-2 text-xs font-black uppercase tracking-[0.16em] text-white/70">
-              <Link href="/" prefetch={false} className="transition hover:text-white">
-                Home
-              </Link>
-              <span>/</span>
-              <Link
-                href={`/${chennaiConfig.citySlug}`}
-                prefetch={false}
-                className="transition hover:text-white"
-              >
-                Chennai
-              </Link>
-              <span>/</span>
+        <div className="relative mx-auto grid min-h-[660px] max-w-7xl items-end gap-8 px-4 pb-20 pt-28 sm:px-6 lg:min-h-[700px] lg:grid-cols-[minmax(0,1fr)_360px] lg:pb-24 lg:pt-36">
+          <div className="min-w-0 max-w-4xl">
+            <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-2 text-xs font-black uppercase tracking-[0.16em] text-white/80">
+              <Link href="/" prefetch={false}>Home</Link><span>/</span>
+              <Link href={`/${chennaiConfig.citySlug}/`} prefetch={false}>Chennai</Link><span>/</span>
               <span className="text-white">{detail.category}</span>
             </nav>
-
-            <p className="mt-8 text-xs font-black uppercase tracking-[0.24em] text-secondary-300 sm:text-sm">
-              Chennai {detail.category}
-            </p>
-            <h1 className="mt-4 break-words text-[2.15rem] font-black leading-[1.06] text-white sm:text-5xl lg:text-6xl">
-              {service.name} in Chennai
-            </h1>
-            <p className="mt-5 max-w-3xl text-base leading-8 text-slate-100 sm:text-lg">
-              {detail.shortBenefit} Planned with clean fixing, practical access,
-              fixed-frame options, and a finish that suits Chennai apartments,
-              villas, communities, and commercial spaces.
-            </p>
-
-            <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
-              <a
-                href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center justify-center gap-2 rounded-lg bg-red-600 px-5 py-3 text-sm font-black text-white shadow-lg shadow-red-950/20 transition hover:bg-red-700"
-              >
-                <Phone size={18} />
-                Call for Visit
-              </a>
-              <a
-                href={siteConfig.contact.whatsappHref}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 rounded-lg bg-accent px-5 py-3 text-sm font-black text-white shadow-lg shadow-accent-900/20 transition hover:bg-accent-600"
-              >
-                <MessageCircle size={18} />
-                WhatsApp Photos
-              </a>
-            </div>
+            <p className="mt-8 text-xs font-black uppercase tracking-[0.22em] text-secondary-300">Chennai {detail.category}</p>
+            <h1 className="mt-4 break-words text-[2.15rem] font-black leading-[1.08] sm:text-5xl lg:text-6xl">{pageTitle}</h1>
+            <p className="mt-5 max-w-3xl text-base leading-8 text-slate-100 sm:text-lg">{content.intro}</p>
+            <div className="mt-7"><ContactLinks /></div>
           </div>
-
-          <aside className="hidden rounded-lg border border-white/15 bg-white/12 p-6 shadow-2xl shadow-primary-950/30 backdrop-blur-md lg:block">
-            <p className="text-xs font-black uppercase tracking-[0.2em] text-secondary-300">
-              Chennai Service Brief
-            </p>
-            <h2 className="mt-3 text-2xl font-black">Measured before quoting</h2>
-            <div className="mt-5 grid gap-3">
-              {[
-                `Use case: ${detail.bestFor[0]}`,
-                `First check: ${detail.checks[0]}`,
-                "Frame option: available",
-                "Quote: site-specific",
-              ].map((item) => (
-                <div
-                  key={item}
-                  className="flex items-center gap-3 rounded-lg border border-white/12 bg-white/10 px-4 py-3 text-sm font-bold text-white"
-                >
-                  <CheckCircle2 className="shrink-0 text-accent-300" size={18} />
-                  {item}
-                </div>
-              ))}
-            </div>
-            <div className="mt-5 rounded-lg bg-white p-4 text-primary-900">
-              <p className="text-xs font-black uppercase tracking-[0.18em] text-secondary">
-                Better visit prep
-              </p>
-              <p className="mt-2 text-sm font-semibold leading-7">
-                Send two clear photos, floor level, and rough width. The team can
-                shortlist material and fixing method before arrival.
-              </p>
-            </div>
+          <aside className="hidden rounded-lg border border-white/20 bg-white/10 p-6 backdrop-blur-md lg:block">
+            <p className="text-xs font-black uppercase tracking-[0.2em] text-secondary-300">Before your site visit</p>
+            <h2 className="mt-3 text-2xl font-black">Start with the right questions</h2>
+            <ul className="mt-5 space-y-3">
+              {detail.checks.map((check) => <li key={check} className="flex items-center gap-3 rounded-lg border border-white/15 p-3 text-sm font-bold"><CheckCircle2 size={18} className="shrink-0 text-accent-300" />{check}</li>)}
+            </ul>
+            <p className="mt-5 text-sm leading-7 text-slate-100">Share your area, photos, approximate dimensions, and intended use. Confirm the system and written scope after the site assessment.</p>
           </aside>
         </div>
       </section>
 
-      <section className="relative z-10 -mt-12 px-4 sm:px-6">
-        <div className="mx-auto grid max-w-7xl gap-3 sm:grid-cols-2 lg:grid-cols-4">
-          {proofCards.map((item) => {
-            const Icon = item.icon;
-
-            return (
-              <article
-                key={item.eyebrow}
-                className="rounded-lg border border-primary-100 bg-white p-5 shadow-lg shadow-primary-900/10"
-              >
-                <div className="flex h-11 w-11 items-center justify-center rounded-lg bg-primary-50 text-primary">
-                  <Icon size={21} />
-                </div>
-                <p className="mt-4 text-xs font-black uppercase tracking-[0.18em] text-secondary">
-                  {item.eyebrow}
-                </p>
-                <h2 className="mt-2 text-lg font-black leading-7 text-slate-950">
-                  {item.title}
-                </h2>
-                <p className="mt-2 text-sm leading-6 text-slate-600">{item.text}</p>
-              </article>
-            );
-          })}
+      <nav aria-label={`${service.name} guide contents`} className="relative z-10 mx-auto -mt-8 max-w-7xl px-4 sm:px-6">
+        <div className="rounded-lg border border-primary-100 bg-white p-5 shadow-sm sm:p-6">
+          <p className="text-sm font-black text-primary-900">In this service guide</p>
+          <ul className="mt-4 grid gap-x-6 gap-y-3 text-sm sm:grid-cols-2 lg:grid-cols-3">
+            {guideLinks.map((link) => <li key={link.id}><a href={`#${link.id}`} className="inline-flex items-start gap-2 font-semibold leading-6 text-primary hover:underline"><ArrowRight size={14} className="mt-1 shrink-0" />{link.label}</a></li>)}
+          </ul>
         </div>
-      </section>
+      </nav>
 
-      <section className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:px-6 lg:grid-cols-[minmax(0,1fr)_360px] lg:py-16">
-        <div className="min-w-0 space-y-16">
-          <section className="grid gap-7 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
-            <div className="relative min-h-[340px] overflow-hidden rounded-lg bg-primary-900 shadow-xl shadow-primary-900/15 sm:min-h-[420px]">
-              <Image
-                src={visuals.detail}
-                alt={`${service.name} installation detail in Chennai`}
-                fill
-                className="object-cover"
-              />
-              <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-primary-900/92 to-transparent p-5 text-white">
-                <p className="text-xs font-black uppercase tracking-[0.2em] text-secondary-300">
-                  Site-led finish
-                </p>
-                <h2 className="mt-2 text-2xl font-black">{detail.category}</h2>
-              </div>
+      <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:px-6 lg:grid-cols-[minmax(0,1fr)_320px] lg:py-16">
+        <article className="min-w-0 space-y-14" aria-label={`${service.name} service guide`}>
+          <section id="overview" className="scroll-mt-32">
+            <p className="text-sm font-black uppercase tracking-[0.2em] text-secondary-700">Service overview</p>
+            <h2 className="mt-3 text-3xl font-black tracking-tight sm:text-4xl">{content.overview.heading}</h2>
+            <div className="mt-5 space-y-4 text-base leading-8 text-slate-700">
+              {content.overview.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
             </div>
-
-            <div>
-              <p className="text-sm font-black uppercase tracking-[0.2em] text-secondary">
-                Service Planning
-              </p>
-              <h2 className="mt-3 text-3xl font-black tracking-tight text-slate-950 sm:text-4xl">
-                A cleaner installation starts with the exact opening.
-              </h2>
-              <div className="mt-5 space-y-4 text-[16px] leading-8 text-slate-700">
-                <p>
-                  {service.name} in Chennai needs a practical check of the opening,
-                  fixing surface, access route, weather exposure, and how the space is
-                  used every day.
-                </p>
-                <p>
-                  The visit confirms where protection starts and ends, how cleaning
-                  or maintenance works later, and whether the finish should stay
-                  low-profile from inside the home or from the building exterior.
-                </p>
+            <div className="mt-7 grid gap-4 sm:grid-cols-2">
+              <div className="rounded-lg border border-accent-100 bg-accent-50 p-5">
+                <h3 className="font-black text-accent-900">Typical requirements</h3>
+                <ul className="mt-3 space-y-2">{detail.bestFor.map((item) => <li key={item} className="flex gap-2 text-sm leading-6"><CheckCircle2 size={16} className="mt-1 shrink-0 text-accent" />{item}</li>)}</ul>
               </div>
-
-              <div className="mt-7 grid gap-4 sm:grid-cols-2">
-                <div className="rounded-lg border border-accent-100 bg-accent-50 p-5">
-                  <p className="text-xs font-black uppercase tracking-[0.18em] text-accent-700">
-                    Good for
-                  </p>
-                  <div className="mt-3 grid gap-2">
-                    {detail.bestFor.map((item) => (
-                      <div key={item} className="flex items-center gap-2 text-sm font-bold text-slate-800">
-                        <CheckCircle2 className="shrink-0 text-accent" size={16} />
-                        {item}
-                      </div>
-                    ))}
-                  </div>
-                </div>
-
-                <div className="rounded-lg border border-primary-100 bg-primary-50 p-5">
-                  <p className="text-xs font-black uppercase tracking-[0.18em] text-primary-700">
-                    Site checks
-                  </p>
-                  <div className="mt-3 grid gap-2">
-                    {detail.checks.map((item) => (
-                      <div key={item} className="flex items-center gap-2 text-sm font-bold text-slate-800">
-                        <Ruler className="shrink-0 text-primary" size={16} />
-                        {item}
-                      </div>
-                    ))}
-                  </div>
-                </div>
+              <div className="rounded-lg border border-primary-100 bg-primary-50 p-5">
+                <h3 className="font-black text-primary-900">Important survey checks</h3>
+                <ul className="mt-3 space-y-2">{detail.checks.map((item) => <li key={item} className="flex gap-2 text-sm leading-6"><Ruler size={16} className="mt-1 shrink-0 text-primary" />{item}</li>)}</ul>
               </div>
             </div>
           </section>
 
-          <section className="rounded-lg bg-white p-5 shadow-sm ring-1 ring-slate-200 sm:p-7">
-            <div className="grid gap-7 lg:grid-cols-[0.42fr_0.58fr] lg:items-start">
-              <div>
-                <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-secondary-50 text-secondary">
-                  <IndianRupee size={24} />
-                </div>
-                <p className="mt-5 text-sm font-black uppercase tracking-[0.2em] text-secondary">
-                  Price Guidance
-                </p>
-                <h2 className="mt-3 text-3xl font-black text-slate-950">
-                  Quote depends on site reality, not a pasted rate.
-                </h2>
-                <p className="mt-4 text-sm leading-7 text-slate-600">
-                  Use this section to understand what changes the estimate. The
-                  final amount should be confirmed only after measurement, access
-                  review, material selection, and fixing method.
-                </p>
-              </div>
+          <div className="relative aspect-[16/8] overflow-hidden rounded-lg bg-primary-100">
+            <Image src={visuals.detail} alt={`${service.name} material and fixing detail`} fill sizes="(max-width: 1024px) 100vw, 65vw" className="object-cover" />
+          </div>
 
-              <div className="grid gap-3 sm:grid-cols-2">
-                {pricingFactors.map((factor) => (
-                  <article
-                    key={factor.title}
-                    className="rounded-lg border border-slate-200 bg-[#F8FAFC] p-5"
-                  >
-                    <h3 className="text-base font-black text-primary">{factor.title}</h3>
-                    <p className="mt-2 text-sm leading-7 text-slate-600">{factor.text}</p>
-                  </article>
-                ))}
+          {content.sections.map((section) => (
+            <section key={section.id} id={`guide-${section.id}`} className="scroll-mt-32">
+              <h2 className="text-2xl font-black tracking-tight sm:text-3xl">{section.heading}</h2>
+              <div className="mt-5 space-y-4 text-base leading-8 text-slate-700">
+                {section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
               </div>
-            </div>
-          </section>
+              {section.bullets && <ul className="mt-5 space-y-3 rounded-lg border border-primary-100 bg-white p-5">{section.bullets.map((point) => <li key={point} className="flex gap-3 text-sm leading-7 text-slate-700"><CheckCircle2 size={18} className="mt-1 shrink-0 text-accent" /><span>{point}</span></li>)}</ul>}
+            </section>
+          ))}
 
-          <section>
-            <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
-              <div>
-                <p className="text-sm font-black uppercase tracking-[0.2em] text-primary">
-                  Fixed Frame Focus
-                </p>
-                <h2 className="mt-3 text-3xl font-black text-slate-950">
-                  Pick the right fixing style for the opening.
-                </h2>
-              </div>
-              <p className="max-w-md text-sm leading-7 text-slate-600">
-                The best method depends on strength, visibility, cleaning route,
-                building rules, and how often the space is used.
-              </p>
-            </div>
-
-            <div className="mt-7 grid gap-4 lg:grid-cols-3">
-              {comparisonRows.map((row, index) => (
-                <article
-                  key={row.title}
-                  className={`rounded-lg border p-5 shadow-sm ${
-                    row.featured
-                      ? "border-primary-800 bg-primary-900 text-white shadow-primary-900/15"
-                      : "border-slate-200 bg-white text-slate-950"
-                  }`}
-                >
-                  <div
-                    className={`flex h-11 w-11 items-center justify-center rounded-lg ${
-                      row.featured ? "bg-white text-primary" : "bg-secondary-50 text-secondary"
-                    }`}
-                  >
-                    {index === 0 ? <ShieldCheck size={21} /> : <Wrench size={21} />}
-                  </div>
-                  <h3 className="mt-5 text-xl font-black">{row.title}</h3>
-                  <p
-                    className={`mt-3 text-sm font-semibold leading-7 ${
-                      row.featured ? "text-slate-100" : "text-slate-600"
-                    }`}
-                  >
-                    <span className={row.featured ? "text-white" : "text-slate-900"}>
-                      Best:
-                    </span>{" "}
-                    {row.bestFor}
-                  </p>
-                  <p
-                    className={`mt-3 border-t pt-3 text-sm leading-7 ${
-                      row.featured
-                        ? "border-white/15 text-slate-100"
-                        : "border-slate-200 text-slate-600"
-                    }`}
-                  >
-                    {row.note}
-                  </p>
-                </article>
+          <section id="options" className="scroll-mt-32">
+            <p className="text-sm font-black uppercase tracking-[0.2em] text-secondary-700">Compare options</p>
+            <h2 className="mt-3 text-2xl font-black sm:text-3xl">{content.options.heading}</h2>
+            <p className="mt-4 text-base leading-8 text-slate-700">{content.options.intro}</p>
+            <div className="mt-6 grid gap-4">
+              {content.options.rows.map((row) => (
+                <section key={row.name} className="rounded-lg border border-primary-100 bg-white p-5 sm:p-6">
+                  <h3 className="text-lg font-black text-primary-900">{row.name}</h3>
+                  <dl className="mt-4 grid gap-4 text-sm leading-7 sm:grid-cols-2">
+                    <div><dt className="font-bold text-slate-950">Suitable for</dt><dd className="mt-1 text-slate-700">{row.bestFor}</dd></div>
+                    <div><dt className="font-bold text-slate-950">What to consider</dt><dd className="mt-1 text-slate-700">{row.considerations}</dd></div>
+                  </dl>
+                </section>
               ))}
             </div>
           </section>
 
-          <section className="overflow-hidden rounded-lg bg-primary-900 text-white shadow-xl shadow-primary-900/15">
-            <div className="grid gap-0 lg:grid-cols-[0.58fr_0.42fr]">
-              <div className="p-6 sm:p-8">
-                <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-white text-primary">
-                  <ClipboardCheck size={24} />
-                </div>
-                <p className="mt-5 text-sm font-black uppercase tracking-[0.2em] text-secondary-300">
-                  Process
-                </p>
-                <h2 className="mt-3 text-3xl font-black">
-                  How the Chennai installation is handled
-                </h2>
-                <div className="mt-7 grid gap-5 sm:grid-cols-2">
-                  {processSteps.map((step, index) => (
-                    <article
-                      key={step.title}
-                      className="grid grid-cols-[42px_minmax(0,1fr)] gap-3"
-                    >
-                      <span className="flex h-10 w-10 items-center justify-center rounded-full bg-white text-sm font-black text-primary">
-                        {String(index + 1).padStart(2, "0")}
-                      </span>
-                      <div>
-                        <h3 className="text-base font-black">{step.title}</h3>
-                        <p className="mt-1 text-sm leading-7 text-slate-100">{step.text}</p>
-                      </div>
-                    </article>
-                  ))}
-                </div>
-              </div>
-
-              <div className="relative min-h-[280px] border-t border-white/10 lg:border-l lg:border-t-0">
-                <Image
-                  src={visuals.context}
-                  alt={`${service.name} Chennai installation context`}
-                  fill
-                  className="object-cover"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-primary-900/70 to-transparent" />
-              </div>
+          <section id="pricing" className="scroll-mt-32 rounded-lg border border-slate-200 bg-white p-5 sm:p-7">
+            <IndianRupee size={26} className="text-secondary-700" />
+            <h2 className="mt-4 text-2xl font-black sm:text-3xl">{service.name} pricing in Chennai</h2>
+            <p className="mt-4 text-base leading-8 text-slate-700">{content.pricing.intro}</p>
+            <div className="mt-6 grid gap-4 sm:grid-cols-2">
+              {content.pricing.factors.map((factor) => <section key={factor.title} className="rounded-lg bg-slate-50 p-5"><h3 className="font-black text-primary-900">{factor.title}</h3><p className="mt-3 text-sm leading-7 text-slate-700">{factor.text}</p></section>)}
             </div>
+            <h3 className="mt-8 text-xl font-black">What to confirm in your written quote</h3>
+            <ul className="mt-5 space-y-3">{content.pricing.quoteChecklist.map((point) => <li key={point} className="flex gap-3 text-sm leading-7 text-slate-700"><ClipboardCheck size={18} className="mt-1 shrink-0 text-primary" /><span>{point}</span></li>)}</ul>
+            <Link href="/request-quote/" prefetch={false} className="mt-6 inline-flex items-center gap-2 rounded-lg bg-primary px-5 py-3 text-sm font-bold text-white">Request a site-specific quote <ArrowRight size={16} /></Link>
           </section>
 
-          <section>
-            <div className="grid gap-8 lg:grid-cols-[0.38fr_0.62fr]">
-              <div>
-                <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-accent-50 text-accent">
-                  <Layers3 size={24} />
-                </div>
-                <p className="mt-5 text-sm font-black uppercase tracking-[0.2em] text-accent-700">
-                  Local Fit
-                </p>
-                <h2 className="mt-3 text-3xl font-black text-slate-950">
-                  Chennai-specific points worth checking.
-                </h2>
-              </div>
-              <div className="grid gap-3">
-                {localPoints.map((point) => (
-                  <article
-                    key={point}
-                    className="flex gap-3 rounded-lg border border-slate-200 bg-white p-5 shadow-sm"
-                  >
-                    <CheckCircle2 className="mt-1 shrink-0 text-accent" size={18} />
-                    <p className="text-sm font-semibold leading-7 text-slate-700">{point}</p>
-                  </article>
-                ))}
-              </div>
+          <section id="installation" className="scroll-mt-32 overflow-hidden rounded-lg bg-primary-900 text-white">
+            <div className="p-6 sm:p-8">
+              <p className="text-sm font-black uppercase tracking-[0.2em] text-secondary-300">Installation planning</p>
+              <h2 className="mt-3 text-2xl font-black sm:text-3xl">From site assessment to handover</h2>
+              <ol className="mt-7 grid gap-6 sm:grid-cols-2">
+                {content.process.map((step, index) => <li key={step.title} className="flex gap-3"><span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-white text-sm font-black text-primary">{index + 1}</span><div><h3 className="font-black">{step.title}</h3><p className="mt-2 text-sm leading-7 text-slate-100">{step.text}</p></div></li>)}
+              </ol>
             </div>
+            <div className="relative aspect-[16/7]"><Image src={visuals.context} alt={`${service.name} service application`} fill sizes="(max-width: 1024px) 100vw, 65vw" className="object-cover" /></div>
           </section>
 
-          <section>
-            <p className="text-sm font-black uppercase tracking-[0.2em] text-secondary">
-              FAQ
-            </p>
-            <h2 className="mt-3 text-3xl font-black text-slate-950">
-              Questions before booking {service.name.toLowerCase()}
-            </h2>
+          <section id="chennai-coverage" className="scroll-mt-32">
+            <p className="text-sm font-black uppercase tracking-[0.2em] text-secondary-700">Local considerations</p>
+            <h2 className="mt-3 text-2xl font-black sm:text-3xl">Planning for your Chennai property</h2>
+            <div className="mt-5 space-y-4 text-base leading-8 text-slate-700">{content.localConsiderations.map((point) => <p key={point}>{point}</p>)}</div>
+            <p className="mt-6 text-sm leading-7 text-slate-600">Explore the matching service guide for your area, then share the exact property location and access details with your enquiry.</p>
+            <ul className="mt-4 flex flex-wrap gap-2">{priorityAreas.map((area) => <li key={area.slug}><Link href={`/${chennaiConfig.citySlug}/${area.slug}/${service.slug}/`} prefetch={false} className="inline-block rounded-full border border-primary-200 bg-white px-4 py-2 text-sm font-semibold text-primary hover:border-secondary">{area.name}</Link></li>)}</ul>
+            <Link href={`/${chennaiConfig.citySlug}/`} prefetch={false} className="mt-5 inline-flex items-center gap-2 text-sm font-bold text-primary underline">Browse all {chennaiConfig.areas.length} Chennai service areas <ArrowRight size={15} /></Link>
+          </section>
+
+          <section id="faqs" className="scroll-mt-32">
+            <p className="text-sm font-black uppercase tracking-[0.2em] text-secondary-700">Frequently asked questions</p>
+            <h2 className="mt-3 text-2xl font-black sm:text-3xl">Questions about {service.name.toLowerCase()} in Chennai</h2>
             <div className="mt-6 grid gap-3">
-              {serviceFaq.map((item) => (
-                <details
-                  key={item.question}
-                  className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm"
-                >
-                  <summary className="cursor-pointer text-base font-black text-slate-950 transition group-hover:text-primary">
-                    {item.question}
-                  </summary>
-                  <p className="mt-3 text-sm leading-7 text-slate-600">{item.answer}</p>
-                </details>
-              ))}
+              {content.faq.map((item) => <details key={item.question} className="group rounded-lg border border-slate-200 bg-white p-5"><summary className="cursor-pointer font-black leading-7 text-slate-950 hover:text-primary">{item.question}</summary><p className="mt-3 text-base leading-8 text-slate-700">{item.answer}</p></details>)}
             </div>
           </section>
-        </div>
+        </article>
 
         <aside className="space-y-5 lg:sticky lg:top-28 lg:self-start">
-          <div className="overflow-hidden rounded-lg border border-primary-100 bg-white shadow-lg shadow-primary-900/10">
-            <div className="relative min-h-[250px]">
-              <Image
-                src={visuals.areaCard}
-                alt={`${service.name} Chennai service context`}
-                fill
-                className="object-cover"
-              />
-            </div>
+          <div className="overflow-hidden rounded-lg border border-primary-100 bg-white shadow-sm">
+            <div className="relative aspect-[4/3]"><Image src={visuals.areaCard} alt={`${service.name} Chennai service`} fill sizes="(max-width: 1024px) 100vw, 320px" className="object-cover" /></div>
             <div className="p-5">
-              <p className="text-xs font-black uppercase tracking-[0.2em] text-secondary">
-                Quick Enquiry
-              </p>
-              <h2 className="mt-3 text-2xl font-black text-slate-950">
-                Ask for {service.name.toLowerCase()}.
-              </h2>
-              <p className="mt-3 text-sm leading-7 text-slate-600">
-                Share photos, area name, opening size, floor access, and the main
-                issue. The quote can then follow the actual site condition.
-              </p>
-              <div className="mt-5 grid gap-3">
-                <a
-                  href={siteConfig.contact.phoneHref}
-                  className="inline-flex items-center justify-center gap-2 rounded-lg bg-red-600 px-5 py-3 font-black text-white shadow transition hover:bg-red-700"
-                >
-                  <Phone size={17} />
-                  Call Now
-                </a>
-                <a
-                  href={siteConfig.contact.whatsappHref}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center gap-2 rounded-lg bg-accent px-5 py-3 font-black text-white shadow transition hover:bg-accent-600"
-                >
-                  <MessageCircle size={17} />
-                  WhatsApp Photos
-                </a>
-              </div>
+              <p className="text-xs font-black uppercase tracking-[0.2em] text-secondary-700">Discuss your requirement</p>
+              <h2 className="mt-3 text-xl font-black">Plan your {service.name.toLowerCase()} installation</h2>
+              <p className="my-4 text-sm leading-7 text-slate-700">Send the location, photos of the full opening and fixing edges, and the main purpose of the work. Include any association rules or maintenance access that the proposal must allow for.</p>
+              <ContactLinks />
+              <Link href="/request-quote/" prefetch={false} className="mt-5 inline-flex items-center gap-2 text-sm font-bold text-primary underline">Send an enquiry online <ArrowRight size={15} /></Link>
             </div>
           </div>
-
-          <div className="rounded-lg border border-primary-100 bg-white p-5 shadow-sm">
-            <div className="flex items-center gap-3">
-              <MapPin className="text-secondary" size={22} />
-              <div>
-                <p className="text-xs font-black uppercase tracking-[0.2em] text-primary">
-                  Key Areas
-                </p>
-                <h2 className="text-xl font-black text-slate-950">Popular Chennai links</h2>
-              </div>
-            </div>
-            <div className="mt-4 flex flex-wrap gap-2">
-              {priorityAreas.map((area) => (
-                <Link
-                  key={area.slug}
-                  href={`/${chennaiConfig.citySlug}/${area.slug}/${service.slug}`}
-                  prefetch={false}
-                  className="rounded-full border border-slate-200 px-3 py-2 text-xs font-bold text-slate-700 transition hover:border-secondary-300 hover:text-secondary"
-                >
-                  {area.name}
-                </Link>
-              ))}
-            </div>
-            <Link
-              href={`/${chennaiConfig.citySlug}`}
-              prefetch={false}
-              className="mt-5 inline-flex items-center gap-2 text-sm font-black text-primary transition hover:text-secondary"
-            >
-              View Chennai directory
-              <ArrowRight size={15} />
-            </Link>
+          <div className="rounded-lg border border-primary-100 bg-white p-5">
+            <MapPin size={22} className="text-secondary-700" />
+            <h2 className="mt-3 text-lg font-black">Chennai service areas</h2>
+            <p className="mt-3 text-sm leading-7 text-slate-700">Find the local guide for your neighborhood and compare the requirements for your property.</p>
+            <Link href="#chennai-coverage" prefetch={false} className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-primary">View service areas <ArrowRight size={15} /></Link>
           </div>
         </aside>
-      </section>
+      </div>
 
       <section className="bg-white px-4 py-14 sm:px-6">
         <div className="mx-auto max-w-7xl">
-          <div className="flex flex-col justify-between gap-4 md:flex-row md:items-end">
-            <div>
-              <p className="text-sm font-black uppercase tracking-[0.2em] text-secondary">
-                Related Services
-              </p>
-              <h2 className="mt-3 text-3xl font-black text-slate-950">
-                Other Chennai safety services
-              </h2>
-            </div>
-            <Link
-              href="/services"
-              prefetch={false}
-              className="inline-flex items-center gap-2 self-start rounded-lg border border-primary-200 px-4 py-3 text-sm font-black text-primary transition hover:border-secondary-300 hover:text-secondary md:self-auto"
-            >
-              View all services
-              <ArrowRight size={16} />
-            </Link>
-          </div>
-
-          <div className="mt-7 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-            {relatedServices.map((related) => {
-              const relatedVisuals = getServiceVisuals(related.slug);
-
-              return (
-                <Link
-                  key={related.slug}
-                  href={`/${chennaiConfig.citySlug}/${related.slug}`}
-                  prefetch={false}
-                  className="group overflow-hidden rounded-lg border border-slate-200 bg-[#F8FAFC] shadow-sm transition hover:border-secondary-300 hover:bg-white hover:shadow-md"
-                >
-                  <div className="relative min-h-[170px]">
-                    <Image
-                      src={relatedVisuals.context}
-                      alt={`${related.name} Chennai service`}
-                      fill
-                      className="object-cover transition duration-300 group-hover:scale-[1.03]"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-primary-900/80 via-primary-900/10 to-transparent" />
-                    <span className="absolute bottom-3 left-3 rounded-full bg-secondary px-3 py-1 text-xs font-black uppercase tracking-[0.14em] text-white">
-                      Chennai
-                    </span>
-                  </div>
-                  <div className="p-5">
-                    <p className="text-lg font-black text-slate-950">{related.name}</p>
-                    <p className="mt-2 text-sm leading-6 text-slate-600">{related.angle}</p>
-                    <span className="mt-4 inline-flex items-center gap-2 text-sm font-black text-primary">
-                      Open Chennai page
-                      <ArrowRight size={16} className="transition group-hover:translate-x-1" />
-                    </span>
-                  </div>
-                </Link>
-              );
-            })}
+          <p className="text-sm font-black uppercase tracking-[0.2em] text-secondary-700">Related services</p>
+          <h2 className="mt-3 text-3xl font-black">Other options for your property</h2>
+          <div className="mt-7 grid gap-5 md:grid-cols-3">
+            {relatedServices.map((related) => <Link key={related.slug} href={`/${chennaiConfig.citySlug}/${related.slug}/`} prefetch={false} className="overflow-hidden rounded-lg border border-slate-200 bg-slate-50 transition hover:border-secondary"><div className="relative aspect-[16/9]"><Image src={getServiceVisuals(related.slug).areaCard} alt={related.name} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover" /></div><div className="p-5"><h3 className="text-xl font-black">{related.name}</h3><p className="mt-3 text-sm leading-7 text-slate-700">{related.angle}</p><span className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-primary">View service guide <ArrowRight size={16} /></span></div></Link>)}
           </div>
         </div>
       </section>

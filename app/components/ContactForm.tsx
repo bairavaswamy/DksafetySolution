@@ -99,7 +99,7 @@ export default function ContactForm({
           <p className="mt-5 text-xs font-black uppercase tracking-[0.22em] text-secondary">
             {eyebrow}
           </p>
-          <h2 className="mt-3 text-2xl font-semibold leading-tight text-green-900 sm:text-3xl">
+          <h2 className="mt-3 text-2xl font-semibold leading-tight text-primary-900 sm:text-3xl">
             {heading}
           </h2>
           <p className="mt-3 text-sm leading-7 text-slate-600">{description}</p>
@@ -107,7 +107,7 @@ export default function ContactForm({
           <div className="mt-5 grid gap-3 sm:grid-cols-3 lg:grid-cols-1">
             <a
               href={siteConfig.contact.phoneHref}
-              className="inline-flex items-center justify-center gap-2 rounded-md bg-red-600 px-4 py-3 text-sm font-semibold text-white transition hover:bg-red-700"
+              className="inline-flex items-center justify-center gap-2 rounded-md bg-primary-900 px-4 py-3 text-sm font-semibold text-white transition hover:bg-primary-950"
             >
               <Phone size={17} />
               Call
@@ -136,7 +136,7 @@ export default function ContactForm({
             <p className="text-xs font-black uppercase tracking-[0.22em] text-secondary">
               Quote Request
             </p>
-            <h3 className="mt-2 text-2xl font-semibold text-green-900">{formTitle}</h3>
+            <h3 className="mt-2 text-2xl font-semibold text-primary-900">{formTitle}</h3>
           </div>
 
           <form className="grid grid-cols-1 gap-4" onSubmit={handleSubmit}>
@@ -147,7 +147,7 @@ export default function ContactForm({
                 value={formData.name}
                 onChange={handleChange}
                 required
-                className="rounded-md border border-slate-200 bg-[#F8FAFC] px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
+                className="rounded-md border border-slate-200 bg-neutral-50 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
               />
               <input
                 name="phone"
@@ -155,7 +155,7 @@ export default function ContactForm({
                 value={formData.phone}
                 onChange={handleChange}
                 required
-                className="rounded-md border border-slate-200 bg-[#F8FAFC] px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
+                className="rounded-md border border-slate-200 bg-neutral-50 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
               />
             </div>
 
@@ -167,14 +167,14 @@ export default function ContactForm({
                 value={formData.email}
                 onChange={handleChange}
                 required
-                className="rounded-md border border-slate-200 bg-[#F8FAFC] px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
+                className="rounded-md border border-slate-200 bg-neutral-50 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
               />
               <input
                 name="purpose"
                 placeholder="Service Needed"
                 value={formData.purpose}
                 onChange={handleChange}
-                className="rounded-md border border-slate-200 bg-[#F8FAFC] px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
+                className="rounded-md border border-slate-200 bg-neutral-50 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
               />
             </div>
 
@@ -184,7 +184,7 @@ export default function ContactForm({
               placeholder="Project details, location, or notes..."
               value={formData.message}
               onChange={handleChange}
-              className="resize-none rounded-md border border-slate-200 bg-[#F8FAFC] px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
+              className="resize-none rounded-md border border-slate-200 bg-neutral-50 px-4 py-3 text-sm outline-none transition focus:border-primary focus:bg-white focus:ring-2 focus:ring-primary-100"
             />
 
             {status === "success" ? (
@@ -202,7 +202,7 @@ export default function ContactForm({
             <button
               type="submit"
               disabled={status === "loading"}
-              className="inline-flex w-full items-center justify-center gap-2 rounded-md bg-secondary py-3 font-semibold text-white shadow-[0_10px_24px_rgba(249,115,22,0.22)] transition hover:bg-secondary-600 disabled:cursor-not-allowed disabled:opacity-50"
+              className="inline-flex w-full items-center justify-center gap-2 rounded-md bg-secondary py-3 font-semibold text-white shadow-[0_10px_24px_rgba(143,99,44,0.22)] transition hover:bg-secondary-600 disabled:cursor-not-allowed disabled:opacity-50"
             >
               {status === "loading" ? "Sending..." : submitLabel}
               <ArrowRight size={18} />

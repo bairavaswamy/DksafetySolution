@@ -82,10 +82,10 @@ export default function RequestQuotePage() {
           __html: quoteJsonLd,
         }}
       />
-      <main className="bg-gradient-to-b from-sky-50 via-white to-lime-50 text-slate-950">
+      <main className="bg-gradient-to-b from-primary-50 via-white to-secondary-50 text-slate-950">
         <section className="mx-auto grid max-w-7xl gap-8 px-4 py-12 lg:grid-cols-[0.82fr_1.18fr] lg:px-6 lg:py-16">
           <div className="space-y-6">
-            <div className="inline-flex items-center gap-2 rounded-full border border-sky-200 bg-white px-4 py-2 text-sm font-bold text-sky-600 shadow-sm">
+            <div className="inline-flex items-center gap-2 rounded-full border border-primary-200 bg-white px-4 py-2 text-sm font-bold text-primary-600 shadow-sm">
               <Clock3 size={16} />
               Quote request
             </div>
@@ -105,9 +105,9 @@ export default function RequestQuotePage() {
               {quoteSteps.map((step) => (
                 <div
                   key={step}
-                  className="flex items-start gap-3 rounded-2xl border border-sky-100 bg-white p-4 text-sm font-semibold leading-6 text-slate-700 shadow-sm"
+                  className="flex items-start gap-3 rounded-2xl border border-primary-100 bg-white p-4 text-sm font-semibold leading-6 text-slate-700 shadow-sm"
                 >
-                  <CheckCircle2 className="mt-0.5 shrink-0 text-sky-500" size={18} />
+                  <CheckCircle2 className="mt-0.5 shrink-0 text-primary-500" size={18} />
                   {step}
                 </div>
               ))}
@@ -116,10 +116,10 @@ export default function RequestQuotePage() {
             <div className="grid gap-4 sm:grid-cols-2">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="rounded-2xl border border-sky-100 bg-white p-5 shadow-sm transition hover:border-sky-300"
+                className="rounded-2xl border border-primary-100 bg-white p-5 shadow-sm transition hover:border-primary-300"
               >
-                <Phone className="text-sky-500" size={22} />
-                <p className="mt-3 text-sm font-bold uppercase tracking-[0.16em] text-sky-500">
+                <Phone className="text-primary-500" size={22} />
+                <p className="mt-3 text-sm font-bold uppercase tracking-[0.16em] text-primary-500">
                   Call
                 </p>
                 <p className="mt-2 text-sm font-black text-slate-950">
@@ -130,10 +130,10 @@ export default function RequestQuotePage() {
               <Link
                 href={`/${chennaiConfig.citySlug}`}
                 prefetch={false}
-                className="rounded-2xl border border-indigo-100 bg-white p-5 shadow-sm transition hover:border-indigo-300"
+                className="rounded-2xl border border-primary-100 bg-white p-5 shadow-sm transition hover:border-primary-300"
               >
-                <MapPin className="text-indigo-700" size={22} />
-                <p className="mt-3 text-sm font-bold uppercase tracking-[0.16em] text-indigo-700">
+                <MapPin className="text-primary-700" size={22} />
+                <p className="mt-3 text-sm font-bold uppercase tracking-[0.16em] text-primary-700">
                   Directory
                 </p>
                 <p className="mt-2 inline-flex items-center gap-2 text-sm font-black text-slate-950">

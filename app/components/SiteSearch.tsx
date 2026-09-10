@@ -279,7 +279,7 @@ const SiteSearch: React.FC<SiteSearchProps> = ({
         size={17}
         aria-hidden="true"
         className={`absolute left-3 ${
-          isDrawerMobile || isMobileNav ? "text-primary" : "text-slate-400"
+          isDrawerMobile || isMobileNav ? "text-primary" : "text-slate-500"
         }`}
       />
       <input
@@ -296,7 +296,7 @@ const SiteSearch: React.FC<SiteSearchProps> = ({
         }}
         placeholder={isDrawerMobile || isMobileNav ? "Search services or areas" : "Search services"}
         autoComplete="off"
-        className={`w-full bg-transparent py-2 pl-10 pr-9 text-sm font-semibold text-slate-800 outline-none placeholder:text-slate-400 ${
+        className={`w-full bg-transparent py-2 pl-10 pr-9 text-sm font-semibold text-slate-800 outline-none placeholder:text-slate-500 ${
           isDrawerMobile || isMobileNav ? "rounded-2xl" : "rounded-full"
         }`}
       />
@@ -305,7 +305,7 @@ const SiteSearch: React.FC<SiteSearchProps> = ({
           type="button"
           onClick={closeSearch}
           aria-label="Clear search"
-          className="absolute right-2 inline-flex h-7 w-7 items-center justify-center rounded-full text-slate-400 transition hover:bg-slate-100 hover:text-slate-700"
+          className="absolute right-2 inline-flex h-7 w-7 items-center justify-center rounded-full text-slate-500 transition hover:bg-slate-100 hover:text-slate-700"
         >
           <X size={15} aria-hidden="true" />
         </button>

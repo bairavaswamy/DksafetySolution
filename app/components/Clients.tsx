@@ -43,8 +43,8 @@ function AudienceCard({ client }: { client: string }) {
     audienceProfiles["Residential Homes"];
 
   return (
-    <article className="group rounded-lg border border-primary-100 bg-white p-5 text-center shadow-[0_14px_34px_rgba(15,76,129,0.08)] transition duration-300 hover:-translate-y-1 hover:border-secondary-300 hover:shadow-[0_20px_48px_rgba(15,76,129,0.14)]">
-      <div className="relative mx-auto h-24 w-24 overflow-hidden rounded-full bg-white p-1 shadow-[0_12px_26px_rgba(15,76,129,0.18)] ring-1 ring-primary-100 transition duration-300 group-hover:ring-secondary-300">
+    <article className="group rounded-lg border border-primary-100 bg-white p-5 text-center shadow-[0_14px_34px_rgba(20,45,59,0.08)] transition duration-300 hover:-translate-y-1 hover:border-secondary-300 hover:shadow-[0_20px_48px_rgba(20,45,59,0.14)]">
+      <div className="relative mx-auto h-24 w-24 overflow-hidden rounded-full bg-white p-1 shadow-[0_12px_26px_rgba(20,45,59,0.18)] ring-1 ring-primary-100 transition duration-300 group-hover:ring-secondary-300">
         <Image
           src={profile.logo}
           alt={`${client} safety service logo`}
@@ -58,7 +58,7 @@ function AudienceCard({ client }: { client: string }) {
       <p className="mx-auto mt-2 max-w-[210px] text-sm leading-6 text-slate-600">
         {profile.description}
       </p>
-      <span className="mt-4 inline-flex rounded-full bg-accent-50 px-3 py-1 text-xs font-black uppercase tracking-[0.12em] text-accent-700">
+      <span className="mt-4 inline-flex rounded-full bg-secondary-50 px-3 py-1 text-xs font-black uppercase tracking-[0.12em] text-secondary-700">
         Site ready
       </span>
     </article>

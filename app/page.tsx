@@ -7,6 +7,7 @@ import ButtonCards from "./components/ButtonCards";
 import HomeStats from "./components/HomeStats";
 import { chennaiConfig } from "./config/chennai.config";
 import { getServiceDetail } from "./content/serviceDetails";
+import { getServiceHeroImage, getServiceMobileHeroImage } from "./content/serviceVisuals";
 import {
   getBreadcrumbListSchema,
   getGraphSchema,
@@ -111,14 +112,14 @@ export default function Home() {
       <link
         rel="preload"
         as="image"
-        href="/images/home/invisible-grill-installation-chennai-balcony.png"
+        href={getServiceMobileHeroImage("invisible-grills")}
         media="(max-width: 767px)"
         fetchPriority="high"
       />
       <link
         rel="preload"
         as="image"
-        href="/images/home/invisible-grill-installation-chennai-balcony.png"
+        href={getServiceHeroImage("invisible-grills")}
         media="(min-width: 768px)"
         fetchPriority="high"
       />
@@ -135,7 +136,7 @@ export default function Home() {
 
         <ButtonCards />
 
-        <section className="mt-10 w-full max-w-full overflow-hidden bg-gradient-to-b from-[#F8FAFC] via-white to-white py-12">
+        <section className="mt-10 w-full max-w-full overflow-hidden bg-gradient-to-b from-neutral-50 via-white to-white py-12">
           <div className="mx-auto max-w-7xl">
             <div className="mb-7 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
               <div>
@@ -153,7 +154,7 @@ export default function Home() {
               <Link
                 href={`/${chennaiConfig.citySlug}`}
                 prefetch={false}
-                className="inline-flex items-center gap-2 self-start rounded-full bg-primary px-5 py-3 text-sm font-black text-white shadow-[0_10px_24px_rgba(15,76,129,0.2)] transition hover:bg-secondary sm:self-auto"
+                className="inline-flex items-center gap-2 self-start rounded-full bg-primary px-5 py-3 text-sm font-black text-white shadow-[0_10px_24px_rgba(20,45,59,0.2)] transition hover:bg-secondary sm:self-auto"
               >
                 View All Services
                 <ArrowRight size={16} />
@@ -169,7 +170,7 @@ export default function Home() {
                     key={service.slug}
                     href={`/${chennaiConfig.citySlug}/${service.slug}`}
                     prefetch={false}
-                    className="group mx-auto w-full max-w-[390px] overflow-hidden rounded-lg border border-primary-100 bg-white shadow-[0_14px_34px_rgba(15,76,129,0.12)] transition duration-300 hover:-translate-y-1 hover:border-secondary-300 hover:shadow-[0_20px_48px_rgba(15,76,129,0.18)] md:max-w-none"
+                    className="group mx-auto w-full max-w-[390px] overflow-hidden rounded-lg border border-primary-100 bg-white shadow-[0_14px_34px_rgba(20,45,59,0.12)] transition duration-300 hover:-translate-y-1 hover:border-secondary-300 hover:shadow-[0_20px_48px_rgba(20,45,59,0.18)] md:max-w-none"
                   >
                     <div className="relative h-[238px] overflow-hidden bg-primary-50 sm:h-[255px]">
                       <Image
@@ -211,14 +212,14 @@ export default function Home() {
                         {detail.bestFor.slice(0, 2).map((item) => (
                           <span
                             key={item}
-                            className="rounded-full bg-accent-50 px-3 py-1 text-xs font-bold text-accent-700"
+                            className="rounded-full bg-secondary-50 px-3 py-1 text-xs font-bold text-secondary-700"
                           >
                             {item}
                           </span>
                         ))}
                       </div>
 
-                      <span className="mt-5 inline-flex items-center justify-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-black text-white shadow-[0_10px_24px_rgba(15,76,129,0.22)] transition group-hover:bg-secondary">
+                      <span className="mt-5 inline-flex items-center justify-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-black text-white shadow-[0_10px_24px_rgba(20,45,59,0.22)] transition group-hover:bg-secondary">
                         Explore Service
                         <ArrowRight size={16} className="transition group-hover:translate-x-1" />
                       </span>
@@ -231,7 +232,7 @@ export default function Home() {
         </section>
 
         <section className="mt-10">
-          <h2 className="mx-auto mb-4 max-w-7xl text-2xl font-semibold text-green-900">
+          <h2 className="mx-auto mb-4 max-w-7xl text-2xl font-semibold text-primary-900">
             Testimonials
           </h2>
           <Testimonials />
@@ -239,7 +240,7 @@ export default function Home() {
 
         <HomeStats />
 
-        <section className="mt-10 w-full max-w-full overflow-hidden border-y border-primary-100 bg-[#F8FAFC] px-4 py-14 sm:px-6">
+        <section className="mt-10 w-full max-w-full overflow-hidden border-y border-primary-100 bg-neutral-50 px-4 py-14 sm:px-6">
           <div className="mx-auto flex max-w-7xl flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
             <p className="text-xs font-black uppercase tracking-[0.22em] text-secondary">
@@ -263,7 +264,7 @@ export default function Home() {
               <p className="text-xs font-black uppercase tracking-[0.22em] text-secondary">
                 Service Areas
               </p>
-              <h2 className="mt-2 text-2xl font-semibold text-green-900">
+              <h2 className="mt-2 text-2xl font-semibold text-primary-900">
                 Areas We Serve
               </h2>
             </div>

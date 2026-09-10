@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">DK Safety Solutions</title>
+  <desc id="desc">Ivory and brass interlocking DK monogram on midnight navy.</desc>
+  <rect width="64" height="64" rx="13" fill="#142D3B"/>
+  <g transform="translate(4.05 1.92) scale(.235)">
+    <path d="M24 32H92L132 72V184L92 224H24V32ZM48 56V200H82L108 174V82L82 56H48Z" fill="#FAF8F4" fill-rule="evenodd"/>
+    <path d="M108 32H132V101L184 32H214L142 128L214 224H184L132 155V224H108V32Z" fill="#CFB77F"/>
+  </g>
+</svg>

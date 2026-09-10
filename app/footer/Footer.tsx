@@ -10,11 +10,11 @@ export default function Footer() {
       <div className="mx-auto grid max-w-7xl gap-10 px-6 py-14 md:grid-cols-2 lg:grid-cols-[1.3fr_0.8fr_1fr]">
         <div>
           <Image
-            src={siteConfig.logos.desktop}
+            src={siteConfig.logos.desktopLight}
             alt={`${siteConfig.name} logo`}
             width={900}
             height={338}
-            className="mb-5 h-16 w-auto rounded-lg bg-white"
+            className="mb-5 h-16 w-auto rounded-lg bg-transparent"
           />
 
           <p className="text-sm leading-relaxed text-gray-400">{siteConfig.description}</p>

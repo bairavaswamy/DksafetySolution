@@ -15,6 +15,7 @@ import {
   gatedCommunities,
   gatedCommunityServices,
 } from "../../content/gatedCommunityServicePages";
+import { getCityStaticParams } from "../../content/staticRoutes";
 
 type GatedCommunitiesIndexProps = {
   params: {
@@ -29,7 +30,7 @@ const pageDescription =
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return [{ city: chennaiConfig.citySlug }];
+  return getCityStaticParams();
 }
 
 export function generateMetadata({ params }: GatedCommunitiesIndexProps): Metadata {
@@ -112,7 +113,7 @@ export default function GatedCommunitiesIndex({
       />
       <section className="bg-slate-950 px-4 py-16 text-white lg:px-6">
         <div className="mx-auto max-w-7xl">
-          <p className="text-sm font-black uppercase tracking-[0.22em] text-sky-300">
+          <p className="text-sm font-black uppercase tracking-[0.22em] text-primary-300">
             Chennai gated communities
           </p>
           <h1 className="mt-4 max-w-4xl text-4xl font-black leading-tight sm:text-5xl">
@@ -132,7 +133,7 @@ export default function GatedCommunitiesIndex({
               key={community.slug}
               className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm"
             >
-              <Building2 className="text-sky-600" size={24} />
+              <Building2 className="text-primary-600" size={24} />
               <h2 className="mt-3 text-2xl font-black text-slate-950">
                 {community.name}
               </h2>
@@ -156,7 +157,7 @@ export default function GatedCommunitiesIndex({
                     key={service.slug}
                     href={`/${chennaiConfig.citySlug}/${community.slug}/${service.slug}`}
                     prefetch={false}
-                    className="flex items-center justify-between rounded-lg border border-slate-200 px-3 py-2 text-sm font-bold text-slate-800 transition hover:border-sky-300 hover:text-sky-600"
+                    className="flex items-center justify-between rounded-lg border border-slate-200 px-3 py-2 text-sm font-bold text-slate-800 transition hover:border-primary-300 hover:text-primary-600"
                   >
                     {service.name}
                     <ArrowRight size={15} />

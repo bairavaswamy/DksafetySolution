@@ -74,8 +74,8 @@ export default function GalleryPage() {
         }}
       />
 
-      <section className="bg-gradient-to-r from-sky-100 to-sky-50 px-6 py-16 text-center">
-        <p className="text-sm font-bold uppercase tracking-[0.22em] text-sky-600">
+      <section className="bg-gradient-to-r from-primary-100 to-primary-50 px-6 py-16 text-center">
+        <p className="text-sm font-bold uppercase tracking-[0.22em] text-primary-600">
           Gallery
         </p>
         <h1 className="mx-auto mt-3 max-w-4xl text-4xl font-bold text-slate-950 md:text-5xl">
@@ -91,7 +91,7 @@ export default function GalleryPage() {
         {siteConfig.galleryImages.map((image) => (
           <article
             key={image.src}
-            className="group overflow-hidden rounded-[28px] border border-sky-100 bg-white shadow-lg shadow-sky-100/40"
+            className="group overflow-hidden rounded-[28px] border border-primary-100 bg-white shadow-lg shadow-primary-100/40"
           >
             <div className="relative h-72">
               <Image
@@ -103,7 +103,7 @@ export default function GalleryPage() {
               />
             </div>
             <div className="p-5">
-              <p className="text-xs font-bold uppercase tracking-[0.18em] text-sky-500">
+              <p className="text-xs font-bold uppercase tracking-[0.18em] text-primary-500">
                 {image.category}
               </p>
               <h2 className="mt-2 text-xl font-bold text-slate-950">{image.title}</h2>
@@ -114,7 +114,7 @@ export default function GalleryPage() {
       </section>
 
       <section className="mx-auto max-w-7xl px-6 pb-14">
-        <div className="rounded-[32px] border border-sky-100 bg-gradient-to-br from-sky-50 via-white to-lime-50 p-6 text-center shadow-lg shadow-sky-100/50">
+        <div className="rounded-[32px] border border-primary-100 bg-gradient-to-br from-primary-50 via-white to-secondary-50 p-6 text-center shadow-lg shadow-primary-100/50">
           <h2 className="text-2xl font-bold text-slate-950">Need a site visit?</h2>
           <p className="mx-auto mt-3 max-w-2xl text-sm leading-7 text-slate-600">
             Share your area, photos, and service requirement so the team can plan
@@ -123,7 +123,7 @@ export default function GalleryPage() {
           <Link
             href="/contact-us"
             prefetch={false}
-            className="mt-5 inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-sky-500 to-lime-500 px-5 py-3 font-semibold text-white shadow-md transition hover:scale-[1.02]"
+            className="mt-5 inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-primary-700 to-primary-900 px-5 py-3 font-semibold text-white shadow-md transition hover:scale-[1.02]"
           >
             Contact Us
             <ArrowRight size={18} />

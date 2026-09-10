@@ -1,0 +1,101 @@
+{
+  "balcony-safety-nets": {
+    "subject": "Apartment balcony enclosed with visible square safety mesh",
+    "hero": "public/images/site/chennai-home-hero-safety-nets.webp",
+    "detail": "public/images/site/chennai-article-anchor-detail.webp",
+    "context": "public/birdnet/transparabt-net-installation.webp"
+  },
+  "children-safety-nets": {
+    "subject": "Child and parent inside a balcony enclosed with square mesh, with a separate close view of its anchor",
+    "hero": "public/newimages/dk-safety-solutions-chennai-service-reference-05.png",
+    "detail": "public/images/site/chennai-article-anchor-detail.webp",
+    "context": "public/newimages/dk-safety-solutions-chennai-service-reference-02.png"
+  },
+  "anti-bird-nets": {
+    "subject": "Fine bird exclusion mesh across balconies and a utility opening",
+    "hero": "public/birdnet/anti-bird-nets-installation.webp",
+    "detail": "public/newimages/dk-safety-solutions-chennai-service-reference-36.png",
+    "context": "public/newimages/dk-safety-solutions-chennai-service-reference-31.png"
+  },
+  "pigeon-safety-nets": {
+    "subject": "Birds outside a balcony net and a utility recess protected by square mesh",
+    "hero": "public/newimages/dk-safety-solutions-chennai-service-reference-22.png",
+    "detail": "public/images/site/chennai-article-anchor-detail.webp",
+    "context": "public/newimages/dk-safety-solutions-chennai-service-reference-24.png"
+  },
+  "invisible-grills": {
+    "subject": "Slim vertical stainless steel safety cables preserving the balcony view",
+    "hero": "public/images/invisible-grill.webp",
+    "detail": "public/newimages/dk-safety-solutions-chennai-service-reference-16.png",
+    "context": "public/newimages/dk-safety-solutions-chennai-service-reference-17.png"
+  },
+  "balcony-invisible-grills": {
+    "subject": "Balcony front protected by vertical safety cables",
+    "hero": "assets/service-sources/balcony-invisible-grills.webp",
+    "detail": "public/newimages/dk-safety-solutions-chennai-service-reference-18.png",
+    "context": "public/newimages/dk-safety-solutions-chennai-service-reference-13.png"
+  },
+  "window-safety-nets": {
+    "subject": "Exterior window recess enclosed with visible square mesh",
+    "hero": "public/newimages/dk-safety-solutions-chennai-service-reference-27.png",
+    "detail": "public/images/site/chennai-article-anchor-detail.webp",
+    "context": "public/newimages/dk-safety-solutions-chennai-service-reference-27.png"
+  },
+  "duct-area-safety-nets": {
+    "subject": "Apartment service shaft opening covered by netting",
+    "hero": "assets/service-sources/duct-area-safety-nets.webp",
+    "detail": "assets/service-sources/duct-area-safety-nets.webp",
+    "context": "assets/service-sources/duct-area-safety-nets.webp"
+  },
+  "building-covering-safety-nets": {
+    "origin": "AI-generated service illustration, not a completed client project",
+    "subject": "Building facade and scaffolding covered by safety netting",
+    "hero": "assets/service-sources/building-covering-safety-nets.png",
+    "detail": "assets/service-sources/building-covering-safety-nets.png",
+    "context": "assets/service-sources/building-covering-safety-nets.png"
+  },
+  "terrace-safety-nets": {
+    "origin": "AI-generated service illustration, not a completed client project",
+    "subject": "Rooftop terrace with perimeter safety mesh above the parapet",
+    "hero": "assets/service-sources/terrace-safety-nets.png",
+    "detail": "assets/service-sources/terrace-safety-nets.png",
+    "context": "assets/service-sources/terrace-safety-nets.png"
+  },
+  "staircase-safety-nets": {
+    "origin": "AI-generated service illustration, not a completed client project",
+    "subject": "Indoor staircase and stairwell protected with visible safety mesh",
+    "hero": "assets/service-sources/staircase-safety-nets.png",
+    "detail": "assets/service-sources/staircase-safety-nets.png",
+    "context": "assets/service-sources/staircase-safety-nets.png"
+  },
+  "swimming-pool-safety-nets": {
+    "subject": "Pool covered by tensioned safety netting with deck anchor details",
+    "hero": "assets/service-sources/swimming-pool-safety-nets.webp",
+    "detail": "assets/service-sources/swimming-pool-detail.webp",
+    "context": "assets/service-sources/swimming-pool-context.webp"
+  },
+  "cricket-practice-nets": {
+    "subject": "Cricket practice lane with stumps and a surrounding net enclosure",
+    "hero": "public/images/home/sports-net-installation-cricket-chennai.png",
+    "detail": "public/images/home/sports-net-installation-cricket-chennai.png",
+    "context": "public/images/home/sports-net-installation-cricket-chennai.png"
+  },
+  "football-sports-nets": {
+    "subject": "Football turf with ball containment netting along the pitch boundary",
+    "hero": "assets/service-sources/football-sports-nets.webp",
+    "detail": "assets/service-sources/football-sports-nets.webp",
+    "context": "assets/service-sources/football-sports-nets.webp"
+  },
+  "bird-spikes-installation": {
+    "subject": "Rows of bird deterrent spikes installed on exterior ledges",
+    "hero": "public/spikes/bird-control-spikes.webp",
+    "detail": "public/spikes/cards/anti-bird-spikes-installation.webp",
+    "context": "public/spikes/pvc-anti-bird-spikes-installation.webp"
+  },
+  "cloth-hanger-installation": {
+    "subject": "Ceiling mounted drying rods and pulley hangers in a utility balcony",
+    "hero": "public/images/home/ceiling-cloth-hanger-installation-chennai.png",
+    "detail": "public/clothhangers/dry-balcony-cloth-hangers-installation.webp",
+    "context": "public/images/site/hero-v3-cloth-hanger-balcony-desktop.webp"
+  }
+}

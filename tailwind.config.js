@@ -1,125 +1,41 @@
+// Navy, ivory and brass: shared tokens keep every service page on brand.
+const primary = {
+  50: "#F1F5F6", 100: "#E4ECEF", 200: "#C7D5DA", 300: "#98B0BA",
+  400: "#628391", 500: "#345B6C", DEFAULT: "#345B6C", 600: "#294B5C",
+  700: "#213F50", 800: "#1B3545", 900: "#142D3B", 950: "#0C1E29",
+};
+const secondary = {
+  50: "#FBF7EE", 100: "#F2E8D5", 200: "#E6D7B4", 300: "#CFB77F",
+  400: "#B18C50", 500: "#8F632C", DEFAULT: "#8F632C", 600: "#775020",
+  700: "#5E401E", 800: "#48331C", 900: "#352719", 950: "#231A10",
+};
+const accent = {
+  50: "#F0F6F3", 100: "#DFEEE6", 200: "#BCD8C9", 300: "#8FBCA7",
+  400: "#548E77", 500: "#286B5A", DEFAULT: "#286B5A", 600: "#205748",
+  700: "#194637", 800: "#163A30", 900: "#123027", 950: "#0B201A",
+};
+const neutral = {
+  50: "#FAF8F4", 100: "#F1EEE7", 200: "#E5E2D9", 300: "#C9C8C0",
+  400: "#949B9C", 500: "#647278", 600: "#4B5C64", 700: "#374D58",
+  800: "#233C49", 900: "#142D3B", 950: "#0C1E29",
+};
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./app/**/*.{js,ts,jsx,tsx}",       // ✅ App Router
-    "./components/**/*.{js,ts,jsx,tsx}", 
-    "./pages/**/*.{js,ts,jsx,tsx}",     // optional (for migration)
-  ],
+  content: ["./app/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}", "./pages/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      fontFamily: {
-        serif: ["Merriweather", "serif"],
-      },
+      fontFamily: { serif: ["Merriweather", "serif"] },
       colors: {
-        primary: {
-          50: "#eef6fc",
-          100: "#d9eaf6",
-          200: "#b6d5ea",
-          300: "#86b7d8",
-          400: "#4f8fbd",
-          500: "#0F4C81",
-          DEFAULT: "#0F4C81",
-          600: "#0c416f",
-          700: "#09355b",
-          800: "#062a48",
-          900: "#041f36",
-        },
-        secondary: {
-          50: "#fff7ed",
-          100: "#ffedd5",
-          200: "#fed7aa",
-          300: "#fdba74",
-          400: "#fb923c",
-          500: "#F97316",
-          DEFAULT: "#F97316",
-          600: "#ea580c",
-          700: "#c2410c",
-          800: "#9a3412",
-          900: "#7c2d12",
-        },
-        accent: {
-          50: "#f0fdf4",
-          100: "#dcfce7",
-          200: "#bbf7d0",
-          300: "#86efac",
-          400: "#4ade80",
-          500: "#22C55E",
-          DEFAULT: "#22C55E",
-          600: "#16a34a",
-          700: "#15803d",
-          800: "#166534",
-          900: "#14532d",
-        },
-        sky: {
-          50: "#eef6fc",
-          100: "#d9eaf6",
-          200: "#b6d5ea",
-          300: "#86b7d8",
-          400: "#4f8fbd",
-          500: "#0F4C81",
-          600: "#0c416f",
-          700: "#09355b",
-          800: "#062a48",
-          900: "#041f36",
-        },
-        blue: {
-          50: "#eef6fc",
-          100: "#d9eaf6",
-          200: "#b6d5ea",
-          300: "#86b7d8",
-          400: "#4f8fbd",
-          500: "#0F4C81",
-          600: "#0c416f",
-          700: "#09355b",
-          800: "#062a48",
-          900: "#041f36",
-        },
-        indigo: {
-          50: "#eef6fc",
-          100: "#d9eaf6",
-          200: "#b6d5ea",
-          300: "#86b7d8",
-          400: "#4f8fbd",
-          500: "#0F4C81",
-          600: "#0c416f",
-          700: "#09355b",
-          800: "#062a48",
-          900: "#041f36",
-        },
-        lime: {
-          50: "#f0fdf4",
-          100: "#dcfce7",
-          200: "#bbf7d0",
-          300: "#86efac",
-          400: "#4ade80",
-          500: "#22C55E",
-          600: "#16a34a",
-          700: "#15803d",
-          800: "#166534",
-          900: "#14532d",
-        },
-        yellow: {
-          50: "#fff7ed",
-          100: "#ffedd5",
-          200: "#fed7aa",
-          300: "#fdba74",
-          400: "#fb923c",
-          500: "#F97316",
-          600: "#ea580c",
-          700: "#c2410c",
-          800: "#9a3412",
-          900: "#7c2d12",
-        },
-        accent2: "#22C55E",
-        neutral: {
-          50: "#F8FAFC",
-          100: "#eef2f7",
-        },
-        card: "#ffffff",
+        primary, secondary, accent, neutral,
+        // Legacy utilities share the palette; semantic error red stays red.
+        sky: primary, blue: primary, indigo: primary,
+        lime: accent, green: accent, emerald: accent, teal: accent,
+        yellow: secondary, orange: secondary, amber: secondary,
+        slate: neutral, gray: neutral, zinc: neutral, stone: neutral,
+        accent2: accent.DEFAULT, card: "#ffffff",
       },
-      boxShadow: {
-        soft: "0 8px 30px rgba(2,6,23,0.06)",
-      },
+      boxShadow: { soft: "0 8px 30px rgba(20,45,59,0.06)" },
     },
   },
   plugins: [],

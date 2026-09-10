@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">DK Safety Solutions monogram</title>
+  <desc id="desc">An architectural D frame interlocks with the shared brass spine of a geometric K.</desc>
+  <g transform="translate(18.52 10.24) scale(.92)">
+    <path d="M24 32H92L132 72V184L92 224H24V32ZM48 56V200H82L108 174V82L82 56H48Z" fill="#142D3B" fill-rule="evenodd"/>
+    <path d="M108 32H132V101L184 32H214L142 128L214 224H184L132 155V224H108V32Z" fill="#B28C49"/>
+  </g>
+</svg>

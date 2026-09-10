@@ -22,8 +22,8 @@ const contactCards = [
     description: "Speak directly with the DK Safety Solutions team.",
     href: siteConfig.contact.phoneHref,
     icon: Phone,
-    tone: "text-red-600",
-    hover: "hover:border-red-300",
+    tone: "text-secondary",
+    hover: "hover:border-secondary-300",
   },
   {
     label: "WhatsApp",
@@ -66,7 +66,7 @@ const serviceLinks = [
 
 export default function ContactPageClient() {
   return (
-    <div className="bg-[#F8FAFC]">
+    <div className="bg-neutral-50">
       <section className="mx-auto max-w-7xl px-4 pb-12 pt-28 sm:px-6 lg:pt-32">
         <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr]">
           <div className="space-y-7">

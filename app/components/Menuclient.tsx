@@ -33,7 +33,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
           <div className="border-b border-primary-100 px-6 pb-4 pt-5">
             <div className="flex items-center justify-between gap-4">
               <div className="flex min-w-0 items-center gap-3">
-                <span className="flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-white shadow-sm ring-1 ring-primary-100">
+                <span className="flex h-14 w-14 shrink-0 items-center justify-center">
                   <Image
                     src={siteConfig.logos.mobile}
                     alt={`${siteConfig.name} mobile logo`}
@@ -41,11 +41,11 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                     height={54}
                     priority
                     unoptimized
-                    className="h-12 w-12 rounded-full object-contain"
+                    className="h-12 w-12 object-contain"
                   />
                 </span>
                 <div className="min-w-0">
-                  <h2 className="truncate bg-gradient-to-r from-primary to-secondary bg-clip-text text-lg font-black text-transparent">
+                  <h2 className="truncate bg-gradient-to-r from-primary-900 to-primary-700 bg-clip-text text-lg font-black text-transparent">
                     {siteConfig.name}
                   </h2>
                   <p className="mt-1 line-clamp-2 text-xs text-primary-700/70">{siteConfig.tagline}</p>
@@ -76,7 +76,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
                 href={`${cityHref}/gated-communities`}
                 prefetch={false}
                 onClick={onClose}
-                className="block rounded-xl border border-sky-200 bg-white px-4 py-3 text-sm font-bold text-sky-700 shadow-sm transition hover:border-sky-300 hover:bg-sky-50"
+                className="block rounded-xl border border-primary-200 bg-white px-4 py-3 text-sm font-bold text-primary-700 shadow-sm transition hover:border-primary-300 hover:bg-primary-50"
               >
                 Gated Communities
               </Link>
@@ -168,7 +168,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
               <div className="mt-4 space-y-3 text-sm">
                 <a
                   href={siteConfig.contact.phoneHref}
-                  className="flex items-center gap-3 rounded-xl border border-slate-200 px-3 py-3 font-semibold text-slate-700 transition hover:border-red-300 hover:text-red-600"
+                  className="flex items-center gap-3 rounded-xl border border-slate-200 px-3 py-3 font-semibold text-slate-700 transition hover:border-secondary-300 hover:text-secondary"
                 >
                   <Phone size={16} />
                   {siteConfig.contact.phoneLabel}
@@ -186,7 +186,7 @@ const MenuClient: React.FC<MenuProps> = ({ open, onClose }) => {
 
                 <a
                   href={siteConfig.contact.emailHref}
-                  className="flex items-center gap-3 rounded-xl border border-slate-200 px-3 py-3 font-semibold text-slate-700 transition hover:border-sky-300 hover:text-sky-500"
+                  className="flex items-center gap-3 rounded-xl border border-slate-200 px-3 py-3 font-semibold text-slate-700 transition hover:border-primary-300 hover:text-primary-500"
                 >
                   <Mail size={16} />
                   {siteConfig.contact.email}

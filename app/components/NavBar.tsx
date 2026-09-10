@@ -13,15 +13,6 @@ const MenuClient = dynamic(() => import("./Menuclient"), {
   ssr: false,
 });
 
-const marqueeItems = [
-  { label: siteConfig.contact.phoneLabel, href: siteConfig.contact.phoneHref },
-  { label: "Invisible Grills Installation", href: `/${chennaiConfig.citySlug}/invisible-grills` },
-  { label: "Balcony Safety Nets", href: `/${chennaiConfig.citySlug}/balcony-safety-nets` },
-  { label: "Pigeon Nets", href: `/${chennaiConfig.citySlug}/pigeon-safety-nets` },
-  { label: "Sports Nets", href: `/${chennaiConfig.citySlug}/football-sports-nets` },
-  { label: "Cloth Hangers", href: `/${chennaiConfig.citySlug}/cloth-hanger-installation` },
-];
-
 const Header: React.FC = () => {
   const [open, setOpen] = useState(false);
   const cityHref = `/${chennaiConfig.citySlug}`;
@@ -30,11 +21,20 @@ const Header: React.FC = () => {
   return (
     <>
       <div className="fixed left-0 top-0 z-50 w-screen max-w-[100vw] border-b border-primary-100 bg-white/95 shadow-lg shadow-primary-900/5 backdrop-blur-md">
+        <div className="flex h-8 items-center justify-center bg-primary-900 px-4 text-white">
+          <a
+            href={siteConfig.contact.phoneHref}
+            aria-label={`Call ${siteConfig.name} at ${siteConfig.contact.phoneLabel}`}
+            className="inline-flex h-full items-center text-xs font-semibold tracking-wide transition-colors hover:text-secondary-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-secondary-200 sm:text-sm"
+          >
+            {siteConfig.contact.phoneLabel}
+          </a>
+        </div>
         <header className="mx-auto flex h-[68px] max-w-7xl items-center justify-between gap-3 px-4 sm:h-[76px] sm:px-6 lg:h-20">
           <Link
             href="/"
             prefetch={false}
-            className="flex max-w-[calc(100vw-8.75rem)] shrink-0 items-center gap-2 rounded-xl bg-white p-1 pr-2 ring-1 ring-primary-100 sm:max-w-none sm:px-2 sm:py-1"
+            className="flex max-w-[calc(100vw-8.75rem)] shrink-0 items-center gap-2 p-1 pr-2 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-secondary sm:max-w-none sm:px-2 sm:py-1"
           >
             <Image
               src={siteConfig.logos.mobile}
@@ -43,7 +43,7 @@ const Header: React.FC = () => {
               height={192}
               priority
               unoptimized
-              className="h-11 w-11 shrink-0 rounded-full object-contain sm:hidden"
+              className="h-11 w-11 shrink-0 object-contain sm:hidden"
             />
             <span className="block min-w-0 leading-tight sm:hidden">
               <span className="block truncate text-sm font-black text-primary-900">
@@ -93,7 +93,7 @@ const Header: React.FC = () => {
 
               <div className="invisible absolute left-1/2 top-full z-[80] mt-3 w-[760px] -translate-x-1/2 opacity-0 shadow-2xl transition-all duration-200 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
                 <div className="overflow-hidden rounded-xl border border-primary-100 bg-white">
-                  <div className="flex items-center justify-between gap-4 border-b border-slate-100 bg-gradient-to-r from-primary-50 via-white to-accent-50 px-5 py-4">
+                  <div className="flex items-center justify-between gap-4 border-b border-slate-100 bg-gradient-to-r from-neutral-50 via-white to-secondary-50 px-5 py-4">
                     <div>
                       <p className="text-xs font-black uppercase tracking-[0.2em] text-secondary">
                         Chennai Directory
@@ -198,55 +198,6 @@ const Header: React.FC = () => {
           </div>
         </header>
 
-        <div className="overflow-hidden border-t border-primary-100 bg-primary-900 text-white">
-          <div className="navbar-marquee-mask h-8 overflow-hidden">
-            <div className="navbar-marquee-track flex h-full w-max items-center">
-              {[0, 1].map((group) => (
-                <div
-                  key={group}
-                  aria-hidden={group === 1}
-                  className="flex h-full shrink-0 items-center gap-3 px-3"
-                >
-                  {marqueeItems.map((item) => {
-                    const className =
-                      "inline-flex h-6 items-center gap-2 whitespace-nowrap rounded-full border border-white/10 bg-white/10 px-3 text-[11px] font-black uppercase tracking-[0.14em] text-white transition hover:border-secondary-300 hover:bg-secondary hover:text-white sm:text-xs";
-                    const content = (
-                      <>
-                        <span className="h-1.5 w-1.5 rounded-full bg-secondary" />
-                        {item.label}
-                      </>
-                    );
-
-                    if (item.href.startsWith("tel:")) {
-                      return (
-                        <a
-                          key={item.label}
-                          href={item.href}
-                          tabIndex={group === 1 ? -1 : undefined}
-                          className={className}
-                        >
-                          {content}
-                        </a>
-                      );
-                    }
-
-                    return (
-                      <Link
-                        key={item.label}
-                        href={item.href}
-                        prefetch={false}
-                        tabIndex={group === 1 ? -1 : undefined}
-                        className={className}
-                      >
-                        {content}
-                      </Link>
-                    );
-                  })}
-                </div>
-              ))}
-            </div>
-          </div>
-        </div>
       </div>
 
       <div className="block lg:hidden">

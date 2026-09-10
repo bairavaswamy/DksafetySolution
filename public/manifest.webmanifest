@@ -4,21 +4,21 @@
   "description": "DK Safety Solutions provides balcony protection, window safety, bird control, sports netting, and utility safety services across Chennai.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0F4C81",
+  "background_color": "#FAF8F4",
+  "theme_color": "#142D3B",
   "icons": [
     {
-      "src": "/brand/dk-safety-icon-192.png",
+      "src": "/brand/dk-premium-icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/brand/dk-safety-icon-512.png",
+      "src": "/brand/dk-premium-icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/brand/dk-safety-apple-touch-icon.png",
+      "src": "/brand/dk-premium-apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
     }

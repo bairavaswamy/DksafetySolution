@@ -14,7 +14,6 @@ import {
 } from "../../config/schema.config";
 import { absoluteUrl, siteConfig } from "../../config/site.config";
 import {
-  gatedCommunities,
   gatedCommunityServices,
   getGatedCommunity,
 } from "../../content/gatedCommunityServicePages";
@@ -24,6 +23,8 @@ import {
 } from "../../content/serviceAreaCatalog";
 import { getServiceDetail } from "../../content/serviceDetails";
 import { getServiceHeroImage } from "../../content/serviceVisuals";
+import { getHubStaticParams } from "../../content/staticRoutes";
+import { getCityServiceContent } from "../../content/city-services";
 
 type AreaPageProps = {
   params: {
@@ -35,20 +36,7 @@ type AreaPageProps = {
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return [
-    ...chennaiConfig.areas.map((area) => ({
-      city: chennaiConfig.citySlug,
-      area: area.slug,
-    })),
-    ...chennaiConfig.services.map((service) => ({
-      city: chennaiConfig.citySlug,
-      area: service.slug,
-    })),
-    ...gatedCommunities.map((community) => ({
-      city: chennaiConfig.citySlug,
-      area: community.slug,
-    })),
-  ];
+  return getHubStaticParams();
 }
 
 export function generateMetadata({ params }: AreaPageProps): Metadata {
@@ -64,9 +52,9 @@ export function generateMetadata({ params }: AreaPageProps): Metadata {
   }
 
   if (service) {
-    const detail = getServiceDetail(service.slug);
-    const title = `${service.name} in Chennai | DK Safety Solutions`;
-    const description = `${detail.shortBenefit} Chennai service checks for homes, apartments, communities, terraces, utility spaces, and open building edges.`;
+    const content = getCityServiceContent(service.slug);
+    const title = content.metaTitle;
+    const description = content.metaDescription;
 
     return {
       title,
@@ -84,11 +72,15 @@ export function generateMetadata({ params }: AreaPageProps): Metadata {
         images: [
           {
             url: absoluteUrl(getServiceHeroImage(service.slug)),
-            width: 1200,
-            height: 630,
             alt: title,
           },
         ],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title,
+        description,
+        images: [absoluteUrl(getServiceHeroImage(service.slug))],
       },
     };
   }
@@ -225,7 +217,7 @@ export default function AreaPage({ params }: AreaPageProps) {
         />
         <section className="relative overflow-hidden bg-slate-950 px-4 py-16 text-white lg:px-6">
           <div className="mx-auto max-w-7xl">
-            <p className="text-sm font-black uppercase tracking-[0.22em] text-sky-300">
+            <p className="text-sm font-black uppercase tracking-[0.22em] text-primary-300">
               {community.locality} | {community.corridor}
             </p>
             <h1 className="mt-4 max-w-4xl text-4xl font-black leading-tight sm:text-5xl">
@@ -246,7 +238,7 @@ export default function AreaPage({ params }: AreaPageProps) {
               </Link>
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center gap-2 rounded-full bg-sky-500 px-5 py-3 text-sm font-bold text-white transition hover:bg-sky-600"
+                className="inline-flex items-center gap-2 rounded-full bg-primary-500 px-5 py-3 text-sm font-bold text-white transition hover:bg-primary-600"
               >
                 <Phone size={16} />
                 Call for visit
@@ -257,8 +249,8 @@ export default function AreaPage({ params }: AreaPageProps) {
 
         <section className="mx-auto max-w-7xl px-4 py-14 lg:px-6">
           <div className="rounded-lg border border-slate-200 bg-slate-50 p-5">
-            <Building2 className="text-sky-600" size={24} />
-            <p className="mt-3 text-sm font-bold uppercase tracking-[0.18em] text-sky-700">
+            <Building2 className="text-primary-600" size={24} />
+            <p className="mt-3 text-sm font-bold uppercase tracking-[0.18em] text-primary-700">
               Community Details
             </p>
             <p className="mt-2 text-lg font-black text-slate-950">{community.addressNote}</p>
@@ -271,9 +263,9 @@ export default function AreaPage({ params }: AreaPageProps) {
                 key={communityService.slug}
                 href={`/${chennaiConfig.citySlug}/${community.slug}/${communityService.slug}`}
                 prefetch={false}
-                className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-sky-300 hover:shadow-md"
+                className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-primary-300 hover:shadow-md"
               >
-                <p className="text-xs font-black uppercase tracking-[0.18em] text-sky-600">
+                <p className="text-xs font-black uppercase tracking-[0.18em] text-primary-600">
                   {community.locality}
                 </p>
                 <h2 className="mt-2 text-2xl font-black text-slate-950">
@@ -282,7 +274,7 @@ export default function AreaPage({ params }: AreaPageProps) {
                 <p className="mt-3 text-sm leading-7 text-slate-600">
                   {communityService.quietWin}
                 </p>
-                <span className="mt-5 inline-flex items-center gap-2 text-sm font-bold text-sky-700">
+                <span className="mt-5 inline-flex items-center gap-2 text-sm font-bold text-primary-700">
                   Open service page
                   <ArrowRight size={16} className="transition group-hover:translate-x-1" />
                 </span>
@@ -340,7 +332,7 @@ export default function AreaPage({ params }: AreaPageProps) {
 
         <div className="relative mx-auto grid min-h-[560px] max-w-7xl items-center gap-8 px-4 py-16 lg:grid-cols-[1fr_0.75fr] lg:px-6">
           <div>
-            <p className="text-sm font-bold uppercase tracking-[0.22em] text-lime-300">
+            <p className="text-sm font-bold uppercase tracking-[0.22em] text-secondary-300">
               {area.name} Chennai
             </p>
             <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight text-white sm:text-5xl lg:text-6xl">
@@ -355,7 +347,7 @@ export default function AreaPage({ params }: AreaPageProps) {
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center gap-2 rounded-full bg-sky-500 px-5 py-3 font-bold text-white shadow-lg transition hover:bg-sky-600"
+                className="inline-flex items-center gap-2 rounded-full bg-primary-500 px-5 py-3 font-bold text-white shadow-lg transition hover:bg-primary-600"
               >
                 <Phone size={18} />
                 Call for {area.name}
@@ -371,8 +363,8 @@ export default function AreaPage({ params }: AreaPageProps) {
             </div>
           </div>
 
-          <div className="rounded-lg border border-white/15 bg-white/12 p-6 text-white shadow-2xl backdrop-blur-md">
-            <MapPin size={26} className="text-lime-200" />
+          <div className="rounded-lg border border-white/15 bg-white/[0.12] p-6 text-white shadow-2xl backdrop-blur-md">
+            <MapPin size={26} className="text-secondary-200" />
             <h2 className="mt-4 text-2xl font-black">{area.name} service hub</h2>
             <p className="mt-3 text-sm leading-7 text-slate-100">
               Each card below opens a direct service page for {area.name}, with
@@ -381,7 +373,7 @@ export default function AreaPage({ params }: AreaPageProps) {
             <Link
               href={`/${chennaiConfig.citySlug}/${area.slug}/${firstService.slug}`}
               prefetch={false}
-              className="mt-6 inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-bold text-slate-950 transition hover:bg-sky-50"
+              className="mt-6 inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-bold text-slate-950 transition hover:bg-primary-50"
             >
               Open first service
               <ArrowRight size={16} />
@@ -392,7 +384,7 @@ export default function AreaPage({ params }: AreaPageProps) {
 
       <section className="mx-auto max-w-7xl px-4 py-14 lg:px-6">
         <div>
-          <p className="text-sm font-bold uppercase tracking-[0.2em] text-sky-500">
+          <p className="text-sm font-bold uppercase tracking-[0.2em] text-primary-500">
             Services in {area.name}
           </p>
           <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -416,10 +408,10 @@ export default function AreaPage({ params }: AreaPageProps) {
                 </div>
                 <div className="p-5">
                   <div className="flex items-center justify-between gap-3">
-                    <p className="text-xs font-bold uppercase tracking-[0.18em] text-sky-500">
+                    <p className="text-xs font-bold uppercase tracking-[0.18em] text-primary-500">
                       {detail.category}
                     </p>
-                    <ShieldCheck className="shrink-0 text-indigo-700" size={18} />
+                    <ShieldCheck className="shrink-0 text-primary-700" size={18} />
                   </div>
                   <h3 className="mt-2 text-xl font-black text-slate-950">
                     {service.name}
@@ -444,7 +436,7 @@ export default function AreaPage({ params }: AreaPageProps) {
         <div className="mx-auto max-w-7xl">
           <div className="flex flex-col justify-between gap-4 md:flex-row md:items-end">
             <div>
-              <p className="text-sm font-bold uppercase tracking-[0.2em] text-indigo-700">
+              <p className="text-sm font-bold uppercase tracking-[0.2em] text-primary-700">
                 Nearby Areas
               </p>
               <h2 className="mt-3 text-3xl font-black text-slate-950">
@@ -454,7 +446,7 @@ export default function AreaPage({ params }: AreaPageProps) {
             <Link
               href={`/${chennaiConfig.citySlug}`}
               prefetch={false}
-              className="inline-flex items-center gap-2 rounded-full border border-indigo-200 px-5 py-3 text-sm font-bold text-indigo-700 transition hover:border-indigo-400 hover:bg-indigo-50"
+              className="inline-flex items-center gap-2 rounded-full border border-primary-200 px-5 py-3 text-sm font-bold text-primary-700 transition hover:border-primary-400 hover:bg-primary-50"
             >
               View all areas
               <ArrowRight size={17} />
@@ -467,7 +459,7 @@ export default function AreaPage({ params }: AreaPageProps) {
                 key={nearby.slug}
                 href={`/${chennaiConfig.citySlug}/${nearby.slug}`}
                 prefetch={false}
-                className="flex items-center justify-between rounded-lg border border-slate-200 bg-white px-4 py-4 text-sm font-bold text-slate-800 shadow-sm transition hover:border-sky-300 hover:text-sky-600"
+                className="flex items-center justify-between rounded-lg border border-slate-200 bg-white px-4 py-4 text-sm font-bold text-slate-800 shadow-sm transition hover:border-primary-300 hover:text-primary-600"
               >
                 {nearby.name}
                 <ArrowRight size={16} />

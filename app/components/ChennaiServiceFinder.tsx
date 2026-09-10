@@ -63,7 +63,7 @@ export default function ChennaiServiceFinder({
             id="chennai-area-select"
             value={areaSlug}
             onChange={(event) => setAreaSlug(event.target.value)}
-            className="h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-sky-400 focus:ring-2 focus:ring-sky-100"
+            className="h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-primary-400 focus:ring-2 focus:ring-primary-100"
           >
             {areas.map((area) => (
               <option key={area.slug} value={area.slug}>
@@ -82,7 +82,7 @@ export default function ChennaiServiceFinder({
             id="chennai-service-select"
             value={serviceSlug}
             onChange={(event) => setServiceSlug(event.target.value)}
-            className="h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-sky-400 focus:ring-2 focus:ring-sky-100"
+            className="h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-primary-400 focus:ring-2 focus:ring-primary-100"
           >
             {services.map((service) => (
               <option key={service.slug} value={service.slug}>
@@ -96,7 +96,7 @@ export default function ChennaiServiceFinder({
           <Link
             href={href}
             prefetch={false}
-            className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-sky-500 px-6 text-sm font-black text-white shadow transition hover:bg-sky-600 lg:w-auto"
+            className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-primary-500 px-6 text-sm font-black text-white shadow transition hover:bg-primary-600 lg:w-auto"
           >
             Open Page
             <ArrowRight size={17} />
@@ -109,14 +109,14 @@ export default function ChennaiServiceFinder({
           className="flex min-h-11 items-center gap-3 rounded-lg border border-slate-200 bg-white px-3"
           htmlFor="chennai-area-search"
         >
-          <Search size={17} className="shrink-0 text-slate-400" />
+          <Search size={17} className="shrink-0 text-slate-500" />
           <input
             id="chennai-area-search"
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
             placeholder="Search Chennai areas"
-            className="min-w-0 flex-1 bg-transparent py-3 text-sm font-semibold text-slate-900 outline-none placeholder:text-slate-400"
+            className="min-w-0 flex-1 bg-transparent py-3 text-sm font-semibold text-slate-900 outline-none placeholder:text-slate-500"
           />
         </label>
 
@@ -128,8 +128,8 @@ export default function ChennaiServiceFinder({
               onClick={() => setAreaSlug(area.slug)}
               className={`rounded-full border px-3 py-2 text-sm font-semibold transition ${
                 area.slug === areaSlug
-                  ? "border-sky-500 bg-sky-500 text-white"
-                  : "border-slate-200 bg-white text-slate-700 hover:border-sky-300 hover:text-sky-600"
+                  ? "border-primary-500 bg-primary-500 text-white"
+                  : "border-slate-200 bg-white text-slate-700 hover:border-primary-300 hover:text-primary-600"
               }`}
             >
               {area.name}

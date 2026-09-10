@@ -67,7 +67,7 @@ export default function ServicesPage() {
   ]);
 
   return (
-    <main className="bg-[#F8FAFC] text-slate-950">
+    <main className="bg-neutral-50 text-slate-950">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -78,13 +78,13 @@ export default function ServicesPage() {
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/images/home/pigeon-safety-net-balcony-chennai.png"
+            src={chennaiConfig.heroImage}
             alt="DK Safety Solutions services in Chennai"
             fill
             priority
             className="object-cover"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-primary-900/90 via-primary-900/72 to-primary-900/25" />
+          <div className="absolute inset-0 bg-gradient-to-r from-primary-900/90 via-primary-900/[0.72] to-primary-900/25" />
         </div>
 
         <div className="relative mx-auto grid min-h-[640px] max-w-7xl items-center gap-8 px-4 pb-14 pt-32 sm:px-6 lg:grid-cols-[0.9fr_1.1fr]">
@@ -103,7 +103,7 @@ export default function ServicesPage() {
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center gap-2 rounded-full bg-red-600 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-red-950/20 transition hover:bg-red-700"
+                className="inline-flex items-center gap-2 rounded-full bg-primary-900 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-primary-950/20 transition hover:bg-primary-950"
               >
                 <Phone size={18} />
                 Call Now
@@ -209,7 +209,7 @@ export default function ServicesPage() {
               return (
                 <article
                   key={service.slug}
-                  className="rounded-lg border border-primary-100 bg-[#F8FAFC] p-5 shadow-sm"
+                  className="rounded-lg border border-primary-100 bg-neutral-50 p-5 shadow-sm"
                 >
                   <div className="flex items-start justify-between gap-4">
                     <div>

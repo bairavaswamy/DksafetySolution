@@ -75,7 +75,7 @@ export default function ManualEntryServicePage({
             priority
             className="hidden object-cover md:block"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-primary-900 via-primary-900/86 to-primary-900/45" />
+          <div className="absolute inset-0 bg-gradient-to-r from-primary-900 via-primary-900/[0.86] to-primary-900/45" />
           <div className="absolute inset-x-0 bottom-0 h-28 bg-gradient-to-t from-neutral-50 to-transparent" />
         </div>
 
@@ -112,7 +112,7 @@ export default function ManualEntryServicePage({
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-red-600 px-5 py-3 text-sm font-black text-white shadow-lg shadow-red-950/20 transition hover:bg-red-700 sm:w-auto"
+                className="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-primary-900 px-5 py-3 text-sm font-black text-white shadow-lg shadow-primary-950/20 transition hover:bg-primary-950 sm:w-auto"
               >
                 <Phone size={18} />
                 Call for {area.name}
@@ -270,7 +270,7 @@ export default function ManualEntryServicePage({
             <div className="mt-5 grid gap-3">
               <a
                 href={siteConfig.contact.phoneHref}
-                className="inline-flex items-center justify-center gap-2 rounded-lg bg-red-600 px-5 py-3 font-black text-white shadow transition hover:bg-red-700"
+                className="inline-flex items-center justify-center gap-2 rounded-lg bg-primary-900 px-5 py-3 font-black text-white shadow transition hover:bg-primary-950"
               >
                 <Phone size={17} />
                 Call Now

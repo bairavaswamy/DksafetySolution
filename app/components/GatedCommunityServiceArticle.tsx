@@ -10,39 +10,39 @@ type GatedCommunityServiceArticleProps = {
 
 const variantStyles = [
   {
-    accent: "text-emerald-300",
-    button: "from-emerald-500 to-sky-500",
-    band: "bg-emerald-50",
-    text: "text-emerald-700",
-    border: "border-emerald-100",
+    accent: "text-secondary-300",
+    button: "from-secondary to-secondary-700",
+    band: "bg-secondary-50",
+    text: "text-secondary-700",
+    border: "border-secondary-100",
   },
   {
-    accent: "text-sky-300",
-    button: "from-sky-500 to-indigo-500",
-    band: "bg-sky-50",
-    text: "text-sky-700",
-    border: "border-sky-100",
+    accent: "text-secondary-300",
+    button: "from-primary-700 to-primary-900",
+    band: "bg-primary-50",
+    text: "text-primary-700",
+    border: "border-primary-100",
   },
   {
-    accent: "text-slate-200",
-    button: "from-slate-800 to-sky-600",
+    accent: "text-secondary-200",
+    button: "from-primary-700 to-primary-900",
     band: "bg-slate-50",
     text: "text-slate-700",
     border: "border-slate-200",
   },
   {
-    accent: "text-amber-300",
-    button: "from-amber-500 to-sky-600",
-    band: "bg-amber-50",
-    text: "text-amber-700",
-    border: "border-amber-100",
+    accent: "text-secondary-300",
+    button: "from-secondary to-secondary-700",
+    band: "bg-secondary-50",
+    text: "text-secondary-700",
+    border: "border-secondary-100",
   },
   {
-    accent: "text-rose-300",
-    button: "from-rose-500 to-sky-600",
-    band: "bg-rose-50",
-    text: "text-rose-700",
-    border: "border-rose-100",
+    accent: "text-secondary-300",
+    button: "from-secondary to-secondary-700",
+    band: "bg-secondary-50",
+    text: "text-secondary-700",
+    border: "border-secondary-100",
   },
 ];
 
@@ -62,7 +62,7 @@ export default function GatedCommunityServiceArticle({
             priority
             className="object-cover"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/78 to-slate-900/35" />
+          <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/[0.78] to-slate-900/35" />
         </div>
 
         <div className="relative mx-auto grid min-h-[650px] max-w-7xl items-center gap-10 px-4 py-14 lg:grid-cols-[1.05fr_0.75fr] lg:px-6">
@@ -99,7 +99,7 @@ export default function GatedCommunityServiceArticle({
 
           <div className="grid gap-4">
             {page.proof.map((item) => (
-              <div key={item.label} className="rounded-lg border border-white/15 bg-white/12 p-5 text-white backdrop-blur">
+              <div key={item.label} className="rounded-lg border border-white/15 bg-white/[0.12] p-5 text-white backdrop-blur">
                 <p className="text-xs font-black uppercase tracking-[0.2em] text-white/65">
                   {item.label}
                 </p>
@@ -184,7 +184,7 @@ export default function GatedCommunityServiceArticle({
             </div>
 
             <div className="mt-5 rounded-lg border border-slate-200 bg-white p-6 shadow-sm">
-              <ShieldCheck className="text-sky-600" size={24} />
+              <ShieldCheck className="text-primary-600" size={24} />
               <h2 className="mt-3 text-2xl font-black text-slate-950">
                 Ask for a measured quote
               </h2>
@@ -203,7 +203,7 @@ export default function GatedCommunityServiceArticle({
                 <Link
                   href="/request-quote"
                   prefetch={false}
-                  className="inline-flex items-center justify-center gap-2 rounded-full border border-sky-200 px-5 py-3 text-sm font-bold text-sky-700 transition hover:bg-sky-50"
+                  className="inline-flex items-center justify-center gap-2 rounded-full border border-primary-200 px-5 py-3 text-sm font-bold text-primary-700 transition hover:bg-primary-50"
                 >
                   Request Quote
                   <ArrowRight size={17} />

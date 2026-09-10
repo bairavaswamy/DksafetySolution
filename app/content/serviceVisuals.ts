@@ -11,6 +11,8 @@ export type ServiceVisualSet = {
   areaCard: string;
 };
 
+// These static WebP variants come from the reviewed source manifest in
+// scripts/service-image-sources.json. Regenerate with generate:service-images.
 const imageSet = (slug: ServiceSlug): ServiceVisualSet => ({
   hero: `/images/services/${slug}/${slug}-hero.webp`,
   mobileHero: `/images/services/${slug}/${slug}-mobile-hero.webp`,
@@ -25,7 +27,7 @@ export const serviceVisualsBySlug = Object.fromEntries(
 
 export const getServiceVisuals = (slug: ServiceSlug) => serviceVisualsBySlug[slug];
 
-export const getServiceCardImage = (slug: ServiceSlug) => getServiceVisuals(slug).context;
+export const getServiceCardImage = (slug: ServiceSlug) => getServiceVisuals(slug).areaCard;
 
 export const getServiceAreaCardImage = (slug: ServiceSlug) =>
   getServiceVisuals(slug).areaCard;

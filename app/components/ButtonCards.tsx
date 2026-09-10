@@ -20,10 +20,10 @@ function ButtonCardsInner({ images = siteConfig.focusAreas }: { images?: readonl
           <p className="text-xs font-black uppercase tracking-[0.22em] text-secondary">
             Current DK Safety Picks
           </p>
-          <h2 className="mt-3 text-2xl font-bold text-green-900 sm:text-3xl">
+          <h2 className="mt-3 text-2xl font-bold text-primary-900 sm:text-3xl">
             Our Services &amp; Best Picks
           </h2>
-          <div className="mx-auto mt-4 h-1 w-28 rounded-full bg-gradient-to-r from-secondary via-secondary-400 to-accent" />
+          <div className="mx-auto mt-4 h-1 w-28 rounded-full bg-gradient-to-r from-secondary via-secondary-300 to-secondary" />
           <p className="mx-auto mt-4 max-w-2xl text-sm leading-7 text-slate-600 sm:text-base">
             The most requested Chennai safety installations, arranged in the
             light card style from the original site design.
@@ -45,7 +45,7 @@ function ButtonCardsInner({ images = siteConfig.focusAreas }: { images?: readonl
         <div className="mt-3 grid gap-3 border-y border-slate-100 bg-secondary-50 px-4 py-4 sm:grid-cols-3">
           {cardNotes.map((note) => (
             <div key={note} className="flex items-center justify-center gap-2 text-sm font-semibold text-slate-700">
-              <BadgeCheck className="h-4 w-4 text-accent" aria-hidden="true" />
+              <BadgeCheck className="h-4 w-4 text-secondary" aria-hidden="true" />
               {note}
             </div>
           ))}

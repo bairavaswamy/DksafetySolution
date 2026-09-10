@@ -10,7 +10,7 @@ export default function HomeStats() {
         <p className="text-xs font-black uppercase tracking-[0.22em] text-secondary">
           Working Standard
         </p>
-        <h2 className="mt-2 text-2xl font-semibold text-green-900">
+        <h2 className="mt-2 text-2xl font-semibold text-primary-900">
           Built around safety, access, and a clean finish.
         </h2>
       </div>
@@ -22,7 +22,7 @@ export default function HomeStats() {
             className="rounded-lg border border-slate-200 bg-white p-5 shadow-soft transition duration-300 hover:-translate-y-1 hover:border-secondary-300 hover:shadow-lg"
           >
             <p className="text-2xl font-bold text-primary">{stat.value}</p>
-            <h3 className="mt-2 text-sm font-semibold uppercase tracking-[0.14em] text-green-900">
+            <h3 className="mt-2 text-sm font-semibold uppercase tracking-[0.14em] text-primary-900">
               {stat.label}
             </h3>
             <p className="mt-3 text-sm leading-6 text-slate-600">{stat.detail}</p>

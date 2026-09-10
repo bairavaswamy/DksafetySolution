@@ -1,3 +1,5 @@
+import { getServiceCardImage } from "../content/serviceVisuals";
+
 export const siteConfig = {
   name: "DK Safety Solutions",
   shortName: "DK Safety",
@@ -7,17 +9,18 @@ export const siteConfig = {
   description:
     "DK Safety Solutions provides balcony protection, window safety, bird control, sports netting, and utility safety services across Chennai.",
   defaultImage: "/images/site/chennai-home-hero-safety-nets.webp",
-  logo: "/brand/dk-safety-logo-mobile.png",
+  logo: "/brand/dk-premium-icon-512.png",
   logos: {
-    desktop: "/brand/dk-safety-logo-desktop.png",
-    desktopPng: "/brand/dk-safety-logo-desktop.png",
-    mobile: "/brand/dk-safety-logo-mobile.png",
-    mobilePng: "/brand/dk-safety-logo-mobile.png",
-    favicon: "/brand/favicon-32.png",
-    faviconPng: "/brand/favicon-32.png",
-    appleTouchIcon: "/brand/dk-safety-apple-touch-icon.png",
-    icon192: "/brand/dk-safety-icon-192.png",
-    icon512: "/brand/dk-safety-icon-512.png",
+    desktop: "/brand/dk-premium-wordmark.svg",
+    desktopPng: "/brand/dk-premium-wordmark.png",
+    desktopLight: "/brand/dk-premium-wordmark-light.svg",
+    mobile: "/brand/dk-premium-symbol.svg",
+    mobilePng: "/brand/dk-premium-symbol.png",
+    favicon: "/brand/dk-premium-favicon.svg",
+    faviconPng: "/brand/dk-premium-favicon-32.png",
+    appleTouchIcon: "/brand/dk-premium-apple-touch-icon.png",
+    icon192: "/brand/dk-premium-icon-192.png",
+    icon512: "/brand/dk-premium-icon-512.png",
   },
   contact: {
     phoneLabel: "+91 9573838331",
@@ -93,35 +96,35 @@ export const siteConfig = {
       title: "Invisible Grill Installation",
       description:
         "Clear-view grill systems for balconies and windows without blocking airflow.",
-      image: "/images/home/invisible-grill-installation-chennai-balcony.png",
+      image: getServiceCardImage("invisible-grills"),
       href: "/chennai/invisible-grills",
     },
     {
       title: "Pigeon Safety Nets",
       description:
         "Clean pigeon net protection for balconies, ducts, ledges, and utility spaces.",
-      image: "/images/home/pigeon-safety-net-balcony-chennai.png",
+      image: getServiceCardImage("pigeon-safety-nets"),
       href: "/chennai/pigeon-safety-nets",
     },
     {
       title: "Balcony Safety Nets",
       description:
         "Strong balcony safety net fitting for families, children, pets, and open edges.",
-      image: "/images/home/balcony-safety-net-installation-chennai-apartment.png",
+      image: getServiceCardImage("balcony-safety-nets"),
       href: "/chennai/balcony-safety-nets",
     },
     {
       title: "Sports Nets",
       description:
         "Durable practice nets for cricket, football, play areas, and terrace courts.",
-      image: "/images/home/sports-net-installation-cricket-chennai.png",
+      image: getServiceCardImage("football-sports-nets"),
       href: "/chennai/football-sports-nets",
     },
     {
       title: "Cloth Hanger Installation",
       description:
         "Space-saving ceiling and wall-mounted hanger systems for modern homes.",
-      image: "/images/home/ceiling-cloth-hanger-installation-chennai.png",
+      image: getServiceCardImage("cloth-hanger-installation"),
       href: "/chennai/cloth-hanger-installation",
     },
   ],

@@ -1,4 +1,5 @@
 import { siteConfig } from "../config/site.config";
+import { getServiceVisuals } from "./serviceVisuals";
 
 export type GatedCommunityServiceSlug =
   | "balcony-safety-nets"
@@ -455,10 +456,9 @@ const communityBySlug = Object.fromEntries(
 ) as Record<string, GatedCommunity>;
 
 const imagePath = (
-  community: GatedCommunity,
   service: GatedCommunityService,
   role: "hero" | "detail" | "context"
-) => `/images/gated-communities/${community.slug}/${service.slug}-${role}.webp`;
+) => getServiceVisuals(service.slug)[role];
 
 const wordCount = (text: string) =>
   text.match(/[A-Za-z0-9]+(?:['-][A-Za-z0-9]+)?/g)?.length ?? 0;
@@ -911,9 +911,9 @@ const buildPage = (
       lead: pick(heroLeadTemplates, pageIndex)(service, community),
     },
     images: {
-      hero: imagePath(community, service, "hero"),
-      detail: imagePath(community, service, "detail"),
-      context: imagePath(community, service, "context"),
+      hero: imagePath(service, "hero"),
+      detail: imagePath(service, "detail"),
+      context: imagePath(service, "context"),
     },
     proof: [
       {
